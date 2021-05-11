@@ -1,0 +1,620 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.3054805,
+                    "lng": -6.3744061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.30693182989272,
+                        "lng": -6.373076870107278
+                    },
+                    "southwest": {
+                        "lat": 34.30423217010728,
+                        "lng": -6.375776529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location Voitures Zone Franche Kenitra",
+            "photos": [
+                {
+                    "height": 536,
+                    "photo_reference": "ATtYBwIFi2JS9-PWl9iobC7-XK5DeW6Uec6sLrcnZAP5x13qHx7TsEBpaI0H8nTW7J7OdBY6aUVEUqV6KVlvxeS8uoTFM8hI_TO3hFvmPRX0dRzJvvQBF00cX-EaiIUELCuOGVWZW_kFNz7xzOc1dFqQ3A_j8eIMt3wqLYdaLQTjUeaLt_Gn",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJIbL1My2roA0RsfbeAxWEK6g",
+            "rating": 4.9,
+            "reference": "ChIJIbL1My2roA0RsfbeAxWEK6g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "Zone libre - Atlantic free zone Lot n°l1.236، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.259065,
+                    "lng": -6.5865478
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.26030352989272,
+                        "lng": -6.585131070107278
+                    },
+                    "southwest": {
+                        "lat": 34.25760387010728,
+                        "lng": -6.587830729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Terrada Rental Car (Location De Voiture)",
+            "photos": [
+                {
+                    "height": 999,
+                    "photo_reference": "ATtYBwJZtbNKHhx92qsDyOlUulYebvoBLfs6RL9rUfUFPiYBA5GWvV2ztOMjVtyRGt09cUXcK5_VzEu7jUXF-shgnV30z8jcYA-fnXxuJKhZ81hUDjO7i86APrNFDn4pRdgoC4V7UdraMPEma353-JD-NOaGizmfdvfDD6p1kfBhvwOA9EXB",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJL8560uVZpw0Rqh8Jxxmps-E",
+            "rating": 5.0,
+            "reference": "ChIJL8560uVZpw0Rqh8Jxxmps-E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Résidence tour Hassan, Avenue Mohamed V, Kénitra, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.26375760000001,
+                    "lng": -6.590367
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.26509877989272,
+                        "lng": -6.589017770107279
+                    },
+                    "southwest": {
+                        "lat": 34.26239912010728,
+                        "lng": -6.591717429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Liligo car location voiture kenitra",
+            "photos": [
+                {
+                    "height": 708,
+                    "photo_reference": "ATtYBwLCZn65RsTSuRbHiawRrg0N0Oe99s5e8sq5xs5aKS_Ct3q0QvGPEWh71LbbScQoF6AfVIwyAjdPc2WgnWnh5izom5nHu8ginaTqezDOymgJBTYnUoKr6jPXp-fpIUSeMswoQsqckRgmCVbSQs_0CbINfizfuZ8LUTcQlAnjiWZWZ-Is",
+                    "width": 708
+                }
+            ],
+            "place_id": "ChIJQeRv8R1Zpw0Rdtdd5uWpqDU",
+            "rating": 4.7,
+            "reference": "ChIJQeRv8R1Zpw0Rdtdd5uWpqDU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Angle abou bakr Essidik et rue Ghandi N°30 - 32 immeuble B résidence Ibrahim - Bureau, Rue N°4, Kénitra 14020, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.260036,
+                    "lng": -6.591485
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.26138577989273,
+                        "lng": -6.590138870107278
+                    },
+                    "southwest": {
+                        "lat": 34.25868612010728,
+                        "lng": -6.592838529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AH CAR Location voiture Kénitra",
+            "photos": [
+                {
+                    "height": 321,
+                    "photo_reference": "ATtYBwKbzOznJ7_gqn8H8LnpI8XGAuJRR8eeQZe28REJ3sWsoqpFZZtXKN2f0cedahwun2gQxM7lDcyYOTkNt6xitmtHRAEOMryu4klWpW6814GI2ws6ebBqqkyvP7jEp4sdnNG7tMWhIA4qXMm45K6y8U-2_dcUpF94Ik_OPxevBe7-II5_",
+                    "width": 805
+                }
+            ],
+            "place_id": "ChIJ1doN1-hZpw0RTqlqmxSbhb4",
+            "rating": 4.0,
+            "reference": "ChIJ1doN1-hZpw0RTqlqmxSbhb4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Résidence soukaina 60 angle avenue saâd zaghloul et imam ali bureau N° 1 la، vill، Kenitra 14020, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2525927,
+                    "lng": -6.651363700000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.25398657989273,
+                        "lng": -6.650112670107278
+                    },
+                    "southwest": {
+                        "lat": 34.25128692010728,
+                        "lng": -6.652812329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Terrada Rental Car(location De Voiture)",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwIHRQEM1RCs8epJj_P99xm_2IhxwRk6S0cadDNFhlFuIGQ5GLXcsiMXs5xktIE8SWxUhPc_8FZJU7KZwKYzvD05kOLsJRWomJ6nB55PXQtI0Btr_08IQd2j2_OjAtYSAG3W2kzXJFoCwWYe0Ly103AZDyVmpQTYbS0oZvEROP3myxee",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJazmgEUVZpw0RumCvjjHIw4k",
+            "rating": 4.6,
+            "reference": "ChIJazmgEUVZpw0RumCvjjHIw4k",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "Kenitra, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2562853,
+                    "lng": -6.5825194
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.25760242989272,
+                        "lng": -6.581263370107279
+                    },
+                    "southwest": {
+                        "lat": 34.25490277010728,
+                        "lng": -6.583963029892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LAROU CAR",
+            "photos": null,
+            "place_id": "ChIJo8VTbONZpw0RnRD026KYeS4",
+            "rating": 2.0,
+            "reference": "ChIJo8VTbONZpw0RnRD026KYeS4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "residence inb tofail 161 B numero 29, Avenue Mohamed Diouri, Kénitra, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2576209,
+                    "lng": -6.5847783
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.25896532989272,
+                        "lng": -6.583431370107279
+                    },
+                    "southwest": {
+                        "lat": 34.25626567010728,
+                        "lng": -6.586131029892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "KENICAR",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwIx62LIJY7wrtqwJ4NmKFIUnlkpHgZ6k3M4i2BN1IfjmOJIjRoEphhOneeOYS-rYvZvF56DKrOVMkYEpEcqdVJeJzs4mqhhSrEfNvYvI7aCx0GxpmCYFXiVsAK7l_gsVz5-Jmgd7HqEepS-EtgZyJKI7EDD_4qHkl1fbB91yoD5fWw",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJwZJDZuRZpw0RqqVIzOX4vng",
+            "rating": 4.7,
+            "reference": "ChIJwZJDZuRZpw0RqqVIzOX4vng",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "Avenue Moulay Abderrahmane, Kénitra 14000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.036646,
+                    "lng": -6.7487634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03813892989272,
+                        "lng": -6.747462770107277
+                    },
+                    "southwest": {
+                        "lat": 34.03543927010728,
+                        "lng": -6.750162429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location de Voiture Rabat Aéroport",
+            "photos": [
+                {
+                    "height": 356,
+                    "photo_reference": "ATtYBwKMAPs_S3_BG_8vYn7CLn9r0GisPeE6tdM0kcbOjNkR66LQPlmCYlLUN0Gd4BNytDCSaZvNia2G5I0lMLcDei3Srn8C8dmmJK8ofA3xDUDZ5MrUfLfszfVVgTfRhLuWJC1H3TDSGB5y_qHQrHHEaTFbjFTHodUPgA8Zgl4cK_thYvx3",
+                    "width": 742
+                }
+            ],
+            "place_id": "ChIJq6Y1ygpqpw0RB_gzKjgjzp4",
+            "rating": 4.6,
+            "reference": "ChIJq6Y1ygpqpw0RB_gzKjgjzp4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71,
+            "vicinity": "Aéroport Rabat-Sale، Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0360044,
+                    "lng": -6.7478631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03732232989272,
+                        "lng": -6.746515170107278
+                    },
+                    "southwest": {
+                        "lat": 34.03462267010728,
+                        "lng": -6.749214829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Surprice car rentals Rabat",
+            "photos": [
+                {
+                    "height": 622,
+                    "photo_reference": "ATtYBwLcNl0da-PRr4gv_bf-u_UQIMzFNx_eaAhD129y2hUeTof6fB3iz5mlhA4HDhTcVuy4jRKM6ifn_kZlNwDaqkUqv-EBecwtVkn8eN7fKJm9O-e__z3FjRA8EvMN8FH8NgnhtB5TYACw5tvtt4q6gD875S34RabwX8lGHHdsfWqM0lUK",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJpb-b_8FBpw0RauySq-JLe7Q",
+            "rating": 2.3,
+            "reference": "ChIJpb-b_8FBpw0RauySq-JLe7Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "n 21, Rabat 10070, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2566774,
+                    "lng": -6.622417
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.25802062989272,
+                        "lng": -6.621052820107278
+                    },
+                    "southwest": {
+                        "lat": 34.25532097010728,
+                        "lng": -6.623752479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "STE R.O.N.T CAR (كراء السيارات)",
+            "photos": [
+                {
+                    "height": 1254,
+                    "photo_reference": "ATtYBwJyjkgESdqVhxUBWSYAKxUPdtjbWeASpuJZoTpzt-I49pBLcS3qki44NSjGcBBtbKYwwsSvzACJF8kyfvCU8U_X20aSAbbhwKU3PyirTSDUKGkv-qrVCv1fnD0J7o4prMVROP6s1GcGIYAtN2Qi5OIHrYm6Ye2rlW09UlGfGu6WdBw7",
+                    "width": 1018
+                }
+            ],
+            "place_id": "ChIJT9Zqa3ZZpw0RC1nrilUPdAk",
+            "rating": 4.7,
+            "reference": "ChIJT9Zqa3ZZpw0RC1nrilUPdAk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "bureau N°3, Lot 289 blok K ouled oujih, Kenitra 14000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.823439,
+                    "lng": -6.065089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.82475052989272,
+                        "lng": -6.063674970107278
+                    },
+                    "southwest": {
+                        "lat": 33.82205087010728,
+                        "lng": -6.066374629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "GLBOOKING - Location de voiture - Agence Khemisset",
+            "photos": [
+                {
+                    "height": 583,
+                    "photo_reference": "ATtYBwKkTCBez-6QeMpbSkxj9AoCbv3cIWBLNsYhy5XUMvl6J3CuViymuPFP4Af2dOwRkGiqf-a2GDJVwF51z5MlLmhgavraGDzf5qKvTO-AATyb1HLxb2XNVpZR7_JJXkESg7rlIUwzUo7ha4zn9IZ_ZQyr5vzYFFY-wE3tQBK5M7q4Ebvs",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ6fvdmmDdoA0RR6wA8jwYQRc",
+            "rating": 4.3,
+            "reference": "ChIJ6fvdmmDdoA0RR6wA8jwYQRc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "numero 24 rue cadi ayad، Khemisset 15000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.829511,
+                    "lng": -6.0803312
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.83089222989273,
+                        "lng": -6.078978170107278
+                    },
+                    "southwest": {
+                        "lat": 33.82819257010728,
+                        "lng": -6.081677829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "test",
+            "photos": null,
+            "place_id": "ChIJ_9tuEmTDoA0R4VZoL0nYGGo",
+            "rating": 0.0,
+            "reference": "ChIJ_9tuEmTDoA0R4VZoL0nYGGo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "N° 50 El Mouna, Khemisset 15000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0361667,
+                    "lng": -6.7479855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03739957989272,
+                        "lng": -6.746620120107277
+                    },
+                    "southwest": {
+                        "lat": 34.03469992010728,
+                        "lng": -6.749319779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AIRCAR",
+            "photos": [
+                {
+                    "height": 576,
+                    "photo_reference": "ATtYBwJv4TaEJj77uyulMjyI8W9PK1bWHCzLEsfdKdVf4Exhf_eqs_X-XNi1pN0LH17JQdi4iWzZHL3KSUD5Yp1j0txNHXuIfXLxwzk1wo9k1DgDnEc1c_t2RwpD8ktbuQD-LiIZzr4Wsn_TNOz0VgiNh3aMsFe7ICS9ofH5SZS-eyM---0",
+                    "width": 760
+                }
+            ],
+            "place_id": "ChIJ8XrU8JZBpw0RYBlf1-IgQAc",
+            "rating": 1.0,
+            "reference": "ChIJ8XrU8JZBpw0RYBlf1-IgQAc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Terminal 1, Rabat Salé, Rabat 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0367624,
+                    "lng": -6.7486292
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03821522989272,
+                        "lng": -6.747297470107277
+                    },
+                    "southwest": {
+                        "lat": 34.03551557010728,
+                        "lng": -6.749997129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "diRENT Aéroport Rabat-Salé",
+            "photos": [
+                {
+                    "height": 900,
+                    "photo_reference": "ATtYBwImtHYnAFET1piNbT2d4IWyC3taZSnElPkpteAObjLfBKUh_e-0UIwpU4wRBapf8SzGYQQV5FBVouJ-XUCeeU8oJKXN8OP8uYycx4E6rGcwVLOJfScJMm9PBXWtTgEMo70LW1yFacBFxJ726H3Jkz5qjURG26IbvphBIRKE8bDkqebn",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ3xbJJuBBpw0RWBZxMCacLTA",
+            "rating": 4.6,
+            "reference": "ChIJ3xbJJuBBpw0RWBZxMCacLTA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Aéroport international de Rabat-Salé، Salé, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.83685,
+                    "lng": -6.0835639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.83823677989272,
+                        "lng": -6.082226970107278
+                    },
+                    "southwest": {
+                        "lat": 33.83553712010728,
+                        "lng": -6.084926629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "STE fakhouyacars",
+            "photos": [
+                {
+                    "height": 1024,
+                    "photo_reference": "ATtYBwL4oFYgzNmDTARkSKKeu9_GnJH44D0l4nbymXo5z3ZPCTc4kG76OH4W6j3nKd2GmknMptf5bdVJhh1KUFlNkIpmj5bql1uhWl7lJMZUIOo0xOiX3xfRR8iWLSeolQ1ALFnw3RYLjaHfgSIKxD_fbZLZYf4vdQeVstQcMfzWNLDYLsfl",
+                    "width": 576
+                }
+            ],
+            "place_id": "ChIJ19RcbmfDoA0R93ZEdEK4WfE",
+            "rating": 0.0,
+            "reference": "ChIJ19RcbmfDoA0R93ZEdEK4WfE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Khemisset, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

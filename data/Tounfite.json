@@ -1,0 +1,292 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.6815735,
+                    "lng": -4.7365753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.68294037989272,
+                        "lng": -4.735202420107278
+                    },
+                    "southwest": {
+                        "lat": 32.68024072010728,
+                        "lng": -4.737902079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Zaha car",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwJoPcHg28OmxBypNr9lhOXosBf9BqKyMHCyF9TaRa2nPVgzwucxsoAcJGaBEGcoL1pLGww0x21hS_sP_0mMIEbundwUc8PQcOHK6STnMgOuzsGcFBxNnVi-qzT5gEa_khFN4jLfRQUDlj1T82OEMdWofwPS5jIJgN7NKnCNHdKYC3o1",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJf5hET3q_mA0RL_PBOZ9h9j0",
+            "rating": 4.8,
+            "reference": "ChIJf5hET3q_mA0RL_PBOZ9h9j0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue oudaya n°1، Midelt, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.9378045,
+                    "lng": -5.6588669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93914572989272,
+                        "lng": -5.657485470107277
+                    },
+                    "southwest": {
+                        "lat": 32.93644607010727,
+                        "lng": -5.660185129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION GROUPE S.A.R.L",
+            "photos": null,
+            "place_id": "ChIJ38AxCtIrog0RGEMwPbE5D00",
+            "rating": 3.7,
+            "reference": "ChIJ38AxCtIrog0RGEMwPbE5D00",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "14 Hay Youness, 9arawia, Khénifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.9434924,
+                    "lng": -5.6757814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94486352989272,
+                        "lng": -5.674429470107277
+                    },
+                    "southwest": {
+                        "lat": 32.94216387010728,
+                        "lng": -5.677129129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Luxe Gold Car",
+            "photos": [
+                {
+                    "height": 395,
+                    "photo_reference": "ATtYBwJwnLcgTd-JwrDIDuAy71Rh2sYrptmjwtZvPJwom5TZKewa8LuJOMrYODcj2uV_swWZ_P044uE3LSNWX5CzNUCCqg-3Yc_PoWl1d8IYXH66FIrk_3yLP-3KnCWUQbecvbk3EC0SerejrX9t7ce20AIzjfaqCyVjyDSTxF1IjbOcP3VF",
+                    "width": 629
+                }
+            ],
+            "place_id": "ChIJETR9MNMrog0RR4YS-ygseNg",
+            "rating": 4.7,
+            "reference": "ChIJETR9MNMrog0RR4YS-ygseNg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66,
+            "vicinity": "Hay essalam bloc H N°447، Khenifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.93781800000001,
+                    "lng": -5.659932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93918092989271,
+                        "lng": -5.658612170107277
+                    },
+                    "southwest": {
+                        "lat": 32.93648127010727,
+                        "lng": -5.661311829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ACIR CAR",
+            "photos": [
+                {
+                    "height": 2560,
+                    "photo_reference": "ATtYBwJV2mwRXp_vZHWj4jCu9QHVzD__zIQNswfo7UD-YsmslmM2bOL756-jwR0AB0WJGYwQmahgW2jHhgbUYW7BJ7Qfn4ovDGrumokyt68hxt6klIwoWTpBkuF1Yn-UO2oCiKuUKp2v1FMUrXWUy1E5UuasSjHwgMImH_eaaroR5r5PLStq",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJsczyORAqog0RHwZFDLMk5xc",
+            "rating": 2.5,
+            "reference": "ChIJsczyORAqog0RHwZFDLMk5xc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Rue 7 Hay Youness, 9arawia, Khénifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.9351131,
+                    "lng": -5.6676668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93646732989272,
+                        "lng": -5.666335970107278
+                    },
+                    "southwest": {
+                        "lat": 32.93376767010728,
+                        "lng": -5.669035629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Assistance car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwLGYL1an2E6eAgtdhdGfhWLxLJWYGx0c-rCG0WNn0_qjckbZvV-h16E_X9ZpNUZwBSKibqo0nxyb_nyyiOFGlAcB9muPiCZ6DexMm0XmHYuSIkqFHayYxTqTKu4tCdaFLN8bgXMi9EJGPZYG7ZzCwcmTllAdALMqIHt92oShLIbwnBv",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJW5D8uGwqog0RB9CcdSkHohU",
+            "rating": 4.0,
+            "reference": "ChIJW5D8uGwqog0RB9CcdSkHohU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "appt 1, Bv azerktouni imm 2 premier étage, Khénifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwKzWLl01vDTgsYfgB-5Q8CuBUOz60bomnkb0WPI3aRQgACI4AvHpZYb25cayPCVvyMIF15mSoYXSkvNowQHPqOIY_YCESEeqjw3eA83jgTuY0jx3evwzBploQ0PdUOJADt3C2Slhu-b1phBhI5l7EAChAXebHhp7uwEYvPn6B8VJ_bv",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.38883,
+                    "lng": -9.51332
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.39018127989271,
+                        "lng": -9.51197187010728
+                    },
+                    "southwest": {
+                        "lat": 30.38748162010727,
+                        "lng": -9.514671529892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKY-4o3EPIysg8-25PH4jSl-x4SRkzIopmF5FoXBRC0MA_yjYLLcJgyOfV3K9toOylk7t_Jn0515LJ4r5by7QNTSEIzJhz-uzsxmIUwiaHT4BOTXqrv6QtfVn9lBS7iMz21IwTkDmXag9avibB6tr-tIJ5aZ5D1Ye1IG8ibMD6m6y2_",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ8YANNnXJsw0Ro_W3zfsxSZk",
+            "rating": 0.0,
+            "reference": "ChIJ8YANNnXJsw0Ro_W3zfsxSZk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "MOHAMED V AIRPORT, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

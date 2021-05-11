@@ -1,0 +1,259 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.540267,
+                    "lng": -7.603504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54162762989272,
+                        "lng": -7.60211132010728
+                    },
+                    "southwest": {
+                        "lat": 33.53892797010728,
+                        "lng": -7.604810979892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "IMJAD CAR",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwIBlrq9L8eZIg31GC9fvWuQjhihHhoAz3-8ALGaGCkQFqEzKBASjC7Ccx7q2COWEmXRgR74t80xqTWGK3eV13myox-59_zyJo3bZ7krpmIr0cpwfq65zczZ0eVR_AKaTVIXH4TgZZfF0k2pBckvFn5LyswodmwneQtQamHDklps3Yoh",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "rating": 4.9,
+            "reference": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "2 Immeuble 65 GH 9b Lot Addamane Casablanca Maroc، Casablanca 20153, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3670393,
+                    "lng": -7.5732537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36839362989272,
+                        "lng": -7.571884220107278
+                    },
+                    "southwest": {
+                        "lat": 33.36569397010728,
+                        "lng": -7.574583879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transport personnel Casablanca Maroc - Transport Touristique Casablanca - Location minibus Casablanca avec chauffeur",
+            "photos": [
+                {
+                    "height": 538,
+                    "photo_reference": "ATtYBwJeY6BerEZ-pzLyITJYybyfmIgutNwOwzeQA6wDIaseHnq3K_sSmcVUhEyYZppBUunJDo8BQVxFLKPEIwXfCuXiMo-VEIql2tnNkmrzwY1zlMoggS82fRQaRevdf4TNRX4Fni4pjln-EvM_DZ0AcyEqHUnlewsj4HuUE02LsrVo0m2a",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "rating": 5.0,
+            "reference": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Zone economique EA 231 1ere Etage Nouaceur Casablanca، Dar-el-Beida 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwKdOJr1XXIK5sRkNpNMp8R-RKjsEikK2sxeOwZS5kcQEy1CgnTY5wIznphO8Z9FlmiVf3xnoNSEsIXir1lUd_PpY-55M603oAO9SF8pj53FhPXk82wGc_vp3jBKSBtvXT3EU-fBO3MKT6QoLsTjv_7acyc7A_UMoFUfR75i7m6mWAeu",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.3519941,
+                    "lng": -6.1640112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.35341572989272,
+                        "lng": -6.162514920107277
+                    },
+                    "southwest": {
+                        "lat": 36.35071607010728,
+                        "lng": -6.165214579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwJ_B51N9a9a59RaR3R4fPj2S9naNI1JWTF_2YyBcMEu5Mm1IXkoyuziCdcxjbKiq18CapQ0YRAi1dfbhjpel-2njLOMCDH4BV0SSBZXIUdf0UYfeJ2OOJH0ILiHk_gjNSOFQGGP7tMah90VgWbSdsFzvgThpp-tti7mk7D2gCvc1R2V",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "rating": 4.2,
+            "reference": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Calle Asdrúbal, s/n, 11139 Chiclana de la Frontera, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJvBQPTFXMp9LFCkptuqPdzd-gs_k6y3-_FBdGKHDiPntGSY8aLRkx_I-MWl7uFAsNEOytn2zuoEC7aHQjTNVVq_avjvd0vTr1d1h7HRRqB_kWR_oD6FoplaZFb9ze9E1UcH_ZYFLARsqSIb0tYOmP0sL-VTIm0Fp5PHQEzGHBYXFjZ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.351997,
+                    "lng": -6.16412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.35343767989272,
+                        "lng": -6.162584820107278
+                    },
+                    "southwest": {
+                        "lat": 36.35073802010728,
+                        "lng": -6.165284479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Chiclana",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKB6vohW9TDszymZmjakCkvlw1KVi64oZjl7zFtMl6OHLdYqioMG8g465jVNa4z_Bs4uOF4FXIvmb3kURu6gAAbnHWdUItuGE7Aofd5JG6WfO_wLAzpcxZpXd-zBdQxyrUqhAYXDMYHKr1UgMp95prdwnW-Oxq3gNBhKIj2MHSgpkfP",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ2SBtjnoxDA0RnvRBq97E_lg",
+            "rating": 0.0,
+            "reference": "ChIJ2SBtjnoxDA0RnvRBq97E_lg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Centro Comercial Novo Center, Planta Superior Local A18, 11139 Chiclana, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        }
+    ]
+}

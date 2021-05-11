@@ -1,0 +1,503 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2870241,
+                    "lng": -9.2289408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28835462989272,
+                        "lng": -9.227542070107278
+                    },
+                    "southwest": {
+                        "lat": 32.28565497010728,
+                        "lng": -9.230241729892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION VOITURE - FRS RENT CAR",
+            "photos": [
+                {
+                    "height": 1920,
+                    "photo_reference": "ATtYBwIuomAJ6vGymlJpksT-0DbYgi6tZ918kjii_gW_GjYmHREVeM4XJTscoei4p3uvA_zwttlS43h1jfDA9vm3lmxn9ML59-VnkS1zYz8jOdrOQJn-kcZJSdhymXatxcMqvrhgpSLp6AZ0yYau8Ph1mQGCatU5LdPkGWzRzpxPvRG6FuCm",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJc3sifysnrA0R3R742iWJ28Y",
+            "rating": 4.3,
+            "reference": "ChIJc3sifysnrA0R3R742iWJ28Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2831086,
+                    "lng": -9.2273676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28452137989272,
+                        "lng": -9.226091670107278
+                    },
+                    "southwest": {
+                        "lat": 32.28182172010728,
+                        "lng": -9.228791329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auto Najem",
+            "photos": null,
+            "place_id": "ChIJzVj2c-0nrA0R62debis7IE4",
+            "rating": 0.0,
+            "reference": "ChIJzVj2c-0nrA0R62debis7IE4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.29256790000001,
+                    "lng": -9.2223817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29391132989272,
+                        "lng": -9.221078770107278
+                    },
+                    "southwest": {
+                        "lat": 32.29121167010727,
+                        "lng": -9.223778429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SEA CAR SERVICES",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwL86_2FtaS9cWkcCpsMTcRpVSnHTiH-8mqV51FZz0om3SoDAWHNv5qFqyTvcAHwOKoA7ux4lHZg4CjeBVersMFaPPBcdZ_MrvkbtP3v7DM_ZlGN5Dnusp0SMtgKX_UcgApuIUt16qFBYaiSgCe2t9FDI2JM_cGOWPFxKCAY6jv2pPpN",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJZZ27cM0grA0RaGrIHSNqbR8",
+            "rating": 4.0,
+            "reference": "ChIJZZ27cM0grA0RaGrIHSNqbR8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "AZIB DRAI Avenue Abdeslam Majid Blad El Jed N°2, Safi 46000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2886848,
+                    "lng": -9.2183225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29010677989272,
+                        "lng": -9.217131820107276
+                    },
+                    "southwest": {
+                        "lat": 32.28740712010728,
+                        "lng": -9.21983147989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LPC Cars",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJDQYVEk7Exfw_Og0VA0-rYEvnZaKawWLpeXypTGHp4Ukf5g7T8bSrI8qpWH4dx1kQ5SAXN7vzEaj7LyPe0Ta7f6dxIz42Lz-ZD0Pqw8rOnCm1hECONzPyibNN4vaTmo25lsue4nqmwjYgmKW9wlh0dU002iUxkWLEBXJGFkgRza6XD",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "rating": 4.5,
+            "reference": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Avenue Moulay Souleymane, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2865774,
+                    "lng": -9.2200221
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28796782989272,
+                        "lng": -9.218653070107278
+                    },
+                    "southwest": {
+                        "lat": 32.28526817010728,
+                        "lng": -9.221352729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "shibi cars sarl",
+            "photos": [
+                {
+                    "height": 2160,
+                    "photo_reference": "ATtYBwJ9ZDQM1h7wrKsLgts_1IvWZUS3-fV4OAM6LLNzxlVHKQ2FvnluhceEKeHxty5xEeabOOTJ468Zj2R1ACPbvrVywRRBbbulJGpiwKOJx8SQ6Y6waQUF_piv267miyUC-9HHaU4sEzR6wZiN1R74pENiJPYOBSUdOSxLkbHBV0SXiIoO",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJwcJzszMnrA0RUEeWUzuNx2A",
+            "rating": 4.3,
+            "reference": "ChIJwcJzszMnrA0RUEeWUzuNx2A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Qu jrifat lotissement Rayhane 7bis, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.28525,
+                    "lng": -9.2349375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28659252989272,
+                        "lng": -9.233607020107279
+                    },
+                    "southwest": {
+                        "lat": 32.28389287010727,
+                        "lng": -9.236306679892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Salman Safi Tours",
+            "photos": [
+                {
+                    "height": 719,
+                    "photo_reference": "ATtYBwKo_Qg49kHfEoAZune1TtSpnWCVMV22SObEn04K0Ln8TRyeNzqnvZTIx4tHBVPRA3K_5WUGxDZ9t_H-YqRgXIkNbyiMzJSfMebi_pkerK_Ku2WKdV3y2Yz09CjhlNyyd4gCEtEBLoly47nakA8DbbiYAR-WXop7RA18uhoIy3FgTvcL",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTXOt9UknrA0R8Mub5xFNzHY",
+            "rating": 5.0,
+            "reference": "ChIJTXOt9UknrA0R8Mub5xFNzHY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue de Bordeaux, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.234454,
+                    "lng": -7.954903499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23578852989272,
+                        "lng": -7.953549220107278
+                    },
+                    "southwest": {
+                        "lat": 32.23308887010728,
+                        "lng": -7.956248879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "zds car",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwKS3eK5m82qT8GaBB1IVdJa5GruqtF-U90yLP42P6IPK-ouzbDgADUG1Y0nKN3IscUfiORmmW1Tk8huXT8TH6qvw1dqb1p8ccGSQST0OI-Bq7YW9-I2F2F_jztUAiXf6Ho6Yf-GvNOSDnNGtwRD_Q9aDmwr74_FDi5ysuIfjQ6Jxeqv",
+                    "width": 2100
+                }
+            ],
+            "place_id": "ChIJcXMIanl6rw0REg_nOOhRpK8",
+            "rating": 3.7,
+            "reference": "ChIJcXMIanl6rw0REg_nOOhRpK8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Ben Guerir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.232742,
+                    "lng": -7.947249999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23403362989272,
+                        "lng": -7.945880870107277
+                    },
+                    "southwest": {
+                        "lat": 32.23133397010728,
+                        "lng": -7.948580529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MOURANI AUTO",
+            "photos": [
+                {
+                    "height": 600,
+                    "photo_reference": "ATtYBwJfHW_rCEYp0IrahaHuAXE0DLEI9RyXpv3CbPRzoE5cqDK0nRM0MY0kiVp33mqwQwcqq5IaJspD9cTUJxBregeQ4K_qNlQ7Dd_cT9mFZuVKFW1zKSnlWxG_1GZE7HXd03_xfcF2TVgiuvnJM9E_DMwaCN2SsNrE7-9yKuDzECvWB8ot",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJU4HCPGV6rw0RhkKlHP6NcQo",
+            "rating": 3.8,
+            "reference": "ChIJU4HCPGV6rw0RhkKlHP6NcQo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "lotissement jnane elkheir lot n°290 Ben guerir، Location de voiture à benguerir، Ben Guerir 43155, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2274168,
+                    "lng": -7.947971999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.22877157989272,
+                        "lng": -7.946661820107278
+                    },
+                    "southwest": {
+                        "lat": 32.22607192010728,
+                        "lng": -7.949361479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sweetcars",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwLGxe1v1EHxZFCTUEDcmXEPSyCgd5s0ouQN0kFHxXui8IZpqJwwS4Sn0DPGVgcEeMOvWbWP_k3dZ39yMvEdzODvHNCdg3E4cFomGVwTMHeI-g4wVhCwmQ7m3O-y6EAuEY5rW0NDcw2h_brL6LG0nBa0Ea3cEz8HbD1lQ4XdEWa6JC93",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJFyQQ0yB7rw0RU414060TqlM",
+            "rating": 5.0,
+            "reference": "ChIJFyQQ0yB7rw0RU414060TqlM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Unnamed Road, Ben Guerir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3670393,
+                    "lng": -7.5732537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36839362989272,
+                        "lng": -7.571884220107278
+                    },
+                    "southwest": {
+                        "lat": 33.36569397010728,
+                        "lng": -7.574583879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transport personnel Casablanca Maroc - Transport Touristique Casablanca - Location minibus Casablanca avec chauffeur",
+            "photos": [
+                {
+                    "height": 538,
+                    "photo_reference": "ATtYBwKmofLJMd_f0GQ85MlpKbVGuG0_NdXBblZFrX3l734OfboJrtnBR8Gl59jBQ-7uypkyGUDAf-Hr-4e21d8mhUOQLONDoAUGX6lo73GP9HuiTL585gR_g-7yK1T3KXuS8k74a-pKGRztQhtHRl5mSJKpJXUph_rx0Rjqmp1ow0v_Nuva",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "rating": 5.0,
+            "reference": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Zone economique EA 231 1ere Etage Nouaceur Casablanca، Dar-el-Beida 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5728366,
+                    "lng": -7.688233399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57419912989271,
+                        "lng": -7.686835870107275
+                    },
+                    "southwest": {
+                        "lat": 33.57149947010727,
+                        "lng": -7.689535529892718
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taxi Maroc - Taxi Casablanca - Transfert Navette aéroport Casablanca - Transport touristique Casablanca",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwIyIrkPQdVuvlh2chhWDMsmlp8VCPqzm2hkwIzCnGcDmEKgHkdVyVAKWigPuJwT5lIlJDbQ-q4vYbBkO6taexzKv-EorZfc1ELsaeMz_m2y681QiVBkYt5h26Ooz-UncrDRoRHxDShtQdwMT65TjVjXYI-dgY4GJ-CYHOZtojvTbvh1",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "rating": 4.8,
+            "reference": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Group I rue 175 n° 16 oulfa Casablanca، Casablanca 20220, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5131256,
+                    "lng": -9.768217199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51447542989272,
+                        "lng": -9.766867370107276
+                    },
+                    "southwest": {
+                        "lat": 31.51177577010728,
+                        "lng": -9.76956702989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transfert Marrakech Essaouira",
+            "photos": [
+                {
+                    "height": 300,
+                    "photo_reference": "ATtYBwInO8RWnQb6on1dwleL2FfbzBgd67zQ3E2AG6UIf1wg7DhHX0cm153icXuWBNBx07tpHZDAQgMnZ9lMcAlfoWYQMJc4uzN1kQQtu4g9s5NY0aq23x336ZVvKr5DIa0gt4olL7pTodj0AQ5_0taiISUQrT-ZeBCpOpjukPBTYbBXqDiR",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJU3et03SbrQ0RNxdSxjy3q9g",
+            "rating": 5.0,
+            "reference": "ChIJU3et03SbrQ0RNxdSxjy3q9g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "37 Rue Kaouss Derb Ahl Agadir،, 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

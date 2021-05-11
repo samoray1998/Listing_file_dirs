@@ -1,0 +1,340 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5983451,
+                    "lng": -8.021629299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.59973102989273,
+                        "lng": -8.020309070107277
+                    },
+                    "southwest": {
+                        "lat": 31.59703137010728,
+                        "lng": -8.023008729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Green Motion Car Rental Marrakech Airport",
+            "photos": [
+                {
+                    "height": 1056,
+                    "photo_reference": "ATtYBwKKRGaO6h7SbpbZSspdv7-2ciCYHaMlzuhQAeUOUck41otJ1byZxm7hZrb9rqc_91Q8RPUpJQovE5QXcVLQsplz4kQOOYTFrwFHGtDlsXBxfUzhYqp9fQ6l6q0NGPGfNi5u4IW_htwAuvyot-nmz_WXK86SX0kB5tPU0JHhIUT4s-V4",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJq3bdhMXvrw0RU_HpxW_rYzI",
+            "rating": 2.9,
+            "reference": "ChIJq3bdhMXvrw0RU_HpxW_rYzI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "Avenue Guemassa, Marrakech 40160, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6375373,
+                    "lng": -8.0130832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63892807989272,
+                        "lng": -8.011759770107279
+                    },
+                    "southwest": {
+                        "lat": 31.63622842010727,
+                        "lng": -8.014459429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Green Motion Car Hire Marrakech Downtown",
+            "photos": [
+                {
+                    "height": 268,
+                    "photo_reference": "ATtYBwJpsT03ONvlyN2G2IG0zXCgnBw_LlHS9Q2L38noBBa17oGoHaIEHX24RbX4gc3sWm_4R39AemkFrY-leE1x1mGrLIPbdo1lnHfW8dO_nKIrw0-PREsxRCN9JqivZfDPFkqdyWEDcBme3RuUXWfdPtlJvot4NFCE5O_UZUGfAJ8lI96g",
+                    "width": 940
+                }
+            ],
+            "place_id": "ChIJRwiG8bDvrw0Rhfm_qg_Ot2E",
+            "rating": 3.2,
+            "reference": "ChIJRwiG8bDvrw0Rhfm_qg_Ot2E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "77 Rue Moulay Ali, Marrakesh 70000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwLtqRnxFLPaYkXAHUaikZOFsE3Ha_1rAHE2mPymExv6p6_3bBQeYktoivHeIKwwNAbiOAAXon917FuVvdCAG7TST5ctXCkdDoBFDFGPKasmivDKdsFDYdsxNouyMf2zTY6MRyMmLK4Ry4G-XOpsEagLywNYwjP1vujKNj2lMK3ryH4J",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwK7Kj0NBRd-sHB7lDagf-_KAer4ih4QnIu8cz2-hPoP_HjhEFNiOAB179TNASQ2MFLTRQZLw5fdM-9K7DdaJxHcwaQdeNSdx7GvuDGlEJE2ULA7Dqtd1OQvS_0qdKVXQ2UZa0GwZitUPYGvkMKsZ_wiECkXIihkKKu5G55ms34duKwU",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.292796,
+                    "lng": -5.2995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.29414582989271,
+                        "lng": -5.298150170107277
+                    },
+                    "southwest": {
+                        "lat": 36.29144617010727,
+                        "lng": -5.300849829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Sotogrande",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLzwIoeMvqPjI7Q4Bo7PEtSgnFRWqjVQgGUjVlWBvrq_PIQK1H04TtPa7sdRfpwtcklScwUdmwO-MgjmDAkpa9jXfckyJPTxSN1Ovdfa-YAuAaMAjoNg4gzYjvE8iNTUFpNURFrEwLV410H7Lc071SRkV8cdqWqJxraULGuqCUORAE_",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "rating": 4.2,
+            "reference": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Sierra Bermeja Sin Numero Pueblo Nuevo De, 11311 Guadiaro, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.494341,
+                    "lng": -4.951518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.49572257989272,
+                        "lng": -4.950150820107278
+                    },
+                    "southwest": {
+                        "lat": 36.49302292010728,
+                        "lng": -4.952850479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwITkLMXWbxOrJnceUKA3_1LTHF80ZcbNueLI1zunKGcwXViDlEb5YiatSibupVbJZdC5_yL6TsHUSeuX0kQPJ724ZwPMFld7DauVJUjvg--8nH723M0podKbhw-O49rUsDjd_doON9I4AI5mIy5LoxnBEQ-NxZVqjzArM6S8z3vZtUH",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJKzuNnCbWcg0RuN7pj3cx7QY",
+            "rating": 3.3,
+            "reference": "ChIJKzuNnCbWcg0RuN7pj3cx7QY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 109,
+            "vicinity": "Gasolina Shell N340 Kilometro 175, 29660 Marbella, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7115942,
+                    "lng": -4.4321443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71276907989272,
+                        "lng": -4.430692920107278
+                    },
+                    "southwest": {
+                        "lat": 36.71006942010727,
+                        "lng": -4.433392579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwLU0cDVZwz9uEFIDrMmi6wRkBpr-4oHC1cg6tP59tsXH_uoR0dTeHcRlR7Q3FEQZClbzLa--8Y_5b62_X264k-VyUYa7WAoh5z2-eJ_MkweVoQ2d42aq2fyqgYdw8yf3uROC_tsHyT2DSl3zfUzTo32jEDRqX4-4XXnGVqEDH-zrT7F",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "rating": 3.4,
+            "reference": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Calle Explanada de la Estación, s/n, 29001 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.550961,
+                    "lng": -4.61461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.55231082989272,
+                        "lng": -4.613260170107278
+                    },
+                    "southwest": {
+                        "lat": 36.54961117010728,
+                        "lng": -4.615959829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Fuengirola",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwLz6wWg7FNx0BmZyANiZAmM7LYHeGaUymarAIikIXsZvznYjR98JM91ydKsj6fI6w-6tTQg6qTiwQ1CZILP9KYukWI2ogD8NbnMAoxVXh6dV7dO8CtrdJZDqo3BoMnHbQi9D08sGz5MJsqvbBMtdiGa3sM9ivF97E3_81EpIkRMfS_M",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJEwwFE1Dicg0RJs2tWDnXl8M",
+            "rating": 3.0,
+            "reference": "ChIJEwwFE1Dicg0RJs2tWDnXl8M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Paseo Maritimo 64 Galeria Comercial H Yaramar, 29640 Fuengirola, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        }
+    ]
+}

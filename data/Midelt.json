@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.6815735,
+                    "lng": -4.7365753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.68294037989272,
+                        "lng": -4.735202420107278
+                    },
+                    "southwest": {
+                        "lat": 32.68024072010728,
+                        "lng": -4.737902079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Zaha car",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwLnRppMAdVqX6LEUHfP3rDAlwJhK_Xipu7ExZfUx3mFXbwkahvIFy7HRhsW4uiCFewUBd3kZXXXQc7wEondl1wbl9ZL0TBXqAzjrqH4B1ofqMKRp-EcCLfBqbD_PE2ljRZYM4SpB0wEFWQmY8wCtT4OeLBh9SL7eQL1aoZx0Cz0d-pT",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJf5hET3q_mA0RL_PBOZ9h9j0",
+            "rating": 4.8,
+            "reference": "ChIJf5hET3q_mA0RL_PBOZ9h9j0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue oudaya n°1، Midelt, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,792 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.189909,
+                    "lng": -6.149667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19124592989272,
+                        "lng": -6.148316070107278
+                    },
+                    "southwest": {
+                        "lat": 35.18854627010727,
+                        "lng": -6.151015729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Locadev rent car - location voiture larache (alquiler de coches larache)",
+            "photos": [
+                {
+                    "height": 600,
+                    "photo_reference": "ATtYBwL3qKZYlcbdUPtODEJBbd_zCXb5O7V-kJ32zf7HzzBClRZWQWXwUHStMQAyCMSF87Xu6v3NqV79vfYI8FBviHgafyjvrwrrIIkpJwUmv2rF-41XYbjG8H-gONTOzavSKdDeQpEthaSnV8NGvEmD1vMlu-hfku5-lWsAE-DPl5NbF0TZ",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJLzCPZCrJCw0RfY_gLnXkZxo",
+            "rating": 4.7,
+            "reference": "ChIJLzCPZCrJCw0RfY_gLnXkZxo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "34, Avenue Ahmed el Mansour Eddahbi, Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1904571,
+                    "lng": -6.1491634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19175717989272,
+                        "lng": -6.147814770107279
+                    },
+                    "southwest": {
+                        "lat": 35.18905752010728,
+                        "lng": -6.150514429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LARA RENT CAR ( location voiture larache)",
+            "photos": [
+                {
+                    "height": 422,
+                    "photo_reference": "ATtYBwIUDpCPfa1KR-jrk9bn15LanJ2qea_Pyr6_HCVHZzd2tyNMVN5CfmM-gOCqU1xM81BRNx53KqTp43qq2eCNj9WOzHHuR4hpthW5xxOXwFIUHbOAy9JhdKeeAXEPqZ1Yxp0Kugx7ZSyrlwEIlrp2eZvEuaN-MBAHKLGmphU9rii_Pcgg",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJe3wxcSrJCw0RpYw0v2iWFi8",
+            "rating": 5.0,
+            "reference": "ChIJe3wxcSrJCw0RpYw0v2iWFi8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Avenue Youssef Ibn Tachfine, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.169585,
+                    "lng": -6.13993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17092017989271,
+                        "lng": -6.138546020107277
+                    },
+                    "southwest": {
+                        "lat": 35.16822052010727,
+                        "lng": -6.141245679892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Martimo Rent Car",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwLRiCQafyRaIEDWrHMv-0VBsHDwKnqQVnXhPLinXoz6mglA5bxXqEX4GOV4fB1nkPfkVN7Kz9U2bl_ZRzFbR6fSNsrHA0WDV1YHlJ6OunzuGfwPG0s0I56mnJNrFNpwzo2c8SLXvzXcANs4xREhF2nD6bSHueQmp4hw8LbNWpOB5Qaz",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJvUtCh0fJCw0RYlrwG0nNgGQ",
+            "rating": 5.0,
+            "reference": "ChIJvUtCh0fJCw0RYlrwG0nNgGQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Lot Maghreb AL Jadid, Résidence Oued El Makhazine N° 2 Larache, 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1793857,
+                    "lng": -6.1449194
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.18071757989271,
+                        "lng": -6.143738920107277
+                    },
+                    "southwest": {
+                        "lat": 35.17801792010727,
+                        "lng": -6.146438579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ramicar Larache",
+            "photos": null,
+            "place_id": "ChIJTS590jHJCw0Rp5gyYVOuAl4",
+            "rating": 3.5,
+            "reference": "ChIJTS590jHJCw0Rp5gyYVOuAl4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Avenue Omar Ben Abdelaziz, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1712124,
+                    "lng": -6.149185399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17254677989272,
+                        "lng": -6.147840270107277
+                    },
+                    "southwest": {
+                        "lat": 35.16984712010727,
+                        "lng": -6.15053992989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture larache",
+            "photos": [
+                {
+                    "height": 405,
+                    "photo_reference": "ATtYBwKy6gVkWClAdXn5X1JQfdaoDUPDvQsQ-wN3ODBphesYbfKfDeyHASBa-R_hk6fHBxuNEplNw7AbPNxhCW4Zl3_XMK2SpZYZrQLzFs5EyTs1DgePBXITycQ30E2B3t4qLiqeyXrmrTZrqp-DbPy377G_Df2wNI92hz90LDPWZyDcBg6l",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJO7VyHjTJCw0RhcBx6s07WIY",
+            "rating": 1.0,
+            "reference": "ChIJO7VyHjTJCw0RhcBx6s07WIY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Unnamed Road, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1710785,
+                    "lng": -6.152989000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17248222989272,
+                        "lng": -6.151625420107279
+                    },
+                    "southwest": {
+                        "lat": 35.16978257010727,
+                        "lng": -6.154325079892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ouslimane Rent Car",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwJmfARmMVQI6ucch5djE7m6IB6MFTc5KOUePf2Td4iNSZqXqkuC3BRyvM5iJWxN4lv1yN0BWM159X-lnvYkKOEITUUt9TDZycRGxfpQNA95sbSZStq3_3hGVbV74ya8zut7490CwEbO4vOjcfjmeiC1-oHmQnci5w6qBI5jdFFEfvPr",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJCRO57xnPCw0RIxJjOISceHE",
+            "rating": 5.0,
+            "reference": "ChIJCRO57xnPCw0RIxJjOISceHE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Mosqué qobae 5, Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1636432,
+                    "lng": -6.1415422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16498502989272,
+                        "lng": -6.140192620107278
+                    },
+                    "southwest": {
+                        "lat": 35.16228537010728,
+                        "lng": -6.142892279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LUKUS RENT CAR",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwLU0e3I85USGwfxXjdQ4mt-TQ39nMCC74L0C206CPMvHlE6-z2MprPlS66EsEqW0r1RYvQCv9QKIy9pa3P5JwLMfTSCMMWDUb0io7iQAGeK8ezGvMSZ_tCl7ZwlvihJIfDw9IoMAZ2eKXVciZdat0YYqhu7nVXhPNDv-ADSYiFyLiG2",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "rating": 4.3,
+            "reference": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1927038,
+                    "lng": -6.1556026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19407352989272,
+                        "lng": -6.154296920107278
+                    },
+                    "southwest": {
+                        "lat": 35.19137387010727,
+                        "lng": -6.156996579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "KARIM TOURS sarl",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwK9z7njTGupL2kUc_HPE0BHsDXscDHQQeH_DgY-GobGrJlRBf24dxtN2qk9wasz0nqwxKu67yCgnzUYKMImreUB6QPhw3lmtpNDdz8MAoFgurMFw9n9YCRikr4x3zF4dktWtaU4RDYaptrlFTd3g4y3cRzvjaMMMArqIgLM88sF3Qn8",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJf6YzICvPCw0RM4d9JHq82YI",
+            "rating": 5.0,
+            "reference": "ChIJf6YzICvPCw0RM4d9JHq82YI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "63 Avenue De La Résistance, Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.190653,
+                    "lng": -6.1544083
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19200572989271,
+                        "lng": -6.153083320107278
+                    },
+                    "southwest": {
+                        "lat": 35.18930607010727,
+                        "lng": -6.155782979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION DES VOITURES LOUKOUS LOCATION",
+            "photos": null,
+            "place_id": "ChIJS6dwDNvPCw0RJs4nAQ14ons",
+            "rating": 5.0,
+            "reference": "ChIJS6dwDNvPCw0RJs4nAQ14ons",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Khalid Ibn Walid, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1643961,
+                    "lng": -6.1448778
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16574762989272,
+                        "lng": -6.143511270107278
+                    },
+                    "southwest": {
+                        "lat": 35.16304797010728,
+                        "lng": -6.146210929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Errenteria Rent Car",
+            "photos": [
+                {
+                    "height": 2736,
+                    "photo_reference": "ATtYBwJ0PY6FW7KYIoKequJ-_e1RCuQ2vNC-eryOZDBO4iXGekGBw8sW5kKJxuLWuGIaYB2-TmPcDhUVGqjyNDdwmTounfQZ-OlCMUQ9onEkJ2enGNd0XXp-uFBn2fbIqK43P_o-g-srXHKQTTJEX5vTq7tJkUcEaF0FtJQs50pAtytKzKmg",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJZTqM2N_JCw0ROmTvpxmaQMY",
+            "rating": 5.0,
+            "reference": "ChIJZTqM2N_JCw0ROmTvpxmaQMY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "N1, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.170956,
+                    "lng": -6.136356
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17236997989271,
+                        "lng": -6.134965120107278
+                    },
+                    "southwest": {
+                        "lat": 35.16967032010727,
+                        "lng": -6.137664779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Abdorrahmane Location voiture",
+            "photos": null,
+            "place_id": "ChIJP1-22IjJCw0RILu9F4pvqbs",
+            "rating": 0.0,
+            "reference": "ChIJP1-22IjJCw0RILu9F4pvqbs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "745 lot Maghreb Al-Jadid،, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.19520139999999,
+                    "lng": -6.156061999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19654277989272,
+                        "lng": -6.154693970107278
+                    },
+                    "southwest": {
+                        "lat": 35.19384312010727,
+                        "lng": -6.157393629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ismail Tour",
+            "photos": [
+                {
+                    "height": 5312,
+                    "photo_reference": "ATtYBwLFj766mdVo0AMbK4ci6ZAoqHoTC_wZFwc7QehyPuivlCWQ7EINhymgzIWK9wFbCQQ-U1YC8sGmARi9jMx_vqKyWRe-2ZfKUpHn0M6SAsr_-cqq1i-Bu4jkPt8XBIkOi_DClY16ED9YYymo1ynheyoLCRblHftRb9QG2ZEzFmJRKTmF",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJkQ0dkCvPCw0RpJVS2MhB7KQ",
+            "rating": 5.0,
+            "reference": "ChIJkQ0dkCvPCw0RpJVS2MhB7KQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Ctre, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1927095,
+                    "lng": -6.1547822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19405712989272,
+                        "lng": -6.153424870107277
+                    },
+                    "southwest": {
+                        "lat": 35.19135747010728,
+                        "lng": -6.156124529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "STE BISTRA RENT CAR",
+            "photos": null,
+            "place_id": "ChIJHTooXxfPCw0RX0rT1QU_Ytw",
+            "rating": 0.0,
+            "reference": "ChIJHTooXxfPCw0RX0rT1QU_Ytw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue d'Algérie, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1926164,
+                    "lng": -6.1539186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19399737989271,
+                        "lng": -6.152563170107277
+                    },
+                    "southwest": {
+                        "lat": 35.19129772010726,
+                        "lng": -6.155262829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sebtaoui Rent Car",
+            "photos": null,
+            "place_id": "ChIJDUXX0VXPCw0RwDnW4NXzAoE",
+            "rating": 0.0,
+            "reference": "ChIJDUXX0VXPCw0RwDnW4NXzAoE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Boulevard Malik Ibn Morhil, Rue Ibn Khaldoun, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1804249,
+                    "lng": -6.149048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.18178742989272,
+                        "lng": -6.147694470107278
+                    },
+                    "southwest": {
+                        "lat": 35.17908777010727,
+                        "lng": -6.150394129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ghanmi A.R Location De Voiture",
+            "photos": [
+                {
+                    "height": 1069,
+                    "photo_reference": "ATtYBwKmlUzXiJ6KiTu47BMZzVtJjMhmI28pdoIprGdoFm1l06_ZhDUG9ofi_wLbSh9c9X2xEdYOAOA0RklORqBgL4QOT0wWkXe6A7o1ch01bzVFqx9QFNwMmMPwl-qsmCR7gxALV8Qwe81aGgDjyTu9M84F5kA81A_wNBtABy4rDRLFTl1F",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJW-gb55nJCw0RW-rWyWx8fIE",
+            "rating": 0.0,
+            "reference": "ChIJW-gb55nJCw0RW-rWyWx8fIE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Unnamed Road, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1737022,
+                    "lng": -6.1545909
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17502217989271,
+                        "lng": -6.153251120107278
+                    },
+                    "southwest": {
+                        "lat": 35.17232252010727,
+                        "lng": -6.155950779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AHB LUX CAR",
+            "photos": [
+                {
+                    "height": 582,
+                    "photo_reference": "ATtYBwI-dXWCT_uIxRRra7TXrSGwYxHuhXRtDlayTVPlxhWizOvVpfbOi47nCrVneS6RAy6sWt307mIVTUrnE6EIG_8rWLXVfZnRzV19RyH1OqGLTVQBJKV-yb4hbZfHZPrRHCJbpJG4E6o3zaomRi3MBwTcBm0WJZAt9AHXD5s7_Yv_5Lxp",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ5QeFdV3PCw0RR6i9Du-okYI",
+            "rating": 0.0,
+            "reference": "ChIJ5QeFdV3PCw0RR6i9Du-okYI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue des Forces Armées Royales, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.190582,
+                    "lng": -6.149323
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19195762989272,
+                        "lng": -6.147751970107278
+                    },
+                    "southwest": {
+                        "lat": 35.18925797010728,
+                        "lng": -6.150451629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Guerimej Car",
+            "photos": null,
+            "place_id": "ChIJM3V2dyrJCw0R3ALu7NL3QNc",
+            "rating": 2.0,
+            "reference": "ChIJM3V2dyrJCw0R3ALu7NL3QNc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Mohamed V, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1744271,
+                    "lng": -6.1473964
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17577432989272,
+                        "lng": -6.145974820107278
+                    },
+                    "southwest": {
+                        "lat": 35.17307467010728,
+                        "lng": -6.148674479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nbk location",
+            "photos": [
+                {
+                    "height": 672,
+                    "photo_reference": "ATtYBwKtJyEls8o-v4oSjUTuvZiG1bHYOsBbe2eSsf6ozrLVrQNdMIrx5guD_t-bhj0SvK2y2LvxAdUzgnYoyobJR8oXZawJ3ZDAtYQyIxQTnWM4bGFDYxfY5hvlIbBrj-baDUDJjJdwWRoXExU8YCiNUb_E-zrO0WIpP0uiP1TP_a4bZ6Q",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJdQNhBZLJCw0RrBSciSwjBsc",
+            "rating": 5.0,
+            "reference": "ChIJdQNhBZLJCw0RrBSciSwjBsc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1733133,
+                    "lng": -6.1521922
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17461872989272,
+                        "lng": -6.150855320107278
+                    },
+                    "southwest": {
+                        "lat": 35.17191907010727,
+                        "lng": -6.153554979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "rahim coches",
+            "photos": null,
+            "place_id": "ChIJ_YFCzk7JCw0RE0T-imc-I1U",
+            "rating": 0.0,
+            "reference": "ChIJ_YFCzk7JCw0RE0T-imc-I1U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Lot Al wafaa No 154 Avenue fsifsa، 92000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1951952,
+                    "lng": -6.154934799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19651957989272,
+                        "lng": -6.153608570107278
+                    },
+                    "southwest": {
+                        "lat": 35.19381992010727,
+                        "lng": -6.156308229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Yasser Coches",
+            "photos": [
+                {
+                    "height": 2560,
+                    "photo_reference": "ATtYBwKyTTJPV1RiMpsCch71VqWni2-zvZ_tMC-Pn6kr6U93leKje-ROEoC33mkLbUkfzA42j_4zwWeHKGl8EvvstcgBsuMbb0vIyJ7vJPDJiM9GNpQLHuSCW4WwPX7Dy9xwECdJi_-v9wIcX6h1PF2bdw4XELEjtIykNcMrN0se-fMmyd08",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJCejGcCvPCw0Rom5d-MZ1Ij0",
+            "rating": 4.6,
+            "reference": "ChIJCejGcCvPCw0Rom5d-MZ1Ij0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Avenue Malek Ben Marhal, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

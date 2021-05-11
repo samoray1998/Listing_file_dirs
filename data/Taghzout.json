@@ -1,0 +1,802 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.596354,
+                    "lng": -7.615233000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59770752989272,
+                        "lng": -7.613965620107279
+                    },
+                    "southwest": {
+                        "lat": 33.59500787010727,
+                        "lng": -7.616665279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Maroc",
+            "photos": [
+                {
+                    "height": 498,
+                    "photo_reference": "ATtYBwLncyL2hkwwQLPk6-TvFpSCaloUY-q-uvlaDnfqNL-6ksn8bx9HEh5lNMEhZVjndF721TiLW95PnQ7zW2_tNrmRdwDEq5yJmbSDLIotqDPRr2zj9lcNX0h_JPJLnhpyuB2yZrH0RUBMN3F3H_EJONK15Fd7f8SDjOZvJYz2f_jKUMHa",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "rating": 2.4,
+            "reference": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "25 Rue el Oraibi Jilali, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5712152,
+                    "lng": -7.6752045
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57251292989272,
+                        "lng": -7.673821120107279
+                    },
+                    "southwest": {
+                        "lat": 33.56981327010728,
+                        "lng": -7.676520779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence Location voiture casablanca aéroport pas cher",
+            "photos": [
+                {
+                    "height": 324,
+                    "photo_reference": "ATtYBwJ2LoDQ0ojgvHJxHcMFuhNJsICA1-B99x56mIdTHFoJGwMeJQSowMHQWdm85EJBnly9XXwYXZyCa3hFckjqz0aEbtHkAch7oM7g6PLH1zxtJMHR9ZtwqjBdDevjoQHhxYJFfRO5q0wtXMQZv-MTSYZAzEWyk5wNe-micjA-yv6O7_mZ",
+                    "width": 490
+                }
+            ],
+            "place_id": "ChIJmfZD1TjTpw0R1x8RlqHje90",
+            "rating": 4.4,
+            "reference": "ChIJmfZD1TjTpw0R1x8RlqHje90",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "L' Union, Rue 7, Numero 25, Casablanca 20230, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.5460253,
+                    "lng": -9.7081082
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.54738247989272,
+                        "lng": -9.706766220107278
+                    },
+                    "southwest": {
+                        "lat": 30.54468282010728,
+                        "lng": -9.709465879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sahel Tours Taghazout",
+            "photos": [
+                {
+                    "height": 810,
+                    "photo_reference": "ATtYBwL9Op757rKVUcJoQHNUkRLnd0xbDiOEQZrCaRyMTsPVP0t91faWUrL7A3H-eLQy608ZJV7igA5sQ6P9in3GQL40VTPm0yzKMs_40SNj6mHU17gq9WH9gQ6yuiKOAPYyqNp48IAHH9Dt4K_Yl45j7CGc1RZxxXTCR9ELfM1eUpI3TWSk",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJP1jmoUVNsg0RQkctLrk-IYg",
+            "rating": 5.0,
+            "reference": "ChIJP1jmoUVNsg0RQkctLrk-IYg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Rue Tasga oudrar, Taghazout 80022, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.412869,
+                    "lng": -9.56906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41416877989272,
+                        "lng": -9.567693370107278
+                    },
+                    "southwest": {
+                        "lat": 30.41146912010728,
+                        "lng": -9.570393029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sahel tours Agadir",
+            "photos": [
+                {
+                    "height": 1536,
+                    "photo_reference": "ATtYBwKBCOC7iVQYQ4SGO7f5xEeRc3_vsNhXv7acy0wstvYqGCMRFEfHNFfjEPT7sEI_Pw7IY25nnizavZy9ydm9QaiDUggbcZnj5yribMJW6SKAQUllQZYn8TgX2dzleJVEzd_KmSDrVV8E2s1X_JCGvNekB25JkeMjbnO3U0OYIJ1Z-qhU",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJEy8SQFXEsw0ReWd6TvS--n8",
+            "rating": 4.9,
+            "reference": "ChIJEy8SQFXEsw0ReWd6TvS--n8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "35 al-Masira Agadir، Avenue Abou Jihad, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6259613,
+                    "lng": -7.993030699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.62730392989273,
+                        "lng": -7.991699570107278
+                    },
+                    "southwest": {
+                        "lat": 31.62460427010728,
+                        "lng": -7.994399229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Majdoline Travel",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwLX8pwUrmC8e9_WqeUBQp549NUXkldS0RuqhxE-cfGfspsP4t4Fb12sFYVQQiVNABT0uvUSPe4vMMFGSDvQBRSUpOcZ4ri-d95NhSXscMdbegUUdmQUbDVOGvQ0MJd7ImiIzwJyaaHrr8IqEcbnHz4yOku0CHbcu68FjC8DX-_yX26c",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJs8tJhmfurw0RHnw9AknCB7Q",
+            "rating": 4.9,
+            "reference": "ChIJs8tJhmfurw0RHnw9AknCB7Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 426,
+            "vicinity": "Rue Lalla Fatima Zahra, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4309767,
+                    "lng": -9.5797634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.43231432989272,
+                        "lng": -9.578421970107279
+                    },
+                    "southwest": {
+                        "lat": 30.42961467010728,
+                        "lng": -9.581121629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avantagecars",
+            "photos": [
+                {
+                    "height": 400,
+                    "photo_reference": "ATtYBwID5-C51S_j6RgY4_vnpklvqR_yxOCfjJ6FKFA2LoUh24BQbjgzQua4AIS9T4OWuV8r0NJk9_qK6l5mE2uSK0SkxCEgf_objZcIZXqMID2kYq9-5roMkFx8kI5J7VoN3oz7pVIrAM9_YQfVWQsdEvnUVUCf3e63_s9LgYmWvy1e43A1",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJSWydyWe2sw0RsGOL6B2XILM",
+            "rating": 4.7,
+            "reference": "ChIJSWydyWe2sw0RsGOL6B2XILM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "10, Rue 464, Amicales, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3303063,
+                    "lng": -9.4103116
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33186292989271,
+                        "lng": -9.408954820107278
+                    },
+                    "southwest": {
+                        "lat": 30.32916327010727,
+                        "lng": -9.411654479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwK__h46QYhDoMnIxMvTerBXXHzZdt4wsUC-mItsqJBKZLs_48ckxfwDVXZ6ehft4appazIInIG8rCf9OwKayix60c-L4X-ovaNWrCIRgB7u1cZHW__ispY2D9EsejANmKjgGl_KqBej2BNT4dyuV-fskCqbDWgSDwlSrEtC-2plLjXp",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJGy8SQFXEsw0RT7s_YywjVlc",
+            "rating": 4.3,
+            "reference": "ChIJGy8SQFXEsw0RT7s_YywjVlc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54,
+            "vicinity": "Agadir Airport, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.54519509999999,
+                    "lng": -9.710477700000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.54652792989273,
+                        "lng": -9.709109420107277
+                    },
+                    "southwest": {
+                        "lat": 30.54382827010728,
+                        "lng": -9.71180907989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taghazout Surf Car",
+            "photos": [
+                {
+                    "height": 540,
+                    "photo_reference": "ATtYBwLUOtZXyQaXGoi0doMxNMNVY1uKQvGnu8Eh7RipuqGB5cMLjK8LefEc3i07oerEt9yW85ZIBv2UklDIB3L1xnpEbbAPd8Fbiom2q39uxSE9ycn2a6Cnm8wh9hfjEect8MmOAV_9XUCZq69zlevxXes76fEoEEGIOCAv7WBJqoJZcDCs",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJK-NmaUVNsg0RD2FpOxRjPNM",
+            "rating": 4.6,
+            "reference": "ChIJK-NmaUVNsg0RD2FpOxRjPNM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "N1, Taghazout, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.400192,
+                    "lng": -9.5317048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.40155347989272,
+                        "lng": -9.530372920107277
+                    },
+                    "southwest": {
+                        "lat": 30.39885382010728,
+                        "lng": -9.533072579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voitures Agadir - Agence Al Aimran Cars",
+            "photos": [
+                {
+                    "height": 460,
+                    "photo_reference": "ATtYBwLU_WSe0oecQuO4hrcQMZ0f181ywsx28if2XHgqvbFkQksKSRdX-gpwghRZBRzK7fnR-glkERvr_O_FdHeLj_gJLAEZ6kf7--LL8gQzjqcUaFkNkhWBT5BgJbD4hMZEp3fJv812osimviYU9o1ZnMFRBGBVRmKHm_Zt_I2fGDG0M75c",
+                    "width": 819
+                }
+            ],
+            "place_id": "ChIJ1_HyuDHIsw0RHhx3U8CdPy8",
+            "rating": 4.8,
+            "reference": "ChIJ1_HyuDHIsw0RHhx3U8CdPy8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "N° 3 Bis Secteur C, Rue Kerdous, Agadir 80030, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4122023,
+                    "lng": -9.5556881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41352727989272,
+                        "lng": -9.554307770107275
+                    },
+                    "southwest": {
+                        "lat": 30.41082762010727,
+                        "lng": -9.55700742989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agadir Car Hire Cheap: Rislane Services",
+            "photos": [
+                {
+                    "height": 2048,
+                    "photo_reference": "ATtYBwIxqvLzWIRj3COwgG_TuZS7iMQy2Lv2WbVipXEI-w1MjM7gx2d_E6qwFPVMWwAgVMzMk24ad6EPGlMHezoWNUHTh9TS7fOijfLCgLDWqPibAL_5ST2y6_rYWf4js93RI62YFpj6OuUtbXSOOaexY7tNhGioSQakhdrrwEl1aTXThdcu",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ2Yv87y22sw0RXR8Awh6-Nwk",
+            "rating": 4.8,
+            "reference": "ChIJ2Yv87y22sw0RXR8Awh6-Nwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Bloc F 17 N° 133 Cité Dakhla, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4209794,
+                    "lng": -9.5996546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42222092989271,
+                        "lng": -9.598419870107277
+                    },
+                    "southwest": {
+                        "lat": 30.41952127010727,
+                        "lng": -9.601119529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agadir airport car rental - Agence Rayhan Cars",
+            "photos": [
+                {
+                    "height": 740,
+                    "photo_reference": "ATtYBwJg78LMOKpNgY6Fkw6TMx7cjTHSijCAaC1ZC7Tu6Qp2qYtpyZl9D--B7k9PXDJcleWlujc8OCC7Whp6GmYrOhrsMi0gU2OLNgl-Ln5UBAV5y1H-TTg44eqyxGvOiodDGzO3QWl4AIuPiPdMceEU5UWFQiliOmX3TO6HdEBdhAJb5Pbr",
+                    "width": 1111
+                }
+            ],
+            "place_id": "ChIJZfeH9O22sw0RLaWF3_XKAVM",
+            "rating": 4.4,
+            "reference": "ChIJZfeH9O22sw0RLaWF3_XKAVM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64,
+            "vicinity": "Avenue Hassan II, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4980676,
+                    "lng": -9.6765826
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.49940942989272,
+                        "lng": -9.675232020107279
+                    },
+                    "southwest": {
+                        "lat": 30.49670977010728,
+                        "lng": -9.677931679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AGACITYCAR",
+            "photos": [
+                {
+                    "height": 2021,
+                    "photo_reference": "ATtYBwJDfsLWccAwUOWUEJVy-FOjKJilps6qB6_wPsrwT50Yw0Kr0__FY7TuX_FN4JbxqJgyTiYrG0Qe0msG_euvq99EwQ3M8h9bJQeXRQJ647fPicyvs70v3RJYgw-NeX1qaVASUm345_h9tRaYk7xRO7HvKXZUYYht4BTX6RMYwcNG-quQ",
+                    "width": 3589
+                }
+            ],
+            "place_id": "ChIJ9Y-q8e22sw0RNRox_k22baM",
+            "rating": 4.8,
+            "reference": "ChIJ9Y-q8e22sw0RNRox_k22baM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "Résidence Adan Beach AOURIR, km11 Rue La Plage, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4288541,
+                    "lng": -9.5577386
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.43016197989272,
+                        "lng": -9.556417820107278
+                    },
+                    "southwest": {
+                        "lat": 30.42746232010728,
+                        "lng": -9.559117479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AGACITYCAR",
+            "photos": [
+                {
+                    "height": 416,
+                    "photo_reference": "ATtYBwI6yD1UjkpPgwiKOL4Hb830JKQrerM-GtQq47GifV88lyNTebgW3drZGCEiwbKwJh4en6G4bnkT2FlxdaSibXBuo3AWGEuq4pWFRVSlLunDJPOKQMgPxNULIbqyEDdjjv_b2EiqhK4O2-ZQD2Xtl9wFq0CdU8KuvZMMhYZr55xuRVt0",
+                    "width": 740
+                }
+            ],
+            "place_id": "ChIJ98WV8e22sw0RDpIt6lJyL3I",
+            "rating": 4.7,
+            "reference": "ChIJ98WV8e22sw0RDpIt6lJyL3I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "immeuble 01, lot 3645 Bloc 4, Agadir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4222537,
+                    "lng": -9.6010286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42366772989273,
+                        "lng": -9.599764670107277
+                    },
+                    "southwest": {
+                        "lat": 30.42096807010728,
+                        "lng": -9.60246432989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Délice voyage : Agence de Location Voiture à Agadir",
+            "photos": [
+                {
+                    "height": 331,
+                    "photo_reference": "ATtYBwLtn59D2SMf0u_Oyc0YwVhEj_jqzofs9QSXFYadT1IfdHSGtSG-X3ZwStsjb6O4RUMpF5vttMuNogzNoxAzxF4WvsGwXpaA0-_XBvPiRTWANGomovNRN96qcwKe3AzJu8LmE0aWEuKj-U7jxljJPAMJp9QK4mlCfzemHVvbqea2SU1E",
+                    "width": 555
+                }
+            ],
+            "place_id": "ChIJNxPDLuS3sw0R6Fz7vBpG0_0",
+            "rating": 4.7,
+            "reference": "ChIJNxPDLuS3sw0R6Fz7vBpG0_0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "N16، Galerie yassine، Ave Des Forces Armees Royales, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4173708,
+                    "lng": -9.56402
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41874062989272,
+                        "lng": -9.562635970107275
+                    },
+                    "southwest": {
+                        "lat": 30.41604097010728,
+                        "lng": -9.565335629892719
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AUTO 22 - Agence location de voiture agadir aéroport pas cher",
+            "photos": [
+                {
+                    "height": 920,
+                    "photo_reference": "ATtYBwJcd5YNY2NV96_vsGxipBAJXFiZcmfQass4BFyj-Y92uLW1rS3CmEAjUoYe6JM7sH86u4xJFT9pTTWjIRaSSg_dkvn47N-LWoAc8V8SwH9Z3HPgwsU7AQCh5Iqja7ajz1mVgai3_eYww7A580Mgt_pUtikTnSu-hVoMowOlShG7lVco",
+                    "width": 736
+                }
+            ],
+            "place_id": "ChIJIQHvra3Hsw0RazV8yVVhetQ",
+            "rating": 4.8,
+            "reference": "ChIJIQHvra3Hsw0RazV8yVVhetQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "N 11 EL MOUKHTAR SOUSSI 01 AV ABDERRAHIME BOURBIDE, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.417305,
+                    "lng": -9.564845
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41874407989273,
+                        "lng": -9.563579720107276
+                    },
+                    "southwest": {
+                        "lat": 30.41604442010728,
+                        "lng": -9.56627937989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AMAROK =Agence location de voiture agadir aéroport pas cher",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKXGQT4yVKTOjfMDKwra9hgleEJyNJleway4THy_Zfwi0PDy5FHwnJ8mHvrgiIj_dx1iCjk8gLb7hG_rriK4U1a_zMrCA8S6C4kNNSbgg51U349LNqY2EmHN7T6pxUYJ8Hx4vs4E0iWxZ0-TuPXp1X3wsmmsOt29Bph3t9z23bWLl05",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJU5APVze2sw0R7LoapnoZFRw",
+            "rating": 3.8,
+            "reference": "ChIJU5APVze2sw0R7LoapnoZFRw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 101,
+            "vicinity": "Ave Abderrahim Bouabid, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3301389,
+                    "lng": -9.4096713
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33132632989272,
+                        "lng": -9.408141370107279
+                    },
+                    "southwest": {
+                        "lat": 30.32862667010728,
+                        "lng": -9.410841029892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voiture agadir aéroport",
+            "photos": [
+                {
+                    "height": 466,
+                    "photo_reference": "ATtYBwIQe0kvTPilMRL6vDQKdpbxOTbByVK1-0wSZapAoCU35M9Ih-AqWkykxUQ6gVMeJl_KKaYSt7fMN4QT_NNPyOTxUMtyjPdZn8OvwSvFewDZrQUXYLqnEBR3U8u9CRF0gFxwHN2ENh3pcz_twyO-YoyxVlo7SyQOLVLUlTTEzSJIAH0C",
+                    "width": 798
+                }
+            ],
+            "place_id": "ChIJ1dqPKkvFsw0Rpsc5lrSTQ4Q",
+            "rating": 4.9,
+            "reference": "ChIJ1dqPKkvFsw0Rpsc5lrSTQ4Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 149,
+            "vicinity": "Aeroport Al massira، Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.414341,
+                    "lng": -9.591584
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41564612989271,
+                        "lng": -9.59020587010728
+                    },
+                    "southwest": {
+                        "lat": 30.41294647010727,
+                        "lng": -9.592905529892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Carsalis",
+            "photos": [
+                {
+                    "height": 5312,
+                    "photo_reference": "ATtYBwLI8HsnDFGT_et1MMk7Y_k4zhDoNNQxHq53fVuJ-goB2V6o8NB8A6KAWZfv85zct0L93vy94lLqUMTfmIlwsX5_hOSLY5DgnQc30lRjycc7Nht0GhtC9uC03qf7RcMMvXSklWtXPNrGlWEgNwe6IPuqkhqZvzQdtcGpA9xU6TSido1o",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJXz76Rfi2sw0RVU7KSNUmG3I",
+            "rating": 4.8,
+            "reference": "ChIJXz76Rfi2sw0RVU7KSNUmG3I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102,
+            "vicinity": "4 bis Rue Moulay Driss, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.399738,
+                    "lng": -9.541419999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.40108072989272,
+                        "lng": -9.540030370107276
+                    },
+                    "southwest": {
+                        "lat": 30.39838107010728,
+                        "lng": -9.54273002989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence location voiture agadir",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwJZrfVSR0HNtCL5oHcab-fZsayt1J1IfghbQV4DybFwIH4Clvlg34a9PxJtHpo_XXr_ky243WY3mPNsmU1h9LwLyNdalDFoptRZdOjnud_zNpahuZU_z7sWnWvIOr1ynxe9OaqWG5pxRz8SJgdQUkPcVUMWAxS88EDSt-Xni7r9a2s5",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJDRZn4ijIsw0RgNsYKM9qZRo",
+            "rating": 3.0,
+            "reference": "ChIJDRZn4ijIsw0RgNsYKM9qZRo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue Kerdouss Al Houda Bloc C، Agadir 80070, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

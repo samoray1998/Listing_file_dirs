@@ -1,0 +1,338 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2609993,
+                    "lng": -5.9227165
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.26228572989272,
+                        "lng": -5.921403070107279
+                    },
+                    "southwest": {
+                        "lat": 34.25958607010728,
+                        "lng": -5.924102729892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Oualad Rifi Cars",
+            "photos": [
+                {
+                    "height": 721,
+                    "photo_reference": "ATtYBwKSsrIYrVIwSkVNRcZjQSceSrpb7u5XCG4ihEh_djctj3_SErlUpVN6Ki9Wx3d0CTRuQPuPxvaPEnQl1eUHRTCc0JNOMBce-i0E8yLvtpWY7vQkc7fwLMgJApV7YGDBmBPEdMAmm4AqBo5J_liJ-XshSWkvlakOjmjXTXtGM-f7iKC2",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ5QRX296boA0RBOahnFGuaCk",
+            "rating": 5.0,
+            "reference": "ChIJ5QRX296boA0RBOahnFGuaCk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Des Nation Unies, N 7 Magasin 6, Sidi Slimane 14200, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9897331,
+                    "lng": -5.9073139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99099722989272,
+                        "lng": -5.905873620107278
+                    },
+                    "southwest": {
+                        "lat": 34.98829757010728,
+                        "lng": -5.908573279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HAJ BEN ZIAN CAR Location de Voitures",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwLv90WgkZyYJthb6j5TklSpjh8DbpC5QZhJHBqkzUf4GCBtSDoNtM_1auWUdZY2vSJY-Q_6fM0cH2ZYkB89vmnsQ3q9Nve8U3nxnTYJaKXBT8LDO3n7Az9UwpobWpLnypahkQEIOHaT5Fs07Vv1MPW10o-uCXLFKi5D_wGNpt9Qu5Wp",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "rating": 3.6,
+            "reference": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Route de Rabat, Residence Ajyad,N°4, 1er Etage, Avenue 20 Août, Ksar El-Kébir, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.00001719999999,
+                    "lng": -5.906726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.00137437989272,
+                        "lng": -5.905351670107278
+                    },
+                    "southwest": {
+                        "lat": 34.99867472010727,
+                        "lng": -5.908051329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sofy Budget Car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwLzKoxH7-JVeRgXz_d06-Bg77k4lK81Go1cByDOoCEoipOrsH8gwT59_eIik3yxeRSkQii4ev6njYhwoc6obgYo-y5owb-j95MnqCf1APZOGNgJ44MoKIW0-mriRQ0Ojbm3rWN51NIt2LtL-1wBVPo6HBhAVxktXtPQXYnyrZ0eu1XG",
+                    "width": 876
+                }
+            ],
+            "place_id": "ChIJjb5JKtZNCg0R2K8QhRccjuw",
+            "rating": 5.0,
+            "reference": "ChIJjb5JKtZNCg0R2K8QhRccjuw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "hay jadid n°:24، Ksar el-Kebir 92150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2256775,
+                    "lng": -5.723032
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22701537989272,
+                        "lng": -5.721633470107277
+                    },
+                    "southwest": {
+                        "lat": 34.22431572010728,
+                        "lng": -5.724333129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rescov Cars",
+            "photos": [
+                {
+                    "height": 3120,
+                    "photo_reference": "ATtYBwJ_yfjiQh_N56fc2EdPyZk6Lrtr_Xc0SorKmCv35kJrBV8cOmJElP-RNsBIHxfleNgZsJ1_y1VpllvB3AtS8QkXUAzA7aGAC2ey1TxyTDJRMzUYCy4zoAwnfqOCdz-esJtaZ0t03kDfRr8vVgXZldWbw_NANBcNsyM9IaeudsKa6o0i",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ8Tap0NZ9oA0RR824xpc0hJk",
+            "rating": 1.0,
+            "reference": "ChIJ8Tap0NZ9oA0RR824xpc0hJk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Sidi Kacem, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9976995,
+                    "lng": -5.9079999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99910082989272,
+                        "lng": -5.906629920107278
+                    },
+                    "southwest": {
+                        "lat": 34.99640117010728,
+                        "lng": -5.909329579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Badaoui Car",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwK6PY4G5E5Deh6iWIRRbpJCcIaw-Fi5ZxIhxA5TrxclaiZbOYWyuZb-06wkKb5naVCKTsNZ4NtQswtmtlie1l5nu75OHeEtuG5ltZw2xZpOIkHVHnu3-aXlEXwAIRWraV6IhPHAKiUx88Ic0SEpd8ij1TwzxX-A6n0cLpN-PwuGN7l5",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "rating": 2.4,
+            "reference": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Hay Andalous Groupe A Rue 14، 5 Bis, Ksar el-Kebir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.229932,
+                    "lng": -5.707860999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.23125857989272,
+                        "lng": -5.706528820107277
+                    },
+                    "southwest": {
+                        "lat": 34.22855892010728,
+                        "lng": -5.709228479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Full Prestige CAR",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwJwxc86l-nKB6_XKQjhQbtoddC1P1YxqHZITkaIE3opTulshIggqo_eLIbUPVUreMVnaWD_XPrs40MFXNhCI4jWWep0Trvg1h6nJh52R1xHMHfIwWhP2ks5SaHsBXeIsttS3pcHhetpbd_xo8lOp8DyQ5XQj-bherSBsYy9oRU51xqs",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ8XF4Bix9oA0RBGXO4AKi3i4",
+            "rating": 4.0,
+            "reference": "ChIJ8XF4Bix9oA0RBGXO4AKi3i4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Avenue bire anzarane lotissement route de tanger nr429، 16000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.3038323,
+                    "lng": -6.3028982
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.30518082989271,
+                        "lng": -6.301594020107278
+                    },
+                    "southwest": {
+                        "lat": 34.30248117010727,
+                        "lng": -6.304293679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Fifi Car",
+            "photos": [
+                {
+                    "height": 1564,
+                    "photo_reference": "ATtYBwLSGeomW9U6XR5GbLI7HovW5zKYnOBaKVdgUXvADeTF7VSdDLN05IXZcKvP3K4jKzhEGMEzVTcw47nQ2_tPaxByCs1ynMF-IU_23yK-gBlm8-Q-I59CXjR4qrZ2ArdHbnEHAVKqfmT5gmOvH9JDql4h97fHMLPJtX76TkSHFehvjJxO",
+                    "width": 1564
+                }
+            ],
+            "place_id": "ChIJI9Idv5-poA0RT0_cfmv6gQA",
+            "rating": 4.2,
+            "reference": "ChIJI9Idv5-poA0RT0_cfmv6gQA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Sidi Yahya El Gharb, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.3054805,
+                    "lng": -6.3744061
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.30693182989272,
+                        "lng": -6.373076870107278
+                    },
+                    "southwest": {
+                        "lat": 34.30423217010728,
+                        "lng": -6.375776529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location Voitures Zone Franche Kenitra",
+            "photos": [
+                {
+                    "height": 536,
+                    "photo_reference": "ATtYBwKWkaIz4zg-iFpBRoMwL88vACuJ1dm5hi68x9IPHh1drKpIfTilFbCPlp53GM2Gb-QPqjkoQtiifH6iIeepCuvD7z6xCYU-IZ7VdX_KHgxojbdyy1G7Jvk0sERJEhAOecyX_5pkSLqmwm2x-LCKe8DxuKoeKig87Wxvb8lizNe-e8Kn",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJIbL1My2roA0RsfbeAxWEK6g",
+            "rating": 4.9,
+            "reference": "ChIJIbL1My2roA0RsfbeAxWEK6g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "Zone libre - Atlantic free zone Lot n°l1.236، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

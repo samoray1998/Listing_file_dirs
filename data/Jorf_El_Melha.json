@@ -1,0 +1,254 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2307551,
+                    "lng": -5.725761599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.23216932989272,
+                        "lng": -5.724361170107277
+                    },
+                    "southwest": {
+                        "lat": 34.22946967010728,
+                        "lng": -5.727060829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lafdil Car - Car Rental",
+            "photos": [
+                {
+                    "height": 3000,
+                    "photo_reference": "ATtYBwLzXUdOoyRa9at7XwtVo6hy9W2whf2ybSiTclwqZ-ICZ9ZEUOt5_QKRILZV0R9wQ7nq1oBAcCaK0KsQYVe7r85PetFy5jqhFLlfDYMvyousdxjCZsC-Aid_IZMF7Xw198owx4T7MbDFXKFDsnLPN6ZinStTQ3tUGGDwxc2v8fvmM1ze",
+                    "width": 3532
+                }
+            ],
+            "place_id": "ChIJwenhSmN9oA0ReDFTqS3gTCA",
+            "rating": 4.9,
+            "reference": "ChIJwenhSmN9oA0ReDFTqS3gTCA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "95 lot kods sidi kacem، Sidi Kacem 16000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9897331,
+                    "lng": -5.9073139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99099722989272,
+                        "lng": -5.905873620107278
+                    },
+                    "southwest": {
+                        "lat": 34.98829757010728,
+                        "lng": -5.908573279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HAJ BEN ZIAN CAR Location de Voitures",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwKOr__QTg8iD-Nw2kKF5uam75XELll_LVn0NONCGS8qy-4_3u00OyjAtPanqBOMcXtv0wnbsK6f-uWDNkS9EW8MTns76VHN7R4CzhdEdRXCsU6-m3l7xBUfa0lAE5TlCDafpEN9RZJxjfe7dv8ayEJbP8qHNbxwW-XIEQi4qW6E2KVB",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "rating": 3.6,
+            "reference": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Route de Rabat, Residence Ajyad,N°4, 1er Etage, Avenue 20 Août, Ksar El-Kébir, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9976995,
+                    "lng": -5.9079999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99910082989272,
+                        "lng": -5.906629920107278
+                    },
+                    "southwest": {
+                        "lat": 34.99640117010728,
+                        "lng": -5.909329579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Badaoui Car",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwL1Ibjm5sb6Q6CMeJTCZAR9RSypbH4nBNXDBchVBmrSxrRnNJB2QgKYt9rm6msReI9pWpDtvfP0MGAp2dH7PtiMw_lRdnPLQvgkPcvVhgdjwdgP-2zhs9Sgcy640RV4Htb6DFKscCqtk6wLPeZtLgyUqvHAYw82tyuicbPigB3wFthV",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "rating": 2.4,
+            "reference": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Hay Andalous Groupe A Rue 14، 5 Bis, Ksar el-Kebir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.999971,
+                    "lng": -5.900139999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.00132417989273,
+                        "lng": -5.898808120107278
+                    },
+                    "southwest": {
+                        "lat": 34.99862452010728,
+                        "lng": -5.901507779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location de voiturs كراء السيارات",
+            "photos": [
+                {
+                    "height": 1253,
+                    "photo_reference": "ATtYBwK10JuCGXTTLxuKmOvuSh5uUGUFnt2QBrfgtgsTEqv8AFS8ODSKRdq0z8xlKOziKMq3kTb3BjKRJRbTMxjvVy5l-RFXaillSnYaLP1NvIst6rNNcsC2T823CK18jB1eBAcTJf-S36R7CnEWKOPCPdxY74GVPB2l8v9fPsHy5RKbjNWa",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJZ9qQdPZNCg0RUXnBuizp27U",
+            "rating": 4.0,
+            "reference": "ChIJZ9qQdPZNCg0RUXnBuizp27U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Ksar el-Kebir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.596354,
+                    "lng": -7.615233000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59770752989272,
+                        "lng": -7.613965620107279
+                    },
+                    "southwest": {
+                        "lat": 33.59500787010727,
+                        "lng": -7.616665279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Maroc",
+            "photos": [
+                {
+                    "height": 498,
+                    "photo_reference": "ATtYBwLsWq5E2ppbsZSTOLu93K5NdaGA-QutplsoVxVQkHBMHg1koHOLfTK7FPSlV2VSuxcuQim0dFoEXl0GqPPMx6TDj-iY7daN97FYszHWrxPKIsOsPP03jl2mSMO47ImYXi9c0y2Z4WLub3_GTxAUOcCVxCWQ3b66odc89AmyQrogY4U7",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "rating": 2.4,
+            "reference": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "25 Rue el Oraibi Jilali, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9869381,
+                    "lng": -6.8192846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.98837247989272,
+                        "lng": -6.817996820107277
+                    },
+                    "southwest": {
+                        "lat": 33.98567282010728,
+                        "lng": -6.820696479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RACMIL CAR",
+            "photos": [
+                {
+                    "height": 1120,
+                    "photo_reference": "ATtYBwKxmScJxkgzK3sEW05oeaHk9GmHkVQa73ROZmfpSXav3AR0rT71SOob-cN0ttlFi3hF5bhfA0uZKwUkEHDzcaFo4kFRX9fhkLd8Cl8owZsoU-e5vfI9JTUjbS3FVjCo7fq6-YB0tc0suvDhMMOZn9a_I5h5GIbJIDFTWmQh43NRrULL",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJGye5_mlrpw0R-1JxBI_II-c",
+            "rating": 4.2,
+            "reference": "ChIJGye5_mlrpw0R-1JxBI_II-c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Ave Al Haouz, Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

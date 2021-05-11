@@ -1,0 +1,620 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1483151,
+                    "lng": -3.8501443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14967612989272,
+                        "lng": -3.848817020107278
+                    },
+                    "southwest": {
+                        "lat": 35.14697647010728,
+                        "lng": -3.851516679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Aharchi Car Imzouren - Location de voitures Aéroport Al Hoceima",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKPu4XRqsRLbk_9FKKbLoRG8wO3ei8JNq0q5azbRP3TkaEyRV_W1l7nhlpAi2qJ5oxhjPWtMHC1-_Pk2cQgVc-tiOt-4UTReikaaq2DnDqgPK5LPz_TgNuvQLaM9cg2nsphFjpSQL1CDcFDVZCqBoPXlBmQNZnva0zcCGaoQgRPOqrf",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJu37LADnTdQ0R95Jjh39F9m0",
+            "rating": 4.9,
+            "reference": "ChIJu37LADnTdQ0R95Jjh39F9m0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "53 Rue 03, Imzouren 32250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1481086,
+                    "lng": -3.847113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14921252989272,
+                        "lng": -3.845754870107278
+                    },
+                    "southwest": {
+                        "lat": 35.14651287010728,
+                        "lng": -3.848454529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Aharchi Car",
+            "photos": null,
+            "place_id": "ChIJzaaMxXLTdQ0RF6ntIugYPKc",
+            "rating": 5.0,
+            "reference": "ChIJzaaMxXLTdQ0RF6ntIugYPKc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Imzouren, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1746952,
+                    "lng": -3.8644821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17607237989272,
+                        "lng": -3.863166270107278
+                    },
+                    "southwest": {
+                        "lat": 35.17337272010728,
+                        "lng": -3.865865929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Swani cars",
+            "photos": [
+                {
+                    "height": 634,
+                    "photo_reference": "ATtYBwKdetBUlBXLWo0YvSDJttfbn9Kzg3xU4Itj1EBgoc-EIUBnFrqIdJyAVefFlzhYaeHAPCYkOEt0geodlRksGZkoj7c5g1oYe6IRPItcCNMhLGsMk_M0XL7baJM80Eyi8jgxk20EC2cbgr9ATe-99LF4PzeSUA9rEN0udEv_uZBR-l0O",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ7-ZAMr4tdA0R9IDQTCvR8vM",
+            "rating": 5.0,
+            "reference": "ChIJ7-ZAMr4tdA0R9IDQTCvR8vM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "Unnamed Road، Ctre Ait Youssef Ou Ali, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.4552745,
+                    "lng": -7.5101643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.45664207989272,
+                        "lng": -7.508829570107278
+                    },
+                    "southwest": {
+                        "lat": 33.45394242010728,
+                        "lng": -7.511529229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BOUKHOUIMA CAR",
+            "photos": null,
+            "place_id": "ChIJsQifDQM3pg0RoNNh5962I-o",
+            "rating": 0.0,
+            "reference": "ChIJsQifDQM3pg0RoNNh5962I-o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Residance Anas 3 RDC N 12, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwIb1yIR-pwykjgUr5Gz2iiYGDsh7fL12sx_kxBTQP7BINelSEACNLPbj4t_IFj6DyckfjA7lOWacZOTurPtczgPpkdJUZKFilZH5HEA4VxWBsTBD2U2UHHZI7_cMRJMl8FvWOUm5ipMOiObBwlyYUzAd7cjpqctg6K9IiL6oTl-2tH6",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.50810269999999,
+                    "lng": -4.881495699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.50945252989271,
+                        "lng": -4.880145870107277
+                    },
+                    "southwest": {
+                        "lat": 36.50675287010727,
+                        "lng": -4.88284552989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Marbella",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKuAaSqa4Nt1y1KBm229m2GbDm3Td5vKC8VTz7vTS7n6LgS2H09VsPJonffW2jqMI2Vp9WWVfIbRW9kK4Z4Z7H9gO50R5tMrsrzFecTtHx3mGK89-XRCam8YdeF29Y3R3HsKBkdnPwNN4BFhU7bd6LacCFPGrkZAoYhQGAbkWF0XLEh",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJxZV6tooncw0RcnwNpcxmLZ4",
+            "rating": 4.2,
+            "reference": "ChIJxZV6tooncw0RcnwNpcxmLZ4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84,
+            "vicinity": "Complejo Miramar, Av. Severo Ochoa, 6, Local 4, 29603 Marbella, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.5941667,
+                    "lng": -4.5219444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.59551137989272,
+                        "lng": -4.520586120107278
+                    },
+                    "southwest": {
+                        "lat": 36.59281172010728,
+                        "lng": -4.523285779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Benalmadena",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIo4gXoeCl6zArcuA9hR-Got-4iK5HFlO2OywO165LqdpDlgupYJ-Knb-hptZPcOMfTlHrWPB1hn9WvTmAfSnFdTj9zCLVKrVdtMHQi2W6T3szbuDqyCknqq60n4HRfLImom6uMpsgaca7SF1NPPXf0yUCFq7_5zcvAI-o-sURE1ofm",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "rating": 0.0,
+            "reference": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Only Delivery And Collection Tl0034 639240516, 34, 952475789, 29630, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKYIShfkSPtZZoIyhiEy4ccygXoG65mijRX7Q0UeN2r3UZminDKCmHOEuSFr2jC6m-1ZI6ig-nTLoEEJsz6uq7WYzZs9Hx9pDYMpjb5i_ELJHbQ05-Zu-JSXHX2cy62lRAQjbkyH4mEYD_8yR3UZu9VlTYMIiygyWl-iC-AZ5xqA2Pn",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7120267,
+                    "lng": -4.4345412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71343907989272,
+                        "lng": -4.433215520107278
+                    },
+                    "southwest": {
+                        "lat": 36.71073942010727,
+                        "lng": -4.435915179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Estación de Tren de Málaga",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJ3FHeK_EMGiL2wwmrqbFqeC_6TYObuyJGaoVcl3c5vgF-UKWmGY17vPqovVe4bsq2tB9eXOQqHgqCLiZ7avGYba6K6doNHBLD5nuDW6i98pLgtohgccQYRP-JQt-o8yD6itfw82q8rP1Q7aWa8S5IzFejnZsgtsIYcdvJImO_KXzeL",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJK3qPHZv3cg0R-4nsmApGAUY",
+            "rating": 3.4,
+            "reference": "ChIJK3qPHZv3cg0R-4nsmApGAUY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121,
+            "vicinity": "Estacion Vialia Maria Zambrano Parking En, Calle Mendívil, 11, 29002 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7115942,
+                    "lng": -4.4321443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71276907989272,
+                        "lng": -4.430692920107278
+                    },
+                    "southwest": {
+                        "lat": 36.71006942010727,
+                        "lng": -4.433392579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwJUEXqBour1dqwUuO72jNgMeA0hOkmpWpL3Dw_JPm6dF5twpZgMbEgXLVn761KVew85uJgf0TudF1-gDLclOaD8ZwLDwC5EP2vCuWWjjn1Z8sNWIj7iL40xeGKprG_34pQ5lMy2RCu9EkMClHPQIhdfF5B5bYQmx7UOgjgG8RWw9khm",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "rating": 3.4,
+            "reference": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Calle Explanada de la Estación, s/n, 29001 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.550961,
+                    "lng": -4.61461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.55231082989272,
+                        "lng": -4.613260170107278
+                    },
+                    "southwest": {
+                        "lat": 36.54961117010728,
+                        "lng": -4.615959829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Fuengirola",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwJD7YHDZ-3VImjOn_IjQPSk25p0ClnyLUFoSRM33J341VLfb4q-sOobFRoFGlNiVqNP2_3WzLNKgkR9Eus9kaBIx9Fwz4kELE1EmHORrPYOx-caOvSB9BnvrYovBd4CLKaHkqjALzHkMFrL6NPFytVrheGrhP_Z1jUtjTMHJx9uYs1r",
+                    "width": 2160
+                }
+            ],
+            "place_id": "ChIJEwwFE1Dicg0RJs2tWDnXl8M",
+            "rating": 3.0,
+            "reference": "ChIJEwwFE1Dicg0RJs2tWDnXl8M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Paseo Maritimo 64 Galeria Comercial H Yaramar, 29640 Fuengirola, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1296226,
+                    "lng": -5.439741199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.13074867989272,
+                        "lng": -5.438915570107278
+                    },
+                    "southwest": {
+                        "lat": 36.12804902010728,
+                        "lng": -5.441615229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwI4eSFHU7S--g6UI_WuBK7p5I03gMxugQt-2CWoHwur7HGhXESRlMUetVassvzqhyI62rk2WCcihUNA1VRxw3h-bw51qf2j8lghpKnyGWpZjXkkju7m1s6ZsfHHb9jRNsRY4X-LbhaWxC5q2wqEGspQ3gsJeMHuCZqpKIYYrnJXH08e",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJp-HZh9CUDA0RFLCaxbWLd3U",
+            "rating": 3.6,
+            "reference": "ChIJp-HZh9CUDA0RFLCaxbWLd3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115,
+            "vicinity": "Estates. Maritima Puerto Algeciras Muelle De La Galera, Local 25, 11201 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6358327,
+                    "lng": -8.0151445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63712932989272,
+                        "lng": -8.013764120107277
+                    },
+                    "southwest": {
+                        "lat": 31.63442967010728,
+                        "lng": -8.016463779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nova Luxury Cars : Location voiture luxe Marrakech - Rent Luxury Car - كراء السيارات الفاخرة بالمغرب مراكش",
+            "photos": [
+                {
+                    "height": 313,
+                    "photo_reference": "ATtYBwKBGaEnMcNsPLXMkBEtU0u5ltg8BfqXsaFCWdrbtKNb_4wFa8prR7VomOdJmbKKqFrYSwYqSsXwJWmX98J6BS2YqdUWtQDU79DwbNHh7xjOe1ZqjtPvsxnC9xFAKOnxqz9BAMDM3xWgJLoMpAe5Gzn9QOOAV5Faz4RZ5-UCVrhj3fcm",
+                    "width": 848
+                }
+            ],
+            "place_id": "ChIJ8W9aKpDurw0RSNENST1Fyy8",
+            "rating": 5.0,
+            "reference": "ChIJ8W9aKpDurw0RSNENST1Fyy8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bd Zerktouni, Imm. Colisée Appt N°4, Guéliz, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.6723301,
+                    "lng": -4.481449599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.67358407989272,
+                        "lng": -4.480157670107277
+                    },
+                    "southwest": {
+                        "lat": 36.67088442010728,
+                        "lng": -4.482857329892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Aeropuerto de Málaga-Costa del Sol",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIsliJsl5q1WvH9xfEI7M19TG7zHtp5W4F1ZGCSXqmxEpFKFo02EoJfgcYVnD92y3E1sZwkoRfxTExoEPATMQ2u-DuVqmd0AyWp-rAuYmeAnUL7L9fyJmM-IXtAc4nvlYxJjVeaRsK3Ow7eIyHfviM0Zxzo_5xdo6wCuBzmiF3TX0UU",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJZ9cyVD36cg0RdA4zWdb6kgA",
+            "rating": 4.3,
+            "reference": "ChIJZ9cyVD36cg0RdA4zWdb6kgA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 253,
+            "vicinity": "Av. del Comandante García Morato, 22, 29004 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7111485,
+                    "lng": -4.4692627
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71249832989272,
+                        "lng": -4.467912870107278
+                    },
+                    "southwest": {
+                        "lat": 36.70979867010728,
+                        "lng": -4.470612529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Málaga, Marea Baja",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIwl5jFxSGrR9DCAVFQnqyU1YKMmv72jFDLeaS9h2kmYodhIuDET6IAP3iOOC9ySuTR6IMxuNTInOnGeDJSkRHJr_H1EYBQcnBll5denIRtAlLKKRbWetnKng8d7kqruwFbs-8Swn4UNFWwcdD0mz3n_2RwGxJDPRAIuvRZnLPf5myx",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJSx6Ie0X3cg0Ris8QBprEV7s",
+            "rating": 4.4,
+            "reference": "ChIJSx6Ie0X3cg0Ris8QBprEV7s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92,
+            "vicinity": "Calle Marea Baja, 11, 29006 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.780008,
+                    "lng": -5.805581999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.78136237989272,
+                        "lng": -5.804219070107278
+                    },
+                    "southwest": {
+                        "lat": 35.77866272010728,
+                        "lng": -5.806918729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SEMLALI CAR",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwJjwo_kIfB5muK2AiduJuL2iTd0mv7acz7jhD6Dvny-nH60Ror2shnTZPY7rl1ofmkCC0Ckt3kAabN9h1p3MRpe2huNlgkl7HIeoEcx4th-uP9kY6FUt-AHJlMxgmPXdAhm4oSwUJtoDHuRyk2tKSE9-kKtYJkqGtsg1QBu0-BKCSRN",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJddpUOld_DA0RBaVJ_tgRtAM",
+            "rating": 3.9,
+            "reference": "ChIJddpUOld_DA0RBaVJ_tgRtAM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Av Med 6 Rue Antaki Residence Cosab N 3 3 Etage N 54 Tanger.GSM:0661301460, Tanger 90000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.823439,
+                    "lng": -6.065089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.82475052989272,
+                        "lng": -6.063674970107278
+                    },
+                    "southwest": {
+                        "lat": 33.82205087010728,
+                        "lng": -6.066374629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "GLBOOKING - Location de voiture - Agence Khemisset",
+            "photos": [
+                {
+                    "height": 583,
+                    "photo_reference": "ATtYBwI9cfRQGYIjHo4djQiIfX8vsg1rAlveJXijE3Xn7CgeRelqVaIdU1SpUt8udU5R7i-fp03qqzWJdjJEMaonefexbH6ejMUyVivq0HazwVGdjPtSHr_ROIyfrj_Yt_FkFh98kNIbrEQ5hoEasAo1X2xn7R7uqZRGoPXviLe_uDxEBk0h",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ6fvdmmDdoA0RR6wA8jwYQRc",
+            "rating": 4.3,
+            "reference": "ChIJ6fvdmmDdoA0RR6wA8jwYQRc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "numero 24 rue cadi ayad، Khemisset 15000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

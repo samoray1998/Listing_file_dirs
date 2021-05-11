@@ -1,0 +1,130 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3440221,
+                    "lng": -6.3414787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34535642989272,
+                        "lng": -6.340048020107279
+                    },
+                    "southwest": {
+                        "lat": 32.34265677010727,
+                        "lng": -6.342747679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auzia Car",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwLYQ_MKhoseytsub_TfAsA-vuY220iIkXIIhMj5c-WnPKV0xTKhe0Z0bJ5EyCii0bX7-KdXCfHaitEfY01Z28SX8yEgjhQI96SGUOHaiL_1bY6SlSo_HmEb4FYd5HvNCeM-U0w18nrJFdh-_8FTea3bI77oaAsAiRM51xjQVk0aeQdH",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "rating": 4.5,
+            "reference": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Boulevard Mohammed V, Dyar Al Atlas, Immeuble 6 ,2 eme etage , appartement 8, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.5658319,
+                    "lng": -6.0286688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.56715222989272,
+                        "lng": -6.027320120107278
+                    },
+                    "southwest": {
+                        "lat": 32.56445257010728,
+                        "lng": -6.030019779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Choix Car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIJLiePPKuPyqDc4voy0niHWJS6cLyuMk7DiNHruoPyCzWvb3wyjgzZB5XA2giyiZ0cGXZVuHSP3q_vKzxpAu9S6X4cPh3GnSo9O3JUcNk1i14Eb7JRjPQnCUhyqGj8NMBdkhR_KLD-IoEHs_VBb3mI6H7v3Aq6iOiAFCkHtosEoXwM",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJOR_3W3C_ow0RebMtdlMPZDg",
+            "rating": 5.0,
+            "reference": "ChIJOR_3W3C_ow0RebMtdlMPZDg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "Boulevard Bir Anzarane, El Ksiba, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.8875282,
+                    "lng": -6.919772399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88886067989272,
+                        "lng": -6.918362970107277
+                    },
+                    "southwest": {
+                        "lat": 32.88616102010727,
+                        "lng": -6.921062629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Sindibad Car",
+            "photos": [
+                {
+                    "height": 1441,
+                    "photo_reference": "ATtYBwIa9EaZ-UNMgsDJdp5g4SVX7yZmDTmPe4QMYrzmKxt_Lg1alU9hVJLsQ-M1LmZ7sy_95LR7r_qTGnc3X1XqLiMYE-b9kxZp51AaAaRWUJueQrWEXYL-L1k7Yeea0hG7bJSB0wT16Umza_JJaBO1KyyO_3fux87ZqyAqWhZSi1oyJIRr",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-1ASJ9EnpA0R-qUnjr9IOVk",
+            "rating": 5.0,
+            "reference": "ChIJ-1ASJ9EnpA0R-qUnjr9IOVk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard Brahim Roudani, Khouribga, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

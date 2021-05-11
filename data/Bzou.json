@@ -1,0 +1,346 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.499094,
+                    "lng": -6.695083400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50044287989272,
+                        "lng": -6.693733820107278
+                    },
+                    "southwest": {
+                        "lat": 32.49774322010727,
+                        "lng": -6.696433479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Deniaoui car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwK4lIyHou62IvGLRqSFcICgmdjeqb0o5q08CSMBMMLUdAhnc5LGZTv-wtKAVtlok8WWBLcmjD1tetIEFdk2b-24PGUp7k5zeZGXn_OV-H9J3WaOJ_sEgGfded-7be30QymRVqiveZoEU0b0oiVkrwM12gvHFQFp6X8QK-Sz5k8_JMGF",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "rating": 3.7,
+            "reference": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Fquih Ben Salah, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.4988291,
+                    "lng": -6.6871038
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50017547989273,
+                        "lng": -6.685670820107277
+                    },
+                    "southwest": {
+                        "lat": 32.49747582010728,
+                        "lng": -6.688370479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "DN Car وكالة كراء السيارات",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwJqNOY7ngYSG85msbRg_jwvxiCteZqnQUsN3TI4y1wyEii7wJVX-9xQ9EUCKodzSIlLl_XRjASSnPxVzEAxHI-vjm1ZK_58AN4ubLIejAKkP4ziiWmJMisF81lm32-3eJpN9WTJQTdknpK3OC7C1ntubWeBwI-eLg4tJX3voA5jLYTz",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJYeo_GgtrpA0RQTL6L_fk1OY",
+            "rating": 4.1,
+            "reference": "ChIJYeo_GgtrpA0RQTL6L_fk1OY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "198 Avenue Hassan II, Fkih Ben Salah, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637114,
+                    "lng": -8.0120094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63841007989272,
+                        "lng": -8.010631470107278
+                    },
+                    "southwest": {
+                        "lat": 31.63571042010727,
+                        "lng": -8.013331129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LabelVoiture - Location Voitures Marrakech",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwLrqTWWW5IzMUoqHab0ayZEEpns6wq4Tnv9VqeWrUlXw9yeH1aGd_QSlYmOG_5fPEsWtGZ3k_hNc__fGwTOa1K4HeiFXoGRxfR7UTBURHpUSyWzW3cuh6H_IIStCQ0Y-4rDLmiSsBMX73BioaDqRYTdvDsMJr51VzKi0NHIlWGbIKBG",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "rating": 4.8,
+            "reference": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Bd Zerktouni, Imm 90 1er étage Appartement N°20, Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6386631,
+                    "lng": -8.060158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63996507989272,
+                        "lng": -8.058803770107279
+                    },
+                    "southwest": {
+                        "lat": 31.63726542010728,
+                        "lng": -8.061503429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location appartement Marrakech - achat - vente - villa - conciergerie - Maroc",
+            "photos": [
+                {
+                    "height": 274,
+                    "photo_reference": "ATtYBwLvvzWTDltwtNLZ3I8zs7WrYWwcA9LC0Z_YTqhagI_o0A0pVBIKd_V9JME0yqt-P2UCUZpJq1ucLTbonF86K6mowSDrUjIbHC1WX2G1XhzjxgpxU_28xlT_jRxjysNm5ppmW7DQfm8d6JMkmv2NNg3umnEVgiupdeNkoPpSeifxIZ2b",
+                    "width": 487
+                }
+            ],
+            "place_id": "ChIJwzU5JgHprw0RAkXgGUyTWhw",
+            "rating": 5.0,
+            "reference": "ChIJwzU5JgHprw0RAkXgGUyTWhw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "null",
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "APP 16, Avenue Al Kantara 90 secteur 026090 Al massira 1 C 90 Imm Al Amane, Marrakech 40140, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3670393,
+                    "lng": -7.5732537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36839362989272,
+                        "lng": -7.571884220107278
+                    },
+                    "southwest": {
+                        "lat": 33.36569397010728,
+                        "lng": -7.574583879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transport personnel Casablanca Maroc - Transport Touristique Casablanca - Location minibus Casablanca avec chauffeur",
+            "photos": [
+                {
+                    "height": 538,
+                    "photo_reference": "ATtYBwIf4QRX9ObPUA8sYzaQgfNcsU6jgE4gzhdAXRpM4QvHv96_Nl7qeZnq7D_zubDqqYSyiWj9xlj0Lt-0hCdfpdFTJFpmAE-mdapJpz7v_lVyXi04CCcCO-gewFerkcS9DqdQqb-1rkvDd3STx9ZlYnzkQonp_sXeNFTLSYDkH03qHPPo",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "rating": 5.0,
+            "reference": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Zone economique EA 231 1ere Etage Nouaceur Casablanca، Dar-el-Beida 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6259427,
+                    "lng": -8.0249411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.62733827989273,
+                        "lng": -8.023487020107277
+                    },
+                    "southwest": {
+                        "lat": 31.62463862010728,
+                        "lng": -8.02618667989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Anaconda Tours - Tourist Agency Transportation Marrakech",
+            "photos": [
+                {
+                    "height": 479,
+                    "photo_reference": "ATtYBwIz19ayg-3HG8ncQcOjKkWnqZmGc2QK4vuPmqCNh-kR_fmwaaBUk-cVH1GmO--SVjeTDWmjHLVxUodMGFr1WqBDzh6rH_wUDmnKaeVNNntTl4XWIwBcXo-EkjGcOKJ85mAy8MVzuTIrpCZaA4bZK2RUmJm3HV3_hb5NWXk85R4j380z",
+                    "width": 958
+                }
+            ],
+            "place_id": "ChIJaxEOGMHurw0R8-l28V0bB1s",
+            "rating": 4.6,
+            "reference": "ChIJaxEOGMHurw0R8-l28V0bB1s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Lot villa, Avenue El Idrissi, Marrakech 40130, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4173708,
+                    "lng": -9.56402
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41874062989272,
+                        "lng": -9.562635970107275
+                    },
+                    "southwest": {
+                        "lat": 30.41604097010728,
+                        "lng": -9.565335629892719
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AUTO 22 - Agence location de voiture agadir aéroport pas cher",
+            "photos": [
+                {
+                    "height": 920,
+                    "photo_reference": "ATtYBwJ7R0QUMTVteaS9n-7F9L7vwWYkwfUyOImROUa75CvnTKLh3xEJMwTYfurxPtfa6m0TXs8QXJLu7CGD4o1Afz4Vo_agADEcDBlntKQ6vYwSUoYK4E4A9K__1uR956lkuDxBBERQGxqomUevI9rZdWgbOqYKprVb4R2ktLNc1BvlW08U",
+                    "width": 736
+                }
+            ],
+            "place_id": "ChIJIQHvra3Hsw0RazV8yVVhetQ",
+            "rating": 4.8,
+            "reference": "ChIJIQHvra3Hsw0RazV8yVVhetQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "N 11 EL MOUKHTAR SOUSSI 01 AV ABDERRAHIME BOURBIDE, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5728366,
+                    "lng": -7.688233399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57419912989271,
+                        "lng": -7.686835870107275
+                    },
+                    "southwest": {
+                        "lat": 33.57149947010727,
+                        "lng": -7.689535529892718
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taxi Maroc - Taxi Casablanca - Transfert Navette aéroport Casablanca - Transport touristique Casablanca",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwKjfgeOq4A4R4D9oZMbXMpTP67nLE4F-1kjSgw-yOWudeSMtAdobCrq6eerYO8fBIF3A-rKPZzNVuJ30hMT53cI9MOxxPZ3naMEOOEkZLq0kr91fLIWVgsB2_AIYWDX-96UgJE6kcKbyq6wJhM7qlXfDkFV0K7HmZeHCAGHlhM8dyif",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "rating": 4.8,
+            "reference": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Group I rue 175 n° 16 oulfa Casablanca، Casablanca 20220, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

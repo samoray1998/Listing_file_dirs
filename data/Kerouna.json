@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6375373,
+                    "lng": -8.0130832
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63892807989272,
+                        "lng": -8.011759770107279
+                    },
+                    "southwest": {
+                        "lat": 31.63622842010727,
+                        "lng": -8.014459429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Green Motion Car Hire Marrakech Downtown",
+            "photos": [
+                {
+                    "height": 268,
+                    "photo_reference": "ATtYBwLiASqgDisDXaHa6nc5HhnL1wchMSTv2HiCKSFE0_vJQBZm6YeYuQBA7DWPG2EdG2-K2tXJFEbJuHge7oClvdbp0qAPnzObEMj-VNaVBhlkGIsC464RWzXjNM49ROp-lGstu2vnP_FXCTarFpB3hHQM6R1PkKpA-9-YopW8TDZ4Y4dM",
+                    "width": 940
+                }
+            ],
+            "place_id": "ChIJRwiG8bDvrw0Rhfm_qg_Ot2E",
+            "rating": 3.2,
+            "reference": "ChIJRwiG8bDvrw0Rhfm_qg_Ot2E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "77 Rue Moulay Ali, Marrakesh 70000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

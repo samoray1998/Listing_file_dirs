@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3440221,
+                    "lng": -6.3414787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34535642989272,
+                        "lng": -6.340048020107279
+                    },
+                    "southwest": {
+                        "lat": 32.34265677010727,
+                        "lng": -6.342747679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auzia Car",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwK6cUUh0E01BACucA91AbcYDlI9I4NLkPszWGKY-2niySu738STH9458bhpeo5yEw2jqM91-J2J0fWCgBbyRF_7ytSLxX4ngI0nYiW0dZc_79NaWEA1bW4S7sCMM8aDsRl701e28r-z60zGpmnmqely1pQm6LQXSjXm11VaSAVOZURf",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "rating": 4.5,
+            "reference": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Boulevard Mohammed V, Dyar Al Atlas, Immeuble 6 ,2 eme etage , appartement 8, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.499094,
+                    "lng": -6.695083400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50044287989272,
+                        "lng": -6.693733820107278
+                    },
+                    "southwest": {
+                        "lat": 32.49774322010727,
+                        "lng": -6.696433479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Deniaoui car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwII45J2W7KMJmdSPvxP0EPxzxvoF9gV_g31zid3VeKgY7O08WCwcIqpNEhacx9Q0yrLZXX6r0tyGJW9k1t9BtDT30H2xsZ-o0HWS7KIHeOrH6Kyb06P4zbbuhKIVqelQ53rv-YLoiq3BpHsy86_ncRZUCLkh3NcNy9-M1HihjIR5sIV",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "rating": 3.7,
+            "reference": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Fquih Ben Salah, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

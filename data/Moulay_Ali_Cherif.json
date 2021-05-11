@@ -1,0 +1,130 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9211983,
+                    "lng": -6.915671499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.92258752989272,
+                        "lng": -6.914378120107278
+                    },
+                    "southwest": {
+                        "lat": 33.91988787010727,
+                        "lng": -6.917077779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location Voiture Temara ®",
+            "photos": [
+                {
+                    "height": 300,
+                    "photo_reference": "ATtYBwKzkoH_W-ugLHpgN4Ok1qgqRLG6f56t2TceeXGw1F4CpyIec2yfXvnFGGSMuqEqF9Gvtk1q3XJ5B8bcrdrcCq7aoIvMR2PyLMQHtVkF136hDDkiigQYCN_tRVQ9B77IrU48lOYJeAIvCDiktDux_jz5jtl4VUV546JZefCtkzvpraHv",
+                    "width": 534
+                }
+            ],
+            "place_id": "ChIJxxFGp4UPpw0RglN4F0rMnLg",
+            "rating": 4.7,
+            "reference": "ChIJxxFGp4UPpw0RglN4F0rMnLg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "Avenue Mohamed V, Témara 12000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5392266,
+                    "lng": -7.5984397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54056852989272,
+                        "lng": -7.597126470107279
+                    },
+                    "southwest": {
+                        "lat": 33.53786887010728,
+                        "lng": -7.599826129892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Glbooking - ASF Rent Car",
+            "photos": [
+                {
+                    "height": 397,
+                    "photo_reference": "ATtYBwKVnhWZHzc-EkV6HsFxkAEAhA4fDDrWrAlKrxnbMny-nV1-RfRAFzppZbXxgDcqR87a-Vvze47axPuLMHjqKH6FzzvhPt_Htmq3T9CiAFo16PzWPfgWXTtiEfva36G_DrznsWXFBrnla3tCx5Ij73qX4yFRCg-_W9TCiWhe_FwT8Mpr",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJ61-6S0ozpg0RKnHwoqEWp1E",
+            "rating": 3.0,
+            "reference": "ChIJ61-6S0ozpg0RKnHwoqEWp1E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "groupe L rue 148 N° 7 hay Oufla Casablanca, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9444319,
+                    "lng": -4.401144899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.94587772989273,
+                        "lng": -4.399715520107279
+                    },
+                    "southwest": {
+                        "lat": 31.94317807010728,
+                        "lng": -4.402415179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence GeniLocation",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwL4eupnKF4NhgJuGH0UQY1Jv7r-nU93YLqqbUe_osfu0aXk9eiCCnSMOqYkrBY3x9Ys3WB8DEcy1bdImNT_GnWPgJ5aY5-rGWMAZJ0ne191ZcCDnxTbAqadddBE9qlZEvcrm_lBjKLp3VjeZm93Jfq_o-MPovxC9sKwkzHgXf05eqxL",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ8USqXp5LmA0ReYyLY7BK8UI",
+            "rating": 5.0,
+            "reference": "ChIJ8USqXp5LmA0ReYyLY7BK8UI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Aéroport Errachidia Moulay Ali Chérif, 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,708 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9930717,
+                    "lng": -3.0288848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99442152989272,
+                        "lng": -3.027534970107277
+                    },
+                    "southwest": {
+                        "lat": 34.99172187010728,
+                        "lng": -3.030234629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Aéroport Nador Al Aroui",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwIXzueCF2m9KIjlT_9AGvnaWHEbxj-2GZrtQWO21LelDuz3b-8v6I0y6O8fN3aMdo2HCnze7PGLQqCBH30Ca-fbi6USWdqR9NnJw5QsW8M-1jETVC-nlwPXH6Wf46y3k4DlU_uORAQjZA3IWXpOpyLuKSIcq9nFb6ltlcrkygrqF871",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJ_f5TU9azdw0R4ClVRXkh2E0",
+            "rating": 4.6,
+            "reference": "ChIJ_f5TU9azdw0R4ClVRXkh2E0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Aéroport Nador Laroui Nador، 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1616339,
+                    "lng": -2.9288495
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16301352989272,
+                        "lng": -2.927500570107278
+                    },
+                    "southwest": {
+                        "lat": 35.16031387010727,
+                        "lng": -2.930200229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté intilak car s.a.r.l",
+            "photos": [
+                {
+                    "height": 931,
+                    "photo_reference": "ATtYBwIvNLfqXB5HEpEmE5GIOLYbyeItgxRijvYBg6eJrCI8HBr9MelNvtkkONLNd2QQ8OBqFy8ixdsfAJGDbnbt-1bs7OQ1T8eQJbFT1gECX3llUxRXsXehvxVj1zJgCWLM3i6e5KPCEExXuUHRp2MGyM_ZeQZWAfqZYprl07iIQVaVLaTY",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJMTG7O5yndw0RMdTCjh32noI",
+            "rating": 0.0,
+            "reference": "ChIJMTG7O5yndw0RMdTCjh32noI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bd lmassira، rue al adouaa، Nador, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.993132,
+                    "lng": -3.02833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99460127989271,
+                        "lng": -3.026919470107277
+                    },
+                    "southwest": {
+                        "lat": 34.99190162010727,
+                        "lng": -3.029619129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKDRF8wSwbYJwawsVaPNzLZmw1A1Euv5aq3-I99zYkQoNsgGDQfY7u7ki-2UbSOzHPGIL4WqGpNjWaSs9o0eJj_BOgkNWBeZh6KX2_FXH8I_rziaYXcvczr5gJW1FiON_Qqlhe8geoaZXjCP4SpHsCirrRBW9XuC_YQeK0vV518RE3h",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJr14xQswFdw0Rmf9dbwi-uTY",
+            "rating": 3.0,
+            "reference": "ChIJr14xQswFdw0Rmf9dbwi-uTY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "AIRPORT, Al Aaroui 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1528884,
+                    "lng": -3.0053917
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.15423242989273,
+                        "lng": -3.004038720107278
+                    },
+                    "southwest": {
+                        "lat": 35.15153277010728,
+                        "lng": -3.006738379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MECKY CAR location de voiture",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLyXKRFnMY15viMnq5ove-cMHQ_AxfFi4V9981bBR20KbhAwp9VtGrekAqHLxLhIunT8gigfel4tKnWHnl3YOl2NhJmdunfC9MKFbIs-bux5W4o7_WLfpeJ4vmrXXzjQMWmS-M3ynDmJPXqU3ObF18SyntZH__9LB5sjx2-THmFMSoY",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJfSvKVZKpdw0RyBy2ZXM8pmI",
+            "rating": 5.0,
+            "reference": "ChIJfSvKVZKpdw0RyBy2ZXM8pmI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "21 rue allal elfassi, Segangan 62650, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9945594,
+                    "lng": -3.0241912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99588752989273,
+                        "lng": -3.022796120107277
+                    },
+                    "southwest": {
+                        "lat": 34.99318787010728,
+                        "lng": -3.025495779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AIRCAR",
+            "photos": null,
+            "place_id": "ChIJFyQS13Wzdw0RNcfrEqjhBcg",
+            "rating": 4.2,
+            "reference": "ChIJFyQS13Wzdw0RNcfrEqjhBcg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Terminal 1, Al Aaroui 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.993067,
+                    "lng": -3.028901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99441682989271,
+                        "lng": -3.027551170107277
+                    },
+                    "southwest": {
+                        "lat": 34.99171717010726,
+                        "lng": -3.030250829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKyktJSQm_J9U2V5eSQqdLbX9Z02npaFHNfClFGBLcoXUAZmN8QGm8oQAlcAgm9lLi5FqzaBzXvixdGEpXwQiXI59qy1qvDd6I2ogDb6_fl-WOKno7L03eVgYxrl9kQnGEmb0FDyNSzHypWreKwGPL7bYZzNRS_yAxTebu02FKEDLEg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJQ_AlCg-ydw0R8-UYmVnKdwA",
+            "rating": 3.3,
+            "reference": "ChIJQ_AlCg-ydw0R8-UYmVnKdwA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Aeroport, Al Aaroui 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2771371,
+                    "lng": -2.9573788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.27843427989273,
+                        "lng": -2.956153970107277
+                    },
+                    "southwest": {
+                        "lat": 35.27573462010729,
+                        "lng": -2.958853629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "OK Rent a Car - Melilla",
+            "photos": [
+                {
+                    "height": 2340,
+                    "photo_reference": "ATtYBwKkozluNEltiyhRli_p59olcZ-2rtSMqLwOjLFuQDeJ4mRpbVovLyBI_Y9rL7b55L-z2n3tovetnL6XE73ng1nqRk2nKAfE3ZzsY2afMSRO08XwubX20zmUXN303MUpOB5w0leu2p06k1TbH7ery0Jw01GrOMzJuENEByWpx-da8Ba3",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ0QVS_-cFdw0R0r6LfOtJWjQ",
+            "rating": 3.6,
+            "reference": "ChIJ0QVS_-cFdw0R0r6LfOtJWjQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "Ctra. de Yasinen, s/n; aeropuerto de, 52005 Melilla, Spain ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.017246,
+                    "lng": -6.835067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01858067989272,
+                        "lng": -6.833680470107278
+                    },
+                    "southwest": {
+                        "lat": 34.01588102010727,
+                        "lng": -6.836380129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Car Rabat",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwL5NaGUzfEwzfl28XHpS17jPq192WifmreJ7FJNc__txZN5xIoFdwx2XE20snVLNVF9LzYSTQj-VlLJvyxkLCWn8xR4gYEZWwgESPOi3RSOzFanW8VvYFHCLyyX9XyeH_WwZDl1CQlUGwDBhMPXLM6G3SDWvzhLZ72MZPMXpWda0P7k",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "rating": 4.0,
+            "reference": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "12, Avenue Amir My Abdellah, Imm Balima V Bis, N23 C, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.04251,
+                    "lng": -5.001774
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04387707989272,
+                        "lng": -5.000410370107279
+                    },
+                    "southwest": {
+                        "lat": 34.04117742010728,
+                        "lng": -5.003110029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwICuxGRYPVLSE-Via8JthGMR6R4G9WlRs7EM9Aa7GftpmttK90T4H64pmuvywxxkt6I8YwbWTemeHN8gNxMbeZFoGefjZ9MHU0O6vERzs2XgTeeHiDX-H_OaBYY1zUQGDW097glHEunsC2JN6XWyEeSl0n41lucS0cFS_NIls36u0Up",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJY_AJOzeLnw0RMfO5TYcrnuA",
+            "rating": 2.5,
+            "reference": "ChIJY_AJOzeLnw0RMfO5TYcrnuA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Kissariat de la Foire, Ave Lalla Meryem, Fès 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.620255,
+                    "lng": -0.605977
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.62148847989272,
+                        "lng": -0.6045654701072778
+                    },
+                    "southwest": {
+                        "lat": 35.61878882010728,
+                        "lng": -0.6072651298927222
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKFe-coIRlq09r30cex1tckciY6WQeggFuqbdT5EEFbgNbGlWLSZZ1kE6LSNXVq6DOggdTcNhuUanrZurZy-tAYhnt3Ti2JYkZyENhFeNijdpGPSBQJZXuAhHnO8SYR8FYZia6Yla03SNMWP-BeobrTREv1ZCfKvvfdI-umAxbLKieD",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ9z-J9uyLfg0RXkP6SWGCf2M",
+            "rating": 4.5,
+            "reference": "ChIJ9z-J9uyLfg0RXkP6SWGCf2M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "ES SENIA CARONLINE AIRPORT ORAN AIRPORT, 31000, Algeria ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.59644,
+                    "lng": -7.617907
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59786772989273,
+                        "lng": -7.616655270107277
+                    },
+                    "southwest": {
+                        "lat": 33.59516807010728,
+                        "lng": -7.619354929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dollar Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIOfDEgG3-b5M1N4bx3uRyiiy528cSCXJOVXVKIL3-YSRCEsZx36Y7ifQ9yXKJZfjbruhQLqgwgpsYibmNEGYtfjH6976PChu1QALI-5_ZEEVp_pjk8saInZQjbCbptCbo_HUYoQbZNvwI6DErtJyXWn-7iYz9DDtChuj2XglTJvv0W",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJm7NdkOfTpw0R4xoc1LDS-yE",
+            "rating": 1.0,
+            "reference": "ChIJm7NdkOfTpw0R4xoc1LDS-yE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CASABLANCA DT, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.8422066,
+                    "lng": -2.4316464
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.84356557989272,
+                        "lng": -2.430603420107277
+                    },
+                    "southwest": {
+                        "lat": 36.84086592010727,
+                        "lng": -2.433303079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Almeria",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwK4FquHct41qX6yi48rZeTyE8uyOYeu3g05xvk0vNrcO88REnrziZVPuCaitIif95pqI7QVZoWEPkyO-7L8ySUObndSLCwRX9PD23D6Tx2kdsKfvOvHlMHN85IAkhS3J2WDsEel6miMdB3Y3Je8dLxOwtr3ll4Kezz1Ad-p2RLoUQW4",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJpfDFkleZeg0RAwwiCFF0gos",
+            "rating": 3.7,
+            "reference": "ChIJpfDFkleZeg0RAwwiCFF0gos",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108,
+            "vicinity": "By Mcdonalds, Av. Mare Nostrum, 04009 Del&colapt&rw&port+34636101736, Almería, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7754261,
+                    "lng": -2.6126838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.77644152989272,
+                        "lng": -2.611441070107277
+                    },
+                    "southwest": {
+                        "lat": 36.77374187010727,
+                        "lng": -2.614140729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz - Almeria,Roquetas de Mar - Leroy Merlin",
+            "photos": [
+                {
+                    "height": 269,
+                    "photo_reference": "ATtYBwJq41TkeKtont0PynO_DZ5TNBx1H7Vx2faxxM-0p7BzqPbFAQERDfqnnS66m1Dr4lzN2dxl3SxTWkO0UIwDr_hG5jU7ZN4NMBFFdBW77BaxdWpY8OAGPMig3qOrPMH3G_gdQkADiChgBWyY2zUbLHC9_shJWa2R_PoUMnrE-7hJnubT",
+                    "width": 450
+                }
+            ],
+            "place_id": "ChIJU9KtOyNwcA0RKB5m_egz3EU",
+            "rating": 3.7,
+            "reference": "ChIJU9KtOyNwcA0RKB5m_egz3EU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Parque comercial Gran Plaza, Carr de Alicún, s/n, 04740 Roquetas de Mar, Almería, Spain ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.5941667,
+                    "lng": -4.5219444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.59551137989272,
+                        "lng": -4.520586120107278
+                    },
+                    "southwest": {
+                        "lat": 36.59281172010728,
+                        "lng": -4.523285779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Benalmadena",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKo2M0DxyY9J6ZdJ8fqJ4OEu-lgMgode0yP5mC9ygpSkrdp1ovkoj1t4D13rYEJZ6JvFihmZtEdBVnE_Lg0x7d3a77g0gt3_HY_6iMS1uVlLmIfIT14jJPg-pmz9Jqln0yinGmNHAkBF94oUlSbmztESgJ09N-taDSlkvKh-Bdfz4_I",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "rating": 0.0,
+            "reference": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Only Delivery And Collection Tl0034 639240516, 34, 952475789, 29630, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.8478094,
+                    "lng": -2.3719523
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.84916017989271,
+                        "lng": -2.370919420107277
+                    },
+                    "southwest": {
+                        "lat": 36.84646052010727,
+                        "lng": -2.373619079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwKDFUnqAQO18XVIrAdtz4fB77UTV9kOE5UW_7rnrtiFNrdyRpMTHN1T2NA1BkQWSIxLmyT_XTOLGAUN2aAXKBht861vAAtV63zil7xPK--faRe01anpeCfLFUHqH7uhvz3-6Q_mFy0sve0ANZABMV9A5HE9mCvMBkOe8UQ-KuM2VGzC",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJp1_PYGaZeg0RWL_l_Zt6dmQ",
+            "rating": 3.7,
+            "reference": "ChIJp1_PYGaZeg0RWL_l_Zt6dmQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "Carretera Níjar - la Cañada, 04130 Almería, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7115942,
+                    "lng": -4.4321443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71276907989272,
+                        "lng": -4.430692920107278
+                    },
+                    "southwest": {
+                        "lat": 36.71006942010727,
+                        "lng": -4.433392579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwIRsHyIXTCrYroG8QpxV4E-Mx_rltigxqON90aRLgZq17AxvU_5PKxtS83yv6E3SAv-HGZP1XlDSSxenSA2XzB8udTkLsbeVX6uyODQ0b9oQUyP09qS9Si8gpzCCDzcXMn1reLjtKXcu8JD1pkbkQm03rScttmgETChPexkxnS_ZkZJ",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "rating": 3.4,
+            "reference": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Calle Explanada de la Estación, s/n, 29001 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7120267,
+                    "lng": -4.4345412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71343907989272,
+                        "lng": -4.433215520107278
+                    },
+                    "southwest": {
+                        "lat": 36.71073942010727,
+                        "lng": -4.435915179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Estación de Tren de Málaga",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKC9bR6RkqMILi4uhaTGKsQZ_h_UqimRTb5oc7lQMPJUnaAuaKpDVKewhtwzoVUtpDB3NwBYR-lnvveYGyWwhpJkfgRJ0Kz64BoPIXcvINd5M9Vp2xFNb8oSrL9tbQhkLPaTe_6gCUF9eGg5S0cGRHHymw_9X_dLuLogwWGid6Lzvri",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJK3qPHZv3cg0R-4nsmApGAUY",
+            "rating": 3.4,
+            "reference": "ChIJK3qPHZv3cg0R-4nsmApGAUY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121,
+            "vicinity": "Estacion Vialia Maria Zambrano Parking En, Calle Mendívil, 11, 29002 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

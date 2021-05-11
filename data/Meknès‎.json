@@ -1,0 +1,2959 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8549187,
+                    "lng": -5.567242299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8562920302915,
+                        "lng": -5.565950169708498
+                    },
+                    "southwest": {
+                        "lat": 33.85359406970851,
+                        "lng": -5.568648130291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AUTO ASSAH",
+            "photos": [
+                {
+                    "height": 822,
+                    "photo_reference": "ATtYBwIGkw39qo4tm1D2zgCpuOWGC10C0abgG41g0mfur-31YXCth6pwqDCiOxFOKx83U9nFPKiET2939oi4ZbYvCiy6HjTdXebbZtCGsOlRIZ5fj6NXrd0Llm-UX9Bqlgy23pQGr_yVd4uFP2yUZKQau6q4OAYrxMylFYTBDGspDzdxZ78U",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ6xpmVKlaoA0R-G-EUCiZXFw",
+            "rating": 4.3,
+            "reference": "ChIJ6xpmVKlaoA0R-G-EUCiZXFw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.901517,
+                    "lng": -5.5551583
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9029069302915,
+                        "lng": -5.553745219708498
+                    },
+                    "southwest": {
+                        "lat": 33.9002089697085,
+                        "lng": -5.556443180291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Arc Car",
+            "photos": [
+                {
+                    "height": 3465,
+                    "photo_reference": "ATtYBwLH255tkzvH5VBvwRKYvxJiawafMTbGxIEW0iK88w764C6YFFm7v9jtAZ6wPBEZdwteqQxqru100cmwL5rY5Q65D7xvmafamcUwjBPOhJdINDTQx7rbJ58dGyny6H_g_t7q_cY8ZXPoDbb2Snpagk5IwyzpnXrDyelc9QzIKZnAMvp8",
+                    "width": 5197
+                }
+            ],
+            "place_id": "ChIJ_0yFsfhFoA0RB_9e4eUIpHg",
+            "rating": 3.7,
+            "reference": "ChIJ_0yFsfhFoA0RB_9e4eUIpHg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "N, Imm.2 N°2 Rue El Manssour Eddahbi - V, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9050044,
+                    "lng": -5.574354200000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9063767302915,
+                        "lng": -5.573031619708498
+                    },
+                    "southwest": {
+                        "lat": 33.9036787697085,
+                        "lng": -5.575729580291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Arrimal Addahabia car",
+            "photos": [
+                {
+                    "height": 4128,
+                    "photo_reference": "ATtYBwIr1x7FxnBhLumXS0AFyxC67jSrGavwY_m0tqSZUXK3nCqKJPG3SGOmuRtnaIu-r_dHzdjK8GHIDn8NekJyp0k9zMMjRQP9sGXYNq4th3whPHMdRBIWnxE-Nt1e26QypyHY3sz0upp5GbZQ531GLz-eCd06Oc149-OT3ToGGrLWOcyC",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJMz7R85RboA0RrDjss9mKaZk",
+            "rating": 5.0,
+            "reference": "ChIJMz7R85RboA0RrDjss9mKaZk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Unnamed Road, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8893989,
+                    "lng": -5.500101900000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8907294802915,
+                        "lng": -5.498754419708496
+                    },
+                    "southwest": {
+                        "lat": 33.8880315197085,
+                        "lng": -5.501452380291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Asb Car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwLBxOL_RbpF8mXCfb_6ArM-c4jG7L7WsoOSNN_FSQpF7Gnj1uVexiOfIKfCqgXYFHayd7R3au_XhVdDGYzXtGcfLVjDPAQsu825AdFxpiQoQuHLDWxwbtFFTVqMQ1JlSCjBAg_d_BRfphH3ReCwS0Oec9BJvjcrm8qg8gUpp8xCTEEI",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ-VvMpLFFoA0RfQKS1ErDomo",
+            "rating": 5.0,
+            "reference": "ChIJ-VvMpLFFoA0RfQKS1ErDomo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "343, Rue 10 OLM, Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8730164,
+                    "lng": -5.540729899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8746799302915,
+                        "lng": -5.539510219708498
+                    },
+                    "southwest": {
+                        "lat": 33.87198196970851,
+                        "lng": -5.542208180291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Biblo's car",
+            "photos": null,
+            "place_id": "ChIJnw76PEVFoA0RJN1KPSPj5dc",
+            "rating": null,
+            "reference": "ChIJnw76PEVFoA0RJN1KPSPj5dc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8654349,
+                    "lng": -5.5748806
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8667941802915,
+                        "lng": -5.573526719708498
+                    },
+                    "southwest": {
+                        "lat": 33.8640962197085,
+                        "lng": -5.576224680291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CAR AUTO FRERE",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwJLeqkFREIs3p_TVkyZbVA6bThYHV2VIiSMKls3iUwqfaURfzLbmioqTqQ0H5AZyxNCJ_pDC44yLBAWqPE2aP6ItNCpM2H1-16Z7RKzmCvx6qM8xKIsVMEy1fa-3PSCB-ZpLhqoOgfzIvSkf-AV0NFSUzA3uOhG8iHBTNR_8sZQCGQ5",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJpUSq63JboA0RHFiMBDyoIXI",
+            "rating": 5.0,
+            "reference": "ChIJpUSq63JboA0RHFiMBDyoIXI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "33 ahmadia 1 pres de cafe rizana, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.899063,
+                    "lng": -5.548776499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9004130302915,
+                        "lng": -5.547427919708497
+                    },
+                    "southwest": {
+                        "lat": 33.8977150697085,
+                        "lng": -5.550125880291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Canarycar Location de voiture",
+            "photos": null,
+            "place_id": "ChIJCaRu8ENFoA0RDPiA8WGXMJI",
+            "rating": null,
+            "reference": "ChIJCaRu8ENFoA0RDPiA8WGXMJI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "8 Rue d'Accra, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8991535,
+                    "lng": -5.5455248
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9004816802915,
+                        "lng": -5.544153019708498
+                    },
+                    "southwest": {
+                        "lat": 33.8977837197085,
+                        "lng": -5.546850980291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Car Rental",
+            "photos": null,
+            "place_id": "ChIJn43Jyd5EoA0Rloc32xHIs0Q",
+            "rating": null,
+            "reference": "ChIJn43Jyd5EoA0Rloc32xHIs0Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9004457,
+                    "lng": -5.5488275
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9017811802915,
+                        "lng": -5.547483569708499
+                    },
+                    "southwest": {
+                        "lat": 33.8990832197085,
+                        "lng": -5.550181530291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Centre Est s.a.r.l",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwKUm-RrFQFNa0uwD5kOGXdd_xLvQN-UVRzpO-EadGEUW1CiIlVAWOw0mi2tofdOH3MKkgZllbwlcLyfX_zwxRfCNxNtYdZoAtzEV1waJ3rcPQ7iI80xjAudJPS7fPz0iz_Ha3Nn-nrUh6_J81G-myd9FKLjW1WZXfzTqVwcnuDz5jx7",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJtRicgNlEoA0RX-0E2bRgJPs",
+            "rating": 1.0,
+            "reference": "ChIJtRicgNlEoA0RX-0E2bRgJPs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8959637,
+                    "lng": -5.542896199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89732988029149,
+                        "lng": -5.541556919708498
+                    },
+                    "southwest": {
+                        "lat": 33.8946319197085,
+                        "lng": -5.544254880291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Clue Car",
+            "photos": null,
+            "place_id": "ChIJWboZm99EoA0R734teEK4_4Y",
+            "rating": 4.5,
+            "reference": "ChIJWboZm99EoA0R734teEK4_4Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "شارع نهرو‬‎‎, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8965718,
+                    "lng": -5.5468256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8979582802915,
+                        "lng": -5.545462219708499
+                    },
+                    "southwest": {
+                        "lat": 33.89526031970851,
+                        "lng": -5.548160180291504
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Danub Cars: Location longue durée de voiture Meknès",
+            "photos": null,
+            "place_id": "ChIJd3akljRFoA0RYfYfI6rvQCw",
+            "rating": 3.0,
+            "reference": "ChIJd3akljRFoA0RYfYfI6rvQCw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "36 Avenue Idriss 2 appartement N°5 2eme Etage VN, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8799991,
+                    "lng": -5.5652652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8813732802915,
+                        "lng": -5.563895419708498
+                    },
+                    "southwest": {
+                        "lat": 33.8786753197085,
+                        "lng": -5.566593380291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Data car",
+            "photos": [
+                {
+                    "height": 1920,
+                    "photo_reference": "ATtYBwKyAWCtNOtjFR0dIi3XthTXBRzuIPxrxXvhS53kLm8GywSi1NKPA3jk1zSFm-BwFP6ycA0uVTT-E0QLwm4u11XcNEOMPs9cr2WYq6J1QoKHzKH7FXXq6ZnCLvPK4RP1k5CJTT5AkbnD4sKUFCm5Aqw8GuTrKKfhcOY1yOq-dXIQ1zA0",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJEfyptaFboA0R9oM9KMtwzBE",
+            "rating": null,
+            "reference": "ChIJEfyptaFboA0R9oM9KMtwzBE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "شارع عبد الكريم الخطابي،, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.89277149999999,
+                    "lng": -5.4989039
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89415338029149,
+                        "lng": -5.497568969708498
+                    },
+                    "southwest": {
+                        "lat": 33.89145541970849,
+                        "lng": -5.500266930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ELAGRI MEK CAR",
+            "photos": [
+                {
+                    "height": 1587,
+                    "photo_reference": "ATtYBwL92UIJI-9GCJinDPhOdzyXGX9bvaY0bH81soK0_j6RZXZ021YeD6auSdv2of2IO9VghkC-6E9mlOr4y5YXab4g9Zm1fJDKVPSM1TVFHbXST5Rir-YIQ21D7XJhkZbZwe3QzhQ6NlSSLwQGAafl-SCF7tZLI2xWOnStfUt8yM4al-MD",
+                    "width": 1805
+                }
+            ],
+            "place_id": "ChIJoyYynodFoA0RI8thxZNqkus",
+            "rating": 5.0,
+            "reference": "ChIJoyYynodFoA0RI8thxZNqkus",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "N9 Lot Assakane Al Anik, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8965731,
+                    "lng": -5.5031804
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8979671802915,
+                        "lng": -5.501876119708498
+                    },
+                    "southwest": {
+                        "lat": 33.8952692197085,
+                        "lng": -5.504574080291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Bassatine Meknes Car",
+            "photos": [
+                {
+                    "height": 401,
+                    "photo_reference": "ATtYBwJmTVZs-0r0SEkR_wGF6kwWHyIkoac14pOl4JveqgZG8IBk828H7BJ_isHmxlhLFTYBrfcbfcjoJFjoVQgbYAWTUoHWjfMOY80bT9TxeeOgW1adtHwVh_3YDrD85aMSC8ekpV16vjSxCqS-Yl9v3-vN7cqCiW9oVRgtblI9E67fWcAr",
+                    "width": 650
+                }
+            ],
+            "place_id": "ChIJj_BOKOBFoA0RXK7XeuqkH5Y",
+            "rating": null,
+            "reference": "ChIJj_BOKOBFoA0RXK7XeuqkH5Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Rue 8, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8594929,
+                    "lng": -5.5456325
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8608093302915,
+                        "lng": -5.544292869708498
+                    },
+                    "southwest": {
+                        "lat": 33.8581113697085,
+                        "lng": -5.546990830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ettaouabi Car",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwKK5xImBGtnM6MPYbSHFYMYwv9oOoxpDORe1QqKCvX5Lkrh1e7m0oSZLbdCLnekc0PaEYL2DmgLAJMnl8_pLPZ92cHsAWL23V47Zxpi37GC4bmiGKwvRxBaZK_3GX34n-M1ULySwGmAhuEbdplC9WRnkQrvRjOSJEqmvhYxEP_j0gec",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJQ0-fhFxFoA0RISidvOtzeuA",
+            "rating": 4.0,
+            "reference": "ChIJQ0-fhFxFoA0RISidvOtzeuA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "N°139 Secteur 6 Lotissement Kortoba Meknes, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9014882,
+                    "lng": -5.482000999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9028415802915,
+                        "lng": -5.480662719708498
+                    },
+                    "southwest": {
+                        "lat": 33.9001436197085,
+                        "lng": -5.483360680291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Faouzi car S.A.R.L",
+            "photos": null,
+            "place_id": "ChIJkwKwmBdFoA0RedTbmDfoTao",
+            "rating": 5.0,
+            "reference": "ChIJkwKwmBdFoA0RedTbmDfoTao",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Lot Souhail 2, Mag N°19 imm M4",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8589202,
+                    "lng": -5.5541629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8602505802915,
+                        "lng": -5.552845319708497
+                    },
+                    "southwest": {
+                        "lat": 33.8575526197085,
+                        "lng": -5.555543280291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Faskalocation",
+            "photos": [
+                {
+                    "height": 1746,
+                    "photo_reference": "ATtYBwKtM1g4L_Q6KJIhZ43y4lILfL0RtxghYagBaPUVKRUUgv61gkEsi1vR0WIe5OWCBHeSZFRcJay1skNwroRd_RqcuOZtMKS0RGoLBhByqw8l8Qj2xrejVT-n3M1iKZaxWg0jPp64F58DzuEfgrF9rkr1l-zzPA2z_99mwGY3SapnmcAN",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJ-a8erFFFoA0RlLmivlA9lbo",
+            "rating": 3.4,
+            "reference": "ChIJ-a8erFFFoA0RlLmivlA9lbo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "N1 Marjan 1tranche 3, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8968259,
+                    "lng": -5.547473900000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89820488029149,
+                        "lng": -5.546113419708499
+                    },
+                    "southwest": {
+                        "lat": 33.8955069197085,
+                        "lng": -5.548811380291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Fayna location",
+            "photos": [
+                {
+                    "height": 313,
+                    "photo_reference": "ATtYBwIQnNncrnNxCqirvsP_OCFAGz5_o4ewh6Xi1735eQdV8VcywObH85y-6WGcxoQljzm9pS5DAxmxgQLRB9_k5EBgPNsBKSLP03BzQNPLOfjuOe7kJW2UR9Tn1VdTVV14XC3aCR8GMArHPIMFUPZiajbb7p27YTOEvl4gtuvNuQn75H0b",
+                    "width": 557
+                }
+            ],
+            "place_id": "ChIJz5fQSPtFoA0R9h4SSu5N2UY",
+            "rating": 4.4,
+            "reference": "ChIJz5fQSPtFoA0R9h4SSu5N2UY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Av Idriss II Imm15 Appt N 4, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.860834,
+                    "lng": -5.5686088
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86217873029149,
+                        "lng": -5.567255519708498
+                    },
+                    "southwest": {
+                        "lat": 33.85948076970849,
+                        "lng": -5.569953480291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HIBISCUS CAR",
+            "photos": [
+                {
+                    "height": 1600,
+                    "photo_reference": "ATtYBwLYFADsDUkv5BjHr5cL2QDzW65JQUNCMkIaYMfCg9l6K6CsKFwi3IAlxOx3dwpGNH9plgpFm7EqYdvsmDbWP9LiHLZAjTLGssQOScLT652F5ziHjyOn7mdUBhIInSyfmr6fyCBZsoOAOZwoaj_DGGAEZQ7Jj0hOYJ0Re1IxamfPusWZ",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJpbT1DYBboA0RWYtqdqiL2mk",
+            "rating": 5.0,
+            "reference": "ChIJpbT1DYBboA0RWYtqdqiL2mk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "TRANCHE B C18 RIYADE AZAYTOUNE MARJANE, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8995195,
+                    "lng": -5.5185121
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90075283029151,
+                        "lng": -5.517177869708498
+                    },
+                    "southwest": {
+                        "lat": 33.89805486970851,
+                        "lng": -5.519875830291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HOUMA CAR sarl au",
+            "photos": [
+                {
+                    "height": 359,
+                    "photo_reference": "ATtYBwLwOOENFKNTaGz-fNeKg8CyF6OPR7WlziP7YbjpUJ0pXIDTNz2vTy0SZjQCEirUejo9c7Tye21zeeYJw4QXja_jB944-lRnZTkHo3YzvW1VjyjrSMa8Y-DQ6gjPWYLyoB1ZuNWoc02dwxuqvDII8uhwLqH0UcPUZN9x4aqq3DnoTQn4",
+                    "width": 639
+                }
+            ],
+            "place_id": "ChIJN2MmkVVEoA0R6cEPUaTz4fg",
+            "rating": 4.3,
+            "reference": "ChIJN2MmkVVEoA0R6cEPUaTz4fg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "7 imm C bloq al Wifaq, Avenue des F.A.R, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.86328569999999,
+                    "lng": -5.567632899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86459523029149,
+                        "lng": -5.566298019708497
+                    },
+                    "southwest": {
+                        "lat": 33.86189726970849,
+                        "lng": -5.568995980291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Haj hmidou.car",
+            "photos": [
+                {
+                    "height": 400,
+                    "photo_reference": "ATtYBwJ0a8sjCMZeo26kN87Iqfcg6n3v4I3W6Z0Ur-8qsGWhBnOV7XNCF8iam6cB1qAL40eUb1jq5jRIrqQHsTzjfwrS3sUb1uWuVoiQKkCE_RC8phfqLq2Me8U6tiTo7f2UA4v7OWqU_zrIdt6Y4TcIGrXIYI4BdHNqieHkSBtjfOiex_-j",
+                    "width": 850
+                }
+            ],
+            "place_id": "ChIJ6ZSMM9lboA0ROn-uELu4Lj0",
+            "rating": null,
+            "reference": "ChIJ6ZSMM9lboA0ROn-uELu4Lj0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Riad zitoune, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8948271,
+                    "lng": -5.579334100000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8962089302915,
+                        "lng": -5.577997619708498
+                    },
+                    "southwest": {
+                        "lat": 33.89351096970851,
+                        "lng": -5.580695580291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Karzazi car",
+            "photos": [
+                {
+                    "height": 512,
+                    "photo_reference": "ATtYBwLIw1B8l7472YHDl3CR3sFgyEcElrpankLuTQn273xdAlyLguopRZI-oMj5XGcG4htVqktwuMf2tP_d8ddIjA1MUazfP4lem8cfzBDaA_K_EjDI4zVWYwOSezXU96MdD0jeqQF0v8GEZ--gSyXGAvm2-Hjd_NgHETzDOY-TOhq1S9IL",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJ9SPokiBboA0RK4q3crecdJQ",
+            "rating": 3.6,
+            "reference": "ChIJ9SPokiBboA0RK4q3crecdJQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9007512,
+                    "lng": -5.515468899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90209573029149,
+                        "lng": -5.514099969708497
+                    },
+                    "southwest": {
+                        "lat": 33.89939776970849,
+                        "lng": -5.516797930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "L'hacienda car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKCjZ9hMkk-aqcWmoynMcOIjZuOAL_Cc6pcbrFEg_Lh1SR3oivDplF7SEKc1hJb2sUaxV_l7dsjiUOGaXBN1M1GhMSjy0f5ISTQCErf6JBuTYeATKnZBteKn4F4iVAEkXODVWLYMnP4fG3anH5LHZ-8krdtaJH4flRJ6NfChwMIoHWG",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ5wN_E1REoA0RlpcbGrH8coA",
+            "rating": 3.4,
+            "reference": "ChIJ5wN_E1REoA0RlpcbGrH8coA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.86988549999999,
+                    "lng": -5.537189199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.87122498029149,
+                        "lng": -5.535843819708497
+                    },
+                    "southwest": {
+                        "lat": 33.8685270197085,
+                        "lng": -5.538541780291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION DAIF CAR",
+            "photos": [
+                {
+                    "height": 2160,
+                    "photo_reference": "ATtYBwKc71X4FAyYxci1OuOQl4T-KbcbwGsfPKlINTv80Qe2iTQx9r51dA5iDeH0q38axgtVfAaj9z1w8zHcVeJlO-J585kSYMEyyixOHpW6lViXBtvtmSRVbJztMPbAMhvY9CRFTalTy0Lym_cj5PH1N1P28kQp583N15iy7AknA7fnO1sh",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJvw1hpGtFoA0RsG5qaka2bVM",
+            "rating": 3.0,
+            "reference": "ChIJvw1hpGtFoA0RsG5qaka2bVM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9035257,
+                    "lng": -5.5740093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9049009302915,
+                        "lng": -5.572704919708498
+                    },
+                    "southwest": {
+                        "lat": 33.9022029697085,
+                        "lng": -5.575402880291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lakhrissi Car",
+            "photos": null,
+            "place_id": "ChIJ41foEwZFoA0RhEl8uYL801Y",
+            "rating": null,
+            "reference": "ChIJ41foEwZFoA0RhEl8uYL801Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "N°9, Centre Qualif-Professionnelle, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8939291,
+                    "lng": -5.559741499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8953002802915,
+                        "lng": -5.558350469708498
+                    },
+                    "southwest": {
+                        "lat": 33.8926023197085,
+                        "lng": -5.561048430291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de Voitures MEKNES (ste OSMAR CAR)",
+            "photos": [
+                {
+                    "height": 598,
+                    "photo_reference": "ATtYBwK9GQp8qj_wTScnkRMEWC7g_FPMJmXckV1AdshATbiiX2FA60ETwpzAUis_Ts1S5GmDbDkCsx9EwRni3bzgT6FZSVKvfOGO7_bGCuiKhOA99uWjOo_kovaPq5zx5BPsybQrYLP6MvZL8swYmprLjmLbYSeNHOlbZViC-TZk-tE8HCvV",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJ3Yu2vEZFoA0RPsiEceqxAoY",
+            "rating": 5.0,
+            "reference": "ChIJ3Yu2vEZFoA0RPsiEceqxAoY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Avenue Rwamzine, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.861504,
+                    "lng": -5.547867499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8628471802915,
+                        "lng": -5.546526519708497
+                    },
+                    "southwest": {
+                        "lat": 33.8601492197085,
+                        "lng": -5.549224480291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture El mouchoume Adil",
+            "photos": null,
+            "place_id": "ChIJT6IhdUxFoA0RMA0HPNDPCes",
+            "rating": null,
+            "reference": "ChIJT6IhdUxFoA0RMA0HPNDPCes",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "1, Lmb b4 tranche 2 N32 Al ghorfa, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8872863,
+                    "lng": -5.540849499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.88860718029149,
+                        "lng": -5.539520619708498
+                    },
+                    "southwest": {
+                        "lat": 33.88590921970849,
+                        "lng": -5.542218580291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture Meknès",
+            "photos": null,
+            "place_id": "ChIJDeQL6sBFoA0RIGpjvvo-Wc8",
+            "rating": 3.7,
+            "reference": "ChIJDeQL6sBFoA0RIGpjvvo-Wc8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Lotissement el batoul, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8676406,
+                    "lng": -5.5558476
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8689774802915,
+                        "lng": -5.554512719708499
+                    },
+                    "southwest": {
+                        "lat": 33.8662795197085,
+                        "lng": -5.557210680291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture WBR CAR",
+            "photos": null,
+            "place_id": "ChIJc2AafBFFoA0RVb-DuARXmmE",
+            "rating": 1.0,
+            "reference": "ChIJc2AafBFFoA0RVb-DuARXmmE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "13 Bis Lot. Yassmina Hay S.S.M.B.A, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8964986,
+                    "lng": -5.5462475
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8978791802915,
+                        "lng": -5.544886319708498
+                    },
+                    "southwest": {
+                        "lat": 33.8951812197085,
+                        "lng": -5.547584280291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture meknes nano car",
+            "photos": [
+                {
+                    "height": 411,
+                    "photo_reference": "ATtYBwLQp94e_KzyoMNPGN50Yx0rltsOYUhZ56Sdb6jupsIZDmRDlkPFtuD5dcM4s7Iw0-_LkWlY5I9iJCmq25uKpYD0rStItwdugroZH5btHuPKujQUf2FNL2qAbFXFblB1ietXxcDh3qwUMc-2YrQbpMG_pZy4cf3O8wo7GlRbi0MZzAwO",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJhWyVIzBFoA0RZu8dCYdUXSI",
+            "rating": 4.0,
+            "reference": "ChIJhWyVIzBFoA0RZu8dCYdUXSI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "n, Mag 7 imm 42 rue idris 2 v, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.85890599999999,
+                    "lng": -5.576138999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86025408029149,
+                        "lng": -5.574856869708496
+                    },
+                    "southwest": {
+                        "lat": 33.85755611970849,
+                        "lng": -5.577554830291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture outalha Car",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwIvg4FpChLAsd5P4du6P4qTy_Pvo_wiB1ZsfGypAY32o5zeWp5SRM0G3as_S3LyXULj7AURq1DLvrbftD4wDGwR94upLRZ8NMDQA98IaFnHSb24l7Fdg-KpqkzdwuCnEmfAx_jKiagXgiQd56XkSxgrBMLQzlFwqOJDsGMx5iKJWiAm",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJp9TKjoFboA0RTcVRRlKWBBU",
+            "rating": 3.0,
+            "reference": "ChIJp9TKjoFboA0RTcVRRlKWBBU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Outalha Car, N4 bassma 3, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8912176,
+                    "lng": -5.576708399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8925131302915,
+                        "lng": -5.575310919708497
+                    },
+                    "southwest": {
+                        "lat": 33.88981516970851,
+                        "lng": -5.578008880291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location redouane med car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwK2tWlAgXS6ykX9E2xoVqNCcqFiAvphVZEmuHjb7GJpJNx_LnMQXhlR3zJ-DeEH6GGk9vPF43OiiBpDNyExuNHG7Y5J8HlB8EzE-lcEZHJk4HwUtfKRcNCUsXMUbve1VINSw0g5Oz5e8UuJHZzsLDE12YUY1jJO1SIj8RkkuPtznz7g",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJza_32DlboA0Ru_XcbagcicI",
+            "rating": 5.0,
+            "reference": "ChIJza_32DlboA0Ru_XcbagcicI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.89133960000001,
+                    "lng": -5.5035241
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89264493029151,
+                        "lng": -5.502180519708498
+                    },
+                    "southwest": {
+                        "lat": 33.88994696970851,
+                        "lng": -5.504878480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voiture Meknès - SEMOMEK CAR",
+            "photos": null,
+            "place_id": "ChIJE14NpU5FoA0Rmkp7Yp_IdhE",
+            "rating": null,
+            "reference": "ChIJE14NpU5FoA0Rmkp7Yp_IdhE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "zone 1, immeuble D, appartement 3, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.862869,
+                    "lng": -5.568643799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8642542802915,
+                        "lng": -5.567351319708498
+                    },
+                    "southwest": {
+                        "lat": 33.8615563197085,
+                        "lng": -5.570049280291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voiture Veranda Car",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwJHpIDPUC8lh_JVAcbYaK1-IkHmmx56Mgnhb5-TndP5QeYBGiJ9ahyG_MH83uIqzOLNsBIXAZyimcERamn8U25TwVBzFYsnbHJxFjP2Jvb5PWZS4ohh0SMqmLSZkE56VtkMq4w3CPc-LqSGfljSzS1Y7ajl9L-f3R92vECDi8XQZZM",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJq4h1x1ZboA0Rd2jcu91ZhN0",
+            "rating": null,
+            "reference": "ChIJq4h1x1ZboA0Rd2jcu91ZhN0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "N°18, Lot. Riad azzaytone,Imm. Basma2,C4, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.89618999999999,
+                    "lng": -5.575185999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89759238029149,
+                        "lng": -5.573841219708497
+                    },
+                    "southwest": {
+                        "lat": 33.89489441970849,
+                        "lng": -5.576539180291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "M.Y.S CAR",
+            "photos": [
+                {
+                    "height": 1152,
+                    "photo_reference": "ATtYBwLrtk1ZV5BEssz91Jrz0QEwaR4v28z4VPTE_W_qradebOMASaMTrgVxFxBZ3yyPVDjwteJvYrSZ00NCMmUQVs6E6Uaqg4Ux-WNFgkQUxlvakyM1anBZlJiR_cbKVbGmS5i22A3ZBSLN8S-V8EN5HQ_w8L8ZlxTL2fdY-pWVzE-6njRy",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJcfheASdboA0R7UT4pSttTIQ",
+            "rating": 4.3,
+            "reference": "ChIJcfheASdboA0R7UT4pSttTIQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "SIDI SAID, Lot MAKAWI IMM 1, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.89795100000001,
+                    "lng": -5.547198
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89927693029151,
+                        "lng": -5.545907569708499
+                    },
+                    "southwest": {
+                        "lat": 33.89657896970851,
+                        "lng": -5.548605530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAALI CAR",
+            "photos": null,
+            "place_id": "ChIJK4RhKNlEoA0Rr93DmDCvPoE",
+            "rating": 2.3,
+            "reference": "ChIJK4RhKNlEoA0Rr93DmDCvPoE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "N4 rue menton VN, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8981393,
+                    "lng": -5.541013699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8995155302915,
+                        "lng": -5.539673869708498
+                    },
+                    "southwest": {
+                        "lat": 33.8968175697085,
+                        "lng": -5.542371830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MANKOUR AUTO - Car Rental",
+            "photos": null,
+            "place_id": "ChIJ-0TeVCpFoA0R-5etofI9ZkM",
+            "rating": 5.0,
+            "reference": "ChIJ-0TeVCpFoA0R-5etofI9ZkM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Mag N°01 Immeuble N°08 Rue Taza, Meknes",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8986018,
+                    "lng": -5.552067399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8999370302915,
+                        "lng": -5.550765519708498
+                    },
+                    "southwest": {
+                        "lat": 33.8972390697085,
+                        "lng": -5.553463480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MEKNES CAR",
+            "photos": [
+                {
+                    "height": 312,
+                    "photo_reference": "ATtYBwKEojnvgoG7IFI-73ZLiUt64dx7xCaQk99nEwzGH6wCaMV8Qj6FXOou9KIwTItUeCFU6zJkJ5xru90vdbUAHVOOrYmT51K6zHR78AwkWcRIyi1UQrlDuKRYuq-TXkG0UZsqa5k50bcchVqeCp8wvsuLc0x9WrUVr8iSgzhhF8ATd4ot",
+                    "width": 820
+                }
+            ],
+            "place_id": "ChIJ-S7hZypFoA0R5rcTgeWczys",
+            "rating": 3.8,
+            "reference": "ChIJ-S7hZypFoA0R5rcTgeWczys",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Angle BD Hassan II et, Rue de Safi, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.858544,
+                    "lng": -5.569138599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8600447302915,
+                        "lng": -5.567798419708498
+                    },
+                    "southwest": {
+                        "lat": 33.8573467697085,
+                        "lng": -5.570496380291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MEKNES CAR",
+            "photos": [
+                {
+                    "height": 312,
+                    "photo_reference": "ATtYBwJP7IheYKtjGDYM9P92f_j8qEUvgZdlCollBiVvk5m12SYM_F0T7p3N1mCSA3uWR6FCyJqchWwFiTboNsdgaIDhm5RS1-sIIOQKOVRjPVwCQ0pFuZMXjnsufKr-C4YPoeLtzEQDO9RG3CPUCs7gmYMPCu_SpHgF59wWaCbji9MZML8O",
+                    "width": 820
+                }
+            ],
+            "place_id": "ChIJq-_Yc4tboA0RrrPC0Hm_Wbo",
+            "rating": null,
+            "reference": "ChIJq-_Yc4tboA0RrrPC0Hm_Wbo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Residence Fath Al Moubine, N° 11 Avenue Zitoune, Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.85890599999999,
+                    "lng": -5.576138999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86025408029149,
+                        "lng": -5.574856869708496
+                    },
+                    "southwest": {
+                        "lat": 33.85755611970849,
+                        "lng": -5.577554830291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MIMOZA CAR",
+            "photos": null,
+            "place_id": "ChIJcZDt1wdboA0Rv_kgdvygl5Y",
+            "rating": null,
+            "reference": "ChIJcZDt1wdboA0Rv_kgdvygl5Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8996404,
+                    "lng": -5.4738491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9009970302915,
+                        "lng": -5.472519969708498
+                    },
+                    "southwest": {
+                        "lat": 33.89829906970851,
+                        "lng": -5.475217930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mahi Car SARL",
+            "photos": [
+                {
+                    "height": 492,
+                    "photo_reference": "ATtYBwLHXX8Sji1FFk-aCGxL-2J2u00SKMCyzQoUiDdEE_yuLQ4Ut1b0X7gxUeDrKFcWkjo-XO6avhJwnRpvOUi8jRwFqNzS0nD9nnZYHKeP-FXsVAtsv7zXVx4xqtY7osJteT8GDSkpkvYOCrirJlOttNuyThPZHE4fsZWIrCwQaS8910xo",
+                    "width": 1125
+                }
+            ],
+            "place_id": "ChIJJw0Xni5EoA0R7WU4uOwvG5c",
+            "rating": 4.9,
+            "reference": "ChIJJw0Xni5EoA0R7WU4uOwvG5c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8665656,
+                    "lng": -5.578646
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8679400802915,
+                        "lng": -5.577286719708498
+                    },
+                    "southwest": {
+                        "lat": 33.8652421197085,
+                        "lng": -5.579984680291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Marjan car",
+            "photos": [
+                {
+                    "height": 798,
+                    "photo_reference": "ATtYBwJSA44OQ5a8hBK9fnYd35QABI7lGgCJMRjHnZMwK_jzDsDQJUhE-vWsk9zll_rF9KAqHrSxRPLkSaQeDy8e6u-iwfG-tOWvobxkQYDLnFkBRkYuv9-1usit8XLahrtX57aGCVJgqd_Oi75Q60T3q9PI-1jYImSNRPLUaXeEX2Dcdend",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJwzcdJ19boA0R6fXyBYwLKC8",
+            "rating": 5.0,
+            "reference": "ChIJwzcdJ19boA0R6fXyBYwLKC8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "IMM A 19 N°1 AL MANSOUR, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8604977,
+                    "lng": -5.5736287
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8618120302915,
+                        "lng": -5.572336919708497
+                    },
+                    "southwest": {
+                        "lat": 33.8591140697085,
+                        "lng": -5.575034880291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Meknassacar",
+            "photos": null,
+            "place_id": "ChIJobUJpP9boA0Rp61ZaapgRdI",
+            "rating": 5.0,
+            "reference": "ChIJobUJpP9boA0Rp61ZaapgRdI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8803632,
+                    "lng": -5.565832100000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.88170848029149,
+                        "lng": -5.564486119708498
+                    },
+                    "southwest": {
+                        "lat": 33.87901051970849,
+                        "lng": -5.567184080291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ouarssani car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwII_MxAKLZqRZPBSlGng7WzAFXghJ6TpBcdyIzHaG3AgPbxGGKAhMABh2wviNCuIxd9ngw0sBtHPX8tdzFHu3qmwYgDwAiV5HxDMYYxg6PMdp5ad1OnZQ0fGNhwh8LSGNBtS3IbqvUiTJBa_fbZ5ZrGP7AQvEIvebC6JIKOT80IXZCu",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJmd3MzrJboA0Rt6mGVbNodsU",
+            "rating": 5.0,
+            "reference": "ChIJmd3MzrJboA0Rt6mGVbNodsU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "شارع عبد الكريم الخطابي, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.86008890000001,
+                    "lng": -5.5727872
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8614019802915,
+                        "lng": -5.571406719708498
+                    },
+                    "southwest": {
+                        "lat": 33.8587040197085,
+                        "lng": -5.574104680291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "POSITIF CAR LOCATION DE VOITURES",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwJMmtjhLjKLtBgBzgBaecIC-Ttg3MgKTzmB1XMfBeGrMj8c7v0vAeTlxuH3e204K365IShenupnQSqzfLcv1fRuRodijAqF9sqHeDu2YW4Bj1RRzMk2XTuYLThruci4VVeJD_PReoP4wGJB8dbgZ_WwuAWpbTYyhR_BeKrA9oBBXKmO",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJcZs1jNxboA0R1OEyrc-HmOA",
+            "rating": 5.0,
+            "reference": "ChIJcZs1jNxboA0R1OEyrc-HmOA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "694, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9092087,
+                    "lng": -5.4884119
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.91058883029149,
+                        "lng": -5.487079919708497
+                    },
+                    "southwest": {
+                        "lat": 33.9078908697085,
+                        "lng": -5.489777880291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RAYOCHAD CAR",
+            "photos": [
+                {
+                    "height": 5312,
+                    "photo_reference": "ATtYBwKBf9r96abSwq4Pu1lum7zA2kbQY7XnXaamG6DU37iOlM0Us32Vm07x45mZftM2QM5GAWKqy595M9L4Bil8aj541qzPznpxSAv7zjC7ADoVXkuOmPmtYgcTXon_oU2FrCJfP5voGGBo8pQQ3IqzdDWS8KftRjPYa7qfAZdcSB_2yWKT",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJwWrULARFoA0RrFHi3aZpCdI",
+            "rating": null,
+            "reference": "ChIJwWrULARFoA0RrFHi3aZpCdI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "N° 29 bis rue al mouhamadia, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8661878,
+                    "lng": -5.576410699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8675375302915,
+                        "lng": -5.575077369708498
+                    },
+                    "southwest": {
+                        "lat": 33.8648395697085,
+                        "lng": -5.577775330291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RIZANA CAR",
+            "photos": null,
+            "place_id": "ChIJaV0CXLlaoA0RvMYB66sC4j0",
+            "rating": 3.0,
+            "reference": "ChIJaV0CXLlaoA0RvMYB66sC4j0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9004133,
+                    "lng": -5.579116300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90180378029149,
+                        "lng": -5.577769819708498
+                    },
+                    "southwest": {
+                        "lat": 33.8991058197085,
+                        "lng": -5.580467780291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent cars abdellah",
+            "photos": [
+                {
+                    "height": 714,
+                    "photo_reference": "ATtYBwKEWiOTeFcuiZ2QKEPPmYadm-7XOyF1ahbYwu33kQqh2koozePgN9RPCWBkIPEpmoJKNcYC263_GP5hnnG0j5fZ0O8sX8_Ko1eTrFJpfYozGotcuV-lbr3JQKda73Vm-18ODXwa144uDRFG5bGpK2ZET_GijYNwH2R5Cka_yBKwC5jH",
+                    "width": 716
+                }
+            ],
+            "place_id": "ChIJ9SQz2wNboA0Rm8p7qTKJzHY",
+            "rating": 5.0,
+            "reference": "ChIJ9SQz2wNboA0Rm8p7qTKJzHY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Rue 33 N° 45 oujeh arousse, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.868058,
+                    "lng": -5.583689499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8694130302915,
+                        "lng": -5.582337969708498
+                    },
+                    "southwest": {
+                        "lat": 33.8667150697085,
+                        "lng": -5.585035930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Riad Car Rent",
+            "photos": [
+                {
+                    "height": 1740,
+                    "photo_reference": "ATtYBwJGFcNwndbe_ijedmbU7p4Gb7ja9WAagwFJ9zVbVubJZRKfpOl-aLOHIicnxqM3NY-KmU-d8ebaVuXmGiuKLzCxMYUV2leMWZwlYfIqSmGuhklVNduWQVlQ4g7daz5ZvEoePUvVpcmQjodt7szeWwYrAvBrinmzSlP_W0rfgjNj64KD",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJIS0lleBboA0R1BfobjQUnwM",
+            "rating": null,
+            "reference": "ChIJIS0lleBboA0R1BfobjQUnwM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "IM D2 MAGASIN 5 EL MANSOUR, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9071593,
+                    "lng": -5.541273500000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9085424302915,
+                        "lng": -5.539889269708499
+                    },
+                    "southwest": {
+                        "lat": 33.90584446970851,
+                        "lng": -5.542587230291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ryare Car",
+            "photos": null,
+            "place_id": "ChIJQbMTpcJEoA0R57b-f4FFQKY",
+            "rating": 3.6,
+            "reference": "ChIJQbMTpcJEoA0R57b-f4FFQKY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.90133,
+                    "lng": -5.555067999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9026666302915,
+                        "lng": -5.553724919708497
+                    },
+                    "southwest": {
+                        "lat": 33.8999686697085,
+                        "lng": -5.556422880291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SERENITE CAR",
+            "photos": null,
+            "place_id": "ChIJWW0UP9FEoA0RkEGIeIFvMEE",
+            "rating": 3.0,
+            "reference": "ChIJWW0UP9FEoA0RkEGIeIFvMEE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2 Rue El Mansour Dahbi Numero 19, Pres de L Hotel Transatlantique, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.86528999999999,
+                    "lng": -5.5832878
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8666485802915,
+                        "lng": -5.581966369708496
+                    },
+                    "southwest": {
+                        "lat": 33.8639506197085,
+                        "lng": -5.584664330291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "STE LOCATION DE VOITURE Hausse Car Sarl",
+            "photos": [
+                {
+                    "height": 674,
+                    "photo_reference": "ATtYBwLYE_JmlHPY2fUbSfKQIpneEoAP9QTywK2wTWI7SDhOJWPqhgZRM_rz9_l0PyVe_zgeGRCGIJRE5rDfXd4wA5GSOp5kh4adKF5zLqBTDwoOox5mkpCvfcuPXunleqo2fj26ZsQUbCiQYJUFooP3SYt0ugXD1wiAJ6hZZGuSj0bJ61Lu",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJUTE_BpZaoA0RhwNPhP7MVwg",
+            "rating": 4.1,
+            "reference": "ChIJUTE_BpZaoA0RhwNPhP7MVwg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "N36 lot, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9041938,
+                    "lng": -5.5309007
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90556648029149,
+                        "lng": -5.529545569708498
+                    },
+                    "southwest": {
+                        "lat": 33.9028685197085,
+                        "lng": -5.532243530291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sayran Car",
+            "photos": [
+                {
+                    "height": 1757,
+                    "photo_reference": "ATtYBwJqal_9p7J9GgZkmwJ0Qx3saar7RBZBwhkK0whtxvXgNdcCZHHhvqDke_du74yWub31v6wPpvkstRRLqyCp7C3m826qP6d9zphwH2WBL__TadR9PDCjrSACLvyLlXLGQieA1J66zEY57kyi0ylo7zU5bVmhILIKKB0yoSeRC49Xqbo8",
+                    "width": 3089
+                }
+            ],
+            "place_id": "ChIJidGSVdRFoA0RYd_c-Euvsjw",
+            "rating": 5.0,
+            "reference": "ChIJidGSVdRFoA0RYd_c-Euvsjw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "N°10 Hay Belair Rue 10 B.M.O meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8988834,
+                    "lng": -5.5499553
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90024253029149,
+                        "lng": -5.548570419708497
+                    },
+                    "southwest": {
+                        "lat": 33.8975445697085,
+                        "lng": -5.551268380291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Souhail Car",
+            "photos": null,
+            "place_id": "ChIJk3OtxVtFoA0RHfLUSpxC0OE",
+            "rating": null,
+            "reference": "ChIJk3OtxVtFoA0RHfLUSpxC0OE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "près du marché centrale, 8 Rue du Ghana, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9010618,
+                    "lng": -5.535481599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90248448029149,
+                        "lng": -5.534127069708497
+                    },
+                    "southwest": {
+                        "lat": 33.8997865197085,
+                        "lng": -5.536825030291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Speedway car",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwLLazPSNOJP1ejGSyQ7pqI312ngalzdg-BXYbMse8e24qFK0hPpcxTMjdOFexBoLXQiiyEqk3f1D73UW8R10GveI-QaBgd6taMH64Rop0sfJZy_8Yz2ZOM5sS5GWdh_MoeKnrkHqbD1TJNQZBkgTT-PKuvC8zFBG0J6vvIBJDl-PpTG",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJob1evGFFoA0R0F-noZbORw8",
+            "rating": 5.0,
+            "reference": "ChIJob1evGFFoA0R0F-noZbORw8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9036533,
+                    "lng": -5.534261499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9050184802915,
+                        "lng": -5.532879969708497
+                    },
+                    "southwest": {
+                        "lat": 33.9023205197085,
+                        "lng": -5.535577930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Speedwaycar",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJbnYyvHE_vOPTxAsq6R-8Z4QJbP9SA677A_jiUXSoVuUy--ldW3YWrDTIybdabsmCmMZtwOOEP9O5wVXZgwN2cpi6lOMRZDXIdY84Eees7p2Osewf3C7SYtTxFpoMXcQnejkFqG_ufl30NoyFNm9HIS1kM5UNtYH8kcxEeEKiH8vyY",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJX3g38_5FoA0RcvX9UTfM0zU",
+            "rating": 5.0,
+            "reference": "ChIJX3g38_5FoA0RcvX9UTfM0zU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "marche ERAC, N 12 quartier al fath, Avenue Ibn Hajar،, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9118654,
+                    "lng": -5.5243958
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.9132762802915,
+                        "lng": -5.523094869708498
+                    },
+                    "southwest": {
+                        "lat": 33.9105783197085,
+                        "lng": -5.525792830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Street Location 93",
+            "photos": null,
+            "place_id": "ChIJgymYCv5FoA0RRdpCJJ5AmkY",
+            "rating": null,
+            "reference": "ChIJgymYCv5FoA0RRdpCJJ5AmkY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Borj Moulay Omar, 59, Lot. Elmenzeh SOPHAL, Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8656246,
+                    "lng": -5.5841002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8670073802915,
+                        "lng": -5.582866569708497
+                    },
+                    "southwest": {
+                        "lat": 33.8643094197085,
+                        "lng": -5.585564530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "T.M Cars Location",
+            "photos": null,
+            "place_id": "ChIJvQFh_JxboA0RCRFSp0D2BUs",
+            "rating": 5.0,
+            "reference": "ChIJvQFh_JxboA0RCRFSp0D2BUs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "حي المنصور مقابل موسسة الارز للتعليم الخصوصي،, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8665425,
+                    "lng": -5.539912600000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86793988029149,
+                        "lng": -5.538489069708499
+                    },
+                    "southwest": {
+                        "lat": 33.8652419197085,
+                        "lng": -5.541187030291503
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Tarik Essalam",
+            "photos": [
+                {
+                    "height": 3120,
+                    "photo_reference": "ATtYBwK4S-gIwtZ0iWvyac0I2puUnvFrMIazSCAnBxU6Ofv7hXgewhbEr5aLl2hRaeLruGbCm3KVIxe-_ZXko3Iumx8ip8gM_Ef7JbHjbA4H87ILKXb2xPpsAYiI7KnBYGRC-bWtrs-pU1_SYePLTULwzRaWQXPJuXqGsNHzOu3QdWeincFQ",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJL87L7mlFoA0RGHlMoh2alWU",
+            "rating": 3.8,
+            "reference": "ChIJL87L7mlFoA0RGHlMoh2alWU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "13, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.89703469999999,
+                    "lng": -5.548885399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8983604802915,
+                        "lng": -5.547619219708498
+                    },
+                    "southwest": {
+                        "lat": 33.8956625197085,
+                        "lng": -5.550317180291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Volubilis car - location de voiture meknes",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwK2v-JxHPAzoCM_t70aJI1M1E9fFLKsyerd00We6tUZKoSz1aWStcfy4anlBbs7M_SCGyJChqLAuEWere0ZGEaxUOuApct7Q9vEkG3o-h4ZgvaM8-WSGC1RQ53-8dPpn6Vq1GipwtXQot__raT_C-0I8tFbi6Movz_oa5UADZUz_5Q-",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJI-QCn3RFoA0RELBbnfqPPp8",
+            "rating": 5.0,
+            "reference": "ChIJI-QCn3RFoA0RELBbnfqPPp8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104,
+            "vicinity": "Av idrissi passage mimousa VN, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8802592,
+                    "lng": -5.573321199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.88158953029149,
+                        "lng": -5.571932619708496
+                    },
+                    "southwest": {
+                        "lat": 33.87889156970849,
+                        "lng": -5.574630580291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Westren Car",
+            "photos": null,
+            "place_id": "ChIJxUGkAoBboA0RlGZHjzdIGoM",
+            "rating": null,
+            "reference": "ChIJxUGkAoBboA0RlGZHjzdIGoM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Bv mohammed 6, Lot Annasser 1 Rès Montfleurie, N°7 50000, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.90569819999999,
+                    "lng": -5.528125999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90697493029149,
+                        "lng": -5.526827169708498
+                    },
+                    "southwest": {
+                        "lat": 33.90427696970849,
+                        "lng": -5.529525130291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "club europe rent",
+            "photos": null,
+            "place_id": "ChIJqR4XjfpEoA0RTwg6zJzl3rI",
+            "rating": 1.0,
+            "reference": "ChIJqR4XjfpEoA0RTwg6zJzl3rI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "boulevard khalid ibn oualid, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8652891,
+                    "lng": -5.5832883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8666472802915,
+                        "lng": -5.581966969708497
+                    },
+                    "southwest": {
+                        "lat": 33.8639493197085,
+                        "lng": -5.584664930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "hausse car",
+            "photos": null,
+            "place_id": "ChIJa0NY_YtboA0R5_Ry2cfjD8A",
+            "rating": null,
+            "reference": "ChIJa0NY_YtboA0R5_Ry2cfjD8A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "50500, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.86575690000001,
+                    "lng": -5.5747769
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86715143029151,
+                        "lng": -5.573376369708497
+                    },
+                    "southwest": {
+                        "lat": 33.86445346970851,
+                        "lng": -5.576074330291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "lucciana car",
+            "photos": null,
+            "place_id": "ChIJI1PhFJBboA0RXdLExFe1S1o",
+            "rating": 4.0,
+            "reference": "ChIJI1PhFJBboA0RXdLExFe1S1o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8596403,
+                    "lng": -5.561592399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86098228029149,
+                        "lng": -5.560243219708497
+                    },
+                    "southwest": {
+                        "lat": 33.8582843197085,
+                        "lng": -5.562941180291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "nougamkscar",
+            "photos": [
+                {
+                    "height": 959,
+                    "photo_reference": "ATtYBwKozPAMvmTQh-vBfvb33vV5XeqoMmmo1HpNCYg0eBof9Hus0qrtWnN6T9irMtLM5EBiTF8xrims2BTLD33GfjoayZrDIgcB_u8Pad_nfGcSFxga8rXPLkqW2GC4_2UBIERUDLSoVdYP_O8dp73jMETR4eHAT9AcbzmniDrKFBO9kv1f",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJz8dfrSxFoA0RZnxvf-lNXjc",
+            "rating": 5.0,
+            "reference": "ChIJz8dfrSxFoA0RZnxvf-lNXjc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Lycée Azzaitoune, magasin n°6 imeuble 90 - riad, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8951868,
+                    "lng": -5.546819399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8965783302915,
+                        "lng": -5.545423219708497
+                    },
+                    "southwest": {
+                        "lat": 33.8938803697085,
+                        "lng": -5.548121180291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "solitaire car",
+            "photos": null,
+            "place_id": "ChIJvwsrpNhEoA0R1_HJy88tZ90",
+            "rating": null,
+            "reference": "ChIJvwsrpNhEoA0R1_HJy88tZ90",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "A Avenue des Forces Armees Royales, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8508685,
+                    "lng": -5.5559219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8522237802915,
+                        "lng": -5.554568269708498
+                    },
+                    "southwest": {
+                        "lat": 33.8495258197085,
+                        "lng": -5.557266230291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "اتولاينز لوكاسيون",
+            "photos": [
+                {
+                    "height": 843,
+                    "photo_reference": "ATtYBwKr-ZynXBCeLgeVUzR49a10F0FaXejUQVk7FQUEsmc9tE8_55Cu2lh0BmJToRjoh8PvjikTnHWgEVhJ-uiJObsfpcBD-Ij5BhuOz8saf-Lr7sRvbBeS1AKdzRfE__u0BGzqTK3hFiLbU4GbdDLSn6X2nd2Vz732RbIJvV3QFmGgAVO_",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJhSnDYIpFoA0RViStSfixBOU",
+            "rating": 1.0,
+            "reference": "ChIJhSnDYIpFoA0RViStSfixBOU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Hay Enaim 3/4, N63, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8595903,
+                    "lng": -5.558326699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86096283029151,
+                        "lng": -5.557040519708497
+                    },
+                    "southwest": {
+                        "lat": 33.85826486970851,
+                        "lng": -5.559738480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "بن لحبيب كار",
+            "photos": [
+                {
+                    "height": 2560,
+                    "photo_reference": "ATtYBwL4-Y_ZIe2x-DwbjOqJPX-ydwdFlIy2j7ktSHzr2MGTlM5ymjFtz3dqYuoAz1SgOLcmumeqBMljz953Jk5H9ZOVRnS6aRIn_N-It-Ay8SxWnxFbN-5ZiFpUFX2FCt8pxuofUiyV8vcCLR0g47bgcAt7oj-4n1evzvdJ5tPtEz2kdP9m",
+                    "width": 1536
+                }
+            ],
+            "place_id": "ChIJdTHuQlJFoA0RMqme61Lhbjk",
+            "rating": 3.7,
+            "reference": "ChIJdTHuQlJFoA0RMqme61Lhbjk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.851011,
+                    "lng": -5.552458899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8523311302915,
+                        "lng": -5.551139569708496
+                    },
+                    "southwest": {
+                        "lat": 33.8496331697085,
+                        "lng": -5.553837530291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "بندريس كار",
+            "photos": [
+                {
+                    "height": 997,
+                    "photo_reference": "ATtYBwIogJokQ4L2kwDLV8qSBF-X2wFXSVh_TmlOA7x9au--TislP9XwY2J2U806pP7ONPcEVUpOAy3zuYxsU-Z6hrD9Ff__ERT02SKfl70rDzznblA7jWkyWftD34kNwLVQHyAMZTnaSqD7lPiBiljvT02JI-e35aUb_D5Jf2QtHLDhUttt",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJG-PN1lVFoA0RVdzy33tCbMM",
+            "rating": 3.5,
+            "reference": "ChIJG-PN1lVFoA0RVdzy33tCbMM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "127, Rocade de Meknes, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8961006,
+                    "lng": -5.5443111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8975401302915,
+                        "lng": -5.542990569708497
+                    },
+                    "southwest": {
+                        "lat": 33.8948421697085,
+                        "lng": -5.545688530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "حمرية كار - كراء السيارات",
+            "photos": null,
+            "place_id": "ChIJy8Sxbt9EoA0RdNVCI6YLpIs",
+            "rating": 5.0,
+            "reference": "ChIJy8Sxbt9EoA0RdNVCI6YLpIs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Centre commercial Continental n°22 v.n., 94 Avenue des Forces Armees Royales, Meknès",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8949384,
+                    "lng": -5.549443999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89621358029149,
+                        "lng": -5.548045719708496
+                    },
+                    "southwest": {
+                        "lat": 33.8935156197085,
+                        "lng": -5.550743680291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "صاحارا كار",
+            "photos": null,
+            "place_id": "ChIJfa8qdthEoA0R9uBKRIaxEDA",
+            "rating": 3.3,
+            "reference": "ChIJfa8qdthEoA0R9uBKRIaxEDA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "13 Avenue des F.A.R, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8956814,
+                    "lng": -5.5461006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8971272802915,
+                        "lng": -5.544788969708497
+                    },
+                    "southwest": {
+                        "lat": 33.8944293197085,
+                        "lng": -5.547486930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ضحى لتأجير السيارات",
+            "photos": [
+                {
+                    "height": 2220,
+                    "photo_reference": "ATtYBwI6Fp8DT4cHViVlK20-rhQ0BDIDp7yXF6-tdpugYYv9HxzlCQVM-MWxcxwd3UsvjcvtLFjfdgO4-YR18lM_gOPLxFKFaFnNpgeDFOxLgnshfS--T6IT1l3p2-_kIfnsCKGjUZ7Tz0OL5YDZBeSTGFzdPbzuEzTbOQXYE30rpTF_0NM",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJNcNVtXRFoA0RH2mIrBHIxdI",
+            "rating": 5.0,
+            "reference": "ChIJNcNVtXRFoA0RH2mIrBHIxdI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Res zoubida imm 7 rdc n2, Avenue des F.A.R, Meknès",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8944938,
+                    "lng": -5.581011199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8958807302915,
+                        "lng": -5.579665419708498
+                    },
+                    "southwest": {
+                        "lat": 33.8931827697085,
+                        "lng": -5.582363380291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "كراء السيارات",
+            "photos": null,
+            "place_id": "ChIJgwL4ayBboA0RWQaPLFHWtFQ",
+            "rating": 4.2,
+            "reference": "ChIJgwL4ayBboA0RWQaPLFHWtFQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8660212,
+                    "lng": -5.579165300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8673749302915,
+                        "lng": -5.577834069708498
+                    },
+                    "southwest": {
+                        "lat": 33.8646769697085,
+                        "lng": -5.580532030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "كراء السيارات كاني كار",
+            "photos": null,
+            "place_id": "ChIJH2OdVOVboA0RnEjV_LR16ts",
+            "rating": 5.0,
+            "reference": "ChIJH2OdVOVboA0RnEjV_LR16ts",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Meknes",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8815917,
+                    "lng": -5.572865699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.88294528029149,
+                        "lng": -5.571509819708497
+                    },
+                    "southwest": {
+                        "lat": 33.8802473197085,
+                        "lng": -5.574207780291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "وكاله تاجير السيارات",
+            "photos": null,
+            "place_id": "ChIJkda2XMVaoA0R0bHAN8MFbMI",
+            "rating": 3.3,
+            "reference": "ChIJkda2XMVaoA0R0bHAN8MFbMI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Morocco, Meknes",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.85823169999999,
+                    "lng": -5.569269599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.8595790302915,
+                        "lng": -5.567906269708498
+                    },
+                    "southwest": {
+                        "lat": 33.8568810697085,
+                        "lng": -5.570604230291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ياسين مكناس كار",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwIXsGvPNiwTq7FMdCTPGKX4Wci2QDwzltpCMnuWVqE6K2aodgH1oPiST7JdYJEyguKGzwhiXIQ_MU59_dlommSXrY2j7S-dTWqaZXCyDT4CgE4w926JspERAEWdErtJ9Zs3qeGjd4OHI9krDZojGmEZys5s47LZlgORk5DhZgWVhy9j",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ-8FYUa5aoA0R3jL7tRUWmj8",
+            "rating": 4.4,
+            "reference": "ChIJ-8FYUa5aoA0R3jL7tRUWmj8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Unnamed Road, Meknès",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

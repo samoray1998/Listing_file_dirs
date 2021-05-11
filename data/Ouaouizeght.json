@@ -1,0 +1,172 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3440221,
+                    "lng": -6.3414787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34535642989272,
+                        "lng": -6.340048020107279
+                    },
+                    "southwest": {
+                        "lat": 32.34265677010727,
+                        "lng": -6.342747679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auzia Car",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwLG3LJnZRRO5-NZHbaPYdiLNKG9B6ZC7I2IKaEVECVUzV2zqebIsa44u-Fz-iktcyJh-c0pBHJkINi9MZRB1CWRnpV6k3sHf0qMFRQ4cdM7LspvlvTKiY1YZ4ENHZM1aYzakKymYSMid3CdyZ6M68ZaRtG6g_lch3oE3A4FonnRmbQK",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "rating": 4.5,
+            "reference": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Boulevard Mohammed V, Dyar Al Atlas, Immeuble 6 ,2 eme etage , appartement 8, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.499094,
+                    "lng": -6.695083400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50044287989272,
+                        "lng": -6.693733820107278
+                    },
+                    "southwest": {
+                        "lat": 32.49774322010727,
+                        "lng": -6.696433479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Deniaoui car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwKo6yWlqFKerwvsqni2VTVNOShEuosKYMjGYZrV4sE3-X_yBkSWBsRWSiE1_lDi4kQvNwBc9x_yH-EgpDfaPDxrLdSG_RkETXCljSx3tGU9WXOzEYn9hMFnUHET2xq4kAIkpucXMsJcW37eIDg-VJc7vzrXICwDfjvNP8X2RRYC6JWU",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "rating": 3.7,
+            "reference": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Fquih Ben Salah, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637114,
+                    "lng": -8.0120094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63841007989272,
+                        "lng": -8.010631470107278
+                    },
+                    "southwest": {
+                        "lat": 31.63571042010727,
+                        "lng": -8.013331129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LabelVoiture - Location Voitures Marrakech",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwKrT3_yR2YJuGFZ2ul12a084vqN6jl7QTYaXUJ0d9rQi_F4WnCJ7AFrsB8kYMyg-d3T2kg2s_zYZXT1wyWBtbks85L9k3ZAxO3YC866oqYQkLOBx73MH_FTCA2BIXnRU0Ofekx-QBEijhJs-fw_ZOpn5AjClGsX-mJotqio0kXt_Q_Q",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "rating": 4.8,
+            "reference": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Bd Zerktouni, Imm 90 1er étage Appartement N°20, Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwKnd49X-iuml3TcrGoZdLGgwzqbzKKkcm_ZJV-h1Y8Y652EuUHOrwmg_n5Y1bZ9xhMTBUTvgGPG7RJeZXGDoqZKj-4jvyxL2oUJEmRjUBAkrnorvJUIqbbWMZuAEY8uK-RlsYhCfOPtI253cdhlkY4TQSGjFWvdnABVhQx61ntr9LIn",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5999307,
+                    "lng": -7.6279692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60126282989273,
+                        "lng": -7.626588820107278
+                    },
+                    "southwest": {
+                        "lat": 33.59856317010728,
+                        "lng": -7.629288479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "addCar Morocco",
+            "photos": [
+                {
+                    "height": 540,
+                    "photo_reference": "ATtYBwIH4nsIbayIqNFgK2eQdEr3fT0i7J-lcQYk6pMyUCK5Dv4GQ8BGBCSxgeUnj7Lg_LcuLo4OQ_AZnp7NS7-__7dmOicsA2mtUs3vlMG-B6lUrM1XOxrzFyvYxw7aR6xWIYosK2Su66JfhqpvRZqGBklQ-BkHUPBM2aQ3FRFbVC9uDhoq",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJD4wYxcHSpw0RyB1INSxBXBE",
+            "rating": 1.7,
+            "reference": "ChIJD4wYxcHSpw0RyB1INSxBXBE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 44,
+            "vicinity": "605 Rue Goulmima, Casablanca 20200, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6358327,
+                    "lng": -8.0151445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63712932989272,
+                        "lng": -8.013764120107277
+                    },
+                    "southwest": {
+                        "lat": 31.63442967010728,
+                        "lng": -8.016463779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nova Luxury Cars : Location voiture luxe Marrakech - Rent Luxury Car - كراء السيارات الفاخرة بالمغرب مراكش",
+            "photos": [
+                {
+                    "height": 313,
+                    "photo_reference": "ATtYBwIP7FmxKE5AF-0w4SB11sfa67t65Qw8EAlfhGRlxMJwQh-4Ov8z3zybjh5RnKIExcF9E5EGZWT1kpfHKPCnjABxKxjAqUZOdGOAXXLj-PPqlIuS-y-11V_05bgrpmibxPmKD3zvIClbrHVUM8R2LqX_-QTnJULqPkTKIbhIwXuR9eo3",
+                    "width": 848
+                }
+            ],
+            "place_id": "ChIJ8W9aKpDurw0RSNENST1Fyy8",
+            "rating": 5.0,
+            "reference": "ChIJ8W9aKpDurw0RSNENST1Fyy8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bd Zerktouni, Imm. Colisée Appt N°4, Guéliz, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.59972399999999,
+                    "lng": -8.027062899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60112852989272,
+                        "lng": -8.02570607010728
+                    },
+                    "southwest": {
+                        "lat": 31.59842887010728,
+                        "lng": -8.028405729892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AddCar Rental - Marrakech Airport",
+            "photos": null,
+            "place_id": "ChIJ98X9GAXvrw0Rul1PaMOOSB4",
+            "rating": 2.0,
+            "reference": "ChIJ98X9GAXvrw0Rul1PaMOOSB4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Marrakesh 40160, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

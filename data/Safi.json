@@ -1,0 +1,790 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2886848,
+                    "lng": -9.2183225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29010677989272,
+                        "lng": -9.217131820107276
+                    },
+                    "southwest": {
+                        "lat": 32.28740712010728,
+                        "lng": -9.21983147989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LPC Cars",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwL4f7qBle4l7k_HOv3HyBBmOk3xAdeWV95OcfOSeZQWZ-Nsmmv3rCAAVogpxh0dawyZOJLx1Jd-f9YcOwfa9IppWw7aoOOK3rYdCGseIAPABsrH6eDnJnCDkmGt5yWUslCY4Zf6p5tkvTM8P-0d9lDtxKdQTXEbej_TOXWjxBbR2IDq",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "rating": 4.5,
+            "reference": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Avenue Moulay Souleymane, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2779684,
+                    "lng": -9.2422684
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.27936922989272,
+                        "lng": -9.24095942010728
+                    },
+                    "southwest": {
+                        "lat": 32.27666957010727,
+                        "lng": -9.243659079892725
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AK RENT Safi كراء السيارات اسفي",
+            "photos": [
+                {
+                    "height": 3025,
+                    "photo_reference": "ATtYBwLBs8ovJpDpUjMAJXksknC63Fnj4VhD5ZLjLRWWtoiEeL85Cfiu9up9jja6MGKCwdLYon6Xt_wwfQrFj1cbSfE3ZfZ3H8M_vAqOWHRTKB0vTJ2zBn0J-dxfiqUpyl_wI3358_jaYe7aOw3O8wp8ZSAzSgC0c4HFd_h--IsNcRQEWFqc",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJsx9xhtAmrA0RlnykxCiDCno",
+            "rating": 5.0,
+            "reference": "ChIJsx9xhtAmrA0RlnykxCiDCno",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "43 BLOC C QUARTIER OURIDA EX، 46040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2865774,
+                    "lng": -9.2200221
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28796782989272,
+                        "lng": -9.218653070107278
+                    },
+                    "southwest": {
+                        "lat": 32.28526817010728,
+                        "lng": -9.221352729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "shibi cars sarl",
+            "photos": [
+                {
+                    "height": 2160,
+                    "photo_reference": "ATtYBwKdEmty6ndlpONoOJFRV-rVsq_t_x1HWYoLCz6Vwom4ELj0okPYzE6-66t-nXxeYPNBk5t79C4W7o4Jr1C9BF5w60JojvaA4IcdTRB2pximh3eeu0Vwr3O2OGmGyyXRropLHeb6ltwDdSuj3JZo5D69cs-Qp7H4uQFR2P7O01SJXx-i",
+                    "width": 2880
+                }
+            ],
+            "place_id": "ChIJwcJzszMnrA0RUEeWUzuNx2A",
+            "rating": 4.3,
+            "reference": "ChIJwcJzszMnrA0RUEeWUzuNx2A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Qu jrifat lotissement Rayhane 7bis, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2852709,
+                    "lng": -9.234946299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28661272989272,
+                        "lng": -9.233617620107278
+                    },
+                    "southwest": {
+                        "lat": 32.28391307010727,
+                        "lng": -9.236317279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SALMAN SAFI TOURS كراء السيارات",
+            "photos": [
+                {
+                    "height": 719,
+                    "photo_reference": "ATtYBwIR7EzDleWPcKBBfS934pJRDe8gXkhrdSNFsp-rLbfa9MsAFbxl1QjZ80wxeAXOVuYMIeojztz_kwg4GUd5BG1A7MKk6iS5T104V9Wt9JCX0aiez-l4SSVmG8zD5_TUb4Vj8_zey9J5xtvXDaV7HAcBtDgP9QXYTqJrMbe2YeQFI4i7",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ_afcoYsnrA0RR4f2sKhE3iU",
+            "rating": 5.0,
+            "reference": "ChIJ_afcoYsnrA0RR4f2sKhE3iU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "hôpital, Safi N°85 avenue Bordeaux Qu, Safi 46000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2870241,
+                    "lng": -9.2289408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28835462989272,
+                        "lng": -9.227542070107278
+                    },
+                    "southwest": {
+                        "lat": 32.28565497010728,
+                        "lng": -9.230241729892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION VOITURE - FRS RENT CAR",
+            "photos": [
+                {
+                    "height": 1920,
+                    "photo_reference": "ATtYBwK0pNTqdY9OK9v3VEaIc8c-vbD_fv80CsGkafJuFmQ3IZ0P-k45h3lVRYTQykUxW8-EMDPNXJym5GAHs6ToPkDkhZIuRof-RE0mjHzQsiflw3xCUk-NOTNmqtnCBFY79b0pYnSk_xxa5VNe5G_3v2BAztlMlJ6FE1Kzb6tKBDAtDEfD",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJc3sifysnrA0R3R742iWJ28Y",
+            "rating": 4.3,
+            "reference": "ChIJc3sifysnrA0R3R742iWJ28Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2896587,
+                    "lng": -9.2384456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29105167989272,
+                        "lng": -9.237159520107278
+                    },
+                    "southwest": {
+                        "lat": 32.28835202010728,
+                        "lng": -9.239859179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Norma Car كراء للسيارات",
+            "photos": null,
+            "place_id": "ChIJK-XURyshrA0RY43piwnSgzE",
+            "rating": 0.0,
+            "reference": "ChIJK-XURyshrA0RY43piwnSgzE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "App 4 Imm 22 Rue El ADAL qu. Jnane Illane 46000, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2837736,
+                    "lng": -9.219768199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28508037989272,
+                        "lng": -9.218453120107279
+                    },
+                    "southwest": {
+                        "lat": 32.28238072010728,
+                        "lng": -9.221152779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "DOAULCARS",
+            "photos": [
+                {
+                    "height": 581,
+                    "photo_reference": "ATtYBwKzO2mzqFgplOb9PAVb5SCkdKPIY_bYwmf2ua_WQS7Rg6QBxW7jWt2GAnu_bb50HYN6YgM97c09nYoOvLuJMjP-FpHdUU__tsQvnJd7ZZ1pdNIS2-vN6LMeuK5BTjIriCRIxooxrnd-vI64rNb_-wb_ORzCTw2nm3TJGddDnq3iLXwh",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJub8ogoghrA0RZZhL78FgBwE",
+            "rating": 0.0,
+            "reference": "ChIJub8ogoghrA0RZZhL78FgBwE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RUE 205 LOT BLAINCO 05 QU JEREFATE Safi MA, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.286822,
+                    "lng": -9.2333027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28819432989273,
+                        "lng": -9.231947170107278
+                    },
+                    "southwest": {
+                        "lat": 32.28549467010728,
+                        "lng": -9.234646829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Bousiri Rent Car البوصيري لكراء السيارات",
+            "photos": [
+                {
+                    "height": 1755,
+                    "photo_reference": "ATtYBwLYJsUA0YIgdpKGiRolHJGsnUD0Ol0rqme1KZY6gRj09piF5V_hiTGA7sY--tqs_v-ZUSuBUIM99VfkrRYJQoZHFL7l04UYoutWnSW4aV3LcvNki4d4VmBmJ_LddvAOxXrLaiY2_lN8VgxhwBHdqE_r_SyJ_Z8nY_8N8LSBvrss545w",
+                    "width": 2699
+                }
+            ],
+            "place_id": "ChIJ69kXiSonrA0RtPmhyO6OsxA",
+            "rating": 3.0,
+            "reference": "ChIJ69kXiSonrA0RtPmhyO6OsxA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3133085,
+                    "lng": -9.2321533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.31452437989272,
+                        "lng": -9.230853270107277
+                    },
+                    "southwest": {
+                        "lat": 32.31182472010728,
+                        "lng": -9.23355292989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION DES VOITURESNAZIHI CARS",
+            "photos": null,
+            "place_id": "ChIJVYMWozIhrA0R1rNCk_-gwLE",
+            "rating": 0.0,
+            "reference": "ChIJVYMWozIhrA0R1rNCk_-gwLE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue Essalama, Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.29256790000001,
+                    "lng": -9.2223817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29391132989272,
+                        "lng": -9.221078770107278
+                    },
+                    "southwest": {
+                        "lat": 32.29121167010727,
+                        "lng": -9.223778429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SEA CAR SERVICES",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwLq40EE33cHvCepaCXH_s_8dh2VQolfpiVeLfLCviKqajP7GVDMfQ2MHmV-H5mP4mUYLnxsPCbJMF1qjzAWq-4ktqWpx9lHKmvf8oEd2suAdXmQkuFXyFlrp-UE8iaL0yfGIJFnSaoMQi3g-1uJxgTQ3M28V4jayvecRT_CjpWrB6z5",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJZZ27cM0grA0RaGrIHSNqbR8",
+            "rating": 4.0,
+            "reference": "ChIJZZ27cM0grA0RaGrIHSNqbR8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "AZIB DRAI Avenue Abdeslam Majid Blad El Jed N°2, Safi 46000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3099358,
+                    "lng": -9.2152354
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.31129562989273,
+                        "lng": -9.21393682010728
+                    },
+                    "southwest": {
+                        "lat": 32.30859597010728,
+                        "lng": -9.216636479892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROUAZI RENT CARS",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwLcYEsXGQSifzXhbIsfXhPGLzxP5g0pgcaWfUmMZvBV00CHb79kMn8dkrwVVoN1X7Y-QSRXSPdC-lYhaK2XDQkohRC0reY7M9sPAdHMQQntkhTci9LAb-sSulPMVkIqJLy2leeQvoJTE7krYvXJ94eGInoAPRgQiRXbMDcK78HxCIrH",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJS62H2DAhrA0RuYFybl9mw74",
+            "rating": 5.0,
+            "reference": "ChIJS62H2DAhrA0RuYFybl9mw74",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "HAMAM ISTAMBUL, 32 R SMARA QU, Safi 46000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2925203,
+                    "lng": -9.239631300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29383662989272,
+                        "lng": -9.238253070107278
+                    },
+                    "southwest": {
+                        "lat": 32.29113697010727,
+                        "lng": -9.240952729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sahel Location",
+            "photos": null,
+            "place_id": "ChIJaca97WwhrA0R3J8bnidtSj0",
+            "rating": 0.0,
+            "reference": "ChIJaca97WwhrA0R3J8bnidtSj0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2812052,
+                    "lng": -9.229039799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28252202989272,
+                        "lng": -9.22779897010728
+                    },
+                    "southwest": {
+                        "lat": 32.27982237010728,
+                        "lng": -9.230498629892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mortadi rent cars",
+            "photos": null,
+            "place_id": "ChIJt4IgI-AnrA0RNHbA22MJnSI",
+            "rating": 0.0,
+            "reference": "ChIJt4IgI-AnrA0RNHbA22MJnSI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "n 10, Bloc 43 saida 2, Safi 20160, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2852753,
+                    "lng": -9.2349499
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28661752989272,
+                        "lng": -9.233620220107278
+                    },
+                    "southwest": {
+                        "lat": 32.28391787010727,
+                        "lng": -9.236319879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SALMAN SAFI TOURS كراء السيارات",
+            "photos": [
+                {
+                    "height": 3120,
+                    "photo_reference": "ATtYBwK9hXvUcV-rUmT0lIhnc2FrFPIx6EqnJZWbkUzv3eT_093OK_SIAFi_YsskDm9UEcOgrvAaWmJ-I0vNadGjSo3KpyLK800TFoJGGu6E0nXsel95L3Y58n2CJ1ZZTVdzzCd36GzUct-DDUG-FW9RzvLVH0IYzHq7cg5W4gPyF9-Les0_",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJz5d_TC4nrA0Rd6QPVYj1y-M",
+            "rating": 4.5,
+            "reference": "ChIJz5d_TC4nrA0Rd6QPVYj1y-M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 24,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.291549,
+                    "lng": -9.236374
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29290187989272,
+                        "lng": -9.235022970107279
+                    },
+                    "southwest": {
+                        "lat": 32.29020222010728,
+                        "lng": -9.237722629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Diva car",
+            "photos": null,
+            "place_id": "ChIJ0-ccqiUhrA0Rt18ghpyMncc",
+            "rating": 0.0,
+            "reference": "ChIJ0-ccqiUhrA0Rt18ghpyMncc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "15 avenue Ibn khaldoun, Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3192303,
+                    "lng": -9.2275095
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.32054642989272,
+                        "lng": -9.226177670107278
+                    },
+                    "southwest": {
+                        "lat": 32.31784677010728,
+                        "lng": -9.228877329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Fatimazahra",
+            "photos": null,
+            "place_id": "ChIJT4PCFOQgrA0R5-vTH1z9dn0",
+            "rating": 3.0,
+            "reference": "ChIJT4PCFOQgrA0R5-vTH1z9dn0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2865414,
+                    "lng": -9.231638
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28796697989272,
+                        "lng": -9.230241320107277
+                    },
+                    "southwest": {
+                        "lat": 32.28526732010728,
+                        "lng": -9.232940979892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "KAN 2 CARS كراء السيارات",
+            "photos": [
+                {
+                    "height": 843,
+                    "photo_reference": "ATtYBwJluIgarHIqYULJl6JkiB48QJbm7fbG6q25mhwqQL0fSxnoENUKEtDl-_RQ31CYwmXp9EzbbUEwnQedBWmv8RdfLOehDiN_FoqnspkG8GXwhHV2cNgXJaNCuE2bKdTCmj2m-3-U9osWsUKOwMrhh2N6h_p5PWNIRzMsroj8fLUbo6kc",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJ7VqBMi8nrA0RwYw7tNyt470",
+            "rating": 3.5,
+            "reference": "ChIJ7VqBMi8nrA0RwYw7tNyt470",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "1er étage IMM HADMI , AV 20 aout et, Avenue John kennedy, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2892295,
+                    "lng": -9.219932499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29060752989272,
+                        "lng": -9.218565370107278
+                    },
+                    "southwest": {
+                        "lat": 32.28790787010728,
+                        "lng": -9.221265029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Akram Car location de voiture",
+            "photos": [
+                {
+                    "height": 2470,
+                    "photo_reference": "ATtYBwKhf-Y1ulK3M-JocYB7QkzIw3fKjARJ-iHJ3qAh3X3p3s8wngDQ4_pJKTshuCO32CcttYtyzm4VMYVfOLocS24NuG-9IsOUiAaIMatOaGdkQkCw10f3TdixBFaeojV5HDfHAlGjsF9q9lz7okL4ECovjQm-7BrBcVM_FiRanQGaD0BA",
+                    "width": 1946
+                }
+            ],
+            "place_id": "ChIJfVj-i0UnrA0RoRRx0r9zfYs",
+            "rating": 0.0,
+            "reference": "ChIJfVj-i0UnrA0RoRRx0r9zfYs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "N 196 av abdeslam mjid quartier bled jed, 46000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.318513,
+                    "lng": -9.2267796
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.31992112989273,
+                        "lng": -9.225389120107277
+                    },
+                    "southwest": {
+                        "lat": 32.31722147010728,
+                        "lng": -9.22808877989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ARBI Cars",
+            "photos": null,
+            "place_id": "ChIJv2z9JOQgrA0RssWO0JV6Pn4",
+            "rating": 3.0,
+            "reference": "ChIJv2z9JOQgrA0RssWO0JV6Pn4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3168387,
+                    "lng": -9.2277171
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.31821467989272,
+                        "lng": -9.226351670107277
+                    },
+                    "southwest": {
+                        "lat": 32.31551502010728,
+                        "lng": -9.229051329892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ideli Cars",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwJVwTC1O-JlQKXvRT4FdbkLrKUnUu9HxowHKJxX9WSiPZb4pe9DLxEPHO7PeGeWTe7l__GtQ_FjPqEM2T_ZzPeSPGmSxl06orb881JnuFjP7oBNHYc9A1YWWJiyTXrVLcbcm0FrRMQglqm7t5mpfX8jXBg-Ub81qU-FsPGzZazf1lRv",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJW5zmu-YgrA0R3K59CoJZJko",
+            "rating": 5.0,
+            "reference": "ChIJW5zmu-YgrA0R3K59CoJZJko",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        }
+    ]
+}

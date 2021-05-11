@@ -1,0 +1,116 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4217955,
+                    "lng": -9.6060871
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42310927989272,
+                        "lng": -9.604781970107279
+                    },
+                    "southwest": {
+                        "lat": 30.42040962010728,
+                        "lng": -9.607481629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location de Voiture Agadir Centre Ville",
+            "photos": [
+                {
+                    "height": 356,
+                    "photo_reference": "ATtYBwKAFV9gKEGJFbLWFvM62oRncXuBSnu5xq-KiHcTB5K_sHKwVBfpM3LkwXRTVtTchYM_vCC-QIKOBSuO6yqGf155j1qGFRM5fLzkx7j9y4UjOB9et2fvQ7neYBQGTxkxWaaYgRqrgZn5v0loN0sAfr7_DGKF59ZPUO9vqsU1hjbOLXLF",
+                    "width": 742
+                }
+            ],
+            "place_id": "ChIJN_519eu2sw0RNJsN9keeBwQ",
+            "rating": 4.8,
+            "reference": "ChIJN_519eu2sw0RNJsN9keeBwQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 126,
+            "vicinity": "Avenue Mohammed V, Bungalow Marhaba، Agadir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.633961,
+                    "lng": -8.016484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63525682989273,
+                        "lng": -8.015120370107278
+                    },
+                    "southwest": {
+                        "lat": 31.63255717010728,
+                        "lng": -8.017820029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATIONAUTO.MA",
+            "photos": null,
+            "place_id": "ChIJ0Zn8nZHurw0RX85OZleMQfY",
+            "rating": 1.5,
+            "reference": "ChIJ0Zn8nZHurw0RX85OZleMQfY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92,
+            "vicinity": "170 ABDELKARIM EL KHATABI APP 6، Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4993315,
+                    "lng": -5.5301849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50070337989272,
+                        "lng": -5.528837520107277
+                    },
+                    "southwest": {
+                        "lat": 31.49800372010728,
+                        "lng": -5.531537179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Assoufghe car",
+            "photos": null,
+            "place_id": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "rating": 0.0,
+            "reference": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "230, Tinghir 45800, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

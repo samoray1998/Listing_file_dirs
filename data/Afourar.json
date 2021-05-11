@@ -1,0 +1,780 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.332378,
+                    "lng": -6.362918
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.33376192989272,
+                        "lng": -6.361568470107278
+                    },
+                    "southwest": {
+                        "lat": 32.33106227010728,
+                        "lng": -6.364268129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ASHAB CAR",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwKS81WsdmAEYabYrbQcyzvNQeHt9X21FwA3seNjfPmaks9YvMuM6_m18lmjiXx9SrfShtAJrvipN7lfXV6lJYgJZzCN_m2rul7hKEXzbM5IbUKkZS5jBU265WsbJTteBrr3E2HneDXncL1LMZR4N17XJ7jkkO0nPXCf88UBqDjrDL8w",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJN3hGcVWGow0RROG3wg6kWs0",
+            "rating": 5.0,
+            "reference": "ChIJN3hGcVWGow0RROG3wg6kWs0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Mohammed V ang. résid. Othmane 1°ét. n°2, Boulevard Hassan II, Beni-Mellal 23000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3403078,
+                    "lng": -6.344171999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34168417989272,
+                        "lng": -6.342860870107278
+                    },
+                    "southwest": {
+                        "lat": 32.33898452010727,
+                        "lng": -6.345560529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ABBOU CAR S.A.R.L",
+            "photos": [
+                {
+                    "height": 5312,
+                    "photo_reference": "ATtYBwIn9yTXSX7aedS6SUt64RU4TY0IUVWwha-TiEVQqvLjNK8wFoIBGB03b4muTM__KKuoKR-Cw3KhyN7Iw8mwaj6fnMYILH2ntOErav3rwoVeE4e_bV0AW6yrxHKdBwtJ8UrVzGl4zq1vd4NkEX9NqjXCFCOgLBYbPY0uwiUHJgoR1UhC",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJNSefjl2Gow0RM4gi6vSNWZ8",
+            "rating": 4.3,
+            "reference": "ChIJNSefjl2Gow0RM4gi6vSNWZ8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard Mohammed V, Béni Mellal, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.342443,
+                    "lng": -6.375799
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34385207989271,
+                        "lng": -6.374377720107278
+                    },
+                    "southwest": {
+                        "lat": 32.34115242010727,
+                        "lng": -6.377077379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CHOIX CAR",
+            "photos": null,
+            "place_id": "ChIJRy0eUfSHow0R3TuOG0CqRzg",
+            "rating": 5.0,
+            "reference": "ChIJRy0eUfSHow0R3TuOG0CqRzg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2ème Etage, Immeuble 6, Appartement 5, DYAR AL ATLAS, Béni Mellal 23000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3396484,
+                    "lng": -6.356575100000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34097732989273,
+                        "lng": -6.355346070107277
+                    },
+                    "southwest": {
+                        "lat": 32.33827767010729,
+                        "lng": -6.358045729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Mazzer car",
+            "photos": null,
+            "place_id": "ChIJ9c16NoiHow0Ruv-y2XQWZTA",
+            "rating": 4.7,
+            "reference": "ChIJ9c16NoiHow0Ruv-y2XQWZTA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard de l'Armée Royale, Béni Mellal, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3472794,
+                    "lng": -6.3421664
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34863052989272,
+                        "lng": -6.340910320107279
+                    },
+                    "southwest": {
+                        "lat": 32.34593087010727,
+                        "lng": -6.343609979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Stiki Rent Cars",
+            "photos": [
+                {
+                    "height": 664,
+                    "photo_reference": "ATtYBwLk2Z6qHzt4OGzY1qch7kVfk4LifNPdTgHp811KUCPBBHO6NWH7LFTdtYHMX8fUVqQzpl6w8KgQ-2UIIU4OPHe7oQ4z24zGdcMd02rxlcWt94jPhfYl_qPOE8Z4O3Lu5LkFx3cpUjNQCLod-yoU5FCuSDXhKyQPzNJe1sauVMBFb1-m",
+                    "width": 1179
+                }
+            ],
+            "place_id": "ChIJX3J-sWmGow0R-GYzmiBhp9Y",
+            "rating": 4.2,
+            "reference": "ChIJX3J-sWmGow0R-GYzmiBhp9Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Avenue med 5, Béni Mellal 23000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3440221,
+                    "lng": -6.3414787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34535642989272,
+                        "lng": -6.340048020107279
+                    },
+                    "southwest": {
+                        "lat": 32.34265677010727,
+                        "lng": -6.342747679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auzia Car",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwL9jVTiUPoWLAuEHzJizh1vV1zZiq83w-Uk1wFC8XLVraGYJMQrOGgkqQKfq0LyJnEpLqCWqXFWjY0O9zlRVLRQklTpUdqJUUhXUud9r5Q0Jy6-FNUc21ZwZXZAVnlPgFw2qeaaPaPIqy1tzXZFj9x4PEalSfWf5QzRzE_ZxhARh-7U",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "rating": 4.5,
+            "reference": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Boulevard Mohammed V, Dyar Al Atlas, Immeuble 6 ,2 eme etage , appartement 8, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3333029,
+                    "lng": -6.3633545
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.33465032989271,
+                        "lng": -6.362009170107277
+                    },
+                    "southwest": {
+                        "lat": 32.33195067010727,
+                        "lng": -6.364708829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "DABDOUBY ABDELKRIM CAR ( agence de location de voiture)",
+            "photos": [
+                {
+                    "height": 843,
+                    "photo_reference": "ATtYBwLKkIXXPlqn4PwnVYWxN0_Sh3NlEW0uVONnvgHx5ICkCaOji_GQjhZyoMeDrXVglX8HhsGOTU4ybbh2xEHMfg6z6EpdJZ4B-Hu1TwKc6SvuIVTVL3R2XUQ7YWmc04ARRrl3UvyBdRKqThZQzA-9Lg09fpGuwgmWVExSL-6iA0bkQmPU",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJfy-9HLuHow0RHofHRBnuBiY",
+            "rating": 5.0,
+            "reference": "ChIJfy-9HLuHow0RHofHRBnuBiY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "106 Boulevard Hassan II, Béni Mellal, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3441641,
+                    "lng": -6.341537799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34555262989272,
+                        "lng": -6.340275070107277
+                    },
+                    "southwest": {
+                        "lat": 32.34285297010728,
+                        "lng": -6.342974729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CHOIX CAR",
+            "photos": [
+                {
+                    "height": 466,
+                    "photo_reference": "ATtYBwK9fVg-W8T3Vuidq41n1b2do91nMVzwHBasZoxFSl_fKGlF6MnUTtOQYrlBXalB5bczt7DHMGS5A--gGz2zitZusrJui6gHhOBBoLoFmml1D0Y75JYHjgjkSxYRtheSPe8Uporm7fq9MnE4zLnwxrlTtX-cJVraXuGfMdLT89l_Rr7r",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJb97Ex5eHow0RYrGlOEu7CHY",
+            "rating": 4.9,
+            "reference": "ChIJb97Ex5eHow0RYrGlOEu7CHY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "2éme Etage, Immeuble 6, Appartement 5, DYAR AL ATLAS, Beni-Mellal 23000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3389719,
+                    "lng": -6.3639117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34033512989273,
+                        "lng": -6.362578670107277
+                    },
+                    "southwest": {
+                        "lat": 32.33763547010728,
+                        "lng": -6.365278329892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Borkan car",
+            "photos": [
+                {
+                    "height": 1107,
+                    "photo_reference": "ATtYBwJYOzbwqwEFhKYxBQWfRVzHwIbfm9hZODfgL-NJ3htYozVv2KtWwm1XyZOvksJ6lOayM7L5C0lp6VvXrW08jchXanfJXJjrDRt0-OoAIzb4CdGEkQU3T0yiltfnkl2-2NOJOEkTPhMRSiqrfU3lv7ViOujKK69oadwEP_smANo-Z06A",
+                    "width": 827
+                }
+            ],
+            "place_id": "ChIJzWmYlKqHow0R5IjGdFnqliU",
+            "rating": 5.0,
+            "reference": "ChIJzWmYlKqHow0R5IjGdFnqliU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "شارع أبو العلاء،, Béni Mellal, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.8875282,
+                    "lng": -6.919772399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88886067989272,
+                        "lng": -6.918362970107277
+                    },
+                    "southwest": {
+                        "lat": 32.88616102010727,
+                        "lng": -6.921062629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Sindibad Car",
+            "photos": [
+                {
+                    "height": 1441,
+                    "photo_reference": "ATtYBwLscXKhb9aBnMDZg8DJ6fmy60Y8oxhHNbTqYpHQ3F5gVn510rg4p0RfAnW7YmOYKHbMKyEmtpeo6xiXG4qAsFqhJKj1mZaiSN6YfBmXwvGnWNJfDuj_UeaukwJNokriysFeTs_d7D9ulWpP_t3auLoxRiuKBocce0vP6GJVg0v2R9Ji",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-1ASJ9EnpA0R-qUnjr9IOVk",
+            "rating": 5.0,
+            "reference": "ChIJ-1ASJ9EnpA0R-qUnjr9IOVk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard Brahim Roudani, Khouribga, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3330302,
+                    "lng": -6.3619149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.33432777989272,
+                        "lng": -6.360537220107278
+                    },
+                    "southwest": {
+                        "lat": 32.33162812010728,
+                        "lng": -6.363236879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de Voitures (Speedy Car)",
+            "photos": [
+                {
+                    "height": 4128,
+                    "photo_reference": "ATtYBwLNl1ZiJBQ-fubwAByfOM9pmDroV7W9lhwMHBjKX8Lqu9e8ElwjSwhsTZX1n-JcHwY2Vcm_FghzNaO4RCYgNmjsJBLmo7ilgQSgB6MNIKmLt7eUbB3fkIxADZcwgKTUsIOTeyaE2XVsRPkj229vD5-B7J-6qkw2hGEalmLYNjUhAETY",
+                    "width": 2322
+                }
+            ],
+            "place_id": "ChIJlRYFmVWGow0RDrIW8lCJhag",
+            "rating": 5.0,
+            "reference": "ChIJlRYFmVWGow0RDrIW8lCJhag",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "شارع محمد الخامس v، Beni-Mellal, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.885404,
+                    "lng": -6.920447999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88674397989272,
+                        "lng": -6.919063570107277
+                    },
+                    "southwest": {
+                        "lat": 32.88404432010728,
+                        "lng": -6.921763229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Soudri Car",
+            "photos": [
+                {
+                    "height": 1536,
+                    "photo_reference": "ATtYBwLIknyeIVkFWN7EhQnXQ-Jspeaa3OVDyD3M9VmedXvrY0fQxIjhfFKbY9cV6lDihwFXeLcBGlha3SOrzysTQ_L0BeVUi27cvkzu8Gg_Rhxp0_Oi-Wg0FUYaSwCgN2MHp0Lr9q1feWx-tKMG70R0O1xYQJxYVuuKk9jjegME3HeEM2xT",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ35aN0P8npA0ROG_lCz3usC4",
+            "rating": 3.0,
+            "reference": "ChIJ35aN0P8npA0ROG_lCz3usC4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "104 Boulevard Brahim Roudani, Khouribga 25020, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.499094,
+                    "lng": -6.695083400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50044287989272,
+                        "lng": -6.693733820107278
+                    },
+                    "southwest": {
+                        "lat": 32.49774322010727,
+                        "lng": -6.696433479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Deniaoui car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwJZxTLx_tjnl_8doVr2bs3xF7PdYWv5e4EEO0vkYNTfZGERa-9-npLPw4BXO1WvOHvk0bo8W9F2TLqg_tCqomf67Z1X4pQtJUZonaaszeRPEBwHoGyDJn1ldDE8cPtXV13Xqotf70ILFwttLR0XlWnwykPdqs-G9nr2FP-T6uzhUPkT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "rating": 3.7,
+            "reference": "ChIJX1wHlwhrpA0RD1D1Ue1-mDY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Fquih Ben Salah, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.4988291,
+                    "lng": -6.6871038
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50017547989273,
+                        "lng": -6.685670820107277
+                    },
+                    "southwest": {
+                        "lat": 32.49747582010728,
+                        "lng": -6.688370479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "DN Car وكالة كراء السيارات",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwIHubvzBm6YLZdvtCWp3Y-jkYzHhOsTShaw3519ldk0eFa7PHDe0UIMLOamC47Pz6UPTZjZMKOtlwIH2BBWqbWFZYByrFG2ZgHqX--KNb3uT2aHXZ0RTOAR5vmbgQRf3J7Ae5BE86FrfOust4BdgJl9kpw0doLO9JRVm3YsALdcpync",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJYeo_GgtrpA0RQTL6L_fk1OY",
+            "rating": 4.1,
+            "reference": "ChIJYeo_GgtrpA0RQTL6L_fk1OY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "198 Avenue Hassan II, Fkih Ben Salah, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6017861,
+                    "lng": -7.5607355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60303547989272,
+                        "lng": -7.559388170107279
+                    },
+                    "southwest": {
+                        "lat": 33.60033582010728,
+                        "lng": -7.562087829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Locafinance",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwL1xyD1-MBzXyu0Oe_5yVo5-PbtuBJgyhLSlRhvVUUFHqCY9j3Ej5DzCiORBIJX9Xig6X_zVD8eHpU2cp_EaE55_BdFM-JoBriVkydKQriPzoIkIQHMxeHxrqB7uZXSO2m1VzWBXhajgniN8inOE-ExZ3CwwuTE8wqLePuHIISE68Sm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJravCBvvMpw0RDFqJ87tTEFk",
+            "rating": 4.3,
+            "reference": "ChIJravCBvvMpw0RDFqJ87tTEFk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5828354,
+                    "lng": -7.6373549
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58420512989272,
+                        "lng": -7.635981520107277
+                    },
+                    "southwest": {
+                        "lat": 33.58150547010728,
+                        "lng": -7.638681179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ZIM CAR",
+            "photos": [
+                {
+                    "height": 853,
+                    "photo_reference": "ATtYBwKs_us2cten0JWlRX4YSbDolFLXNIyiB708uU_o51h7h9YFzShmfcivumKlJs6AyfvpvjWepsD7H_MQQj1qdRrFwEGOS1Sm8aasBU8jKsYuKiYXA0tdT9GU6AH90Ies0URpwlUUcc3oLmySq9afpADlswsqFAQPcYXLc4A3aEpI1fM7",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJcz5N28HSpw0RHXJE9OkayKk",
+            "rating": 4.8,
+            "reference": "ChIJcz5N28HSpw0RHXJE9OkayKk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 116,
+            "vicinity": "84 Rue Ibnou Mounir, Casablanca 20100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637114,
+                    "lng": -8.0120094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63841007989272,
+                        "lng": -8.010631470107278
+                    },
+                    "southwest": {
+                        "lat": 31.63571042010727,
+                        "lng": -8.013331129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LabelVoiture - Location Voitures Marrakech",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwIPs3uG33c3ckbNQKKLKFu_sUWcx2sT0mwrZYg44BhmcrF2BAK4nwDP4wGbd-Hj_wpTkyU4QEmhUCgBb1sswp7EGQkv0_B8rRB9ib84d98wngBx7qOQ86zrowvDVomRUDmNJm9csJy343D11dl4lH2NeGdUjyNKQfpTOj9YLMn_kxfW",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "rating": 4.8,
+            "reference": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Bd Zerktouni, Imm 90 1er étage Appartement N°20, Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5830088,
+                    "lng": -7.641447999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58439557989273,
+                        "lng": -7.640060420107276
+                    },
+                    "southwest": {
+                        "lat": 33.58169592010729,
+                        "lng": -7.64276007989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Griche Transport Touristique",
+            "photos": null,
+            "place_id": "ChIJM4Mh1unSpw0RjSgP7dXqzZ4",
+            "rating": 4.5,
+            "reference": "ChIJM4Mh1unSpw0RjSgP7dXqzZ4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "171 Boulevard Bir Anzarane, Casablanca 20100, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3670393,
+                    "lng": -7.5732537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36839362989272,
+                        "lng": -7.571884220107278
+                    },
+                    "southwest": {
+                        "lat": 33.36569397010728,
+                        "lng": -7.574583879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transport personnel Casablanca Maroc - Transport Touristique Casablanca - Location minibus Casablanca avec chauffeur",
+            "photos": [
+                {
+                    "height": 538,
+                    "photo_reference": "ATtYBwKf17JuBHgxcYJMP06Oodubrl4Z6bX68YrZDpWkpM2_JiWm0kwh9ST_FgG-TUYdRcEOWIA-lp2ZQyszemxT1GEKKo9wORBCKApfGEuLILN5spIJBXcWCDv7KmKzQ0EddP2FgMyfWOX2_0v5PWYDGSkiRlCSBuEUn8bbae7FRV8ExZgK",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "rating": 5.0,
+            "reference": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Zone economique EA 231 1ere Etage Nouaceur Casablanca، Dar-el-Beida 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

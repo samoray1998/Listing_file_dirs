@@ -1,0 +1,164 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5392266,
+                    "lng": -7.5984397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54056852989272,
+                        "lng": -7.597126470107279
+                    },
+                    "southwest": {
+                        "lat": 33.53786887010728,
+                        "lng": -7.599826129892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Glbooking - ASF Rent Car",
+            "photos": [
+                {
+                    "height": 397,
+                    "photo_reference": "ATtYBwKLuRnD67I_fb7fmSokWSZV2PEWYHgKPGBwvBSoG34hqRXYIMXfRaqbRNSbqR6Baf_qDHxw_3121RPm26ShsOHW909UkfEf8GM90rkYWopq9MVIvnr-nhGahPmWI0OoLIlzDO89im3lYd4EBkij3Dg0rWkPyS7FKqKuciIXAsMhXwci",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJ61-6S0ozpg0RKnHwoqEWp1E",
+            "rating": 3.0,
+            "reference": "ChIJ61-6S0ozpg0RKnHwoqEWp1E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "groupe L rue 148 N° 7 hay Oufla Casablanca, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5830695,
+                    "lng": -7.637402599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58439082989272,
+                        "lng": -7.636086320107276
+                    },
+                    "southwest": {
+                        "lat": 33.58169117010728,
+                        "lng": -7.63878597989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Asteria Car Location de voiture de luxe à Casablanca Maroc",
+            "photos": [
+                {
+                    "height": 591,
+                    "photo_reference": "ATtYBwJ709VAqctn5hxX6EdNB2ie0AI655vJWZ50M7NyzWMCNU2Fb4ttIJNeqQ4Q1GT_Nj9p8kzrdjcy66T6K36F1oXO_v6SwB8wwKjq1RBWseM9cO5u2dDEh6LuJDxdmT8VEKU9gsLImPdjAftmIad627ZZDurkAZltQFqPTB_DIlKxlAnl",
+                    "width": 1052
+                }
+            ],
+            "place_id": "ChIJz_W9hWzNpw0Rq3kLwED7r2A",
+            "rating": 5.0,
+            "reference": "ChIJz_W9hWzNpw0Rq3kLwED7r2A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "84 rue ibn mounir ETG 1 N°53, Casablanca 20330, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3871849,
+                    "lng": -7.545821399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.38853342989272,
+                        "lng": -7.544471870107277
+                    },
+                    "southwest": {
+                        "lat": 33.38583377010728,
+                        "lng": -7.547171529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sobaii Car Rental",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwJcJP7itBqH0Lna5k-WuAKo0L3D1kPnwTDa-pmNQp04YjRAwQj9-yEvOIQJno-T37GlhgRxi5RmTho9fshbvNjtRSaFLmA2ClAqiGZ2Xa94IF4Lq9ujGbCT5Ij99MgjlUAf7ysnS45oypk54Q2SJy2BDANRMLqhdIMN9x05uk5uSCqp",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJz4Ki2t47pg0ROJN20_4VDCo",
+            "rating": 0.0,
+            "reference": "ChIJz4Ki2t47pg0ROJN20_4VDCo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Lot Nour n EB 105 pole urbain Nouaceur, Casablanca 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.575542,
+                    "lng": -7.625344500000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57689757989272,
+                        "lng": -7.624158870107278
+                    },
+                    "southwest": {
+                        "lat": 33.57419792010728,
+                        "lng": -7.626858529892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ARRASS Car",
+            "photos": null,
+            "place_id": "ChIJw-2srLvSpw0RhHWO2xvjals",
+            "rating": 5.0,
+            "reference": "ChIJw-2srLvSpw0RhHWO2xvjals",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard Abdelmoumen, Maarif 20250, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

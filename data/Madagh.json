@@ -1,0 +1,822 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.906512,
+                    "lng": -2.3555817
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.90788597989272,
+                        "lng": -2.354197020107278
+                    },
+                    "southwest": {
+                        "lat": 34.90518632010728,
+                        "lng": -2.356896679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Cheraa.car Location",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwKkYB1lMluNJGWSlYwhhaZ-mlgaZb-YJP5J1KXgdISBwjAvYGPgugWp6OYWtijBFd8yt8tyMkytZKNeCOpwJicrHXmB5mOlmVzKtzKgQP_A9sFM_OxCVvrzx0UCUbh5eFCR2sBpqdNZeceOKxequdHtahOSUyT7qrYqZZklNgE1rien",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ_ZsW5fMjeA0RkIr3l1KnKF0",
+            "rating": 5.0,
+            "reference": "ChIJ_ZsW5fMjeA0RkIr3l1KnKF0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "8rue sebta hay el ouifak, Sidi Slimane Echcharaa 63300, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.786966,
+                    "lng": -1.941187
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78814827989272,
+                        "lng": -1.939788270107278
+                    },
+                    "southwest": {
+                        "lat": 34.78544862010727,
+                        "lng": -1.942487929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Oujda Airport]",
+            "photos": [
+                {
+                    "height": 399,
+                    "photo_reference": "ATtYBwKcQL_sxuRt9sSZcvxtS5Uc1AoiVzDc4G8fYa0k2eRU36cUxO1WRHgXr0Qz7tS19Xyb6kuy7i1Y9TLJbFAI9dk-FY3e-fo8rXBURz_ZD-UZW0C1FbH6vN5c-CDvtPBzOrvD0EPfybj1gTMFf0i34itL0pNfvy07qcGNPslAM-0IuBCJ",
+                    "width": 711
+                }
+            ],
+            "place_id": "ChIJN_r_W8FmeA0RReMLcC9Njzs",
+            "rating": 3.5,
+            "reference": "ChIJN_r_W8FmeA0RReMLcC9Njzs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Aéroport Les Angades, Oujda 60000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7878995,
+                    "lng": -1.9413591
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78924932989272,
+                        "lng": -1.940009270107278
+                    },
+                    "southwest": {
+                        "lat": 34.78654967010727,
+                        "lng": -1.942708929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "surprice car rentals oujda",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwKrq_DX8ReVGYqwzBuBFLJ6QzudCQXGXKkQXd5FIkQS2NyHEMuaKfgPdtbyI1Hr2IsX50HsPHhpxAego_t0gkctKvFka1SloDezF3HlI9kSrYct0k1Fi226plMRaWi5dgZ0t5Vbq_QPvhiffuVVI7L2uCakFvBDyjtdpyVXDw0HQZjx",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJufDp0ERneA0RQ4nlFdpOkp4",
+            "rating": 0.0,
+            "reference": "ChIJufDp0ERneA0RQ4nlFdpOkp4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Oujda 60040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7869106,
+                    "lng": -1.9403342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78826042989272,
+                        "lng": -1.938984370107277
+                    },
+                    "southwest": {
+                        "lat": 34.78556077010727,
+                        "lng": -1.941684029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location de Voiture Oujda Aéroport",
+            "photos": [
+                {
+                    "height": 774,
+                    "photo_reference": "ATtYBwKFy0EJDMmwGYm8Ja0FyTZWYxfaCBUnaYxQZ_FtbTeXBMJRFHOgLTaHJ0zrqTTw46qG6ZJ-Xypv4WUDVgsZOiyF-0XN8_Dp6O3lxrzl5LkLq7niv3w4JBvLFvOXVTM-klAWA9-nFmTUi9_vPF2uJC8ink96KZ4qRXd9fJvivQvKbh20",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJWWy0IpFmeA0RfGxn4xJypNs",
+            "rating": 4.8,
+            "reference": "ChIJWWy0IpFmeA0RfGxn4xJypNs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "Aéroport Oujda-Angads، Oujda, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7873477,
+                    "lng": -1.9405498
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78869752989272,
+                        "lng": -1.939199970107278
+                    },
+                    "southwest": {
+                        "lat": 34.78599787010727,
+                        "lng": -1.941899629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AIRCAR",
+            "photos": null,
+            "place_id": "ChIJO6vkk_FmeA0RfFU4_esfE7M",
+            "rating": 4.3,
+            "reference": "ChIJO6vkk_FmeA0RfFU4_esfE7M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Angad Terminal 1, Oujda 60000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.676035,
+                    "lng": -1.9229397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.67745482989272,
+                        "lng": -1.921624220107278
+                    },
+                    "southwest": {
+                        "lat": 34.67475517010728,
+                        "lng": -1.924323879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Yaca rental Oujda",
+            "photos": [
+                {
+                    "height": 1536,
+                    "photo_reference": "ATtYBwLmmhE9zRCqgmIV3_UU9wfVYO0NIH7lHmVfhUEMK34romDbFPpzGQoNi7BrqONftD6aqVDw7cP-si_9mPu961v8dBGEavVzxpvS7LK0-w1zuSMl-7KWfyD2gNKoMWOWtIFQ7hWZIvyL9jwk81M2sCgE3F44ifxENWJPaqs5U3YXEoRA",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJeT2FYrFkeA0RuPvsekDe2hY",
+            "rating": 4.3,
+            "reference": "ChIJeT2FYrFkeA0RuPvsekDe2hY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 145,
+            "vicinity": "Boulevard Mohammed Ben Boujemaa, Oujda 60000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6763674,
+                    "lng": -1.9406306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.67770182989272,
+                        "lng": -1.939219820107277
+                    },
+                    "southwest": {
+                        "lat": 34.67500217010728,
+                        "lng": -1.941919479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "car rental Oujda benroubicar",
+            "photos": [
+                {
+                    "height": 780,
+                    "photo_reference": "ATtYBwLOE5u0sIZXIK0VDRPepa2ccbXJm-VvFmMQnnaX8h3bBMvD3Zjy51bXT3ApYiA0-3MOw7TAoxqOqmh_4fViUyGdC6wEVuzyhnVsfVCWc0gQv4jriL3NDViMyNY37xT5Z_vbgUiBi84wjM7MWVYTnOk3iDmIYs-QtM7yTnA6XAmHutN7",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJVa6UH9BkeA0RuQ3Lr55hx_I",
+            "rating": 3.8,
+            "reference": "ChIJVa6UH9BkeA0RuQ3Lr55hx_I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "80 Boulevard Rahmouni Boualam, Oujda, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7870041,
+                    "lng": -1.9412464
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78816162989272,
+                        "lng": -1.939850420107278
+                    },
+                    "southwest": {
+                        "lat": 34.78546197010728,
+                        "lng": -1.942550079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Aéroport d'Oujda-Angad",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwI1teIIMeONprHtmEaTJpFDFfDCoeQ_Njw4FzOTcv7X7SK_N_CFV9yAEH5NBeSWNCwI0fLNOW3YZ4IHAmKBZxf827e33z_ObG4BIg7q2Vk3fRbndsm9nWHTYZM-X2C52R1yRZk49Qx45_NAAaA1WdL-szo6s8Sl0aCzIZ_W3crb3ojb",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJW0bOV0ZneA0RwyRd290hXpE",
+            "rating": 5.0,
+            "reference": "ChIJW0bOV0ZneA0RwyRd290hXpE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Aéroport Oujda، Oujda 60023, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6822476,
+                    "lng": -1.9162993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68364852989272,
+                        "lng": -1.915020720107277
+                    },
+                    "southwest": {
+                        "lat": 34.68094887010728,
+                        "lng": -1.917720379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location voiture oujda DK",
+            "photos": [
+                {
+                    "height": 676,
+                    "photo_reference": "ATtYBwIYf4R0EV7nMC8a94KIpRuNVisU_Z4YvxfRu4ZiI-GvgsnLkT6Da7QoGcutELDFzK_xF5RP1u-0f-Ykj6pzVk04Ny6wb1ckj0jlHp7ADkvM3MgMyHCg7luJ-FNKGSn3xt2CFFPHx8TK-wiMBInEvOrZGs6vgfb3aQzPCdm4qxDVmU0J",
+                    "width": 565
+                }
+            ],
+            "place_id": "ChIJVyArgqZkeA0RJFsPlNtRF-k",
+            "rating": 4.3,
+            "reference": "ChIJVyArgqZkeA0RJFsPlNtRF-k",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45,
+            "vicinity": "30 P1, Oujda 60000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7869267,
+                    "lng": -1.9414513
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78810552989272,
+                        "lng": -1.940060420107278
+                    },
+                    "southwest": {
+                        "lat": 34.78540587010728,
+                        "lng": -1.942760079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Budget",
+            "photos": [
+                {
+                    "height": 3181,
+                    "photo_reference": "ATtYBwKXjGl86WSSa0Cd4K3z7fWpF294HItJMQuXEswfVe2vY90VFw7lzwFwBLVN7E0lkOWOPILyC_VpuOHsmkKVahncbGhkOmTAx5EcOs8c_l-e_T6m3nBo2Xxi44DwidDiWlvIBNTJE9pSYg5NBoC-v-8gFxKuByZ_VlJf7r--IkXJk1Bl",
+                    "width": 1700
+                }
+            ],
+            "place_id": "ChIJdZWFjfFmeA0RUlC8URy8TD4",
+            "rating": 3.0,
+            "reference": "ChIJdZWFjfFmeA0RUlC8URy8TD4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Oujda, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68456280000001,
+                    "lng": -1.9176018
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68587077989272,
+                        "lng": -1.916285220107278
+                    },
+                    "southwest": {
+                        "lat": 34.68317112010728,
+                        "lng": -1.918984879892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Charkia-CAR",
+            "photos": [
+                {
+                    "height": 665,
+                    "photo_reference": "ATtYBwKYTBsAYAis__uwo-2Kl1rTDVj6FF6mOo_R86ur_8zRkWunJCYL09aYl43Q4HorVdFhBKbC5P45QSKQR18aEIcps7vJi4jXPCVmpKX02BQkF1d1-VfIHunfynsX1tUGqCM2e8IDptuGH9ebKmLOhHc-R3VlbOvItVot1vizqRCpPUrR",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJnQWb281leA0Rm8tEFahBSWo",
+            "rating": 5.0,
+            "reference": "ChIJnQWb281leA0Rm8tEFahBSWo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bd Derfoufi et Mourabitine imm saada N71 Demi étage sol, Rue N1, Oujda 60000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7866951,
+                    "lng": -1.9411264
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78801112989272,
+                        "lng": -1.939766720107278
+                    },
+                    "southwest": {
+                        "lat": 34.78531147010727,
+                        "lng": -1.942466379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": null,
+            "place_id": "ChIJ02ANwPFneA0RKYcoo054ebQ",
+            "rating": 5.0,
+            "reference": "ChIJ02ANwPFneA0RKYcoo054ebQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7869633,
+                    "lng": -1.9410426
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78814922989272,
+                        "lng": -1.939704420107278
+                    },
+                    "southwest": {
+                        "lat": 34.78544957010728,
+                        "lng": -1.942404079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty [Oujda Airport]",
+            "photos": null,
+            "place_id": "ChIJZzwM-NVneA0R_z-lMAjUnUI",
+            "rating": 0.0,
+            "reference": "ChIJZzwM-NVneA0R_z-lMAjUnUI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Aéroport Les Angades, Oujda 60000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.8422066,
+                    "lng": -2.4316464
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.84356557989272,
+                        "lng": -2.430603420107277
+                    },
+                    "southwest": {
+                        "lat": 36.84086592010727,
+                        "lng": -2.433303079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Almeria",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwKFmzFN2EfdfiYOiw8NuerAu3MNTiBwyesAcPQ9wKAvX2rCTIzfsJVGve92PWU2IbFyKl50S5VGAroCbfK5tLEQ6PVa2dRiOL1kjCSi6978ady6JJxjuXKiRRa8exhLCoFt5UoEzbaFzKT57iAklEdNQeympG4-8H46WYM9oqFww4RA",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJpfDFkleZeg0RAwwiCFF0gos",
+            "rating": 3.7,
+            "reference": "ChIJpfDFkleZeg0RAwwiCFF0gos",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 108,
+            "vicinity": "By Mcdonalds, Av. Mare Nostrum, 04009 Del&colapt&rw&port+34636101736, Almería, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.8355614,
+                    "lng": -2.4552629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.83677832989272,
+                        "lng": -2.454273870107277
+                    },
+                    "southwest": {
+                        "lat": 36.83407867010727,
+                        "lng": -2.456973529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Estación de Tren de Almería",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJ8GMA_IfMk2PxMx8vwlnN8PYpvQkVwc-nD_FR7ZNmgnbZeb8wbWjfCZ1hz4jD_wOIDf_ORb4X2pDzlBlud8akMDrItBQW9weCFMr7eGLfv1D5TSDTBfiZxPcXed5hwDo2pxyu9zKO32gzKNivSeAiEaYhJ3YqtKbGZ-uPlAgi0OLP_",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJTeSO4-Odeg0RZzrErI9VVOs",
+            "rating": 3.5,
+            "reference": "ChIJTeSO4-Odeg0RZzrErI9VVOs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45,
+            "vicinity": "Estacion Intermodal, Plaza de la Estación, S/N, 04006 Almería, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 37.1695449,
+                    "lng": -3.6074981
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 37.17081112989273,
+                        "lng": -3.606034020107278
+                    },
+                    "southwest": {
+                        "lat": 37.16811147010728,
+                        "lng": -3.608733679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Granada",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJsqhRvoNbdq8ssmnE9u2jEQqnUJ5Pfk-S7P6hoY_x0_ckm7h6bF3_t6fsqNbMAstuO8XGjMLkV581cxbClspK0yjyNLo4P-UK5XugjTF1E_59jaPXmMRN5AC3CGYbdRzA7-tZ6KaoX6QRO9G2-fkgyN0FQzzjlYC82j1mU5sYunGll",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ3d_pju78cQ0RNiWO71d0EbI",
+            "rating": 3.5,
+            "reference": "ChIJ3d_pju78cQ0RNiWO71d0EbI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 233,
+            "vicinity": "Calle Neptuno, 8, 18004 Granada, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.5941667,
+                    "lng": -4.5219444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.59551137989272,
+                        "lng": -4.520586120107278
+                    },
+                    "southwest": {
+                        "lat": 36.59281172010728,
+                        "lng": -4.523285779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Benalmadena",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLJWitjwwePCp9GIZwu8-ZY-oCcOHk4OJCwv1gV8XbtAkY4oBlP80SClgaPgz1Mm5iC0zfbtdWJlvv1iyjkUIFVv-H70wiaBiQ-HQhRNMnAF5vxUGyTMOtvutnrgpGo_sQF1amLQFx0oYrm3AZWwkqjP8M88tIOvsNBu4ic3Y3CR6vR",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "rating": 0.0,
+            "reference": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Only Delivery And Collection Tl0034 639240516, 34, 952475789, 29630, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7115942,
+                    "lng": -4.4321443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71276907989272,
+                        "lng": -4.430692920107278
+                    },
+                    "southwest": {
+                        "lat": 36.71006942010727,
+                        "lng": -4.433392579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwIDRjvCO-IDsu9PF3kawBVm0PQT_0d9VDoM6GsfkC8CI9p_xaIiG1JZS_KDENNh6hhAJYfAPEQ782KVhAib489utiujQscB-6mQdiCv2NyMh4CWz6_HPHcvtYuuAQJ6Q-53X8pkCQOw0HitwovhWo8JVHwi4DMiOfTNE0DH8Y0afZZS",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "rating": 3.4,
+            "reference": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Calle Explanada de la Estación, s/n, 29001 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7120267,
+                    "lng": -4.4345412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71343907989272,
+                        "lng": -4.433215520107278
+                    },
+                    "southwest": {
+                        "lat": 36.71073942010727,
+                        "lng": -4.435915179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Estación de Tren de Málaga",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKqgstE4zPTwCwtFcdhszsTiDgRdvv1kCWeOKZmmAy9iX99h5Qve1HaRJKCaHb6Lv_9yZ_YfLouGIaNZlWPaSJSMfcSCdyHpI0Zohtat1gUReUN9zNdQcEt-kfOPiXPlDdGuT54WUwuOG3-Nb7xrhu2IVes3RSktk3TCuieP6HISBf6",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJK3qPHZv3cg0R-4nsmApGAUY",
+            "rating": 3.4,
+            "reference": "ChIJK3qPHZv3cg0R-4nsmApGAUY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 121,
+            "vicinity": "Estacion Vialia Maria Zambrano Parking En, Calle Mendívil, 11, 29002 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.76118,
+                    "lng": 2.987719
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.76255157989272,
+                        "lng": 2.989065429892722
+                    },
+                    "southwest": {
+                        "lat": 36.75985192010727,
+                        "lng": 2.986365770107278
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIPr5-bneipdH_ivPHVStKMaIbcbB_ec9GMigMniIxmTWTISjuDWoGIiF4GRGFAY5tdLbGBOW-AoRgaIdQfJwENehnrNEF8Tb1Mci-FfqkF0Wjtkc1zPYCpc5qe5iQZ53hT06JU5v9tbniV0CE2uyEV_F4XxftV_Q_j9TANXOGsmiK-",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJGW1CtgOxjxIRhjzlkv3ACbg",
+            "rating": 5.0,
+            "reference": "ChIJGW1CtgOxjxIRhjzlkv3ACbg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "VILLA 204 Bois des Cars 3, Dely Ibrahim 16003, Algeria ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

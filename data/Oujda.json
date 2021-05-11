@@ -1,0 +1,2777 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6844074,
+                    "lng": -1.8779473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68580213029151,
+                        "lng": -1.876620869708498
+                    },
+                    "southwest": {
+                        "lat": 34.68310416970851,
+                        "lng": -1.879318830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ARADO CAR",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwIzided7BUPdWclrI3RZzBmD-z_WyvcaOVXSYcbYC9EKroYdwjBFmzzoF0Sq8wpCPHg3iPGiee5_4Sks5NgY1F65bgRjmZuydjCN29f_LrqIgDojV9o7WV0Qrs1d94ZI_5gBhNczifdmOn6PDQnUyA3l_CSAWgKrTtnQcmYb7WyvlTT",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJS76CJA9jeA0RFpDeCJkuxUI",
+            "rating": 3.9,
+            "reference": "ChIJS76CJA9jeA0RFpDeCJkuxUI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Boulevard Allal Al Fassi, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.707697,
+                    "lng": -1.8973015
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.7090156302915,
+                        "lng": -1.895981519708498
+                    },
+                    "southwest": {
+                        "lat": 34.7063176697085,
+                        "lng": -1.898679480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence Location de Voitures Rental Cars Oujda",
+            "photos": [
+                {
+                    "height": 423,
+                    "photo_reference": "ATtYBwJzQtfx_ZIju7Mw9YRSWbMUfgbh1ZERuOBtV2644FRjEO_CB6nyGwbTwr2s3WzWaCQX_JLz55QRRtWQrZue9QmPggDOwJp0X6lUsAiwpTQmCAmFQKDTef8TaQGac-ZBs76SSN_nNgEbKfXiUYh31SWAFZ1TdqwJhM-yMv26m0MaAxNb",
+                    "width": 423
+                }
+            ],
+            "place_id": "ChIJpzOpLhxjeA0Ri9LMJmW9I3I",
+            "rating": 5.0,
+            "reference": "ChIJpzOpLhxjeA0Ri9LMJmW9I3I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Rue Al Moudanabate, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6584254,
+                    "lng": -1.8904682
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6597864802915,
+                        "lng": -1.889098219708498
+                    },
+                    "southwest": {
+                        "lat": 34.6570885197085,
+                        "lng": -1.891796180291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Arabi rent car",
+            "photos": [
+                {
+                    "height": 1920,
+                    "photo_reference": "ATtYBwIxtbwp2lwexGZHequYjty2rCXrEGMXmuqBzuDpv0UA_R_pTm6hjwNK5-w7egGawjt3iH3G1ytfzQ1mwoth3404MnmlI9VjuakUIr3ydDe7HHyuGRnTQIE5ckWPuDpwmVO9-2EQXFyhx6dF9e4rVBjow54iJ2Y7cz_f5dqJ4kH7vQuX",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJH3WFA2Z9eA0RUoRrAHLHOIE",
+            "rating": null,
+            "reference": "ChIJH3WFA2Z9eA0RUoRrAHLHOIE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "21 Rue Al Misk 2, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6762614,
+                    "lng": -1.922971199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6776380302915,
+                        "lng": -1.921640519708498
+                    },
+                    "southwest": {
+                        "lat": 34.67494006970851,
+                        "lng": -1.924338480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Asad Car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwKShwf2NK75d3kO_o_CJ7MpLy8dt1X6Tys_greC8KYW6WhTQ64Stb4DYit2nwrMRk0fSS1GHCRh6qQoiLAAkCRRaii0ecYjPOvyj-FWpDSoz00aY7isKdzxZ_TpyAmObUaucKkRfeg7sDBZMg7hIqEIAYZDdMsTlNqV5rBXuqe2WcTg",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ20L5L9dleA0RE-yvDaPMJrk",
+            "rating": 5.0,
+            "reference": "ChIJ20L5L9dleA0RE-yvDaPMJrk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "06 Bd Youssef Ben Tachfine Imm Benrahou 5eme Etage, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.67191039999999,
+                    "lng": -1.916999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.67326043029149,
+                        "lng": -1.915640019708498
+                    },
+                    "southwest": {
+                        "lat": 34.67056246970849,
+                        "lng": -1.918337980291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BELLE VUE CAR",
+            "photos": [
+                {
+                    "height": 1392,
+                    "photo_reference": "ATtYBwJJDk9XwV5e_UgyMBoK6exj8suz9WDhdmsYe_c30GW-NxlbhVhNN_Rl-nwAhhiUeqXpEgHeIMdssa-pAMq7ZV3vJGVbPmP0zSCOEazXJqG48rRCAnSmy-uP1CUXZXqWwpMXkxXOLIH6YqU-bBYkGfdm8twLBv4eev-jeYoikmPKSS7e",
+                    "width": 3696
+                }
+            ],
+            "place_id": "ChIJVfVs3qxkeA0Rws-ro4vPRMI",
+            "rating": 3.6,
+            "reference": "ChIJVfVs3qxkeA0Rws-ro4vPRMI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Boulevard Hassan II, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.66109609999999,
+                    "lng": -1.9045267
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.66243103029149,
+                        "lng": -1.903200869708498
+                    },
+                    "southwest": {
+                        "lat": 34.65973306970849,
+                        "lng": -1.905898830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BM CAR",
+            "photos": null,
+            "place_id": "ChIJr3BeAjl9eA0RhsEZWVgs76Q",
+            "rating": 5.0,
+            "reference": "ChIJr3BeAjl9eA0RhsEZWVgs76Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "69 Boulevard Mohammed VI, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6810423,
+                    "lng": -1.917533
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6823912302915,
+                        "lng": -1.916183969708498
+                    },
+                    "southwest": {
+                        "lat": 34.67969326970851,
+                        "lng": -1.918881930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BM CAR",
+            "photos": [
+                {
+                    "height": 1121,
+                    "photo_reference": "ATtYBwKSxBxYhwl6ZrEV7ezp0OQ-9TdckIdNEQhHO5wuiH9V3ebHoJIDVSqKrP4eu0WVMKuwgeVam75VN05o941zRyPqENvTzGhlyMxWNycnBGFb0Z-I5tVw9hU1TBMR9s11nP3iUolxS9UY5IoaAsz_xR0W4o5R837ygYy6R2QS59WZzpB_",
+                    "width": 1992
+                }
+            ],
+            "place_id": "ChIJr6GiER9leA0RXb-ryxEJvI8",
+            "rating": 5.0,
+            "reference": "ChIJr6GiER9leA0RXb-ryxEJvI8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2éme étage, place Hassan II.69 BD med V 2éme étage-Oujda, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6814156,
+                    "lng": -1.9376824
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6827138302915,
+                        "lng": -1.936349069708498
+                    },
+                    "southwest": {
+                        "lat": 34.68001586970851,
+                        "lng": -1.939047030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Basseraoui location",
+            "photos": null,
+            "place_id": "ChIJVXEASP9leA0RzQSAlzBuiYM",
+            "rating": null,
+            "reference": "ChIJVXEASP9leA0RzQSAlzBuiYM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "N6, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6764093,
+                    "lng": -1.9406155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6777424302915,
+                        "lng": -1.939205269708498
+                    },
+                    "southwest": {
+                        "lat": 34.6750444697085,
+                        "lng": -1.941903230291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Benroubicar",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwLYKK9qFqJ0HihHXf4lTnmLu1-Q1SMhEm2yxfftCF9POmryFVjTmcLgiVOwtjyBp1LlGpthzmW48YSoEJNSL7WamhIPFthjsULoJQYwJz1ydpY8mv9mCxJCBgQWd2rgMPLHXvzOYI1noQL4t5SdFBVQ5THK5MXL2pXl_BlGl8YD7nut",
+                    "width": 808
+                }
+            ],
+            "place_id": "ChIJxV-tcuxleA0RdFd2gNrBR-A",
+            "rating": null,
+            "reference": "ChIJxV-tcuxleA0RdFd2gNrBR-A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "reut taza n:80, Boulevard Rahmouni Boualam, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6890624,
+                    "lng": -1.916786099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6904025802915,
+                        "lng": -1.915460069708498
+                    },
+                    "southwest": {
+                        "lat": 34.68770461970851,
+                        "lng": -1.918158030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CHEF AUTO",
+            "photos": [
+                {
+                    "height": 285,
+                    "photo_reference": "ATtYBwK4yR3QlyvqClq_kIEsfSo5IntGu4AB8OHnOOyPIWI5TuEmsX3LjhI455YFC_OuhVJH2oL4F1x4Ngg4v3imQFIrCSX8fKrKO18u7YMzx_Acgs5rRJma1QHpJI9lBZHrxh_FhrQODc54W9jHQwvtSnvv3mN7OYAkpUo18q5BGiVqw0U",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJi8sDdCBleA0Ru6N5KAAdW3w",
+            "rating": 5.0,
+            "reference": "ChIJi8sDdCBleA0Ru6N5KAAdW3w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "6ème étage, N° 20, 44 Boulevard Ahfir, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6822184,
+                    "lng": -1.9173249
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68361178029149,
+                        "lng": -1.915964169708498
+                    },
+                    "southwest": {
+                        "lat": 34.68091381970849,
+                        "lng": -1.918662130291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CHIMO CAR",
+            "photos": [
+                {
+                    "height": 2289,
+                    "photo_reference": "ATtYBwLJORAWNUGjWfG2q-59tZZPA3U3utBG5ALixWo401aYdGbXrPH9tC88-EClJq3-mtaBzQlx7x2wTxBSJ3Yhv3tZaNQ1jwLOd8kFCHB-zycLS7_6vo79DY9lXXrr2-vJ76S7YDK0FCOz1fyuZp_bKQsh2fz-jpOAwhJC5_veYMiadGVf",
+                    "width": 1717
+                }
+            ],
+            "place_id": "ChIJM16mkHtleA0RnZ9yKjCeUfg",
+            "rating": 5.0,
+            "reference": "ChIJM16mkHtleA0RnZ9yKjCeUfg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bureau au 5 ème étage nr (G) IMM des ingénieurs angle BD istiqlalet, Rue Ibn Rochd, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68456280000001,
+                    "lng": -1.917601800000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6858699302915,
+                        "lng": -1.916286069708498
+                    },
+                    "southwest": {
+                        "lat": 34.6831719697085,
+                        "lng": -1.918984030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Charkia-CAR",
+            "photos": [
+                {
+                    "height": 665,
+                    "photo_reference": "ATtYBwLlWtxSv8yWmikW_YjBYpdiAfVK9Pv0NAjJTlQQyBtruPZ9xy16mMlShpIST-QF_LGteUDi4QanT63GKaDyl61uY1UNlFtPWfOhbYBg3n3tJ1KEzvkKApYCI6U4qaT3zhcSBc6Gwi2ieselX2zpkh9QCR9UNVUkAEe0UNlGPJq-4jfo",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJnQWb281leA0Rm8tEFahBSWo",
+            "rating": 5.0,
+            "reference": "ChIJnQWb281leA0Rm8tEFahBSWo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bd Derfoufi et Mourabitine imm saada N71 Demi étage sol, Rue N1, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6812185,
+                    "lng": -1.9195453
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6825494802915,
+                        "lng": -1.918153769708498
+                    },
+                    "southwest": {
+                        "lat": 34.6798515197085,
+                        "lng": -1.920851730291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Chicago Cars",
+            "photos": null,
+            "place_id": "ChIJQ8bp6GFleA0ReGV2VCjU6Ww",
+            "rating": null,
+            "reference": "ChIJQ8bp6GFleA0ReGV2VCjU6Ww",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "13 Boulevard Mohammed Derfoufi, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7098264,
+                    "lng": -1.9088963
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.7111830802915,
+                        "lng": -1.907613519708498
+                    },
+                    "southwest": {
+                        "lat": 34.7084851197085,
+                        "lng": -1.910311480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dekhissi car",
+            "photos": null,
+            "place_id": "ChIJI_JRhhJjeA0R57Yek_r1VF8",
+            "rating": null,
+            "reference": "ChIJI_JRhhJjeA0R57Yek_r1VF8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "n218, Oujda Hay el hasani B1 ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.7008837,
+                    "lng": -1.9068027
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.7022043802915,
+                        "lng": -1.905429069708498
+                    },
+                    "southwest": {
+                        "lat": 34.6995064197085,
+                        "lng": -1.908127030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dekhissi car",
+            "photos": [
+                {
+                    "height": 2992,
+                    "photo_reference": "ATtYBwKSeb9Is4meJln2aPVkfx7z_CcirTt8ERVIn_Dq5sXU7k0f_5zNWXBM9ZrJlFXI9fyKMdM7n33biYIIN2PX-LI0xyA4taQcPRM9LzQ6srvfSu2vcyW0THisqgqG_kb66sWBHnlJBWZ8FGN15HHXZNRCmQGvdrfZ3dVzXJDUl0LhM9Hb",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJeTFlcz5jeA0RT5SpoEuCHMs",
+            "rating": null,
+            "reference": "ChIJeTFlcz5jeA0RT5SpoEuCHMs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "n 5, Hay Al hassani, Rue 101, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6916339,
+                    "lng": -1.907381899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6930103802915,
+                        "lng": -1.906083019708498
+                    },
+                    "southwest": {
+                        "lat": 34.6903124197085,
+                        "lng": -1.908780980291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "EL BDOURI CAR",
+            "photos": [
+                {
+                    "height": 484,
+                    "photo_reference": "ATtYBwJPC-3e6khbj3wuxA21XwxsAZoimM8i8zo7bAad95NCJb0zLznFvQu1gKJWAp4yuAN7UDKIffwAZq4OtnKAqpQI6vIis5gpXSJqPXhVtrL3SXoMZJSzXyxpsSBvMuCR6gSPcIrgJlUcWqWd4gJw5S5yF4HAJkUh66UERluVR545d8s4",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJRV6QintjeA0RDGBlF9KnoDo",
+            "rating": 5.0,
+            "reference": "ChIJRV6QintjeA0RDGBlF9KnoDo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "3éme ÉTAGE, BD MED V N°124 APPT 17, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68203759999999,
+                    "lng": -1.942234
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6833301802915,
+                        "lng": -1.940893819708498
+                    },
+                    "southwest": {
+                        "lat": 34.6806322197085,
+                        "lng": -1.943591780291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Bezazi Car",
+            "photos": [
+                {
+                    "height": 4608,
+                    "photo_reference": "ATtYBwJp2UE57YtvRF5rq70HOexzYiBNGjCDeP2s-N_FXVEcts6WqOmDPKcYUM-M4qzGjfNYZ49Kds2L4c6TqZc4HvXRv1ivOj6gaKwPUj9JnwWxDJ0yRct80_jHFaisUz1bm9z7FI5TcZ10EFlp0sS7f2rHMBHrLuXtKGecDNWDQSFhtzfP",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJeQ7XetpkeA0RsWD9MOoRTV4",
+            "rating": 4.5,
+            "reference": "ChIJeQ7XetpkeA0RsWD9MOoRTV4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68196199999999,
+                    "lng": -1.900155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6833598802915,
+                        "lng": -1.898803819708498
+                    },
+                    "southwest": {
+                        "lat": 34.6806619197085,
+                        "lng": -1.901501780291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "FANICAR",
+            "photos": [
+                {
+                    "height": 306,
+                    "photo_reference": "ATtYBwJW0va3lahGRyatJW9tBX9B8lw8GQcvT1CmUhO3VTN6YuvMJOe1uJjwVIcuIkM9MYEWTb9eKn2EQMSIoOg0Oxi-qE-rE_CgNSuBUbkHYEfP85drf5-gS-ju_ymbkigRf4QZ7q52bFIH16ri-J425DtEWuldHn7qCKN-mN9uDigpQJQj",
+                    "width": 408
+                }
+            ],
+            "place_id": "ChIJq6qqqlpjeA0RSMY-wo5Ftvg",
+            "rating": null,
+            "reference": "ChIJq6qqqlpjeA0RSMY-wo5Ftvg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "وجدة، ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6795715,
+                    "lng": -1.9186342
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6808879302915,
+                        "lng": -1.917236719708498
+                    },
+                    "southwest": {
+                        "lat": 34.67818996970851,
+                        "lng": -1.919934680291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "FANICAR",
+            "photos": [
+                {
+                    "height": 959,
+                    "photo_reference": "ATtYBwJE0Wn_ULhHoANZAbyP98SwhphkLwYnDzSYzJuWIlChENnyzgCmOSfq4W3rgPdcL9hAxasH3y7HPmvSPA_vsiZ3o71yal8AePH2UhPIpq1VsTlAY5TAJuEkJaDhS0pG9vcrRX6wt8sAgaAnD5lxBATU1y-HApfBaQ1vTeVYsvi9s-Lb",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJbRuHyK9keA0R9GFAiEbjlAE",
+            "rating": 5.0,
+            "reference": "ChIJbRuHyK9keA0R9GFAiEbjlAE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Boulevard Med V Immeuble Kada 2ème étage appt 6, وجدة،oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6795907,
+                    "lng": -1.9186215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68090583029149,
+                        "lng": -1.917222069708498
+                    },
+                    "southwest": {
+                        "lat": 34.67820786970849,
+                        "lng": -1.919920030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "FANICAR AGENCE LOCATION DE VOITURES فاني كار وكالة كراء السيارات",
+            "photos": [
+                {
+                    "height": 1032,
+                    "photo_reference": "ATtYBwLWSjPnSEI8mGxfSTetICc-HKGH-r-eF7rNvrOt4Nsl8ePHM4WP7aUS5FDkX-NHUfwcbP73J2QngLPSt6y2rWpWtwj-FaBiepbIiuQ_px7SFCXzCzT2PU3R067_5zf6VyPs8t99VeIdU-n3pMsSppBvjCwnlB-iWdRZQOkYn4YM33ET",
+                    "width": 774
+                }
+            ],
+            "place_id": "ChIJj8p_yK9keA0RDkeIKNBZP5c",
+            "rating": 5.0,
+            "reference": "ChIJj8p_yK9keA0RDkeIKNBZP5c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Boulevard MED V,Immeuble Kada,2 éme Etage,Appt, N6, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.677846,
+                    "lng": -1.9220423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6791975302915,
+                        "lng": -1.920603069708498
+                    },
+                    "southwest": {
+                        "lat": 34.6764995697085,
+                        "lng": -1.923301030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "GHRISSI CAR",
+            "photos": null,
+            "place_id": "ChIJMcQrp7FkeA0RN-LiTWdddGI",
+            "rating": 1.0,
+            "reference": "ChIJMcQrp7FkeA0RN-LiTWdddGI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6751776,
+                    "lng": -1.9307663
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6765476057216,
+                        "lng": -1.929456589481743
+                    },
+                    "southwest": {
+                        "lat": 34.6738496451386,
+                        "lng": -1.932154550064747
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Grands Taxis",
+            "photos": [
+                {
+                    "height": 1836,
+                    "photo_reference": "ATtYBwLnHueBM_D_-05rV-kngXEuoJcopxBKO0Ux1EfeC8wFvh3YEty4baehGuLyWCvNLJ5laMA7os0YkJjMePet_SuCgx8uHqJalSIi0V6L_5Y61DcRzU_wuC_OD0KN6Y01pLc390PX7MNtAv3rUgRO94UrsHCohn1ixQ9NoT7dIOfYHWxF",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ8eD3_bVkeA0RZzcUrSRQc2A",
+            "rating": null,
+            "reference": "ChIJ8eD3_bVkeA0RZzcUrSRQc2A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6807009,
+                    "lng": -1.9197026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68208078029149,
+                        "lng": -1.918346119708498
+                    },
+                    "southwest": {
+                        "lat": 34.6793828197085,
+                        "lng": -1.921044080291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HABI car",
+            "photos": null,
+            "place_id": "ChIJeR7tHbBkeA0R1Lj-v_C6jw0",
+            "rating": null,
+            "reference": "ChIJeR7tHbBkeA0R1Lj-v_C6jw0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6680876,
+                    "lng": -1.9176484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6693278302915,
+                        "lng": -1.916376319708498
+                    },
+                    "southwest": {
+                        "lat": 34.6666298697085,
+                        "lng": -1.919074280291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hassan Douiri Car",
+            "photos": [
+                {
+                    "height": 406,
+                    "photo_reference": "ATtYBwLKFMpOZuG74dW9pfJMPeiNWK832yAVSw0BH0I2zaDCdJ33knTj7Oht6K9zoWD3r3yawDATNUDAjIWswRohAUz2LfhjaYQsupB8fm9H1JgP6HC1d8tbMwPJ5ArKr2tRqNlVTsdDzSQEL2yj9dg-FoRkwdpchW9ju_U-QQ3wy982T6-s",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJYV8rlK9keA0R2TE4v3sBbwQ",
+            "rating": 4.5,
+            "reference": "ChIJYV8rlK9keA0R2TE4v3sBbwQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "33 Boulevard Hassan II, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6577614,
+                    "lng": -1.9017105
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6591309302915,
+                        "lng": -1.900327269708498
+                    },
+                    "southwest": {
+                        "lat": 34.6564329697085,
+                        "lng": -1.903025230291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ICJ CAR",
+            "photos": null,
+            "place_id": "ChIJTw3b4nZ9eA0RLAeHp6BkvMc",
+            "rating": null,
+            "reference": "ChIJTw3b4nZ9eA0RLAeHp6BkvMc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "30 Boulevard Mohammed VI, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6815054,
+                    "lng": -1.9191661
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6828674802915,
+                        "lng": -1.917848169708498
+                    },
+                    "southwest": {
+                        "lat": 34.6801695197085,
+                        "lng": -1.920546130291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ijar Car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwIWtZI5dKpnz8KW9Yexte8n0J26hjFoqt305OOwruEFIWqvAYLs1BAjvP2yolPO3MAlWwrNjZajIHcbe-_TPL1u9VTu9WqWUzuCzBi9rKLaKcq0JKHW4Vq4-8BCd6mGvJ4wZ2rPBJble3mZdVO5YWDnT2yLJjDyJ0GjWkKOi084gOvF",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJkxRO-K9keA0RVfvYT_0R2tQ",
+            "rating": 4.8,
+            "reference": "ChIJkxRO-K9keA0RVfvYT_0R2tQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Boulevard Mohammed Derfoufi, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6726955,
+                    "lng": -1.912666
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6741126302915,
+                        "lng": -1.911297819708498
+                    },
+                    "southwest": {
+                        "lat": 34.6714146697085,
+                        "lng": -1.913995780291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "KADIMO CAR",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwIEllIPcsRzSHtBgvA_TC3q66zEzKffctwdbA0Bsb4GVqZNajeeOa9dX9cZqU24XOO22cLNLu7_K1utVMr_Bzy1NErVqSDDGM-aAZAfN35rDa-OxEVRaInHC6g5Vt2LoJwUKhbENJEYDDJDbUy6ahcej3ivQoztH_boSUPRen34aaqd",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJFXa_OkBleA0RSBlNTe6qL_U",
+            "rating": 5.0,
+            "reference": "ChIJFXa_OkBleA0RSBlNTe6qL_U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Rue Chefchaouen, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.670865,
+                    "lng": -1.898741
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.67224673029149,
+                        "lng": -1.897372169708498
+                    },
+                    "southwest": {
+                        "lat": 34.66954876970849,
+                        "lng": -1.900070130291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Kamal Nour Car",
+            "photos": [
+                {
+                    "height": 5312,
+                    "photo_reference": "ATtYBwIbo4kjUBNYkKSc4XXm42qz_TWlBaBWG5q2vhx5N5fM1ZFCS2b65Ia1P34ty7BCgmFkWMZgCwxfDcFmdOat9WP6sVzLfKhoL-en6B4NPBMTy8OgDejLQPUhmtWDeDn2x8aleRHYCfTFWsgb5nK9oJcNwTozC9imqz2dCLRnQdQMiwMx",
+                    "width": 2988
+                }
+            ],
+            "place_id": "ChIJb1A7y7J8eA0RD22ZkaGGFbU",
+            "rating": 3.5,
+            "reference": "ChIJb1A7y7J8eA0RD22ZkaGGFbU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "210 Route Tayret, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.686573,
+                    "lng": -1.913882
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68790953029151,
+                        "lng": -1.912514469708498
+                    },
+                    "southwest": {
+                        "lat": 34.68521156970851,
+                        "lng": -1.915212430291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Koubaa Car",
+            "photos": [
+                {
+                    "height": 1654,
+                    "photo_reference": "ATtYBwKydW4y3z8zgxIcELOPB3V7xf3L27M-Redqc8GQJFCkNB5UB8UKhH7DN8mH0EWGjlt63ipKfKIkoWj6HVNLMvpaG_eZMJ5TuqcHuFUR4KRUo5Hxr17xk2KS5VkXDLyuV_GcRsrMl2qo2zhESS3UgUs9BMRqYfgxK5-zYBhJbRNe9Vz-",
+                    "width": 1165
+                }
+            ],
+            "place_id": "ChIJOVmPm5pkeA0RJlEc0Kiwx1U",
+            "rating": 4.8,
+            "reference": "ChIJOVmPm5pkeA0RJlEc0Kiwx1U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "8 bis rue rhazaouate 2eme etage oujda, N2, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6681256,
+                    "lng": -1.9075149
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.66953018029149,
+                        "lng": -1.906165919708498
+                    },
+                    "southwest": {
+                        "lat": 34.66683221970849,
+                        "lng": -1.908863880291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION ET LAVAGE DE VOITURES SOUL.CAR",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwLyZ4soCBjITWcdpPkJFl02Aw5JutQLTmHymUekkvW_uScug7gqr2wO54A-JV23-6wPaBKMag_7S1zAs2d81H_B-KfSVfunnhIvTuTccHpblI9SkqSoUZnjj-LgGjilhRO01iSNrXIOJ6S7SNpE5RRoYjVlB5TzPo30pH9QkkgL2xz8",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ9d3c_6p8eA0R4JvTV3N4mkU",
+            "rating": 4.2,
+            "reference": "ChIJ9d3c_6p8eA0R4JvTV3N4mkU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "المغربRUE SMARA QUARTIER EL MASSIRA, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.691457,
+                    "lng": -1.8720652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6927967802915,
+                        "lng": -1.870714019708498
+                    },
+                    "southwest": {
+                        "lat": 34.6900988197085,
+                        "lng": -1.873411980291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lazur car",
+            "photos": null,
+            "place_id": "ChIJcbUVXQ9jeA0RN8Kz48zwm5s",
+            "rating": 5.0,
+            "reference": "ChIJcbUVXQ9jeA0RN8Kz48zwm5s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Boulevard Oued Eddahab, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6837392,
+                    "lng": -1.9175461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6851458802915,
+                        "lng": -1.916166069708498
+                    },
+                    "southwest": {
+                        "lat": 34.6824479197085,
+                        "lng": -1.918864030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Easyness Car",
+            "photos": null,
+            "place_id": "ChIJh1CYCKVkeA0RmgLF-wtEeJ8",
+            "rating": 5.0,
+            "reference": "ChIJh1CYCKVkeA0RmgLF-wtEeJ8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Rue Abdallah Marrakchi, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6788217,
+                    "lng": -1.9195954
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68017518029149,
+                        "lng": -1.918195519708498
+                    },
+                    "southwest": {
+                        "lat": 34.6774772197085,
+                        "lng": -1.920893480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location Voiture Oujda Best Loc Ever",
+            "photos": null,
+            "place_id": "ChIJd4aiUZtleA0R5MqQF8RgJWY",
+            "rating": 5.0,
+            "reference": "ChIJd4aiUZtleA0R5MqQF8RgJWY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Immeuble, Angle Youssef Ben Tachafine Et Allal Ben Abdellah N°53 5e Etage, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6842852,
+                    "lng": -1.917456
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6856615302915,
+                        "lng": -1.916084869708498
+                    },
+                    "southwest": {
+                        "lat": 34.68296356970851,
+                        "lng": -1.918782830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de Voiture Oujda Mistral car - oujda",
+            "photos": [
+                {
+                    "height": 338,
+                    "photo_reference": "ATtYBwLRfNzEWNOiKmaYxqY87mtdcEi3luVLG1FZCT6iB6wdvEMu2XSX4_WMzj0k6GcFuu4PdFPMEdXc8wxqQ_tNgd1-KUSTSZwPYm5yqILivaN_cv13xYLYJvtpOpyuX4_l4qISJJWe4uB5Z2nU64DUVTYtNvrgRerUIujrBsqOEYX5mzTo",
+                    "width": 607
+                }
+            ],
+            "place_id": "ChIJa4WVAaVkeA0RvrXiv6nZYj0",
+            "rating": 5.0,
+            "reference": "ChIJa4WVAaVkeA0RvrXiv6nZYj0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.69136409999999,
+                    "lng": -1.8789558
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.69271838029151,
+                        "lng": -1.877597319708498
+                    },
+                    "southwest": {
+                        "lat": 34.69002041970851,
+                        "lng": -1.880295280291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture colimo car",
+            "photos": null,
+            "place_id": "ChIJ9av5EvdjeA0RAuvtSavQRM8",
+            "rating": 5.0,
+            "reference": "ChIJ9av5EvdjeA0RAuvtSavQRM8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard Ennargis, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6841571,
+                    "lng": -1.9161175
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6855207802915,
+                        "lng": -1.914803569708498
+                    },
+                    "southwest": {
+                        "lat": 34.6828228197085,
+                        "lng": -1.917501530291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture locabel",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKrKUgCl6jJgv1sGN6Im_lQ4kdWBrUc28z2UuLRzmI8pZmM-gDgOiJmZ3lh7vvSYdxnVs3CEOoTBaXW-1pQl-1xXr-tIPNDsz4CClOxcCPafFGCbHcQbyyFe5d4_Q5IAqtn22Dr2KINn-zcTiEAf-2TBJV59DP9iZTpKXr_5RTKI-w",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJFyqiOwpleA0RYECUBgY_cyM",
+            "rating": 5.0,
+            "reference": "ChIJFyqiOwpleA0RYECUBgY_cyM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue Ibn Rochd, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6840887,
+                    "lng": -1.9133602
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6854460802915,
+                        "lng": -1.912067969708498
+                    },
+                    "southwest": {
+                        "lat": 34.6827481197085,
+                        "lng": -1.914765930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voitures oujda. Hadyd Car",
+            "photos": [
+                {
+                    "height": 952,
+                    "photo_reference": "ATtYBwLZJN2Q187gNap0sJ2QxmcomFg3l7ExvC-XbxFaScdXnBWfvcSsOHIrpFUFzIKilSRdumtYbhd0NzBjHvDcD7kgW7LaxfgFQxKFXoes9rTn-alFzmLy5DX9XuynzqtSlKMvQO406JVMtGHIeOfeiQJLArcNXotCnZ3-pebDVIC-zMzW",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJobkPU2VleA0Rhl4USMQcydU",
+            "rating": 5.0,
+            "reference": "ChIJobkPU2VleA0Rhl4USMQcydU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "N° 86, 2éme Étage, Appt N° 3 Rue de Fes, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6773871,
+                    "lng": -1.8895673
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6786797302915,
+                        "lng": -1.888175969708498
+                    },
+                    "southwest": {
+                        "lat": 34.6759817697085,
+                        "lng": -1.890873930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MB FIRST CAR",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwJ7Y_thBlciydpjiw8AtRn2cmhv3lcqOkk-_9HfC3Ufke8RTbGumCKE1HPAvsE8MvYn9Nrk4jL4Fn1iqDAO9clrTByL4U8jnxjgnsuHm8-Ut5qE3Pa7alu9FqoFM9Mxkw1gEK4Kl76h6akhv9zqwvRE2RS4TbDNMtOhk9uKhOLxK1S0",
+                    "width": 1816
+                }
+            ],
+            "place_id": "ChIJ5aaCrPFjeA0RpEaSzKYw1y8",
+            "rating": 5.0,
+            "reference": "ChIJ5aaCrPFjeA0RpEaSzKYw1y8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard Abderrahim Bouabid, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.683584,
+                    "lng": -1.8819847
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6849457802915,
+                        "lng": -1.880669569708499
+                    },
+                    "southwest": {
+                        "lat": 34.6822478197085,
+                        "lng": -1.883367530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Maa.mar car",
+            "photos": null,
+            "place_id": "ChIJqajxLkxjeA0R1WQ1gvHpcVM",
+            "rating": null,
+            "reference": "ChIJqajxLkxjeA0R1WQ1gvHpcVM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68196199999999,
+                    "lng": -1.900155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68335933029149,
+                        "lng": -1.898803619708498
+                    },
+                    "southwest": {
+                        "lat": 34.68066136970849,
+                        "lng": -1.901501580291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mlili Car Location de voiture Oujda",
+            "photos": null,
+            "place_id": "ChIJr_PTx8JjeA0RM6SRSUFvyIU",
+            "rating": 5.0,
+            "reference": "ChIJr_PTx8JjeA0RM6SRSUFvyIU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "27 boulevard Mouad Bnou Jabal, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6876251,
+                    "lng": -1.9385148
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6890033302915,
+                        "lng": -1.937151619708498
+                    },
+                    "southwest": {
+                        "lat": 34.68630536970851,
+                        "lng": -1.939849580291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Moughlia",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwIDhcslo8f4GzYiymAvHhqzcv6J5o-h_cFf4MN0cT_X4LvCEI7YhMPpqTYLV8B8zc1GCHUniBuUlDjGhuTrRQZWClfYmbkKGcqAzqmKpz8fxrZPY4jcpjWSKxmb20WgE35tlTnkWC1h4pP4edeNVzXro3lUxMGqTPPmqF_MDGGpY66g",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJqfozd4RleA0RrQIE4HoG9Ww",
+            "rating": null,
+            "reference": "ChIJqfozd4RleA0RrQIE4HoG9Ww",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Route taza lot essalama, Rue S 14, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6898772,
+                    "lng": -1.8707111
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6912318302915,
+                        "lng": -1.869330519708498
+                    },
+                    "southwest": {
+                        "lat": 34.6885338697085,
+                        "lng": -1.872028480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "NOISY-CAR",
+            "photos": null,
+            "place_id": "ChIJUToeM69jeA0R_YQGrNZI5ss",
+            "rating": 5.0,
+            "reference": "ChIJUToeM69jeA0R_YQGrNZI5ss",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "DEM Lotissement Angad Rue C21, N11, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.688977,
+                    "lng": -1.917096
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6903064802915,
+                        "lng": -1.915855569708498
+                    },
+                    "southwest": {
+                        "lat": 34.6876085197085,
+                        "lng": -1.918553530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "NOURI CAR -Location de Voitures à Oujda-",
+            "photos": null,
+            "place_id": "ChIJV1mjVbtkeA0Rh1-6IQEF59Y",
+            "rating": 5.0,
+            "reference": "ChIJV1mjVbtkeA0Rh1-6IQEF59Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "P27, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6752541,
+                    "lng": -1.8711747
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6766009802915,
+                        "lng": -1.869847869708498
+                    },
+                    "southwest": {
+                        "lat": 34.6739030197085,
+                        "lng": -1.872545830291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nassim CAR",
+            "photos": [
+                {
+                    "height": 315,
+                    "photo_reference": "ATtYBwLnfLcMonH3_6j9sZVSnn63jdcOSlNONtVRTcrMJA3NkEIAvBi6NpP-euhal25QW0kqqO-0mnO3M2_bd_cuNGd9uGu9QjTUKQjWjk29cfPwtTmJikfEVmEwFQljUWT6JWirbxgUFpYRSFqtSIQ9OwTtvADrVN-DMIBj-ZDQMNsZhWW3",
+                    "width": 851
+                }
+            ],
+            "place_id": "ChIJFeRIiU1jeA0RDh68AKBsuwE",
+            "rating": 5.0,
+            "reference": "ChIJFeRIiU1jeA0RDh68AKBsuwE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "NR32, Rue Elouafae2, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6823934,
+                    "lng": -1.9163956
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68376308029149,
+                        "lng": -1.915075469708498
+                    },
+                    "southwest": {
+                        "lat": 34.68106511970849,
+                        "lng": -1.917773430291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Omar car",
+            "photos": null,
+            "place_id": "ChIJx62E3TtleA0R1tQVxMEGfa8",
+            "rating": null,
+            "reference": "ChIJx62E3TtleA0R1tQVxMEGfa8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "28 P1, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68196199999999,
+                    "lng": -1.900155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6833598802915,
+                        "lng": -1.898803819708498
+                    },
+                    "southwest": {
+                        "lat": 34.6806619197085,
+                        "lng": -1.901501780291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Oujdami car",
+            "photos": null,
+            "place_id": "ChIJq6qqqlpjeA0RqcUfYa68GdQ",
+            "rating": 5.0,
+            "reference": "ChIJq6qqqlpjeA0RqcUfYa68GdQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Rue Ben Said Eloujdi, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6807009,
+                    "lng": -1.9197026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68205303029151,
+                        "lng": -1.918315519708498
+                    },
+                    "southwest": {
+                        "lat": 34.67935506970851,
+                        "lng": -1.921013480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "PETRONAS CARS",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwKEhcF3LbRt6_DHndeRgw-QodvDCUwgohNDOMmheVYCbVeq72FwCN39tUqpuuht37ph7G2Oces1yoUu_lasIR0-s7rxp6q07ee_GrwGhOEuB4FNN94PMZuHnDCyMD-SJjoEWHYkchYdf4jMzByjVOdjXqWaE0DzgKNxSzjvLJfh5_X4",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJdS1RlCNleA0RaGRudjamecw",
+            "rating": null,
+            "reference": "ChIJdS1RlCNleA0RaGRudjamecw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "61 Boulevard Allal Ben Abdallah, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6737172,
+                    "lng": -1.8925478
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.67507193029151,
+                        "lng": -1.891215419708498
+                    },
+                    "southwest": {
+                        "lat": 34.67237396970851,
+                        "lng": -1.893913380291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RAZANE CAR",
+            "photos": null,
+            "place_id": "ChIJW5NS_0pjeA0RF33cmYdk2p8",
+            "rating": 5.0,
+            "reference": "ChIJW5NS_0pjeA0RF33cmYdk2p8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "وجدة، ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6896856,
+                    "lng": -1.9090519
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6910582302915,
+                        "lng": -1.907668269708497
+                    },
+                    "southwest": {
+                        "lat": 34.6883602697085,
+                        "lng": -1.910366230291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "S.AMR CAR/Location de voiture",
+            "photos": [
+                {
+                    "height": 712,
+                    "photo_reference": "ATtYBwKwbBQHqXqfgrR39VnVg9wJfo6g1SvK7TjGsmj84aV7_2dHeteO8v0Dz3YcuJRbe7jhTwHACVnYqCyVivYQJY8Nv7Of4fKii9dZHeTSlEYIMYQUFNjKxBR7leX7O1nB27mdwkO0skO_sCovvAaX0kqT4aGX5VSex2NJH-4a1a5ejsgo",
+                    "width": 1267
+                }
+            ],
+            "place_id": "ChIJpyBQP3ljeA0ROoIXYWcq05g",
+            "rating": 5.0,
+            "reference": "ChIJpyBQP3ljeA0ROoIXYWcq05g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Rue Amina Al Berhilia et mohamed 5 Etage 3 N9, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6796243,
+                    "lng": -1.9198858
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68097968029149,
+                        "lng": -1.918392469708498
+                    },
+                    "southwest": {
+                        "lat": 34.6782817197085,
+                        "lng": -1.921090430291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SELV CAR location de voitures",
+            "photos": [
+                {
+                    "height": 567,
+                    "photo_reference": "ATtYBwKTxcfCe1NV2lMo56jgLnHTkXYJictz7GwqJ4dDn6HTZVJRS8qvmFYgbR0da_YVdsmWiSflwfdWyvpdwrXlQqhq9FTS6Dtz_CQ7c8HZK6G3dBhUOSDijgolZMlX4vAhWknpu64swsd6dpLMExowj8SREGPufRNis8ppgBDGuQiZGNWk",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJw2jCTxlleA0Riq3ahFQJrdE",
+            "rating": 5.0,
+            "reference": "ChIJw2jCTxlleA0Riq3ahFQJrdE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "1er Etage, Le Paris, Bd Allal Benebdellah, Apt 03, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6819915,
+                    "lng": -1.9415168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6832742802915,
+                        "lng": -1.940175069708498
+                    },
+                    "southwest": {
+                        "lat": 34.68057631970851,
+                        "lng": -1.942873030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SMH Car",
+            "photos": null,
+            "place_id": "ChIJk4zKh9pkeA0RAcTRKAhTpyw",
+            "rating": null,
+            "reference": "ChIJk4zKh9pkeA0RAcTRKAhTpyw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "Route Taza é eme etage n 3, lot amri, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68589100000001,
+                    "lng": -1.9113591
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6872028802915,
+                        "lng": -1.910049119708498
+                    },
+                    "southwest": {
+                        "lat": 34.6845049197085,
+                        "lng": -1.912747080291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SZEET CAR",
+            "photos": null,
+            "place_id": "ChIJlbv-o31leA0R_wRyQfB-9s8",
+            "rating": null,
+            "reference": "ChIJlbv-o31leA0R_wRyQfB-9s8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "25 Rue Senegal, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6826967,
+                    "lng": -1.9094388
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68405698029149,
+                        "lng": -1.908039919708499
+                    },
+                    "southwest": {
+                        "lat": 34.68135901970849,
+                        "lng": -1.910737880291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Saidia beach car",
+            "photos": [
+                {
+                    "height": 611,
+                    "photo_reference": "ATtYBwLP0jOQxxazQhUDWu05OljPUDsR2nsFJptaobjoEt60ndPN9-ushngLfE4s1fu1f-wFbJ8npweVyABJbIkqlxtwGsF1BfvWoX87x4l0ebGi_n9AQiE9GkRr-zGGt46GF1MqGD9omwr40yabs_9BS6OOIf22MbR5tBM3M9mlE1bInVDa",
+                    "width": 1023
+                }
+            ],
+            "place_id": "ChIJcw5JMUVjeA0R14Mvy2yw1UA",
+            "rating": 5.0,
+            "reference": "ChIJcw5JMUVjeA0R14Mvy2yw1UA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Moulay hassan, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6758758,
+                    "lng": -1.924641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.67718703029151,
+                        "lng": -1.923274219708498
+                    },
+                    "southwest": {
+                        "lat": 34.67448906970851,
+                        "lng": -1.925972180291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Soulimani Car / LOCATION DE VOITURES",
+            "photos": null,
+            "place_id": "ChIJW4CJALRkeA0REWHVqvh8SJo",
+            "rating": null,
+            "reference": "ChIJW4CJALRkeA0REWHVqvh8SJo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "24 4émé ETAGE N 10, Boulevard Bir Anzarane, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6836065,
+                    "lng": -1.9176539
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6850121302915,
+                        "lng": -1.916457319708498
+                    },
+                    "southwest": {
+                        "lat": 34.6823141697085,
+                        "lng": -1.919155280291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ssayli car",
+            "photos": null,
+            "place_id": "ChIJhxM_lONleA0RTNzy8VjJtZw",
+            "rating": null,
+            "reference": "ChIJhxM_lONleA0RTNzy8VjJtZw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "6000, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.681864,
+                    "lng": -1.9001592
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6832114302915,
+                        "lng": -1.898731519708498
+                    },
+                    "southwest": {
+                        "lat": 34.6805134697085,
+                        "lng": -1.901429480291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ste panamera car sarl",
+            "photos": [
+                {
+                    "height": 4608,
+                    "photo_reference": "ATtYBwJVKRwBv0MS8UkWyKPMf24burGTIvBw6SvGELfU8lL_N8o2eebiIv0WyF-qzHPNymJ9HM-b4FnY31dF-6qeri2XLa6yXApJENDB-ySFCnJxsQTqDmWSHlYA6BV8sFS5Pt_wDpfORJ9kQSug2QMY4bRCFknlGmwQ7vGThI-Xwpj4qOtr",
+                    "width": 2592
+                }
+            ],
+            "place_id": "ChIJA6JMWTVjeA0RnryPVVP_B7o",
+            "rating": null,
+            "reference": "ChIJA6JMWTVjeA0RnryPVVP_B7o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "5 et 6 lot jouhara ban salah, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6608445,
+                    "lng": -1.8879548
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.66222023029149,
+                        "lng": -1.886585619708498
+                    },
+                    "southwest": {
+                        "lat": 34.65952226970849,
+                        "lng": -1.889283580291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Street Car",
+            "photos": [
+                {
+                    "height": 1037,
+                    "photo_reference": "ATtYBwL_D0014DN07FfzfnlIFJI_C1lOPPavj7xDB-sa-DYp1-LGqsbJdMwWyAfeWWEDEfwZzSWnMz1hY4tL5RbE_EvU-nbIeJ7KkuexTWZOfH4Fo9D9DZIb7PGS5-sn2zM6NHOeAGjGbIxYLb6WMNrLDyDujtF5rTotQ2WnUZmLIRRK4_kL",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJNSYESKJ9eA0RzlQe-mYRJUc",
+            "rating": 5.0,
+            "reference": "ChIJNSYESKJ9eA0RzlQe-mYRJUc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6762614,
+                    "lng": -1.922971199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6776380302915,
+                        "lng": -1.921640519708498
+                    },
+                    "southwest": {
+                        "lat": 34.67494006970851,
+                        "lng": -1.924338480291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "TRO CAR",
+            "photos": [
+                {
+                    "height": 430,
+                    "photo_reference": "ATtYBwLw_r4hBZx6RQAmqNJ2450U6KiOtHW1WCg5_wAT-LTNkrW7dXKBis9N2UfGTu-T0ro_HYSiyN2mfSS_7C55T9tBhP2-bvfLVkqi5yQmSZAtqpGNgYV80QBXJb6-iBh1dFBdF8aary4R3KpTLr400h19QMuvYfPTx21gd2iaA6JwNL04",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJuV5jFKpleA0RCGsu4Laumtw",
+            "rating": 5.0,
+            "reference": "ChIJuV5jFKpleA0RCGsu4Laumtw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Angle bd allah ben abdellah et ibn tachafine 2eme etage app 24, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.67877699999999,
+                    "lng": -1.9195916
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68013058029149,
+                        "lng": -1.918190669708498
+                    },
+                    "southwest": {
+                        "lat": 34.67743261970849,
+                        "lng": -1.920888630291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Trinity Car",
+            "photos": null,
+            "place_id": "ChIJje-LrNZleA0RgrE5J1M_cPg",
+            "rating": 5.0,
+            "reference": "ChIJje-LrNZleA0RgrE5J1M_cPg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Boulevard Allal Ben Abdallah, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6831734,
+                    "lng": -1.9184334
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6844958302915,
+                        "lng": -1.917015719708498
+                    },
+                    "southwest": {
+                        "lat": 34.6817978697085,
+                        "lng": -1.919713680291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Tuning Car",
+            "photos": null,
+            "place_id": "ChIJg4a1bW5leA0RzA0kWXrADKY",
+            "rating": 5.0,
+            "reference": "ChIJg4a1bW5leA0RzA0kWXrADKY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "57, Bd. Derfoufi, Imm. Douhi 1°Et. Appt. N°15, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.676035,
+                    "lng": -1.9229397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6774539802915,
+                        "lng": -1.921625069708498
+                    },
+                    "southwest": {
+                        "lat": 34.6747560197085,
+                        "lng": -1.924323030291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Yaca rental Oujda",
+            "photos": [
+                {
+                    "height": 1536,
+                    "photo_reference": "ATtYBwLWS3W7E59ogT8G26fAQWBTDsxupZFTFFeJw7waSgsDU8LnWltftBjNDCCM83zM4TaDhOGlfH4rMTy80O-us5vJpfCvFsRlwgyDYZuMuki_yEFxnj1rdk8NRLSpfcP2UwRKATaYa64HJwoKTM9Wa_JZXP7ycbQ66adRtmTQdkEEv7Ew",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJeT2FYrFkeA0RuPvsekDe2hY",
+            "rating": 4.3,
+            "reference": "ChIJeT2FYrFkeA0RuPvsekDe2hY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 145,
+            "vicinity": "Boulevard Mohammed Ben Boujemaa, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6898669,
+                    "lng": -1.9091472
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6912080802915,
+                        "lng": -1.907784569708498
+                    },
+                    "southwest": {
+                        "lat": 34.6885101197085,
+                        "lng": -1.910482530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ZIYAD HOUITE CAR",
+            "photos": null,
+            "place_id": "ChIJbRnhdl9jeA0RytRvb4uQ2Ns",
+            "rating": 5.0,
+            "reference": "ChIJbRnhdl9jeA0RytRvb4uQ2Ns",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68196199999999,
+                    "lng": -1.900155
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68335933029149,
+                        "lng": -1.898803619708498
+                    },
+                    "southwest": {
+                        "lat": 34.68066136970849,
+                        "lng": -1.901501580291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ausfour car",
+            "photos": null,
+            "place_id": "ChIJT4QDPcdjeA0R0P128oLcY3c",
+            "rating": null,
+            "reference": "ChIJT4QDPcdjeA0R0P128oLcY3c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": null,
+            "vicinity": "2éme étage, N° 86 RUE FES APPT N°3 Au, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6763674,
+                    "lng": -1.9406306
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6777009802915,
+                        "lng": -1.939220669708498
+                    },
+                    "southwest": {
+                        "lat": 34.67500301970851,
+                        "lng": -1.941918630291501
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "car rental Oujda benroubicar",
+            "photos": [
+                {
+                    "height": 780,
+                    "photo_reference": "ATtYBwLx4SpCExIGD0J0k_SIncW0G5bSMgXv5qtrPJOVvV7gpwtZt8yL3_6YOE8ZAN6ytvXeyL6CQJh3bCqrVz-00JCP3V2LSjjfsUj8xOiKO-iVG_JLvqV7xS5WM-Kbs59O4PjikU-GBOUam_cz0l7y9EQTVE-fOkES9lEHyww412bpYlJ8",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJVa6UH9BkeA0RuQ3Lr55hx_I",
+            "rating": 3.8,
+            "reference": "ChIJVa6UH9BkeA0RuQ3Lr55hx_I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "80 Boulevard Rahmouni Boualam, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.666649,
+                    "lng": -1.914630999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6680617802915,
+                        "lng": -1.913218969708498
+                    },
+                    "southwest": {
+                        "lat": 34.6653638197085,
+                        "lng": -1.915916930291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "hassan because Douiri",
+            "photos": [
+                {
+                    "height": 406,
+                    "photo_reference": "ATtYBwLbTH302JKcEph0eRGV3JkT7mrcULrjcVMrUK9kPrlZQezBVaiW04pdF60zZ3Dt85OHNa-9fEaGFOYWhrEhxI1DLHVlR73muYmVlJLOYX6st_XTjgY5E_rTbxKXknmlqNYE9siE6JzlAn2C9BTAgTw7x9J0kbIfHypIJU3rVBt62y8s",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ90TkdFR7eA0RY9QuplEgtqg",
+            "rating": 4.3,
+            "reference": "ChIJ90TkdFR7eA0RY9QuplEgtqg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "N2, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.683432,
+                    "lng": -1.915883
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68481003029149,
+                        "lng": -1.914509869708498
+                    },
+                    "southwest": {
+                        "lat": 34.6821120697085,
+                        "lng": -1.917207830291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location de voiture oujda Clic Car",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwKcMVqyHR8VzmbfmgOLL7GkjfaIVYCdciD8ppOiz7qzxTx75naHWcMP1DSV-o03bL7Q1YJYD_w4rqfDia5i9Q8TDHVUugmy6kP10wRNWrYVoGvHyR62bqYcVYLIxbsrTaFW0OVeAMFGIzJLYkxd1cgY5wt53Nss14sn5WgNm1hQqgKM",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJleNtrqVkeA0Rc1lzSaM9aEc",
+            "rating": 4.8,
+            "reference": "ChIJleNtrqVkeA0Rc1lzSaM9aEc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "Angel med 5 rue anoual immuabele moumni appartement 7 1er étage, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6763429,
+                    "lng": -1.9405078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6776823802915,
+                        "lng": -1.939121619708499
+                    },
+                    "southwest": {
+                        "lat": 34.6749844197085,
+                        "lng": -1.941819580291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location de voiture oujda aéroport benroubicar",
+            "photos": [
+                {
+                    "height": 607,
+                    "photo_reference": "ATtYBwJ2S5stFzhrJL6KU_QzEC-4e2zaB5lQWG7OxemBpAv7AsGrv4P-ZNktDXxw0Rr2ZoOMFDdCY_zt8aMfkpXCGB3EAlJmh5tHXsR46MCMBF0Wx5pgDwiJ7nQhtegjQ_DDtLaey45L7oL8_kMhfnRtgqS1DMmIvdDMFIJFIyG7cS4HjmQc",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ1UpDN6dkeA0RBGqt0nQPIXM",
+            "rating": 4.8,
+            "reference": "ChIJ1UpDN6dkeA0RBGqt0nQPIXM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "Boulevard Rahmouni Boualam, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.68151599999999,
+                    "lng": -1.916109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68287418029151,
+                        "lng": -1.914759619708498
+                    },
+                    "southwest": {
+                        "lat": 34.68017621970851,
+                        "lng": -1.917457580291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location voiture oujda - AY CAR",
+            "photos": null,
+            "place_id": "ChIJy72FvLRleA0RqUIQd-L12Bs",
+            "rating": 5.0,
+            "reference": "ChIJy72FvLRleA0RqUIQd-L12Bs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "N8 Rue A77 Hay Essalam D.E.M, Oujda ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.6822476,
+                    "lng": -1.9162993
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.6836476802915,
+                        "lng": -1.915021569708498
+                    },
+                    "southwest": {
+                        "lat": 34.6809497197085,
+                        "lng": -1.917719530291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location voiture oujda DK",
+            "photos": [
+                {
+                    "height": 676,
+                    "photo_reference": "ATtYBwKqGC5XyudWll0xIA4GfEGyFXdXwSu4TwO5rzSQ47mTrj04jIdPqc8Fk_XqEOCtsYW31co3_Ab4tu9suz3tC9_XJ8IkF16BP77uLyT8K6NbN_TyiVRB2FQ10KuLpjSVDQM9vn2KPRaIHNA_ePG46kGYWfPqLRrAlUi7jNN4SdWPyrfm",
+                    "width": 565
+                }
+            ],
+            "place_id": "ChIJVyArgqZkeA0RJFsPlNtRF-k",
+            "rating": 4.3,
+            "reference": "ChIJVyArgqZkeA0RJFsPlNtRF-k",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 45,
+            "vicinity": "30 P1, Oujda ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.683753,
+                    "lng": -1.915719
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68507178029149,
+                        "lng": -1.914299019708499
+                    },
+                    "southwest": {
+                        "lat": 34.6823738197085,
+                        "lng": -1.916996980291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "opium car location de voitures",
+            "photos": [
+                {
+                    "height": 467,
+                    "photo_reference": "ATtYBwKj8xJNHzK61UAS612wgNMCQMqmLtmWd-4nM9rkklwWbCtzjytfp7__45vdM6wQ9a8rlTh85G6ebl1fd3Z0LGkBRvlBd-tAq4utXTVZ9XIK3-JGm0HL7TzS_rjJ67XNNWeJWBmZP1cmX9jWGZuoK0VZuQ-sSjyC7f6RRM_1u7XSD1jF",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJ8Tv9xaVkeA0R2KDYonwEDrw",
+            "rating": 2.0,
+            "reference": "ChIJ8Tv9xaVkeA0R2KDYonwEDrw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "boulevard mohamed V immeuble el baraka, etage 4 Nº15, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.67914409999999,
+                    "lng": -1.9190078
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.68047173029149,
+                        "lng": -1.917627619708498
+                    },
+                    "southwest": {
+                        "lat": 34.6777737697085,
+                        "lng": -1.920325580291502
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "orient car",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwJdTQyj8Tsotoi8dHjNBRSCT_iGMvR0vWZurHdygbQa2fNPrLcXT-rws8MdshHgHKQpFyTgsxsDMQT-GZiku-cfnMg-tDU9LpjIjS01s6XmrVky-6Ry7DShY0AywnsTpoKihutceHOLJxWM9Zdwlgk1uWKzeEOTInZEE_174mbBMvKW",
+                    "width": 1028
+                }
+            ],
+            "place_id": "ChIJr3TvD4BleA0RQzbXQAoFCh8",
+            "rating": 5.0,
+            "reference": "ChIJr3TvD4BleA0RQzbXQAoFCh8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "APP 4 RESIDENCE LE PRINTEMPS, P1, Oujda ",
+            "opening_hours": {
+                "open_now": false
+            }
+        }
+    ]
+}

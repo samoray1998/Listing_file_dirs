@@ -1,0 +1,785 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1693106,
+                    "lng": -5.2690855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17066767989272,
+                        "lng": -5.267755620107278
+                    },
+                    "southwest": {
+                        "lat": 35.16796802010727,
+                        "lng": -5.270455279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "DOGHMA CAR - LOCATION DES VOITURES - RENT CAR - كراء السيارات",
+            "photos": [
+                {
+                    "height": 575,
+                    "photo_reference": "ATtYBwL2h7H4me4aqgOb0A6UW5v4ho70yP7Z5Lz5dHnhOs6n9yYWb56cU8PnVyEeagYZCZl8L7uJ3P5CckEDtb507dDm_uyVHMYB3lk3-zuvSgT7A04yrHsp_uvlHzt-EUULIAj32YwCwbUivaigacrD_u1He6y1bfj_cUmsYCIICXy7fpxx",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJjaqZYoomCw0RS0sluNLLjaA",
+            "rating": 3.5,
+            "reference": "ChIJjaqZYoomCw0RS0sluNLLjaA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Av. Fez, Chefchaouen 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1662023,
+                    "lng": -5.2664892
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16761387989273,
+                        "lng": -5.265147520107278
+                    },
+                    "southwest": {
+                        "lat": 35.16491422010728,
+                        "lng": -5.267847179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BOGGOS CAR Location Voiture Chefchaouen",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwK7y0qM-kl7dmGKwferS0XdpqdwDTUtElvdOuJlomguBsMCZtNaPjso8yIRD-y2anID37FrhmaWqfhnTI5a2NKlIyelIAywMgowz_mN5o2Bjs2dJHdziXr6JrLHZNlopPO7fLrwc1UbFk8zCNhrseQjzVAAWIPsjTZoNk5BDBRmWoFL",
+                    "width": 862
+                }
+            ],
+            "place_id": "ChIJ8S392V8mCw0RdXV1Bf0yQh8",
+            "rating": 5.0,
+            "reference": "ChIJ8S392V8mCw0RdXV1Bf0yQh8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Av. Moulay Abdelrahman Chrif, Chefchaouen, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.6267814,
+                    "lng": -5.2801266
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.62818192989272,
+                        "lng": -5.278756920107279
+                    },
+                    "southwest": {
+                        "lat": 35.62548227010728,
+                        "lng": -5.281456579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Azhar car",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwJja2xg15B-4fGvGBLi489iOZCqB6ed-2uJ5JIEG4GOZD66gpYTwx3YBq7w-tcJ8Y8YXYdgrypvpnPQrB2cidpwUTVwn3ERkP6Ff6lGWm7rel5CIFW3Jp-sksQbVraJaoqdxAfp_WuCpg5MpoIzEJ3NAfh6YObKSx6nKsgppcZKh6cY",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJLY7ulDJbCw0RgMRU8XABy1A",
+            "rating": 2.7,
+            "reference": "ChIJLY7ulDJbCw0RgMRU8XABy1A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "N16, Martil 93150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1668742,
+                    "lng": -5.2697128
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16822032989272,
+                        "lng": -5.268365670107278
+                    },
+                    "southwest": {
+                        "lat": 35.16552067010728,
+                        "lng": -5.271065329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "cimosoukaina car كراء السيارات",
+            "photos": null,
+            "place_id": "ChIJHS08toomCw0Rau1QuG7GC_o",
+            "rating": 4.6,
+            "reference": "ChIJHS08toomCw0Rau1QuG7GC_o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Avenue Mohammed Abdou, Chefchaouen, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.572476,
+                    "lng": -5.3767189
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.57381182989273,
+                        "lng": -5.375383020107278
+                    },
+                    "southwest": {
+                        "lat": 35.57111217010728,
+                        "lng": -5.378082679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "alwahda rent car",
+            "photos": null,
+            "place_id": "ChIJoQ49kRhDCw0RjJbs_RCoqSo",
+            "rating": 1.0,
+            "reference": "ChIJoQ49kRhDCw0RjJbs_RCoqSo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue al ouahda 4° étage bureau N°7, Tetouan 93000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.631992,
+                    "lng": -5.2863133
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.63336922989272,
+                        "lng": -5.284970070107278
+                    },
+                    "southwest": {
+                        "lat": 35.63066957010728,
+                        "lng": -5.287669729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Achir Rent car",
+            "photos": [
+                {
+                    "height": 624,
+                    "photo_reference": "ATtYBwKGSRS3PPdNK96CeAEGnVCA5Bwyoe6i9HopnVFUgSIzPhKKowAnz9ELRUDCYHFt5yp1m_2IS2_xBDXBnyjm2wsnRQxpiICSdTnWIbhsd7SiPrDEbYfSDyd8ByarwDGPD8CCg_ayG6fBi8y97pM4CwShXmAaZcbkXi6m55xBVKZBb3iJ",
+                    "width": 1112
+                }
+            ],
+            "place_id": "ChIJOy6pzrNFCw0RSz1vU4BxeUw",
+            "rating": 4.2,
+            "reference": "ChIJOy6pzrNFCw0RSz1vU4BxeUw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Avenue annassim Rue 2, Martil, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1722739,
+                    "lng": -5.2699531
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17358627989272,
+                        "lng": -5.268559920107277
+                    },
+                    "southwest": {
+                        "lat": 35.17088662010728,
+                        "lng": -5.271259579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Mtiri Car",
+            "photos": null,
+            "place_id": "ChIJD7buducnCw0R39SbWFzlJgQ",
+            "rating": 0.0,
+            "reference": "ChIJD7buducnCw0R39SbWFzlJgQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rue El machichi، Chefchaouen 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1768687,
+                    "lng": -5.2756069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17819157989271,
+                        "lng": -5.274340120107277
+                    },
+                    "southwest": {
+                        "lat": 35.17549192010727,
+                        "lng": -5.277039779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BOGGOS CAR",
+            "photos": [
+                {
+                    "height": 272,
+                    "photo_reference": "ATtYBwLe6IDYQhLtzHgJjC1ewXmkzW2lna6GgRvwdW-Hrh5zsF6PDy9K5Jt0o_s1Kdleem27zrqmsCN3skvKJNdGSHtlTOFhKWL85887YVSEU1EQRmyLRqUhFvfL1ALwl9x5NaiEGazl7LXC43tQyUNlSgIyuBsY-y9onYNoBMrHeHPZia_J",
+                    "width": 446
+                }
+            ],
+            "place_id": "ChIJ3-DroFInCw0RGCJ90IlxjMs",
+            "rating": 0.0,
+            "reference": "ChIJ3-DroFInCw0RGCJ90IlxjMs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "AV Moulay abderahman charif Qua chourafa، 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5779584,
+                    "lng": -5.3543644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.57929847989272,
+                        "lng": -5.353006820107278
+                    },
+                    "southwest": {
+                        "lat": 35.57659882010727,
+                        "lng": -5.355706479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location des voitures - Rent-a-car - Autovermietung Marokko - AHBAB CAR - Agences de Tourisme",
+            "photos": [
+                {
+                    "height": 2592,
+                    "photo_reference": "ATtYBwJZaQ4Ha1Ad84KIokdb_ogZ5DVM7ZpFbvxJ-VRlzO694kTwSRIoGu5ItvrC7JjZYoOm-xJT9u2t82jUKzONZ3KbFtG4xDBJ2wvlHTkJ3-mLzFCxMLiLEbL7PKYjvL39csCDlCZA1DxiT71kRA-bVUvIFWmAMuz7lTLPFIzVXzbhkncv",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ1ctUjSxDCw0Rc1bI0k3oC6E",
+            "rating": 5.0,
+            "reference": "ChIJ1ctUjSxDCw0Rc1bI0k3oC6E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Avenue Tarifa 7, Tetouan, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5910564,
+                    "lng": -5.3310729
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.59236227989273,
+                        "lng": -5.329885370107278
+                    },
+                    "southwest": {
+                        "lat": 35.58966262010728,
+                        "lng": -5.332585029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Tetouan Airport]",
+            "photos": null,
+            "place_id": "ChIJX2aY9xxDCw0RDYgs_BM3Nac",
+            "rating": 0.0,
+            "reference": "ChIJX2aY9xxDCw0RDYgs_BM3Nac",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "L'aéroport Tétouan - Sania R'mel, 93000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1672854,
+                    "lng": -5.2702927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16860947989273,
+                        "lng": -5.268967120107278
+                    },
+                    "southwest": {
+                        "lat": 35.16590982010729,
+                        "lng": -5.271666779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Chefchaouen كراء السيارات feocar",
+            "photos": [
+                {
+                    "height": 1080,
+                    "photo_reference": "ATtYBwJJSFVxVv8pI0g1fy-qzQLiEdIrFxDlft582PnqcGGdNECGwfi8-hp3GQXCwuM5AIdNUQgQHtxHXqCvAI-86mgXK43V621Ky3r42GTG3CqRi7492FV3MeqZYDcCPtx5FKR3sfnXmzi9h5YKSOmbeL5c-aZOgWesfQMRLflRcpcyHcgI",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJj-PK5s4nCw0RCaMT4VxT4bA",
+            "rating": 5.0,
+            "reference": "ChIJj-PK5s4nCw0RCaMT4VxT4bA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "RUE MOHAMED ABDOU, Chefchaouen 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.6171103,
+                    "lng": -5.273001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.61846132989272,
+                        "lng": -5.271644370107277
+                    },
+                    "southwest": {
+                        "lat": 35.61576167010728,
+                        "lng": -5.274344029892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Jaamati & akram Rent a car",
+            "photos": null,
+            "place_id": "ChIJ5eP7QiFFCw0RE_VDMyVesEY",
+            "rating": 5.0,
+            "reference": "ChIJ5eP7QiFFCw0RE_VDMyVesEY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue al massira al khadrae n:4, Martil 93105, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5610246,
+                    "lng": -5.3440363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.56238307989273,
+                        "lng": -5.342652870107278
+                    },
+                    "southwest": {
+                        "lat": 35.55968342010728,
+                        "lng": -5.345352529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El KAHT RENT CAR",
+            "photos": [
+                {
+                    "height": 540,
+                    "photo_reference": "ATtYBwIKvgQUWQSzFAkyW1p-HP4VXQ6wsskX5GsdI4xYb8BFaM4gxlcMRiR2sRd_Kcz_BnjVrWovhs7Jku_7g4JUUQnwvlqhOZK-2iSJ1ndCxoXbP-iNoWo5YXlDGdGKCN5cDzZSRWl4eEX8Zyfy1LH1k-ikpailbK2M42CJGTAV9s2Pz3LU",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJoeGkquFDCw0REuc-sFcbHm0",
+            "rating": 0.0,
+            "reference": "ChIJoeGkquFDCw0REuc-sFcbHm0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Pres mosque kouilma, Tetouan 93000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5733674,
+                    "lng": -5.352411399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.57473162989271,
+                        "lng": -5.351062820107277
+                    },
+                    "southwest": {
+                        "lat": 35.57203197010727,
+                        "lng": -5.353762479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Jaguar Car - location de voiture tanger tetouan",
+            "photos": null,
+            "place_id": "ChIJI99bvHlDCw0RkEAgn7ovjgU",
+            "rating": 3.7,
+            "reference": "ChIJI99bvHlDCw0RkEAgn7ovjgU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "N249 Avenue Abdelkhalek Torres, Tétouan 93000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.58774,
+                    "lng": -5.3534058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.58908297989272,
+                        "lng": -5.352040270107278
+                    },
+                    "southwest": {
+                        "lat": 35.58638332010727,
+                        "lng": -5.354739929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "migo rent car",
+            "photos": null,
+            "place_id": "ChIJt1cXiBhDCw0R-NpukERuSEY",
+            "rating": 4.0,
+            "reference": "ChIJt1cXiBhDCw0R-NpukERuSEY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Jbel Saghrou, Tétouan, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5715771,
+                    "lng": -5.3549257
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.57294312989272,
+                        "lng": -5.353542670107277
+                    },
+                    "southwest": {
+                        "lat": 35.57024347010728,
+                        "lng": -5.356242329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "The Grandfather Rent Car",
+            "photos": null,
+            "place_id": "ChIJIQ5sn1NCCw0RuMBnPGuzEBE",
+            "rating": 5.0,
+            "reference": "ChIJIQ5sn1NCCw0RuMBnPGuzEBE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "kaissariyat nasser, n°45 Avenue Saidia, Tetouan, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5873174,
+                    "lng": -5.3504169
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.58869232989272,
+                        "lng": -5.349043720107278
+                    },
+                    "southwest": {
+                        "lat": 35.58599267010728,
+                        "lng": -5.351743379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "migo rent car",
+            "photos": null,
+            "place_id": "ChIJnSqbWtJDCw0RV4utQ0_YSFg",
+            "rating": 1.0,
+            "reference": "ChIJnSqbWtJDCw0RV4utQ0_YSFg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Jbel Atlas, Tétouan 93000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5827219,
+                    "lng": -5.3428333
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.58407557989273,
+                        "lng": -5.341486870107278
+                    },
+                    "southwest": {
+                        "lat": 35.58137592010728,
+                        "lng": -5.344186529892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mawan rent car",
+            "photos": [
+                {
+                    "height": 8000,
+                    "photo_reference": "ATtYBwI9TwKCehAWJqlJBqVzXtRyyxDm5WeDxKx8VwayURQT_u-P-y0ShF87TYchN0GqfPpq0Eve1h4F4yX7mKfTMgDduyuWtPbdeTIa4q96pUNc3RXE5lW6XFp1GwTMuMzfoFW8eDzbLyj0iR19RnJuL-3Or97vX19CX18VORX8dYMzymzV",
+                    "width": 6000
+                }
+            ],
+            "place_id": "ChIJDQIBObxDCw0Rpjp2o1Iw-cc",
+            "rating": 0.0,
+            "reference": "ChIJDQIBObxDCw0Rpjp2o1Iw-cc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue Al Kantara, Tétouan, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5689728,
+                    "lng": -5.3587528
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.57033492989272,
+                        "lng": -5.357397020107279
+                    },
+                    "southwest": {
+                        "lat": 35.56763527010727,
+                        "lng": -5.360096679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent GRYN",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwJFefzilRlo2xCh6PTIc6G9c4dWgUPovKeC6Rx3ODVA5dZIMOyt72M25VYbhOrAugb29rbYhUZUIuE0dokB7Zt_fEo6cCCU9idutSmiPCVQDOSMFbJuom977aneseAC2Up2ZM9dJEIfNjCuIEJ_2T6iLSF0PIQE5qX4ie1sj-zQy-s",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJbYw9vFFCCw0R8Pgmm4PtG_A",
+            "rating": 4.3,
+            "reference": "ChIJbYw9vFFCCw0R8Pgmm4PtG_A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Avenue Agadir, Tétouan 93040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.5689066,
+                    "lng": -5.3736351
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.57027442989273,
+                        "lng": -5.372338070107279
+                    },
+                    "southwest": {
+                        "lat": 35.56757477010728,
+                        "lng": -5.375037729892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amro y Omar CAR",
+            "photos": [
+                {
+                    "height": 1654,
+                    "photo_reference": "ATtYBwIftMzgLe-V3CLfZDE4YZvJpeJxotL1GWjNZbGfFujcAko87o1msYx6nGz8MgGzHFxJZ-trl4PlbYXgtv7gMyTVIzfjGiA1aaTx6765edaMg8ZzPmaS1QHkiqs6ZFLGYk6W-O7d4RxHf48il0p-AXieGGA-CeDCetM2jtHxpaMbdYlc",
+                    "width": 1654
+                }
+            ],
+            "place_id": "ChIJpeReg2dCCw0RE1r6nRM7OxM",
+            "rating": 5.0,
+            "reference": "ChIJpeReg2dCCw0RE1r6nRM7OxM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "17, Av youssef ibn Tachfin N°1، 93000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

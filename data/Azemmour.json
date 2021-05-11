@@ -1,0 +1,292 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2909369,
+                    "lng": -8.3454895
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.29224692989272,
+                        "lng": -8.344215270107279
+                    },
+                    "southwest": {
+                        "lat": 33.28954727010728,
+                        "lng": -8.346914929892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europace car",
+            "photos": null,
+            "place_id": "ChIJFXheWPblqA0RGIGNbpR5C70",
+            "rating": 5.0,
+            "reference": "ChIJFXheWPblqA0RGIGNbpR5C70",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "46 rue nassim, routte lmessalla, Azemmour 24100, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2500605,
+                    "lng": -8.5038927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.25141317989272,
+                        "lng": -8.502512170107279
+                    },
+                    "southwest": {
+                        "lat": 33.24871352010728,
+                        "lng": -8.505211829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Texas Car - Location de Voiture El Jadida - Rent Car - Pas Cher",
+            "photos": [
+                {
+                    "height": 3640,
+                    "photo_reference": "ATtYBwJ2XyXiGYu5VAQBUB6W8IcMf22GW6UV-wqRlCTkxdBcT6qqgb2AI_CH_NcFPC6-xF7dcJlyAd4FaC-bj8JC_g0rHVGNENqwKVZ7nFFUNPxMzbSNI5XOLuTeGgm506flQD5_t4Agejyun2i8zKBUlZUwHFp_aO-Wz2XuxKK2Y25qA_Br",
+                    "width": 5466
+                }
+            ],
+            "place_id": "ChIJ07l3U-gdqQ0R_KWNZre9WXE",
+            "rating": 4.6,
+            "reference": "ChIJ07l3U-gdqQ0R_KWNZre9WXE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "28 bis Immeuble Khalifa Rue Anatôle France، El Jadida 24000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.25066220000001,
+                    "lng": -8.5008196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.25204302989272,
+                        "lng": -8.499428870107277
+                    },
+                    "southwest": {
+                        "lat": 33.24934337010728,
+                        "lng": -8.50212852989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mabrouka Car",
+            "photos": [
+                {
+                    "height": 460,
+                    "photo_reference": "ATtYBwL_jX3cH6ecK_vPW-Zuy7TL2X7g4zbXeMuTfEBPeG6WODeSVxEscUuz_yjGchC3CEJhzPMj-u2dDvgZ0gqjgbQ-ukDeFYRTTlPYv1dxxEzxdDyJkFEnoZoWkBhiHjjGDNc3k188YeJQJBmNR6brgOI6tSiING6GEua1d-iSESO2ltI",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJAQAAAAweqQ0RASt0XOse1pw",
+            "rating": 4.8,
+            "reference": "ChIJAQAAAAweqQ0RASt0XOse1pw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102,
+            "vicinity": "Résidence Ichrak, Avenue Mohamed VI, El Jadida 24000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2345063,
+                    "lng": -8.4936145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.23582857989272,
+                        "lng": -8.492371820107278
+                    },
+                    "southwest": {
+                        "lat": 33.23312892010727,
+                        "lng": -8.495071479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar El Jadida",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLAGjOXDSfQOXfHpQrbFG74HWo85nULxZ2YETQafKgSpAC72xG4XUPpl45XWHHJdF0lScNMq9ANi1Fe5ZLjWC-wWkrEBeYwRivjw0h_mf0WFSO3Hkkt5yfTdHgroeYIwFM8iRCGNjLISMEqjxZLFZ2IgYyXPiquTI-yj-fdeX9Irzqw",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "rating": 4.4,
+            "reference": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "24400, El Jadida, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5154396,
+                    "lng": -7.8170438
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.51680617989272,
+                        "lng": -7.815647470107277
+                    },
+                    "southwest": {
+                        "lat": 33.51410652010728,
+                        "lng": -7.818347129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AQUILACARS Location de Voitures Pas Cher à Dar Bouazza",
+            "photos": [
+                {
+                    "height": 274,
+                    "photo_reference": "ATtYBwKJamU12p4bDIu6bw3jMOA0SZUfEwd3F_yyeckXq3uOnP8dpfVpY1ig9LLxh5GWOn0UOndoME6AgsTQ4two2myp9CXlhsMrx0bUsHjTu7LC4J2OmzdfVcQJ3QH08cB-JbTsuJ9FYfap2iCoN7jE__qbrUGb8McBWTfJYB3fcaIWR8Vp",
+                    "width": 487
+                }
+            ],
+            "place_id": "ChIJrfPyjEOAqA0RUxKmHPathq8",
+            "rating": 4.7,
+            "reference": "ChIJrfPyjEOAqA0RUxKmHPathq8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "banque populaire, Centre commerciale Dar Bouazza Magasin N 21 en face de la, Tamaris 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.59644,
+                    "lng": -7.617907
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59786772989273,
+                        "lng": -7.616655270107277
+                    },
+                    "southwest": {
+                        "lat": 33.59516807010728,
+                        "lng": -7.619354929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dollar Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwILHOT3_PI41uU4e29WRlOl6yOP9zBSWSqeJm9-k--nWyuBuPVXDjXMXq5YDJPfDhD9cf4p0hql2z1dITfgz84-fcLeuC8LvZsy2bSSa0XfnydVv-lbg8fCz3lo5jS7pVqDqkeizNfCK3MbfSBUnXDRT8kHNFI1w6EfCbbY8pl-lk0m",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJm7NdkOfTpw0R4xoc1LDS-yE",
+            "rating": 1.0,
+            "reference": "ChIJm7NdkOfTpw0R4xoc1LDS-yE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CASABLANCA DT, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5551334,
+                    "lng": -7.6292738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.55647147989271,
+                        "lng": -7.627967770107278
+                    },
+                    "southwest": {
+                        "lat": 33.55377182010727,
+                        "lng": -7.630667429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar Casablanca",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwK4kbAcM86Sh43Z3euYV6t0bFSvqdYktv0FZHYOshUW0O-ucXGtcw9C4DfrKRD8_3HeRTm0PmyHTShlKw7J_ADF1JY16x4fWc_IdMt2j__pm15Jb7dFWpnKDa_0Q5d67Ln_8G3JcHoqe0k8oMbtbZFNO3xAjPlZPMguFZ6P4JoTfmkI",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "rating": 4.7,
+            "reference": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127,
+            "vicinity": "Lot Al Waha A 7 N 49 a coté de pharmacie bachkou، Casablanca 24040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

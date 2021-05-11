@@ -1,0 +1,240 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.8875282,
+                    "lng": -6.919772399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88886067989272,
+                        "lng": -6.918362970107277
+                    },
+                    "southwest": {
+                        "lat": 32.88616102010727,
+                        "lng": -6.921062629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Sindibad Car",
+            "photos": [
+                {
+                    "height": 1441,
+                    "photo_reference": "ATtYBwJbN9hkLrJYspLwd5uPDq0K0nPxoE5G5j6ZZilxBcBu-dANlhTZ8eL4JhAyGAheQ1HjW82N6_8pvPSsuyTQYr4lresr4Gr-mpeGVxGvmjvAJS8d_KL50QGhqM270Lcbg9_Qpw1H00rdKYTrnTsQg0F2LcZt2Og2GIgvWuJiqCoDrA2x",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ-1ASJ9EnpA0R-qUnjr9IOVk",
+            "rating": 5.0,
+            "reference": "ChIJ-1ASJ9EnpA0R-qUnjr9IOVk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard Brahim Roudani, Khouribga, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.885404,
+                    "lng": -6.920447999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88674397989272,
+                        "lng": -6.919063570107277
+                    },
+                    "southwest": {
+                        "lat": 32.88404432010728,
+                        "lng": -6.921763229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Soudri Car",
+            "photos": [
+                {
+                    "height": 1536,
+                    "photo_reference": "ATtYBwKLBaHJU84ubhqXrPSYeA30axuHrE-hjKZJIkImLasYmxIcDPJht_XJMD4sfYEPuob-GLh30V2w2h3V3MC52GEDiLToaZiYHFpT-ontlHTwXjlep6fROtw73qqJJVtVIH_TeDkL1zDoQVXKUZ_OSho4hP5ev-PlGZTAeGSHtVl0cfug",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJ35aN0P8npA0ROG_lCz3usC4",
+            "rating": 3.0,
+            "reference": "ChIJ35aN0P8npA0ROG_lCz3usC4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "104 Boulevard Brahim Roudani, Khouribga 25020, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.888728,
+                    "lng": -6.922465000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89003217989272,
+                        "lng": -6.921130270107279
+                    },
+                    "southwest": {
+                        "lat": 32.88733252010728,
+                        "lng": -6.923829929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Carget",
+            "photos": [
+                {
+                    "height": 896,
+                    "photo_reference": "ATtYBwIfGSGf9rPs0QRKzWOotJ8t86B7LWLxKV4BDu7QsBEKRfbEkoBRb0b7BfGVQySSpDn5Z_B4QAqWq5H3Oj8yrrA_xBEOQc80vjJlPaLX2Aldyj0xciFeBs1DmoVmBsGyRXw0Zx7FeXj1KPCBJRuvdjyLvucoxvbIsm81HiOmq-Y79Hfv",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJHYLwlKqCpg0RGwu0t-d4tJU",
+            "rating": 3.0,
+            "reference": "ChIJHYLwlKqCpg0RGwu0t-d4tJU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "31 Boulevard Mohammed VI, Khouribga 25000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.88987,
+                    "lng": -6.926653699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89125982989272,
+                        "lng": -6.925290470107278
+                    },
+                    "southwest": {
+                        "lat": 32.88856017010728,
+                        "lng": -6.927990129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Marengo Car",
+            "photos": null,
+            "place_id": "ChIJ5RugQoODpg0RSE0ygpo2CPk",
+            "rating": 0.0,
+            "reference": "ChIJ5RugQoODpg0RSE0ygpo2CPk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "3eme Etg, N°25 Bd Mohamed 6 Lot Erraki Apt 2, Khouribga 25000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.8842453,
+                    "lng": -6.918782299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.88560837989272,
+                        "lng": -6.917435720107277
+                    },
+                    "southwest": {
+                        "lat": 32.88290872010728,
+                        "lng": -6.920135379892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "تأجير السيارات لونات",
+            "photos": null,
+            "place_id": "ChIJtVtoUP4npA0RalMAqz8qd3s",
+            "rating": 5.0,
+            "reference": "ChIJtVtoUP4npA0RalMAqz8qd3s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Khouribga, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.8910334,
+                    "lng": -6.929992299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.89233512989272,
+                        "lng": -6.928659520107278
+                    },
+                    "southwest": {
+                        "lat": 32.88963547010727,
+                        "lng": -6.931359179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ANAMI CAR",
+            "photos": [
+                {
+                    "height": 540,
+                    "photo_reference": "ATtYBwLGmyfyD_X8QL5U3SUeW3w4pAPaSPJMHgZNPvP24AzhRJAcngvEJEc8rGC-5qtYe8wVxkHAyfVPWYkmQfxXHxVEaZ7bLrwWmztzZRxp55wBBXbUxTVOkfUjRJEJ6rgr4YkfuKDXQKxkyN3PMQi8tvtTgIg6HRqi2Gr1avo5qHpDr1T8",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ0W_BMfWDpg0Rl2jlYe9pJi8",
+            "rating": 5.0,
+            "reference": "ChIJ0W_BMfWDpg0Rl2jlYe9pJi8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Khouribga, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

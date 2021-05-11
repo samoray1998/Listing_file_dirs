@@ -1,0 +1,128 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.50810269999999,
+                    "lng": -4.881495699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.50945252989271,
+                        "lng": -4.880145870107277
+                    },
+                    "southwest": {
+                        "lat": 36.50675287010727,
+                        "lng": -4.88284552989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Marbella",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIAD3GQfDk8jMjwcINHFk5l64QTws4kylFsEkoK0Ad7WikzI5ScKhruJe0Aht5OvEbtbXctxRUeU5VkiBFTCEuXNRgsI4QOEHbPcAwDqB5WIOaiGOIPIQEMizBThIeTlTT0H57Xqmo6khXJJPADjvDDAfz-Hna4EG6k6c2AisoOAd23",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJxZV6tooncw0RcnwNpcxmLZ4",
+            "rating": 4.2,
+            "reference": "ChIJxZV6tooncw0RcnwNpcxmLZ4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84,
+            "vicinity": "Complejo Miramar, Av. Severo Ochoa, 6, Local 4, 29603 Marbella, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.5941667,
+                    "lng": -4.5219444
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.59551137989272,
+                        "lng": -4.520586120107278
+                    },
+                    "southwest": {
+                        "lat": 36.59281172010728,
+                        "lng": -4.523285779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Benalmadena",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLJxwI9AeVCLJnoFNxc8fDSLRcuCj58lE19O7N_4ay9V0ZtM-U-q9jpgOmT025tKCh7g6uhb1ahXRPB8upni1zIMLJxfPc3F43RN538gSVHDBbZ34huXlj8nMyHMoaQxWQk9o0ScR-oVmVBtrwQEXkpcm_6txRl6Q-v2-GknFW3XUHB",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "rating": 0.0,
+            "reference": "ChIJ5wfSucD9cg0R_jOE2flAFkk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Only Delivery And Collection Tl0034 639240516, 34, 952475789, 29630, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.5959484,
+                    "lng": -4.5204385
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.59725522989272,
+                        "lng": -4.519018720107279
+                    },
+                    "southwest": {
+                        "lat": 36.59455557010728,
+                        "lng": -4.521718379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Benalmadena",
+            "photos": [
+                {
+                    "height": 533,
+                    "photo_reference": "ATtYBwLfLDFtud0EmlgB3OTVGrTsNTm5evysmfI-3IPjFPXH5uSjO9SZhVWyVOhuMV8SAq9nTqM6ryAUm99-KoBa1rXvjoEt_TMvw3izVGySkYF7pvQH1jtRJ8li17BBFu25F3A_4z9IPslviT39eKwbZqcFPHQh8Jt5HC2oErIcLU5SdNU",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJTRYCcmL8cg0R-VdyH9MsBdo",
+            "rating": 3.0,
+            "reference": "ChIJTRYCcmL8cg0R-VdyH9MsBdo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Av. Antonio Machado, 42, 29630 Benalmádena, Málaga, Spain ",
+            "opening_hours": null
+        }
+    ]
+}

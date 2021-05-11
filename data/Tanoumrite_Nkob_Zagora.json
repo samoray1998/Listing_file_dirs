@@ -1,0 +1,201 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.23788309999999,
+                    "lng": -6.1279653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.23930257989272,
+                        "lng": -6.126668120107278
+                    },
+                    "southwest": {
+                        "lat": 31.23660292010728,
+                        "lng": -6.129367779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amridil car",
+            "photos": null,
+            "place_id": "ChIJgSv3C5W5vA0RIBb3q9aoc0s",
+            "rating": 0.0,
+            "reference": "ChIJgSv3C5W5vA0RIBb3q9aoc0s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "45200, Kelâat M'Gouna, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4993315,
+                    "lng": -5.5301849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50070337989272,
+                        "lng": -5.528837520107277
+                    },
+                    "southwest": {
+                        "lat": 31.49800372010728,
+                        "lng": -5.531537179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Assoufghe car",
+            "photos": null,
+            "place_id": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "rating": 0.0,
+            "reference": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "230, Tinghir 45800, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3327008,
+                    "lng": -5.836934599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33405402989272,
+                        "lng": -5.835606770107277
+                    },
+                    "southwest": {
+                        "lat": 30.33135437010727,
+                        "lng": -5.838306429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location SPE CARS",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwKaNq8gGLsn65XmBQssv_lzkgtGgmIlLTFZFeggKK_e4YBJ3oksnS47EiImSMclOiaVD8InjWdprqiF0GyBRkn2qFLW9Y8_IONcC-l9TfkwbQ-kzND-_SljVbslZykbCvx_SaEV-9oyWPro5MqSYe_x8GCMQEUO3KrQ6BsU-9CJvmGf",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJoQJQgHA3vA0Rcx2TRb5YjTo",
+            "rating": 4.9,
+            "reference": "ChIJoQJQgHA3vA0Rcx2TRb5YjTo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "N°4 HAY DARRA, Zagora LMSSElA، 47900, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.9268046,
+                    "lng": -6.927302399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.92816627989272,
+                        "lng": -6.925908220107278
+                    },
+                    "southwest": {
+                        "lat": 30.92546662010728,
+                        "lng": -6.928607879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RAYANO CAR",
+            "photos": [
+                {
+                    "height": 672,
+                    "photo_reference": "ATtYBwIrJz61VqPpr2lxnJY020BQgaid53c11ZZQLBzzdE9vXlOyp9TjspBfZz3ZI8yUN3uyFOjHpFQtNIvPt2HRtctInjvslZuVYU1dzgkQXdpt1ZtCk3fXiCtlJzIJVvKRz0hdvBpQjcCxQNv8vX7YH7JAQ4RBE3v_3rg7I2QAB-H15pn4",
+                    "width": 1197
+                }
+            ],
+            "place_id": "ChIJ9zeCK-Ubuw0Ru6ioYF3gEg4",
+            "rating": 5.0,
+            "reference": "ChIJ9zeCK-Ubuw0Ru6ioYF3gEg4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Hay Douar Chems N° 31 - Ouarzazate (M, 45000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637114,
+                    "lng": -8.0120094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63841007989272,
+                        "lng": -8.010631470107278
+                    },
+                    "southwest": {
+                        "lat": 31.63571042010727,
+                        "lng": -8.013331129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LabelVoiture - Location Voitures Marrakech",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwKjEItWsD6clqjvM466JC-VIkzjX1Y-DGu-SGXg1SsdDh-EGVDNS5tuKsQf4uN7DJrw0hJ-pQ-2OTZFJUwck28m7UOCMhoC7Kt7IhSMsqMpgpu3XWA-oIEQ6IU9Wh7MpsYBg3zGyvPchRpJ7JnLcRMsFbCaCN4TOfDArVSeP3vbO8EW",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "rating": 4.8,
+            "reference": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Bd Zerktouni, Imm 90 1er étage Appartement N°20, Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

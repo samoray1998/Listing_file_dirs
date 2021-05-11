@@ -1,0 +1,428 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.580584,
+                    "lng": -10.033563
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.58195472989271,
+                        "lng": -10.03221132010728
+                    },
+                    "southwest": {
+                        "lat": 29.57925507010727,
+                        "lng": -10.03491097989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sable D'Or Car",
+            "photos": null,
+            "place_id": "ChIJh1fFmHePtA0Ro7DTDeOHjPU",
+            "rating": 5.0,
+            "reference": "ChIJh1fFmHePtA0Ro7DTDeOHjPU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bp 154 Mirleft, Mirleft, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4122066,
+                    "lng": -9.5921573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41368582989272,
+                        "lng": -9.590619470107278
+                    },
+                    "southwest": {
+                        "lat": 30.41098617010728,
+                        "lng": -9.593319129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Deniz Tours - Location voiture Agadir Aéroport",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwLQtKfHBF6nFKQMwm0MGPVw7q9QZg8vUsu8CKYrO2WrHG7SAXXPOjN4nbeIuAJQqQd5VXWhpJgSt8J6Z0rEubZCi43NQMfyThmJKJoZYNeCkQkHzMTFirKgwh9d4Ke0PHc1tddajXDZWqjOgwQCYVzNO-uIGqMT_2JS12p8rLGEazI",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJN_Ap__i2sw0R1JB7HUZdIFw",
+            "rating": 3.9,
+            "reference": "ChIJN_Ap__i2sw0R1JB7HUZdIFw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "Avenue Hassan II Centre Ville, Immeuble Maison de l'Avocat 1 N°10، Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.858904,
+                    "lng": -13.8350443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.86019147989272,
+                        "lng": -13.83374427010728
+                    },
+                    "southwest": {
+                        "lat": 28.85749182010728,
+                        "lng": -13.83644392989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "rating": 4.0,
+            "reference": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Estacion Maritina De Playa Bla, Calle la Lapa, 35560 Playa Blanca, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.0009837,
+                    "lng": -13.4898944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.00222472989272,
+                        "lng": -13.48844707010728
+                    },
+                    "southwest": {
+                        "lat": 28.99952507010727,
+                        "lng": -13.49114672989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJEx8TPC6cSAwRMtATNhXuzAo",
+            "rating": 0.0,
+            "reference": "ChIJEx8TPC6cSAwRMtATNhXuzAo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C.C LOS CHARCOS, Av. de las Islas Canarias, 35509 Arrecife, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.919793,
+                    "lng": -13.6458361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.92121287989271,
+                        "lng": -13.64448197010728
+                    },
+                    "southwest": {
+                        "lat": 28.91851322010727,
+                        "lng": -13.64718162989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Rent - A - Car",
+            "photos": null,
+            "place_id": "ChIJVVV5uOUlRgwRPz2xrya2pJg",
+            "rating": 0.0,
+            "reference": "ChIJVVV5uOUlRgwRPz2xrya2pJg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "BARCAROLA Lanzarote, Av. de las Playas, 80, 35510 Lanzarote, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7406091,
+                    "lng": -13.8631093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74206102989272,
+                        "lng": -13.86171937010728
+                    },
+                    "southwest": {
+                        "lat": 28.73936137010727,
+                        "lng": -13.86441902989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJczyIxv40RgwR48OBBEeEE9Q",
+            "rating": 1.0,
+            "reference": "ChIJczyIxv40RgwR48OBBEeEE9Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Estacion Maritina De, 35640 Corralejo, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4520663,
+                    "lng": -13.8711271
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45335427989272,
+                        "lng": -13.86989337010728
+                    },
+                    "southwest": {
+                        "lat": 28.45065462010728,
+                        "lng": -13.87259302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJ60TPgR7HRwwRqaMgUy4njoA",
+            "rating": 1.0,
+            "reference": "ChIJ60TPgR7HRwwRqaMgUy4njoA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Fuerteventura Airport, El Matorral, 35610, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.9869786,
+                    "lng": -13.5101185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.98837757989272,
+                        "lng": -13.50883042010728
+                    },
+                    "southwest": {
+                        "lat": 28.98567792010728,
+                        "lng": -13.51153007989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Costa Teguise - La",
+            "photos": [
+                {
+                    "height": 1836,
+                    "photo_reference": "ATtYBwJ_GWaFWrZxRU1C3y26dXlJEO5fN39Qu4OjWX50oy_Fy1IsPJXFe7OUr3LnVtYzA08FhbA-yxqnqGLs9z9nRK9xPTrlshoss4-8sp3Sn1HwBpF2lH-mD6HeaJhhGKqHKavTPmPJ1ncjlWGtcpMGLE7D6gIkxbZwLHQRDFAmJUB6pwb0",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJC8dPcMmdSAwRKer6hkVnPN4",
+            "rating": 3.3,
+            "reference": "ChIJC8dPcMmdSAwRKer6hkVnPN4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "H Occidental Lanzarote Playa, Av. del Mar, S/n, 35508 Costa Teguise, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.950318,
+                    "lng": -13.609089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.95170707989273,
+                        "lng": -13.60786752010728
+                    },
+                    "southwest": {
+                        "lat": 28.94900742010729,
+                        "lng": -13.61056717989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Lanzarote",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwJs9FpqZAY8Yrr9NYn2HDseSMVf0h0K387w1k8TWmJ3NiGJc-KrhRwl_DeRDXael4Ip8VaU93LuBPFbcV2XPGOrMqSXWXQQwL8HKRhVJsyTlt_H0p46vjyl_cL29NVAvNzb_OLaFam1GGZdUIw9s3y-KyWRP7t9qqb3Ezf9E7B259wA",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJn2w22VgmRgwRYvd-nBn6f5s",
+            "rating": 3.3,
+            "reference": "ChIJn2w22VgmRgwRYvd-nBn6f5s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96,
+            "vicinity": "Aeropuerto De Lanzarote Guasimeta, 35550 Arrecife, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.920598,
+                    "lng": -13.666813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.92189482989271,
+                        "lng": -13.66552982010728
+                    },
+                    "southwest": {
+                        "lat": 28.91919517010727,
+                        "lng": -13.66822947989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Puerto del Carmen",
+            "photos": [
+                {
+                    "height": 1840,
+                    "photo_reference": "ATtYBwJ_oVNN9M0kyzGFWbTEu3YHdYo30vUBLYKE2ft4zr2ZyF7wGXAmas1FMe5tCtyATDzlcoAoZSr67k6AKCwLdQH_e8KNAzQjt_PvHfC0iCVaDi8uajwoUh4PhorXMOfsV89zo1JhrMLSPmSE6l3eDxOUkU2W3iYNMBaz7zdIhoJXahOC",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ6f__P-klRgwRyuimydn0xDc",
+            "rating": 4.0,
+            "reference": "ChIJ6f__P-klRgwRyuimydn0xDc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83,
+            "vicinity": "Comercial Fariones, Calle Timanfaya Sin, Numero Centro, 35510 Puerto del Carmen, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.865816,
+                    "lng": -13.838383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.86727307989272,
+                        "lng": -13.83701712010728
+                    },
+                    "southwest": {
+                        "lat": 28.86457342010728,
+                        "lng": -13.83971677989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Lanzarote",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLSauBxNmDaLgb1IoyZXm65--Q-fA2e59Zu6XbelLzhDcl_ibHCWyC3wEN3Wi3zA2frA3NjXRdgYsHlcdocW_pbYWlxoCuYKMKDMEOGYR5yfP8yZ_70dhhofY9k0nvX00jsu_qU2Wsxk2ycwBVamONK2wkCozGUmWR4ABDl0S2279Ph",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJf4QN_Eg3RgwREq_DLz7lu9s",
+            "rating": 3.6,
+            "reference": "ChIJf4QN_Eg3RgwREq_DLz7lu9s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Elba Lanzarote Royal, Av. Faro Pechiguera, 1, 35580 Lanzarote, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        }
+    ]
+}

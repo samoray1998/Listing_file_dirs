@@ -1,0 +1,42 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7710087,
+                    "lng": -5.830950199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77235332989272,
+                        "lng": -5.829592470107278
+                    },
+                    "southwest": {
+                        "lat": 35.76965367010727,
+                        "lng": -5.832292129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+            "name": "DERKAOUI AUTOMOBILE - Vente Achat et LOCATION",
+            "photos": null,
+            "place_id": "ChIJYSIB216HCw0RRYn5hg2tGNk",
+            "rating": 4.0,
+            "reference": "ChIJYSIB216HCw0RRYn5hg2tGNk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "null",
+                "car_rental",
+                "point_of_interest",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "Avenue Moulay Rachid, Tanger 90000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

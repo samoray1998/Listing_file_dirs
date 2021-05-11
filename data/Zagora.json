@@ -1,0 +1,202 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3327008,
+                    "lng": -5.836934599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33405402989272,
+                        "lng": -5.835606770107277
+                    },
+                    "southwest": {
+                        "lat": 30.33135437010727,
+                        "lng": -5.838306429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location SPE CARS",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwJEtoTu9e1_QUxAxL-Q-vWewKCkcmwL4ZEQwovf4BnC1_G-CBeFYYT3FiQePVQ6_8PiZZ-Os_dhaBxF6xeh6szFQGaf2DdRwmaExbuDdNYxCEfNzRI3ZFzfzUCzoajUUjsF3ja87fQxo69Y0h-acqSLD-t5L6fQ07alVcpZhwAR5E2k",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJoQJQgHA3vA0Rcx2TRb5YjTo",
+            "rating": 4.9,
+            "reference": "ChIJoQJQgHA3vA0Rcx2TRb5YjTo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "N°4 HAY DARRA, Zagora LMSSElA، 47900, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.327031,
+                    "lng": -5.838636999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.32837327989272,
+                        "lng": -5.837289870107278
+                    },
+                    "southwest": {
+                        "lat": 30.32567362010728,
+                        "lng": -5.839989529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "auto voyages",
+            "photos": null,
+            "place_id": "ChIJi0hDt8E2vA0RS3KBLthVSac",
+            "rating": 5.0,
+            "reference": "ChIJi0hDt8E2vA0RS3KBLthVSac",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Avenue Mohamed 5 Zagora, Zagora 45900, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3297346,
+                    "lng": -5.837882899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33109632989272,
+                        "lng": -5.836613320107278
+                    },
+                    "southwest": {
+                        "lat": 30.32839667010728,
+                        "lng": -5.839312979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Oasis new car",
+            "photos": null,
+            "place_id": "ChIJiSg3D643vA0R83E9usqiApw",
+            "rating": 5.0,
+            "reference": "ChIJiSg3D643vA0R83E9usqiApw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Zagora, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3536596,
+                    "lng": -5.8399801
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.35502377989272,
+                        "lng": -5.838560620107278
+                    },
+                    "southwest": {
+                        "lat": 30.35232412010728,
+                        "lng": -5.841260279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Voyage Ait El Houch",
+            "photos": [
+                {
+                    "height": 407,
+                    "photo_reference": "ATtYBwJ4321fXiEPJStu6MU1X4PBwSU_O0OCK2HarYKz-9BXKq09jV552XFjjNPRVyQPGOyL5V_G_5J6b7YZyEBsCCu8wdNmonc3e-ai8JVN9nMTyI27mkPbXGbbSjVgr5_FJTwzw44KY65pkNpQH6XYwQei4iv-y5C4-TGNCRWVuVI7zK6H",
+                    "width": 612
+                }
+            ],
+            "place_id": "ChIJ______M2vA0RX_RUjQdF3I4",
+            "rating": 3.3,
+            "reference": "ChIJ______M2vA0RX_RUjQdF3I4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Zagora, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.930356,
+                    "lng": -6.9087768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.93176997989272,
+                        "lng": -6.907394220107277
+                    },
+                    "southwest": {
+                        "lat": 30.92907032010727,
+                        "lng": -6.910093879892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amridil Car",
+            "photos": [
+                {
+                    "height": 630,
+                    "photo_reference": "ATtYBwKvBzydoz2h4o_PEOC3Gx2jcD_5Vc338qwoOvYmjMSilBojbhNkhHGkQhFNdDlQYVkFBHkJwJVGL61GQgb7rnYHMmlKVdU7roKYOubf3oL5Yaw0QtKZL1d-A2_hrRbd4lwy13Yfs3FsUpn2qJ9SvAa24JsVbiCVv8jAN3lCBM1fCnUG",
+                    "width": 1121
+                }
+            ],
+            "place_id": "ChIJ4-EfbWUQuw0RpXC4d65dujI",
+            "rating": 4.6,
+            "reference": "ChIJ4-EfbWUQuw0RpXC4d65dujI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "36 Avenue Moulay Abdellah, Ouarzazate 45000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

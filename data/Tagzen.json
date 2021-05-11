@@ -1,0 +1,787 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.540267,
+                    "lng": -7.603504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54162762989272,
+                        "lng": -7.60211132010728
+                    },
+                    "southwest": {
+                        "lat": 33.53892797010728,
+                        "lng": -7.604810979892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "IMJAD CAR",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwJ2LMSxgOyeliBUsW0D9oSKhQR5GPqqDu9fjOsKRdXBggy38fmVa_yt44_Ao6nsDCGtHPrwlLJ2cnTKDucVOPzIgIhxfHlGVc45pqMFzkspdpzclhwMYomC2yE_AnIrv74ziDcDw-v4lGWbH6GNzWpbOzEGh53UlWTiiJpuvfWlaDN5",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "rating": 4.9,
+            "reference": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "2 Immeuble 65 GH 9b Lot Addamane Casablanca Maroc، Casablanca 20153, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwInrjt9UyOb1-EQp68KnTsu-9gX1vYrBJKhnJE_d5jAKiEj34SOVSG87gu81rfvmfyfkDTfzCgVkYzb63xN7xHwBFJ6a3JhX8NKuO3MKzB6JjeMcuNv60k_PIp7qizyOD4Tx_suYBIOfs5KqhFFgJIjq2sXwdXYWeSBmInx8XCeRuhJ",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6016734,
+                    "lng": -8.026041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60271092989272,
+                        "lng": -8.024724420107278
+                    },
+                    "southwest": {
+                        "lat": 31.60001127010728,
+                        "lng": -8.027424079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Morocco Rental Cars",
+            "photos": [
+                {
+                    "height": 618,
+                    "photo_reference": "ATtYBwL3sEt_Xrc1ELGMbw4cCJt5fR7xfutIYONsXKABz4LBl7A4disvkv6dBt7riLXlIeSPnmrtGEIMFTkQjTApkIVXXSlky1XtOe2aRD_uRylTr6M6YwBFvi_a6Bs-Tb1kSO4vJtp08zrHnJfIGTXMCUgJ0M9WjWpFPsr7PcnZkmKB9STs",
+                    "width": 1100
+                }
+            ],
+            "place_id": "ChIJmR0uaCDvrw0RdgPXqmRbMoE",
+            "rating": 3.8,
+            "reference": "ChIJmR0uaCDvrw0RdgPXqmRbMoE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Marrakesh 40160, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4005898,
+                    "lng": -9.532906299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.40191782989272,
+                        "lng": -9.531541970107279
+                    },
+                    "southwest": {
+                        "lat": 30.39921817010728,
+                        "lng": -9.534241629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Car Morocco",
+            "photos": [
+                {
+                    "height": 428,
+                    "photo_reference": "ATtYBwKugRk7OAOlc5x9_JYAYrBdr-FXBhouX3F6xF1rOjo-k8echo-6yi-49UpjkJUp1XFG59MES4PXDOBGHI9SKCdYKP_ufbL6MLtu5KwUtI9k9gkifn9G2S-Rx0LOVNBudRnsIdVy2OUEQml3Ul6qxxlNCHJVv9dXwzfHwBXU6LgVZytt",
+                    "width": 1900
+                }
+            ],
+            "place_id": "ChIJ28JbTDfIsw0RBU286DxwO7c",
+            "rating": 5.0,
+            "reference": "ChIJ28JbTDfIsw0RBU286DxwO7c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Num 3, Bloc 3, Quartier, Agadir 80030, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4125956,
+                    "lng": -9.593461699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41427342989272,
+                        "lng": -9.591635420107279
+                    },
+                    "southwest": {
+                        "lat": 30.41157377010728,
+                        "lng": -9.594335079892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Forrentcars",
+            "photos": null,
+            "place_id": "ChIJp5O_gPW3sw0RM0cTn7xLf7c",
+            "rating": 0.0,
+            "reference": "ChIJp5O_gPW3sw0RM0cTn7xLf7c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Numero 6 bloc F2 imm 60 Hay dakhla, Agadir 80060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.5145607,
+                    "lng": -9.6825347
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.51588702989272,
+                        "lng": -9.681160120107277
+                    },
+                    "southwest": {
+                        "lat": 30.51318737010728,
+                        "lng": -9.683859779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Tizrza Cars",
+            "photos": null,
+            "place_id": "ChIJD9UvYcqzsw0RMCvze8KxMzM",
+            "rating": 0.0,
+            "reference": "ChIJD9UvYcqzsw0RMCvze8KxMzM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hay Ait Soual، Rue Tamraght، Agadir 80000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4333333,
+                    "lng": -9.6
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.43469102989272,
+                        "lng": -9.598480220107279
+                    },
+                    "southwest": {
+                        "lat": 30.43199137010728,
+                        "lng": -9.601179879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taghazout services",
+            "photos": null,
+            "place_id": "ChIJuTwDEI62sw0RDEOr024AmLk",
+            "rating": 4.0,
+            "reference": "ChIJuTwDEI62sw0RDEOr024AmLk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Rue Iwillit N °29 Taghazout Centre, Agadir 80750, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.5449714,
+                    "lng": -9.7086118
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.54633167989272,
+                        "lng": -9.707254420107276
+                    },
+                    "southwest": {
+                        "lat": 30.54363202010727,
+                        "lng": -9.70995407989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taghazout cars",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwJyc61dvGFtONOdnkPm6QuGwnyWWP466YmZ-9aGc2RMhiYGKcPGfKnFU3RYkqgk_cp64sEw6Xmx0WIq4dAZGkj1Y2oN24CnZqxpxFkcpkTaBWIhl4Al4WOCvthYhSJ8maCQmCfo1N6ElCMZrfJ_AQZmDgEU6evDUp-6PdLSIb2orK2E",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJndDhrYRNsg0RguLAZhBimpk",
+            "rating": 3.0,
+            "reference": "ChIJndDhrYRNsg0RguLAZhBimpk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Taghazout, Rue principale, Agadir 80200, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.858904,
+                    "lng": -13.8350443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.86019147989272,
+                        "lng": -13.83374427010728
+                    },
+                    "southwest": {
+                        "lat": 28.85749182010728,
+                        "lng": -13.83644392989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "rating": 4.0,
+            "reference": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Estacion Maritina De Playa Bla, Calle la Lapa, 35560 Playa Blanca, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.7406091,
+                    "lng": -13.8631093
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.74206102989272,
+                        "lng": -13.86171937010728
+                    },
+                    "southwest": {
+                        "lat": 28.73936137010727,
+                        "lng": -13.86441902989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJczyIxv40RgwR48OBBEeEE9Q",
+            "rating": 1.0,
+            "reference": "ChIJczyIxv40RgwR48OBBEeEE9Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Estacion Maritina De, 35640 Corralejo, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.0009837,
+                    "lng": -13.4898944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.00222472989272,
+                        "lng": -13.48844707010728
+                    },
+                    "southwest": {
+                        "lat": 28.99952507010727,
+                        "lng": -13.49114672989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJEx8TPC6cSAwRMtATNhXuzAo",
+            "rating": 0.0,
+            "reference": "ChIJEx8TPC6cSAwRMtATNhXuzAo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "C.C LOS CHARCOS, Av. de las Islas Canarias, 35509 Arrecife, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.919793,
+                    "lng": -13.6458361
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.92121287989271,
+                        "lng": -13.64448197010728
+                    },
+                    "southwest": {
+                        "lat": 28.91851322010727,
+                        "lng": -13.64718162989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Rent - A - Car",
+            "photos": null,
+            "place_id": "ChIJVVV5uOUlRgwRPz2xrya2pJg",
+            "rating": 0.0,
+            "reference": "ChIJVVV5uOUlRgwRPz2xrya2pJg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "BARCAROLA Lanzarote, Av. de las Playas, 80, 35510 Lanzarote, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.4520663,
+                    "lng": -13.8711271
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.45335427989272,
+                        "lng": -13.86989337010728
+                    },
+                    "southwest": {
+                        "lat": 28.45065462010728,
+                        "lng": -13.87259302989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJ60TPgR7HRwwRqaMgUy4njoA",
+            "rating": 1.0,
+            "reference": "ChIJ60TPgR7HRwwRqaMgUy4njoA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Fuerteventura Airport, El Matorral, 35610, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.950318,
+                    "lng": -13.609089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.95170707989273,
+                        "lng": -13.60786752010728
+                    },
+                    "southwest": {
+                        "lat": 28.94900742010729,
+                        "lng": -13.61056717989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Lanzarote",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwKRjj2NL2-LmWq4y1IT3a6OlwdkmHZ9jy0AfzmJ9ZB8yNhmvoBCmxI0tmK62BDHDO00-L6-Ktn2-XNEnhECy3hZKLYwyr_7rADxpiT0zKJRGFkpZFvK3r3P7FZ_zsHpN2ak39UfihnCnnaFJo3EAhU6n1pufWQkJfhAJCOvBKhMoSR1",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJn2w22VgmRgwRYvd-nBn6f5s",
+            "rating": 3.3,
+            "reference": "ChIJn2w22VgmRgwRYvd-nBn6f5s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 96,
+            "vicinity": "Aeropuerto De Lanzarote Guasimeta, 35550 Arrecife, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.865816,
+                    "lng": -13.838383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.86727307989272,
+                        "lng": -13.83701712010728
+                    },
+                    "southwest": {
+                        "lat": 28.86457342010728,
+                        "lng": -13.83971677989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Lanzarote",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJjy8TBDkW6yrGLqc-k8Lfnh5vXE4XHGuAEWyXDVQfZCNe4r1cHgZoDMtSgWMBeo_WDnaGziG2DySI3qPEb3k8t-PlOYfPu4aQdQPvoVchYGhyh1iw094ND_u51xU15_y1yBdSNLrBC8Dlh3G7ao6T-XT3gY4TBpYAha-wOll6CudlB",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJf4QN_Eg3RgwREq_DLz7lu9s",
+            "rating": 3.6,
+            "reference": "ChIJf4QN_Eg3RgwREq_DLz7lu9s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Elba Lanzarote Royal, Av. Faro Pechiguera, 1, 35580 Lanzarote, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.9869786,
+                    "lng": -13.5101185
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.98837757989272,
+                        "lng": -13.50883042010728
+                    },
+                    "southwest": {
+                        "lat": 28.98567792010728,
+                        "lng": -13.51153007989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Costa Teguise - La",
+            "photos": [
+                {
+                    "height": 1836,
+                    "photo_reference": "ATtYBwIHBUQS-WNi0RasjZt9oBy_G2nlorGQBMlsVC653KAG5b4n1c0Vt4NtCGmJQbkknhP6nHxBzuidEBoW2q3Siqj4QkPKT3_cN5MigylNRsTWcl6f2-ZDoTBMu303amDgJQbqnWVvs6STlJ5__Te8jcMC0kG8MhQs5AXwVAuF9leme3GU",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJC8dPcMmdSAwRKer6hkVnPN4",
+            "rating": 3.3,
+            "reference": "ChIJC8dPcMmdSAwRKer6hkVnPN4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "H Occidental Lanzarote Playa, Av. del Mar, S/n, 35508 Costa Teguise, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.920598,
+                    "lng": -13.666813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.92189482989271,
+                        "lng": -13.66552982010728
+                    },
+                    "southwest": {
+                        "lat": 28.91919517010727,
+                        "lng": -13.66822947989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Puerto del Carmen",
+            "photos": [
+                {
+                    "height": 1840,
+                    "photo_reference": "ATtYBwKuDhUGf1uYKSBxlRs8Z-ddsDG0fYtQwXJ3xaWbXtSnaik5gQb-MYbIxb26Hy18tJt_57k8CoRBGH3Dy9Budf5QsJUyOlduqL25LIsUrwqg7w09FGzaOpoViKQr1bbrTh6EA9XNcEQcjankVnsqlmfyTR1KAx0kf9rDZyKCnk0iGKnP",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ6f__P-klRgwRyuimydn0xDc",
+            "rating": 4.0,
+            "reference": "ChIJ6f__P-klRgwRyuimydn0xDc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83,
+            "vicinity": "Comercial Fariones, Calle Timanfaya Sin, Numero Centro, 35510 Puerto del Carmen, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 46.2132235,
+                    "lng": 6.150117499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 46.21455637989272,
+                        "lng": 6.151583579892721
+                    },
+                    "southwest": {
+                        "lat": 46.21185672010728,
+                        "lng": 6.148883920107277
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Elite Rent-a-Car SA",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwLJr5N06sjdfvlnXZQF7B2wkiTvvswndmGoUm_c-TyO7xH97_iwBEVyALSFEvF6JzgSo5BDTRzzrc61lzwTG9z2DyZEeuLiqL-N4GB7JnYqeqCLzTFJFbCqIfKjM4NnET6mbI3zhYNubaA3rNukVgV_qItGjRjyzpVZn0aXeVzD96oZ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJr1_VviNljEcRTtkuKzMOMR4",
+            "rating": 4.3,
+            "reference": "ChIJr1_VviNljEcRTtkuKzMOMR4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Rue des Pâquis 51, 1201 Genève, Switzerland ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 40.4903583,
+                    "lng": -3.592836199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 40.49170687989272,
+                        "lng": -3.591578570107278
+                    },
+                    "southwest": {
+                        "lat": 40.48900722010727,
+                        "lng": -3.594278229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": [
+                {
+                    "height": 2240,
+                    "photo_reference": "ATtYBwKbZB3IMyDR219Zm-42_iPABD4WZOUluWjERZIovErgYxUiYpGoNP9yUuHJQX_e42Kwuw7-WX8j5bpzsSLoGpHPCEe7o1ldunG-UgYuTPYXutZOen5OG3MP65KSqWrRHyIq1OccF5dubEOszKW6cvkT9zEy8av_2vpB-TQUm_-7NsqL",
+                    "width": 3968
+                }
+            ],
+            "place_id": "ChIJM1BxQ98xQg0R8xI8zGT3VWM",
+            "rating": 3.4,
+            "reference": "ChIJM1BxQ98xQg0R8xI8zGT3VWM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 223,
+            "vicinity": "T4, Aeropuerto Madrid Adolfo Suarez, 28042 Madrid, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 14.665785,
+                    "lng": -17.435703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 14.66712022989272,
+                        "lng": -17.43435202010728
+                    },
+                    "southwest": {
+                        "lat": 14.66442057010727,
+                        "lng": -17.43705167989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJODC42_9NHmEIGqf6aMt0KTCiBKBj-_YG04MtdjXavh6kNP1Cd11mC5CvcN0XkyYl9_kDM2WaQ6HE9Qsz0ifpc10Fkfd_Vcq02d8Q-TLm9RZLFegf8iG_3mgn_88bDSfkTeH3Yy4PQUHjYr8webUahHbOUwPk-gBsIRlObQgUHuz7E",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJFaeeU4JzwQ4RIvll3qJY3us",
+            "rating": 0.0,
+            "reference": "ChIJFaeeU4JzwQ4RIvll3qJY3us",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "107 RUE JOSEPH GOMIS, Dakar, Senegal ",
+            "opening_hours": null
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.5335434,
+                    "lng": -1.9586033
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.53486537989272,
+                        "lng": -1.957163820107278
+                    },
+                    "southwest": {
+                        "lat": 32.53216572010728,
+                        "lng": -1.959863479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture AL WAHA Bouarfa كراء السيارات الواحة بوعرفة",
+            "photos": [
+                {
+                    "height": 780,
+                    "photo_reference": "ATtYBwLS-bXkqdahiL6-IfOKm1-t4ixAxiVoqBp5buhVjpP-ddMTmT9np_VA-ngHgTEx87XyPWCNNtfmIjN71Xj82KPVvwDsco63W-G5S-OxCFR8QHeRWulrgVd4uDGO2yz80TrzFPeQnnzf4l_RbOHV6Ll7F14Vh-aPqfk5x-Nh9QDlTv4u",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJbaowq9XxhA0R53BFIJpyvBM",
+            "rating": 5.0,
+            "reference": "ChIJbaowq9XxhA0R53BFIJpyvBM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard Hassan II، Bouarfa, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.5309031,
+                    "lng": -1.9622412
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.53227232989273,
+                        "lng": -1.960882820107277
+                    },
+                    "southwest": {
+                        "lat": 32.52957267010728,
+                        "lng": -1.963582479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de Voiture Jeffal",
+            "photos": null,
+            "place_id": "ChIJoeXtQebxhA0R0XO6ux9tcVM",
+            "rating": 0.0,
+            "reference": "ChIJoeXtQebxhA0R0XO6ux9tcVM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rue، Bouarfa 61200, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.5340554,
+                    "lng": -1.9671523
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.53544407989273,
+                        "lng": -1.965768820107278
+                    },
+                    "southwest": {
+                        "lat": 32.53274442010729,
+                        "lng": -1.968468479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Guir rentcar",
+            "photos": null,
+            "place_id": "ChIJZ3JD3SfxhA0RXJHiZxzuWsM",
+            "rating": 0.0,
+            "reference": "ChIJZ3JD3SfxhA0RXJHiZxzuWsM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "61200, Bouarfa 61200, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0473734,
+                    "lng": -5.0052989
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04877702989272,
+                        "lng": -5.003769020107278
+                    },
+                    "southwest": {
+                        "lat": 34.04607737010728,
+                        "lng": -5.006468679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Fez Railway]",
+            "photos": null,
+            "place_id": "ChIJiQ2GhY2Lnw0R5J-zUby9VIo",
+            "rating": 0.0,
+            "reference": "ChIJiQ2GhY2Lnw0R5J-zUby9VIo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ave des Almohades, Fes 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9316933,
+                    "lng": -4.9826117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93286687989272,
+                        "lng": -4.981259770107277
+                    },
+                    "southwest": {
+                        "lat": 33.93016722010728,
+                        "lng": -4.983959429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Fès Airport]",
+            "photos": [
+                {
+                    "height": 900,
+                    "photo_reference": "ATtYBwJ63GaZpiNNgRNLOisulWW4TdQAAdhkR81ZWn_34KhP0guTjPfpdgckGD9dC-crFEdtRNvmB_DNAv1qK07hzFpfhHqZjqOBUcEChjzN361tyjn-4rmvTUE_eDV2ACAYweEesbW3Y-ejDb6WR6mpXEsLXG2ICRj7QDOQx30Hw5IAnGz6",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJOyfyji2Jnw0R2FDKDcV8vA0",
+            "rating": 2.3,
+            "reference": "ChIJOyfyji2Jnw0R2FDKDcV8vA0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103,
+            "vicinity": "Aéroport Fès Saiss, Fès 30000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

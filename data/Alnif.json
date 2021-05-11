@@ -1,0 +1,89 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.1184187,
+                    "lng": -5.173998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.11980237989273,
+                        "lng": -5.172661070107277
+                    },
+                    "southwest": {
+                        "lat": 31.11710272010728,
+                        "lng": -5.175360729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Saadi Location Alnif",
+            "photos": [
+                {
+                    "height": 3096,
+                    "photo_reference": "ATtYBwK18jDYC4RRMR04ZaKGnSX4To7g9KZ7JrOfXyw4-P-w1eRSlIyWEkLqAT9nPoe8fcf_dHF7E1LaC2W1x1dk77MFVFiwXfpoB19cb4DywK26ftxrIKu1ipF8tyYBV0QJPuCZkwIOCmdsmLGup8vqMUk5Wc7rTSkvtLvvaZBykVTZLcyx",
+                    "width": 4128
+                }
+            ],
+            "place_id": "ChIJf0IQjSBnvQ0RTe4qasep-AE",
+            "rating": 5.0,
+            "reference": "ChIJf0IQjSBnvQ0RTe4qasep-AE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Alnif, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.540267,
+                    "lng": -7.603504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54162762989272,
+                        "lng": -7.60211132010728
+                    },
+                    "southwest": {
+                        "lat": 33.53892797010728,
+                        "lng": -7.604810979892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "IMJAD CAR",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwLDserxDpDsoSB_K6ZksgPhMyHTLgR-gL3xPy_nAySbfgXN8_PnBht_-s8SIazMgC778MucT27SSI_rlrXE5gCvLuLARLcttFOhTxZY-sHN_Vb9HjJRKavoXIw0sq7NbeJ2eCo8tJlBNxSg_5cu_Jnqw6Cxiw8D5pVHiTCSPAx56ZcO",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "rating": 4.9,
+            "reference": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "2 Immeuble 65 GH 9b Lot Addamane Casablanca Maroc، Casablanca 20153, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

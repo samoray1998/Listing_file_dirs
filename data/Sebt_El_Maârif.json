@@ -1,0 +1,376 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.587012,
+                    "lng": -7.630546
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58845847989272,
+                        "lng": -7.629084670107276
+                    },
+                    "southwest": {
+                        "lat": 33.58575882010727,
+                        "lng": -7.63178432989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Aido Car",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwKBJMpUqG13OUUhreJ6aWziizcgNBLO1dtV-JVVmBjJze5xX-dYzUZoIOmf7INWoODRIzXIxL0S_MVeBMkySrHuMgVXtR3yWP1Z1VPVYV23MQrLkREAIckl8UN9ssR1DSBQv5XlHZoBmvcoaEYHQ5xqnBFsUGRoZyBHni2L7j0mV_4W",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJK4FH-JTSpw0RzUWdCwpCD2I",
+            "rating": 4.6,
+            "reference": "ChIJK4FH-JTSpw0RzUWdCwpCD2I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 130,
+            "vicinity": "Etage 2 Numéro 9, 58 Rue Mustapha El Manfalouti, Casablanca 20060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5865028,
+                    "lng": -7.633601399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58792127989272,
+                        "lng": -7.632338670107279
+                    },
+                    "southwest": {
+                        "lat": 33.58522162010728,
+                        "lng": -7.635038329892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Maârif",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLaILVc3eqSwLH7nidhwGVNPcZ-aB3iGuCqCbZ0cZZvXuo0ZKCXsQHACV5AmviPwJgp71sCkubzGv7ObBzTb2Ye21KM8iqfS3MCSvKESx9XnZlM2WAZ7K1-uSV2d_k5MqJ243O0BKb_hjB_n_A93XwXorlz5nqLLk41S-5-dD28TAFW",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJmzf1X8lspw0RBSNEQmEEJ14",
+            "rating": 4.4,
+            "reference": "ChIJmzf1X8lspw0RBSNEQmEEJ14",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 34,
+            "vicinity": "3,R.Assad Ibnou Zarara, Casablanca 20100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2345063,
+                    "lng": -8.4936145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.23582857989272,
+                        "lng": -8.492371820107278
+                    },
+                    "southwest": {
+                        "lat": 33.23312892010727,
+                        "lng": -8.495071479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar El Jadida",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJnRiNfnfBTqigP7tWIGulaEnAsmumwqHdRmdFbntIGf-t3FcR0kJKv6q9E2gGGFKEHI-qAJdZVWallE4fcEY_7dHD8_blpu_qR0iwGmD97byfcRNIeAOPsCoZPme3KH0cgUs4Y8VVdY-Tm9xSUcQ_vTWfmMo2_DaUUFdyDGz87GM1s",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "rating": 4.4,
+            "reference": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "24400, El Jadida, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5728366,
+                    "lng": -7.688233399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57419912989271,
+                        "lng": -7.686835870107275
+                    },
+                    "southwest": {
+                        "lat": 33.57149947010727,
+                        "lng": -7.689535529892718
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taxi Maroc - Taxi Casablanca - Transfert Navette aéroport Casablanca - Transport touristique Casablanca",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwKK3-hktZl1fBjVEjWO3FnQA4jhYIXcqg3B8GpvOcBeyrgDSzzdCUIm56NUWcyYFtFDs36ZGHg7JYWo7uvFazg8fnZks1f34AG3jnz47L76ErnEE5CCSibRVXjMAY6OL79ljC-ATPI5WvaDzeSSVFc3-3wbPgEqsBbnG7GQlqOHru0s",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "rating": 4.8,
+            "reference": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Group I rue 175 n° 16 oulfa Casablanca، Casablanca 20220, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6375707,
+                    "lng": -8.01215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63896797989272,
+                        "lng": -8.010790220107278
+                    },
+                    "southwest": {
+                        "lat": 31.63626832010727,
+                        "lng": -8.013489879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Medloc Car Rental Morocco",
+            "photos": [
+                {
+                    "height": 718,
+                    "photo_reference": "ATtYBwLuHFcAOm-kWz7JGaxzi_dCn5A89jEErxf3-hrV0Drwwuga3YrInvizbGok7hqOy4dy5VC2lEzW2qus6mOAnO1fZLxsXuzDF6mwtsepCDmSjZBS9wQqAF_dzS1s-TARbAaZOfmCT3JYGZgzXvhmvgRC-iLE5U7dshxr97e93y0-m_rh",
+                    "width": 1277
+                }
+            ],
+            "place_id": "ChIJWWb4oY_urw0R_MZAlrilwBk",
+            "rating": 4.8,
+            "reference": "ChIJWWb4oY_urw0R_MZAlrilwBk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": 129,
+            "vicinity": "75 Rue Ibn Aïcha, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.3519941,
+                    "lng": -6.1640112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.35341572989272,
+                        "lng": -6.162514920107277
+                    },
+                    "southwest": {
+                        "lat": 36.35071607010728,
+                        "lng": -6.165214579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwJddkvX1Jr0_2t1JHQBKEVXXPHnfGlrTPCzVAiNZVTCZsuJIW7JZUrVOJu5ChzABSbRGCYMRKEDo1yasjWskuNvTMC3jLo5hNVnDURZpi_6fir2UCjSdf2XI5U4lEfFDTHpZLeYg3Ejah0Jj2riwFb1w1ARNxpdu9QcxOfUGRRUk-6b",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "rating": 4.2,
+            "reference": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Calle Asdrúbal, s/n, 11139 Chiclana de la Frontera, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.4948473,
+                    "lng": -6.2645192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.49597937989272,
+                        "lng": -6.262585520107277
+                    },
+                    "southwest": {
+                        "lat": 36.49327972010727,
+                        "lng": -6.265285179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Cadiz",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIEAc75cjBEZ67xM_7WawY51Yq5MADjzY4nbr_Br6zbJLnR0cXFsIgNSoCToxsWhc0cSig0poI9sLi7NDMIADAnjP7GXAJp6SCGjcv7gw1wx--1Mg5tFqSLO8ld_mAejRpsg48l62LjK8xH1lfJCoHZb50p6RZ1nVyLzt9VV5UT4S1k",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJYeJGyErSDQ0RirK8KKygZwI",
+            "rating": 3.9,
+            "reference": "ChIJYeJGyErSDQ0RirK8KKygZwI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "Concesionario Ford De Cadiz, Calle Puerto Real, 3, 11011 Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIyUh0k4Q6SD6Qg1LsojoiD13r-TuzpVWPx4Qm1R4Pvakp9c0VWyW3zyF1Pv5JnKiVeQhBI6AxR2SvqHxXwH6y_Du72i906Dou_ZcqF5jHue6l0YsFvYWj3FFvnx3CtV201s0EGfItGk5QSJxxCjuel_jU9EfYA8CJDQrf0YH4K7Av9",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1581115,
+                    "lng": -5.3482141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15946132989271,
+                        "lng": -5.346864270107278
+                    },
+                    "southwest": {
+                        "lat": 36.15676167010727,
+                        "lng": -5.349563929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar La Linea",
+            "photos": null,
+            "place_id": "ChIJdZkgLxbBDA0RhHP-qWVa0yY",
+            "rating": 0.0,
+            "reference": "ChIJdZkgLxbBDA0RhHP-qWVa0yY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Av. Veinte de Abril, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": null
+        }
+    ]
+}

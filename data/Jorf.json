@@ -1,0 +1,324 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5837208,
+                    "lng": -7.636590999999998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58510997989272,
+                        "lng": -7.635195070107279
+                    },
+                    "southwest": {
+                        "lat": 33.58241032010728,
+                        "lng": -7.637894729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "1سيرفيس كار",
+            "photos": [
+                {
+                    "height": 675,
+                    "photo_reference": "ATtYBwI3Awb4i72iyXLJHwJiS05TyBn5ZaugaVIhvmBz8zejni2lgK1AFpMthsCeqMsrxNDb3WPSxo79O5imDCQM6NQgKN2adxS_vqaQT4RCUK5JRn1W02L_HsYjdD7DxK_NWM7HaTYCT4ZuaP54YmsGZG0fKK24KMkkxgNRyFUYLq-HGYVJ",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "rating": 4.8,
+            "reference": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Galerie Familia, Rue Oussama Ibn Zaid, 1er Étage N°40, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5551334,
+                    "lng": -7.6292738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.55647147989271,
+                        "lng": -7.627967770107278
+                    },
+                    "southwest": {
+                        "lat": 33.55377182010727,
+                        "lng": -7.630667429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar Casablanca",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwI2BPAtbcMielSYWDNYAgctbFPjUXcgS26efwigulpZFGD7M0GoxGzX2tshFOiIh-2yRYbQXt-YU_k4FihRVM8IPbdKm1PFS1bM49n6cYLg1NISVCilIxZxY1QT_0NIv1UF1r7l52aMh3HbljLMkqD__Oz7XLGmfKyKnla0XB3qtA_J",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "rating": 4.7,
+            "reference": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127,
+            "vicinity": "Lot Al Waha A 7 N 49 a coté de pharmacie bachkou، Casablanca 24040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.603135,
+                    "lng": -7.580574599999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60448287989272,
+                        "lng": -7.579231820107278
+                    },
+                    "southwest": {
+                        "lat": 33.60178322010728,
+                        "lng": -7.581931479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Groupe Pratique Maroc",
+            "photos": [
+                {
+                    "height": 300,
+                    "photo_reference": "ATtYBwKQF1z24_JsaVQyHXOuMZrbx985Mee66W6uH0mAYD_5GVgkcV_wGtTJcgBFh0vIgCuGNS8yuKf8_W0YoRiqYK_Ok_3co7c6HCw8WUH2pA_IPdfTutlba3N6qbcaj3I-LGIFWWWV8WmZJHe-CuDdCHhsEAWezrBMd-FM5q5b_-n0KbUN",
+                    "width": 280
+                }
+            ],
+            "place_id": "ChIJn1F5NA_Npw0Ri8FcO_N_vm4",
+            "rating": 1.0,
+            "reference": "ChIJn1F5NA_Npw0Ri8FcO_N_vm4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Angle Bd Ambassadeur Ben Aicha et 11 rue Ibnou Rachid EL Fihri، Casablanca 20303, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2345063,
+                    "lng": -8.4936145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.23582857989272,
+                        "lng": -8.492371820107278
+                    },
+                    "southwest": {
+                        "lat": 33.23312892010727,
+                        "lng": -8.495071479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar El Jadida",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKYNqpkkCC1nJVT7hiiQ5GTvoKB8gnr961v8Hvyyk4zoxx448ZgaxpB8g3b0yhS33fizXTQaQjXYOektzsEuMmsl_WBGb3gw9bfSaKi8_wRKJO3ZLFbU44ma1ed6GVXySSJXNxJQpocq8PEDCKMi1QJDhGu7AKAyyiJnVVLFhZED9nG",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "rating": 4.4,
+            "reference": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "24400, El Jadida, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5728366,
+                    "lng": -7.688233399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57419912989271,
+                        "lng": -7.686835870107275
+                    },
+                    "southwest": {
+                        "lat": 33.57149947010727,
+                        "lng": -7.689535529892718
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taxi Maroc - Taxi Casablanca - Transfert Navette aéroport Casablanca - Transport touristique Casablanca",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwJDqC-gB91MxHyLyWVY2TB_dSuj6uiDGfS4gEI3DtGOtelHuk59luKswcR1XdM6pP8i3M7iqm7VuLw7qJY5xklvK38_aqyIKLCPFcI_y7_guakmK3ORqA9sLPQ8G6rT0--lAkOyucz_wf_MXO3jT6jVMO1AQP3ZvE1b38G2OUdC5JPm",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "rating": 4.8,
+            "reference": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Group I rue 175 n° 16 oulfa Casablanca، Casablanca 20220, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.25066220000001,
+                    "lng": -8.5008196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.25204302989272,
+                        "lng": -8.499428870107277
+                    },
+                    "southwest": {
+                        "lat": 33.24934337010728,
+                        "lng": -8.50212852989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mabrouka Car",
+            "photos": [
+                {
+                    "height": 460,
+                    "photo_reference": "ATtYBwJN2j9ZiOfmGOSMdDULpSsDoS1iD0P_46FnUGxhou_T4up0Cd6ss-5_IRHThmG5jXgUvCl8GDZvPv95dUVjz4tBY_t2B7EU7pM9UL4AwTaxFxdh-eqLAr0-_RhTO1KS2uae31CuqU_4j3Sfu32aSoLgOdhRKsQwKgHG93Xbon-jqYM",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJAQAAAAweqQ0RASt0XOse1pw",
+            "rating": 4.8,
+            "reference": "ChIJAQAAAAweqQ0RASt0XOse1pw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 102,
+            "vicinity": "Résidence Ichrak, Avenue Mohamed VI, El Jadida 24000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2394617,
+                    "lng": -8.5167644
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.24082187989274,
+                        "lng": -8.515432970107279
+                    },
+                    "southwest": {
+                        "lat": 33.23812222010729,
+                        "lng": -8.518132629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amirad tour",
+            "photos": null,
+            "place_id": "ChIJa_Nm0NkdqQ0RP_aLid_I6-4",
+            "rating": 3.8,
+            "reference": "ChIJa_Nm0NkdqQ0RP_aLid_I6-4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "55 Coop Ennahda Wahda، Avenue Brahim Roudani, El Jadida 24000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6524398,
+                    "lng": -8.016956400000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.65376492989272,
+                        "lng": -8.01563917010728
+                    },
+                    "southwest": {
+                        "lat": 31.65106527010728,
+                        "lng": -8.018338829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amiradtour",
+            "photos": null,
+            "place_id": "ChIJQTB3svntrw0RaIeEgJDCWbk",
+            "rating": 0.0,
+            "reference": "ChIJQTB3svntrw0RaIeEgJDCWbk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "avenue moulay abdellah sidi abbad 1 imm 312 res al hamraa b appt 28، 40090, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

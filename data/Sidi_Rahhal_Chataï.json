@@ -1,0 +1,836 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5837208,
+                    "lng": -7.636590999999998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58510997989272,
+                        "lng": -7.635195070107279
+                    },
+                    "southwest": {
+                        "lat": 33.58241032010728,
+                        "lng": -7.637894729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "1سيرفيس كار",
+            "photos": [
+                {
+                    "height": 675,
+                    "photo_reference": "ATtYBwKR_M1pkhj9llaCCynCVVr23UCbc3y1X4B_3tpiclRKRSzvAcN5lteM0sEz2y2-6mCP4Icnp5HnN3DO2gWMKllSAl6weGGEuzYkaJ-2EklMTGNY1lpzTQr5Fg3sZ0mcQIoMPnnl-3LfRwbGkgCGaRR2cJ52lu6qEVATNkEOwUCOqVuz",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "rating": 4.8,
+            "reference": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Galerie Familia, Rue Oussama Ibn Zaid, 1er Étage N°40, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5968762,
+                    "lng": -7.6140496
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59818307989272,
+                        "lng": -7.612699470107278
+                    },
+                    "southwest": {
+                        "lat": 33.59548342010728,
+                        "lng": -7.615399129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ABID CARS - Casablanca Agency",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwK1Sxhg8KLmcQPwH8dnJWv5gCbWDtvTHDT6R7EyJ8dF_vrBrvl8c2VrdkcCI5M_LO21GBmvWwb15kz4TGRz9KAMN05CG6Fl4h91x8I-9SVpSHyWa2mDFL7hhNQEEddPteFbSK01f8zlQ10XIcABp1ZC8MCKKweG1V70DAgLC3Jgab7r",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJw7TRPIPSpw0RnC4TTNJJUgc",
+            "rating": 5.0,
+            "reference": "ChIJw7TRPIPSpw0RnC4TTNJJUgc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "17 Avenue des FAR, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5392266,
+                    "lng": -7.5984397
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54056852989272,
+                        "lng": -7.597126470107279
+                    },
+                    "southwest": {
+                        "lat": 33.53786887010728,
+                        "lng": -7.599826129892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Glbooking - ASF Rent Car",
+            "photos": [
+                {
+                    "height": 397,
+                    "photo_reference": "ATtYBwIBHeuTsZ90JYl4c8HUtxbhay8EetbjWOmGQeMCppPQ6zPpVGaPdBp_LfTrFC1cwD6TgHM4OhtA6SfOYiaRc5u5gB5MWwOiUPgUl9ezPjW9gtX_hqnCTld4HAv87rz2Vye8dDbHZNREbuFj62K9q5x268wSDHMViwFHIbBf6nDp-Eox",
+                    "width": 540
+                }
+            ],
+            "place_id": "ChIJ61-6S0ozpg0RKnHwoqEWp1E",
+            "rating": 3.0,
+            "reference": "ChIJ61-6S0ozpg0RKnHwoqEWp1E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "groupe L rue 148 N° 7 hay Oufla Casablanca, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5482837,
+                    "lng": -7.685114
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54960302989272,
+                        "lng": -7.683783220107279
+                    },
+                    "southwest": {
+                        "lat": 33.54690337010727,
+                        "lng": -7.686482879892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Select rent a car",
+            "photos": [
+                {
+                    "height": 314,
+                    "photo_reference": "ATtYBwJnD1AHH_7l1IZoEnm3mvDJJBPAq46FX4ZehPip2CyXQtNScIekUISOd1bV6KnTw1mbXUzNwZNzitPQ6ygwiVOVMBSISNaNUx00xL8LMoASMajAcy7GJZIHwQeuydULENSfIxZswrwB3uv5u3CEywYHd_SaIEIjrr9BKEGEyzLKGY9N",
+                    "width": 850
+                }
+            ],
+            "place_id": "ChIJbby8XbAspg0R6g8UAvCJFA0",
+            "rating": 4.5,
+            "reference": "ChIJbby8XbAspg0R6g8UAvCJFA0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Lot Azhari II, Rue 72 N 1, Piste Mly Thami,RDC, Oulfa, Casablanca 20202, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5839446,
+                    "lng": -7.637998899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58526962989272,
+                        "lng": -7.636677170107277
+                    },
+                    "southwest": {
+                        "lat": 33.58256997010728,
+                        "lng": -7.639376829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "خرجي كار",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJ_zrMFtHutZxDvY8JqQSXVNzageVsbbcqp0LMEKGhCI83Um0RF8B1-gWHp59WCROWefhpcvxY0Uef3byJFD8lt9Mf0XSBsk0oShnGXel4uvTy9BlJuxOfZ7vbC1O59p-CEhC_htHcyDahyliyXUNG3wckvXQNpYqBRa8XBS1dbrq6_",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJCbuF2cHSpw0Rg_9vhSB_xNw",
+            "rating": 0.0,
+            "reference": "ChIJCbuF2cHSpw0Rg_9vhSB_xNw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "190 rue Abou Zaid Adadoussi Maarif، Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6005376,
+                    "lng": -7.6328653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60192257989272,
+                        "lng": -7.631508720107278
+                    },
+                    "southwest": {
+                        "lat": 33.59922292010727,
+                        "lng": -7.634208379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Jazz car | location de voiture",
+            "photos": [
+                {
+                    "height": 449,
+                    "photo_reference": "ATtYBwKxcIkMHxc-cbMSvPT_bJj440DCG1dFPdzKcLZUOBce5Jv5dVVvdRGicd2OrLFnaxF4WGMuM9bd9E3LzqliEq496uclZSRSE_4pr3-F9a0ReWbHMeTkPP4s3U9KAYoCDBaQolfWoMid29TyQ1zD618pc1aKEXfNv-V5uwO-zB83dKas",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJpy8lU4vSpw0RPY88esaInIg",
+            "rating": 4.1,
+            "reference": "ChIJpy8lU4vSpw0RPY88esaInIg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64,
+            "vicinity": "605 rue goulmima 1 er etage n 2، Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5894596,
+                    "lng": -7.6398358
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59080792989272,
+                        "lng": -7.638485070107278
+                    },
+                    "southwest": {
+                        "lat": 33.58810827010728,
+                        "lng": -7.641184729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ennasr car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwIr-orHjIRNhb9Wx6COcLin99YlfrgXKiFOiYgWAbJ8G_Z4V_L4iuVLTlXQnmO91GNl_60ZZgnCsGXz9mBARTYTOfJYkaP6WiDpn3hWI2b6kmUJIxXwLTCX7jRf8_N9et5SdBh2Dyn87-VLkfUTgLqqbHfQqTK1jCpivO2AxvZZd02W",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJt8CRuO7Spw0RpAno0PnajCM",
+            "rating": 2.8,
+            "reference": "ChIJt8CRuO7Spw0RpAno0PnajCM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Boulevard d'Anfa, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.582921,
+                    "lng": -7.642401
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58424247989272,
+                        "lng": -7.641089320107278
+                    },
+                    "southwest": {
+                        "lat": 33.58154282010728,
+                        "lng": -7.643788979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "هو رانت",
+            "photos": [
+                {
+                    "height": 540,
+                    "photo_reference": "ATtYBwKS0qejfeDHsMwWcnq2azWTJmDIHXtyxSkZRnsTGgpgeuZ5TEsNo0PWQUJR7uhpHVPV5Og2NTAijrncGkYKSKUymproRNaKIUzjYz4LL4SO15HiFXHf1ex4wSCzgWFM1oSfP-_CSX8ApvQONfLWT6cJK6HqAq6b6veDFvcvc8f8bzOE",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJe5jcncLSpw0RN5KjyKkJ7e8",
+            "rating": 4.5,
+            "reference": "ChIJe5jcncLSpw0RN5KjyKkJ7e8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 111,
+            "vicinity": "4 Rue Charif al Idrissi, Casablanca 20330, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5867436,
+                    "lng": -7.630553099999998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58809642989272,
+                        "lng": -7.629209820107278
+                    },
+                    "southwest": {
+                        "lat": 33.58539677010728,
+                        "lng": -7.631909479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dinada Car Rental Casablanca",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwJq-dffJTBeKw4FsSuzLYpzbrrySkyohvoCOjLccT-On3bBvScHSTpnG2BPKc1UiuOxVRS1VhAI9THNu5SrGJK3Jvk2NisvA0sYjKlua4_6fYh6u6hwOFJ6Vm-eiruUO9FNi2K1gpFnWYUQLGqPQOGSSAiNBJjZsdFfKtRY02FUM3RO",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJt1XYOBfTpw0R0jt0kjifyWs",
+            "rating": 5.0,
+            "reference": "ChIJt1XYOBfTpw0R0jt0kjifyWs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "زنقة مصطفى المنفلوطي رقم ٤٧ الطابق السفلي كوتي الدار البيضاء, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5860229,
+                    "lng": -7.643250999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58736407989272,
+                        "lng": -7.641897470107279
+                    },
+                    "southwest": {
+                        "lat": 33.58466442010728,
+                        "lng": -7.644597129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RentMaroc",
+            "photos": [
+                {
+                    "height": 320,
+                    "photo_reference": "ATtYBwKdwNNbjdoNjKH5apRK7ZJHd7s1fDRfr0tqv5CjVBE3rdpQ5I0EGgz1EMZZQ19i0PdsSvjBfDDdB6BvDDf0Jvrpmic90BHpZhe4ofuU2mum7TWpDVyeFWkiZTYVeLH0De8epi-ZMNNULWyI4E7Ww2r_ronMNgAeHiHw0GCd5cAF0xY5",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJaydlj-jSpw0ROjp0SqOdneY",
+            "rating": 5.0,
+            "reference": "ChIJaydlj-jSpw0ROjp0SqOdneY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "12 Rue Abou Al Mahassine Royani, Casablanca 20100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5868884,
+                    "lng": -7.6313996
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58819072989272,
+                        "lng": -7.630085770107279
+                    },
+                    "southwest": {
+                        "lat": 33.58549107010727,
+                        "lng": -7.632785429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lamyacars rent luxe car location de voitures de luxe Maroc",
+            "photos": [
+                {
+                    "height": 1080,
+                    "photo_reference": "ATtYBwIvipKpTfH8xIJRmhiOLdLtMF5vJROJWyTFEV8Z7LEjha-BD4M5VVm09rbBTnFTzjh_HRq1YNOMJpZ2Xfs8H1sorL6z7IomAEymfZgoD4IU1xml-iP7S9qXsW-2nZSV1B8LAz8E258XQ_8-VpDhFYwBgCl-GLuS3SZarn3s13hY2kUS",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJnbkELVfTpw0Rd6LA2W5SH6o",
+            "rating": 4.6,
+            "reference": "ChIJnbkELVfTpw0Rd6LA2W5SH6o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "265 Boulevard Mohamed Zerktouni, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.596354,
+                    "lng": -7.615233000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59770752989272,
+                        "lng": -7.613965620107279
+                    },
+                    "southwest": {
+                        "lat": 33.59500787010727,
+                        "lng": -7.616665279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Maroc",
+            "photos": [
+                {
+                    "height": 498,
+                    "photo_reference": "ATtYBwJHKtPuc6GdOXHB5E_cCgBmBpHciFdLEbcBPUHx9BH5xa5zmq3WTcqkBTlIEKMqmA80STfrYVSblcJzETIhGHXpIh5hjppoHriILnJBG9lDq7LdNeVxoSNnmgGTtRiH3VubyMNRiBgC51xIt0UOKMjlSL7FMgMjVgzRhYcA8iWSMSP6",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "rating": 2.4,
+            "reference": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "25 Rue el Oraibi Jilali, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5219608,
+                    "lng": -7.647390000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.52329447989272,
+                        "lng": -7.646044520107277
+                    },
+                    "southwest": {
+                        "lat": 33.52059482010728,
+                        "lng": -7.648744179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "South Car Rental",
+            "photos": null,
+            "place_id": "ChIJiaA8p-ktpg0RR6rAOaH3K5E",
+            "rating": 0.0,
+            "reference": "ChIJiaA8p-ktpg0RR6rAOaH3K5E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "‫شارع إقامة شيماء،, Casablanca, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5551334,
+                    "lng": -7.6292738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.55647147989271,
+                        "lng": -7.627967770107278
+                    },
+                    "southwest": {
+                        "lat": 33.55377182010727,
+                        "lng": -7.630667429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar Casablanca",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwKafieK_bfxePFQrgKKxzimHMU06pL7NJbPwOlWGM8W3lh5TFLD5281zfNd5l1iv-7_ZzvpMWRxO8R4ZSpsaKc7CGrU5-_jmWv7WUDJ9Hxw8jI9zfp1BpfnxilXEsKIonDYahIXKoVXEnStKJXl6xAWLceTp2p1gHyywiazgNvNIRYQ",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "rating": 4.7,
+            "reference": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127,
+            "vicinity": "Lot Al Waha A 7 N 49 a coté de pharmacie bachkou، Casablanca 24040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5973444,
+                    "lng": -7.610351699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59861417989272,
+                        "lng": -7.609037420107277
+                    },
+                    "southwest": {
+                        "lat": 33.59591452010728,
+                        "lng": -7.611737079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS®",
+            "photos": [
+                {
+                    "height": 1080,
+                    "photo_reference": "ATtYBwKwoqUE4WkxkCMOpWfcsK0W76e-csLvY5EepW9HuwlFmYRJkooSNIa-WIqhkHODcu9sblmF9iKvG83byjxSeYLPutELvd14RSISYJM4Q_dxYuSBLMtQ-NOaLz2gWKB3uX4l0YdCwoDY5eVUcGO5Od_TSzWgR6AeulAzBafCh8vh0SbB",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJYzO5G2PNpw0R0lByEmEvGtY",
+            "rating": 4.8,
+            "reference": "ChIJYzO5G2PNpw0R0lByEmEvGtY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 131,
+            "vicinity": "Tour Atlas - Place Zellaqa، Boulevard Zaid Ou Hmad، Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.572935,
+                    "lng": -7.678965000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57426162989272,
+                        "lng": -7.677599170107277
+                    },
+                    "southwest": {
+                        "lat": 33.57156197010728,
+                        "lng": -7.680298829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Right Way Car Location de voiture Casablanca",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwLas99WcFX3V20Lh-SXzxWJtpwj89wrv_CbspwX0vYuvvNphVVeDmfCMw3pSCjXu_3VkvZdUo9pPQ6A_EHoNG4gurwqGSosRLRMiJf6b3rm4QNzuuC3edQmIpfWEMSYy8C31i8vrZluRmpkF9nyCSZ_41kf-tSshHetqimYDa6KnA62",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJrau3HEfTpw0R-39zKN7bVGo",
+            "rating": 4.4,
+            "reference": "ChIJrau3HEfTpw0R-39zKN7bVGo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "525 BIS DERB NEJMA BLOC 447، Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5872574,
+                    "lng": -7.616506900000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58859272989272,
+                        "lng": -7.615172120107278
+                    },
+                    "southwest": {
+                        "lat": 33.58589307010728,
+                        "lng": -7.617871779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Road Tripping Car Rental / Location de voitures",
+            "photos": [
+                {
+                    "height": 894,
+                    "photo_reference": "ATtYBwLgR2BB4EaqZm_HhwHVgD1WrmjrgtWiLcLCml8FarqkHznr8_or00keXoF78lSdV2vmvV1AJPDFgUJYPZJ-DUhE8rKXW-tsPYP1NO-tJHU8zAX7zKiZ5bQKQlflMQJHpVdd5d7qqcOLlZj42tSkVh4s6ybKShMt_2nEeo0JmnEN2cmT",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJgXv_1J7Spw0RTu2FyHaml8Y",
+            "rating": 5.0,
+            "reference": "ChIJgXv_1J7Spw0RTu2FyHaml8Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "13 Rue Hadj Omar Riffi, Casablanca 20450, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5903543,
+                    "lng": -7.591977299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59166217989272,
+                        "lng": -7.590657470107277
+                    },
+                    "southwest": {
+                        "lat": 33.58896252010727,
+                        "lng": -7.593357129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Casablanca Voyageurs Station",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwL3S5097v81FsQCj_tSWreyu6adoyYq-B3JbBINZSHQ7lolxryCmB-L6MoVNr3j7J3uCwOyG76K7_vMUR3FrsskqT_gCIN4LISZoP-76DEPWQJByIXxqVp2teYD7WvNN3vfZ2_bcIqA_sD1GOI8gg-aBd5vNt_u-3fWIj24gudT1LjC",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJezGas1jTpw0RcgNqh8dEPuo",
+            "rating": 1.0,
+            "reference": "ChIJezGas1jTpw0RcgNqh8dEPuo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard Mohamed V, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5876295,
+                    "lng": -7.630664899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58898742989272,
+                        "lng": -7.629328820107277
+                    },
+                    "southwest": {
+                        "lat": 33.58628777010728,
+                        "lng": -7.632028479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Luxury car",
+            "photos": [
+                {
+                    "height": 1836,
+                    "photo_reference": "ATtYBwLVKycdgNiuhrqddTgUNYlL2ZvHBUimcJLp4VE6irE8X0qsWSeGhZPLENStjqkHQMG-R57-N2HJyNozMn8dozaSKdxA5fJD74XtL3ZRGgZsrE4a4C1UH8OI1xHiojnvq2JNdznd_Y14b_gRBeUacg9SODeTvyzTnKcVduZLIsoEZWBG",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJjzU6A5XSpw0RyCxlEZj2v70",
+            "rating": 4.4,
+            "reference": "ChIJjzU6A5XSpw0RyCxlEZj2v70",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Rue Moussa ibno noussair، Quartier gauthier، Casablanca 20060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5441758,
+                    "lng": -7.6139892
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54553002989272,
+                        "lng": -7.612640770107277
+                    },
+                    "southwest": {
+                        "lat": 33.54283037010728,
+                        "lng": -7.615340429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Casablanca",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIui4dMldbMeefuKufGiRCKnmOLtXvXpcHyocNG9GbR6h3RmHZH7dhy6ud09Nz7Z7Za_YyOHHDLGKWZvMZUlyAxk45oH45Aux5dwsvGoCGUipdQMJDpFPdFhpEvyhqiErRLc1CyQmmFb9nMVWMEEu18Zl79HowDw7ziA_eEIR7PVbUN",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ0Wx3ScItpg0RrdVBgBn2sz8",
+            "rating": 5.0,
+            "reference": "ChIJ0Wx3ScItpg0RrdVBgBn2sz8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard de Fes, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

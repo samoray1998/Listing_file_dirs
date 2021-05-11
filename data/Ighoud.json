@@ -1,0 +1,829 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6375707,
+                    "lng": -8.01215
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63896797989272,
+                        "lng": -8.010790220107278
+                    },
+                    "southwest": {
+                        "lat": 31.63626832010727,
+                        "lng": -8.013489879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Medloc Car Rental Morocco",
+            "photos": [
+                {
+                    "height": 718,
+                    "photo_reference": "ATtYBwJ8_nZvnxCs-vVTyBcAeT7iiyjkl9J8YKmyH68l5puFFxehl9pS3UCW3cLHeDtj1kUAskSYY0PimYzDVYukKpBwETIey4ECLjIShz2l749cI5SC-PZNgJK4n-qaGEMleVeXwSXydex__IKHanGJ-hfxW5kRl4tI6tA8n-8XcAiydoGS",
+                    "width": 1277
+                }
+            ],
+            "place_id": "ChIJWWb4oY_urw0R_MZAlrilwBk",
+            "rating": 4.8,
+            "reference": "ChIJWWb4oY_urw0R_MZAlrilwBk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": 129,
+            "vicinity": "75 Rue Ibn Aïcha, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6259613,
+                    "lng": -7.993030699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.62730392989273,
+                        "lng": -7.991699570107278
+                    },
+                    "southwest": {
+                        "lat": 31.62460427010728,
+                        "lng": -7.994399229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Majdoline Travel",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwKGLReThpiLlN_7k2Z5vw6j0jSjxKJvpKBoxJnvxTNyvHc7k39OfLUg9acoHT0xlUddcOBhM5Z4uO9S_Zmd82oKKAJ-e9qW9Bqxs1ZXOjQwIldUbfKVU_g1YKeT4UF1X3dhdQzu0kZpPS1gMP_Tazo-bvAXOC8uNpWJB0-TkHCLqp_A",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJs8tJhmfurw0RHnw9AknCB7Q",
+            "rating": 4.9,
+            "reference": "ChIJs8tJhmfurw0RHnw9AknCB7Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 426,
+            "vicinity": "Rue Lalla Fatima Zahra, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6497933,
+                    "lng": -8.0174965
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.65115067989272,
+                        "lng": -8.016188220107276
+                    },
+                    "southwest": {
+                        "lat": 31.64845102010728,
+                        "lng": -8.01888787989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Car rental Morocco- Ready car",
+            "photos": [
+                {
+                    "height": 479,
+                    "photo_reference": "ATtYBwL5sUUgfyq4fkp2xezOV9AX-LcB5fT9VGF_kQ3EQ-TOlkYqkRN80Pc39xIVz6dnJpDUZ9YDLjEyMZdpWZQkAcehmGiHTNYZfw259orCS4Qds39CZT20FXN9w_HqCycmHzU7D5le3EJHf7-eqq6Wbx21YM69HvhYkY2Mwy1SZp8h6bNR",
+                    "width": 853
+                }
+            ],
+            "place_id": "ChIJN1oVYifsrw0RSk-gGOGy7D0",
+            "rating": 4.6,
+            "reference": "ChIJN1oVYifsrw0RSk-gGOGy7D0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "119, rue Taouadoud, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5964864,
+                    "lng": -8.0288957
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.59792357989272,
+                        "lng": -8.027591170107279
+                    },
+                    "southwest": {
+                        "lat": 31.59522392010728,
+                        "lng": -8.030290829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Car rental Marrakech",
+            "photos": [
+                {
+                    "height": 438,
+                    "photo_reference": "ATtYBwJvWpob472srYFWpoguZ3i4P8oLYZ4kGFUpJppXQHmOcgHQNr23Ywubmmm_1JWOLf4YPKy-LUwPD21N7qslvy23motBE8YFTyv87oV6ssITuk-6Z3eS6URPBaSwCpEQjvahHurmHtb9yks85LDnLxyqnc0XF57p-D0OAxq9nCXeUBZ4",
+                    "width": 777
+                }
+            ],
+            "place_id": "ChIJHZTWlSPvrw0RVHvYyEZH7yY",
+            "rating": 4.9,
+            "reference": "ChIJHZTWlSPvrw0RVHvYyEZH7yY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 72,
+            "vicinity": "N°407 MAG 63 MHAMID, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.516501,
+                    "lng": -9.7590392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51785107989271,
+                        "lng": -9.757679620107279
+                    },
+                    "southwest": {
+                        "lat": 31.51515142010727,
+                        "lng": -9.760379279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Chaaba car - Location de voitures/Car rental/Autovermietung Essaouira",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwLwVQ49nxkscfvmiavoZW8iNCJqOiN-pNj_eZLbzS-TcIH5JmvwE4tuPC32xjVLOmqb9VJCScQKY3XgXeFuAhVMtslBSHItguxAm6uCRo3Jn0u678E0EpoEPn-Lif0mKh66xfXBD5ttuf-nbNc-bqoJRk-JAAEAk0XRpefcosLRte13",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJi5ZYLjCarQ0RwXk8tqqfApI",
+            "rating": 4.9,
+            "reference": "ChIJi5ZYLjCarQ0RwXk8tqqfApI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 79,
+            "vicinity": "70 01 Rue Mae El Aaynine, Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5996398,
+                    "lng": -8.026399699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60105587989272,
+                        "lng": -8.025041970107278
+                    },
+                    "southwest": {
+                        "lat": 31.59835622010727,
+                        "lng": -8.027741629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Global Rent A Car - Marrakech Airport",
+            "photos": [
+                {
+                    "height": 581,
+                    "photo_reference": "ATtYBwJqTIQMXLkpiPcL-BxD00pcF_DQ2Y9jiOixGIJXCwh3Xnbv0EeqizLVj9Cs4C39Zvqz27Jn7Kuo6unZFPp2otw2RO7C50OmMmZoaKLU8nUmc1uMwHsMp4r0ehlM4eg3vaXN_ScFZ3jlYrPIZyyzfqklSGlOUjwYKgWjDvyvnuCy5Aq2",
+                    "width": 1032
+                }
+            ],
+            "place_id": "ChIJY8JLsNjvrw0RJMGj4hSwWhQ",
+            "rating": 2.5,
+            "reference": "ChIJY8JLsNjvrw0RJMGj4hSwWhQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Marrakesh 40160, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6353135,
+                    "lng": -8.0190504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63669537989272,
+                        "lng": -8.017515670107278
+                    },
+                    "southwest": {
+                        "lat": 31.63399572010727,
+                        "lng": -8.020215329892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sami Car",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwLGFEDbIOO7gualBS4kS0lkWz9v0J2eomBTVRNeyR0CDni7PLqzDw51fmBu56uE1yasABCRQwascbsnW6AtztC7VvHZ93Nu90Pn6lV8wvQKDHxU2jCvUnc-MwOsU79aIGqH3JaVAff5nN3_g-k72kafvmhSRGteGWl265EVt9Nw4hqm",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJjWaaBpHurw0RgL2ANn0wVv8",
+            "rating": 4.6,
+            "reference": "ChIJjWaaBpHurw0RgL2ANn0wVv8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 148,
+            "vicinity": "et N, 3, Angle Boulevard Abdel Karim Al Khattabi, 12 Boulevard el Mansour Eddahbi, Marrakesh, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6371866,
+                    "lng": -8.010646699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63852767989273,
+                        "lng": -8.009326420107278
+                    },
+                    "southwest": {
+                        "lat": 31.63582802010728,
+                        "lng": -8.012026079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Car Rental Ltd location voiture marrakech",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwLRYw2YnUuQ74UklVghi4libn0DdEZBUmCDymKWQ0No_EG3X668CmbsaQ1yXpIXkJqmSjLXhtWnr-eumJ2fIWSGdox7p-D-xYPqo8rbiLV-v6ZE2xsvZipyheSfHbXKzqLQa0bA0DwADLOluNmvZDkA3_ePv1ET9TRcfehI2npDYjRH",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJBXIh6o7urw0R1dmLo2YJgtw",
+            "rating": 4.5,
+            "reference": "ChIJBXIh6o7urw0R1dmLo2YJgtw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 83,
+            "vicinity": "11 Rue Loubnane, Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.633961,
+                    "lng": -8.016484
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63525682989273,
+                        "lng": -8.015120370107278
+                    },
+                    "southwest": {
+                        "lat": 31.63255717010728,
+                        "lng": -8.017820029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATIONAUTO.MA",
+            "photos": null,
+            "place_id": "ChIJ0Zn8nZHurw0RX85OZleMQfY",
+            "rating": 1.5,
+            "reference": "ChIJ0Zn8nZHurw0RX85OZleMQfY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 92,
+            "vicinity": "170 ABDELKARIM EL KHATABI APP 6، Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5919961,
+                    "lng": -8.0468641
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.59333302989273,
+                        "lng": -8.045508020107278
+                    },
+                    "southwest": {
+                        "lat": 31.59063337010728,
+                        "lng": -8.048207679892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hartous' Rent Car",
+            "photos": [
+                {
+                    "height": 4000,
+                    "photo_reference": "ATtYBwIs48cuS3iesSHdKAXaJlQZfWNTOX2-XHjx4Z3eRaRertxFpT3xk4L5n5WadgEdHLRi--ziqGCwEX_Qh_AvgOpfoBfASdln5CNpom1aSjcxXIhdjiyAa4BrOK0K46oJsPlJ8Lv3APK7Pb3_uMQMA0zBf7hxIFsYYkFiW70W_P31lJjF",
+                    "width": 1800
+                }
+            ],
+            "place_id": "ChIJL29Ah6nprw0RT7w-429Lk1g",
+            "rating": 5.0,
+            "reference": "ChIJL29Ah6nprw0RT7w-429Lk1g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "OPERATION AL ITTIFAQ UNITE G33 MHAMID-MARRAKECH Rue nakhil, 40160, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6334731,
+                    "lng": -8.0106053
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63491782989272,
+                        "lng": -8.009180970107277
+                    },
+                    "southwest": {
+                        "lat": 31.63221817010728,
+                        "lng": -8.01188062989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Luxury Car Rental",
+            "photos": [
+                {
+                    "height": 764,
+                    "photo_reference": "ATtYBwIpk6hYX8UJuC2AulDK_4XIjleWMWzLWdi6ZDcNDINeuQ4B3lp6Hutovh0K8n-B_-T7hzOpEv2vewt-2rljCiUIVXDxJ2-crah3B09YQ0zNKJNznqKb8f4SgyFz7e2q-ggmVRd8nG0VLeXIcGnM4Rl01OhFlrt4-h_s5nARlD_e2hnO",
+                    "width": 1104
+                }
+            ],
+            "place_id": "ChIJywuqslrvrw0RasXSjGv_GV0",
+            "rating": 4.2,
+            "reference": "ChIJywuqslrvrw0RasXSjGv_GV0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "Av Mohamed V, Imm Jassim 71, 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.635098,
+                    "lng": -8.015282
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63641837989272,
+                        "lng": -8.014049670107276
+                    },
+                    "southwest": {
+                        "lat": 31.63371872010728,
+                        "lng": -8.01674932989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "YACOUT TOURS",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwL_EdwN_3GqBOeg-dgeDsTZS_aWNRk_QH2vHLX7lJa0x_KI3w5GaLMosXifAuTpl1HOKMr-sxSlUSM6qSSn0cwF8d87m1dxSv3F1-xwuzZ0mq5QMCwgwIvcpjdnsZMKAHns6f09cLsMkQNxt6RLJ4RECoxlC2X0X4fyPgiLHkpGcDcR",
+                    "width": 1243
+                }
+            ],
+            "place_id": "ChIJS4Si8pHurw0RBf6gdITg6Rw",
+            "rating": 4.8,
+            "reference": "ChIJS4Si8pHurw0RBf6gdITg6Rw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 140,
+            "vicinity": "100 Rue Mohammed el Beqal, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.633378,
+                    "lng": -8.009762
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63470677989272,
+                        "lng": -8.008426770107278
+                    },
+                    "southwest": {
+                        "lat": 31.63200712010728,
+                        "lng": -8.011126429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ABID CARS Location de voitures à Marrakech",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwKDDYv3tanv69i_3wtSloLlvI65qr4nqXwJ0lEfiL9LJdLhnv4CF7FkXMZJIVFGFTkVRYuBAH3_kA8A2d8YQ0H2et3J-LjzhIibh8tg231fOKf4rPwcmAZg9Z41oUag6vbTZWNIj2jri8qCDYh8V8b1pF7FBlqdGPmmKkkEYCQ1Xiit",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJs77ln47urw0R-u2GjClu1-o",
+            "rating": 4.8,
+            "reference": "ChIJs77ln47urw0R-u2GjClu1-o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "212, imm Elite, شارع محمد الخامس, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2886848,
+                    "lng": -9.2183225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29010677989272,
+                        "lng": -9.217131820107276
+                    },
+                    "southwest": {
+                        "lat": 32.28740712010728,
+                        "lng": -9.21983147989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LPC Cars",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJeq6AiDKAfBX6Cybg2OKqaylWNutmNdKCz0DCP1xci7MWocRc32o0ptSv_2WPmSBxmeDhUqG5nN3s6E_jTfurytrK_Vq8vDjLfs2DI1YBUlWFfR17CYXFB5OAeWUn0yQ3elv2ymFaRODc8Of7qKfa1CvMhZj_r0WMGJ8hfRHxDD5IG",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "rating": 4.5,
+            "reference": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Avenue Moulay Souleymane, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6347336,
+                    "lng": -8.016613999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63609027989273,
+                        "lng": -8.015261620107278
+                    },
+                    "southwest": {
+                        "lat": 31.63339062010728,
+                        "lng": -8.017961279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Marrakech",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLKMJ9fquZ3ZcQZO1AAEm_Y00EKYEfH-vMwecJYyN3tq0mZsq7VKvygeGdvrSB1f6mhhaNjOu-r6B5SntT20hLtk-ZmNkZRWrxniCloFa3mymT86s-AgtlRmbKk68_uiAtSHp7wLLUTZxY9ml9Jzf2FmMPeHgRXAlditAGbFjYou0zF",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJy-N2HY7urw0RohsjzNvXDZY",
+            "rating": 4.4,
+            "reference": "ChIJy-N2HY7urw0RohsjzNvXDZY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "9، Rue Boulevard el Mansour Eddahbi, gue 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.67019,
+                    "lng": -8.008707
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.67151542989272,
+                        "lng": -8.007324720107277
+                    },
+                    "southwest": {
+                        "lat": 31.66881577010728,
+                        "lng": -8.010024379892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Almoajil Cars",
+            "photos": [
+                {
+                    "height": 977,
+                    "photo_reference": "ATtYBwKypx-PDpW8rkeyq7Jdw9vFtXhmVhwMMb844Bc7Y9OjwrLmMYfIU7_nthcx-EDGAiQWrL5JoGeDMec7xJTfvxXw_0KYLBV7zO_f-BWcCN8xZkMsxtyC8k94CnL9enFHdEvonYzx-VnbGkYNLZgzHeGwUS6ILs-hlYTB0JPQuF5rTi5W",
+                    "width": 1903
+                }
+            ],
+            "place_id": "ChIJjx1Ohzbsrw0RijB-Mkc2ex4",
+            "rating": 0.0,
+            "reference": "ChIJjx1Ohzbsrw0RijB-Mkc2ex4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue Abdelkrim El Khattabi. Résidence Jnane Guéliz, Imm B, 1er étage App، B5، Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637147,
+                    "lng": -8.016219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63851957989273,
+                        "lng": -8.014915120107277
+                    },
+                    "southwest": {
+                        "lat": 31.63581992010729,
+                        "lng": -8.017614779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "NajmCar",
+            "photos": null,
+            "place_id": "ChIJ08KgHgTvrw0RZAg_LTBoAzg",
+            "rating": 4.7,
+            "reference": "ChIJ08KgHgTvrw0RZAg_LTBoAzg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "12 Rue Mohammed el Beqal, Marrakech 40000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6009493,
+                    "lng": -8.025421999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60229137989272,
+                        "lng": -8.024085770107277
+                    },
+                    "southwest": {
+                        "lat": 31.59959172010728,
+                        "lng": -8.02678542989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "surprice car rentals marrakech",
+            "photos": [
+                {
+                    "height": 1097,
+                    "photo_reference": "ATtYBwJaAnyoHfanZQJMy6MdwqQ472M5JSb2wDN_8op2vkJDnLZYf6KtIgVhup_WfZlweU65wqy-SXTc6mq4NegRauctbAmCwAr3gbfKYrsZXKsSj9XYDvCyoodDiYbSU8tskLPuN1cPpDOX5LDAip1lXpvmhz1SSmJYbuTOjAr9S1O6ZiTp",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJJVPwqG7vrw0R_lktC9tLYgw",
+            "rating": 0.0,
+            "reference": "ChIJJVPwqG7vrw0R_lktC9tLYgw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "N 1363 1 ere etage lot zarktouni, Berradi II M'Hamid, Marrakech 40160, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.601647,
+                    "lng": -8.026648
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60272677989272,
+                        "lng": -8.025335020107278
+                    },
+                    "southwest": {
+                        "lat": 31.60002712010728,
+                        "lng": -8.028034679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKZsgUooSPJ1Ki-VMrhvyW9rDUPlF4XJm6aXmyQ5gN2EDSk_R5iABwfbr9-qkneM1PSW6pP7NZ9JrV7jWlT-_-UqGFMGjhldUip72Hv0jbk0p6I4YVsCleTn9LOZSrYhSr0VOv937YbhjXZ8DODwkZG87aSDeTdJSrz4XKQE9N3kTeR",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJveX8vdLvrw0R5VG-bBrbTi8",
+            "rating": 2.0,
+            "reference": "ChIJveX8vdLvrw0R5VG-bBrbTi8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "MENARA AP, Marrakesh 40160, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6358327,
+                    "lng": -8.0151445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63712932989272,
+                        "lng": -8.013764120107277
+                    },
+                    "southwest": {
+                        "lat": 31.63442967010728,
+                        "lng": -8.016463779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nova Luxury Cars : Location voiture luxe Marrakech - Rent Luxury Car - كراء السيارات الفاخرة بالمغرب مراكش",
+            "photos": [
+                {
+                    "height": 313,
+                    "photo_reference": "ATtYBwIUk8Qyf6pg9DU3QnDicDP0ur5pawNeTsUf2FkASl6puJFfP2_3w1Cakruap6-dgaNqi1isKmsUxJgz6tKysPeotVto6741qOpRpZw-TqNeA0D7kBqDGc10qikKxiG0UeaC_0dNv-sgWVKxLFI5bvbVqTiLsBC6CDu811DS_WkmWEkx",
+                    "width": 848
+                }
+            ],
+            "place_id": "ChIJ8W9aKpDurw0RSNENST1Fyy8",
+            "rating": 5.0,
+            "reference": "ChIJ8W9aKpDurw0RSNENST1Fyy8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bd Zerktouni, Imm. Colisée Appt N°4, Guéliz, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

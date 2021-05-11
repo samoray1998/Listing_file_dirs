@@ -1,0 +1,291 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2870241,
+                    "lng": -9.2289408
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28835462989272,
+                        "lng": -9.227542070107278
+                    },
+                    "southwest": {
+                        "lat": 32.28565497010728,
+                        "lng": -9.230241729892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION VOITURE - FRS RENT CAR",
+            "photos": [
+                {
+                    "height": 1920,
+                    "photo_reference": "ATtYBwJbZcFY7mE8vsfRg_ArP3U5LZjMLCONRadkn4W_XxjoVsNQoIlTFMk3NsvwrLX-hChjZctTRTFxEkkQRH815q2v6lzmkudWgMwIUgcQvTb3fNKNttaQytrbaMeolhmt1RVMZRf_g53QDX5n0wnN9czI8aUVg-8KkcG0LyeLAiXbLkjh",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJc3sifysnrA0R3R742iWJ28Y",
+            "rating": 4.3,
+            "reference": "ChIJc3sifysnrA0R3R742iWJ28Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Safi, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2886848,
+                    "lng": -9.2183225
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.29010677989272,
+                        "lng": -9.217131820107276
+                    },
+                    "southwest": {
+                        "lat": 32.28740712010728,
+                        "lng": -9.21983147989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LPC Cars",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIgbJRtHaD50sc4FWzWjRYSzqnu0j9GOLrcTZzcmdEjEoeVdjDH3c8f6itCViktIMyFAtwa2TP8nlHL3aJ6YMFjAVUQnH-k0G9YA7uLQZEtIIjBK8X-mZP2-lu61TXdVjBaevZcOZ_srvbQvXmdDz4fgjKhZSPXLHNPMR1LF7-h5AP4",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "rating": 4.5,
+            "reference": "ChIJywtDbzMnrA0RDPdpT5gfyn8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Avenue Moulay Souleymane, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.28525,
+                    "lng": -9.2349375
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.28659252989272,
+                        "lng": -9.233607020107279
+                    },
+                    "southwest": {
+                        "lat": 32.28389287010727,
+                        "lng": -9.236306679892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Salman Safi Tours",
+            "photos": [
+                {
+                    "height": 719,
+                    "photo_reference": "ATtYBwLd8GBitoOR_79dkT2_qEP7t-mHyYcd82dWeuRiWnHVHj9iY5XXoI_DvBDumYO3lUQZcOQJpFqb1fGj_mPf_6tIbpSebikAT0Byns5mnjcNSR-V0fX9V03mSWpqqiaOI8RWfSzaQ6w7WQT61MYl4Ff8zxbLVwSEksN_BVPK4e8UcYla",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTXOt9UknrA0R8Mub5xFNzHY",
+            "rating": 5.0,
+            "reference": "ChIJTXOt9UknrA0R8Mub5xFNzHY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue de Bordeaux, Safi, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5131256,
+                    "lng": -9.768217199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51447542989272,
+                        "lng": -9.766867370107276
+                    },
+                    "southwest": {
+                        "lat": 31.51177577010728,
+                        "lng": -9.76956702989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transfert Marrakech Essaouira",
+            "photos": [
+                {
+                    "height": 300,
+                    "photo_reference": "ATtYBwIdtU_ZA1C41wG7X0zD_3hlxMhu2zhp7TmQmcHSrOicUiWvVGjJwg2ZD3UK76kj0HO0PT-fC9uVWUrLkqSfyrpzHXV0r2zNKb59YWfWB7j90Hs2vDHvXs7sggzQC2OGcmB1WVn-a8wn0__0BkA-KhiYApyFYJvlzJ04mfDBTM6KEGMk",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJU3et03SbrQ0RNxdSxjy3q9g",
+            "rating": 5.0,
+            "reference": "ChIJU3et03SbrQ0RNxdSxjy3q9g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "37 Rue Kaouss Derb Ahl Agadir،, 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.3519941,
+                    "lng": -6.1640112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.35341572989272,
+                        "lng": -6.162514920107277
+                    },
+                    "southwest": {
+                        "lat": 36.35071607010728,
+                        "lng": -6.165214579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwKtNHBVx3pFL5em3qxdNNW4TLdbimXwzLMiAqMlY3wXsiOjjN87ohqtXkPX-Hx3-ibkOazu9EoR-_VY4Kr2U_qWFMimCPGidmk3XOBMUCJjOkVtWAmkWFZYTN7li0GUuCKbAJ42eHhU1AQRJ1lTcSBImIB3n-aBRA23WXD4RGTWf0im",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "rating": 4.2,
+            "reference": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Calle Asdrúbal, s/n, 11139 Chiclana de la Frontera, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.4948473,
+                    "lng": -6.2645192
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.49597937989272,
+                        "lng": -6.262585520107277
+                    },
+                    "southwest": {
+                        "lat": 36.49327972010727,
+                        "lng": -6.265285179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Cadiz",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKebA2uCvFG5X8HrwYaSlXiOq_mMl3sZzroCS3YFJk6aYHP_AQz-ymSrjJhmqKYgr9aNxEbpI0oXd4pZmT7Y3i6wIhxvfNrDEe1sPc0uRIaUkBRaeHAtTeDelknZWASbNmR1jufNgJpt6-wjyoeachFb1sdEMbZw6JPREv-AIPEneZo",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJYeJGyErSDQ0RirK8KKygZwI",
+            "rating": 3.9,
+            "reference": "ChIJYeJGyErSDQ0RirK8KKygZwI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "Concesionario Ford De Cadiz, Calle Puerto Real, 3, 11011 Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.858904,
+                    "lng": -13.8350443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.86019147989272,
+                        "lng": -13.83374427010728
+                    },
+                    "southwest": {
+                        "lat": 28.85749182010728,
+                        "lng": -13.83644392989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "rating": 4.0,
+            "reference": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Estacion Maritina De Playa Bla, Calle la Lapa, 35560 Playa Blanca, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

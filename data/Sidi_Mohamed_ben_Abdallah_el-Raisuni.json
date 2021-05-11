@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6039268,
+                    "lng": -7.638686499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60531137989273,
+                        "lng": -7.637350020107278
+                    },
+                    "southwest": {
+                        "lat": 33.60261172010728,
+                        "lng": -7.640049679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Genial Car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwLidZhzNNmUXXhd63XiyxLxBuSTBFoFfEUnrGvl1bXp3AkPHM3b-iRRXL_626qDHoaz2_d6qJVLdGOhXdQVbZNjTkjj3TzJ7eJNKKmArjbXfnXbiEEbTFHugV3kYOr0015FEtY1RJ7zr_tP_K3cefe49iKFBIrLjRp23Fd7O73gGG4",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ37l5S2DSpw0R_-aaJtdl2J8",
+            "rating": 3.4,
+            "reference": "ChIJ37l5S2DSpw0R_-aaJtdl2J8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Boulevard Sidi Mohamed Ben Abdellah, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

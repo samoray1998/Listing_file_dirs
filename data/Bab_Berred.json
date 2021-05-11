@@ -1,0 +1,358 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1693106,
+                    "lng": -5.2690855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17066767989272,
+                        "lng": -5.267755620107278
+                    },
+                    "southwest": {
+                        "lat": 35.16796802010727,
+                        "lng": -5.270455279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "DOGHMA CAR - LOCATION DES VOITURES - RENT CAR - كراء السيارات",
+            "photos": [
+                {
+                    "height": 575,
+                    "photo_reference": "ATtYBwLUEf0kVL8WrEfnpcy3hylt6jfq67bTcGhfWTjHHT_abxo2aWNdaTcGZuxdJoOytPtxW2FWVi9Y9GkN9-bgJRvC7g4ZEga1EyVo0kwcm-0SAIyljkmuk0DI8a_wugoIAs4s1Xm-SiyeyFKC9P2bqVk5dpaXCbqP12L3NPY_HChrToo6",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJjaqZYoomCw0RS0sluNLLjaA",
+            "rating": 3.5,
+            "reference": "ChIJjaqZYoomCw0RS0sluNLLjaA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Av. Fez, Chefchaouen 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1683621,
+                    "lng": -5.2750598
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16967032989273,
+                        "lng": -5.273678970107279
+                    },
+                    "southwest": {
+                        "lat": 35.16697067010728,
+                        "lng": -5.276378629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CHAOUEN RENT CAR",
+            "photos": [
+                {
+                    "height": 5664,
+                    "photo_reference": "ATtYBwKLZDrFjWSX-ZajOKz95efUWrlOVQu7FaVJq63TqYtUo8zGpXuLTvcRt3WHChE8Lhn0xgQo1exXnmb8zzWSh5NUX4mZSdeM5NhSzXHHub39SOY-vsik45XiKgEDmTZPLh5DEkcJ7mfi6B47lUqG3X0lzxJELoiPuz6nihIjtnby-GG4",
+                    "width": 3184
+                }
+            ],
+            "place_id": "ChIJERVYrPInCw0R9Y6xpeRQYgQ",
+            "rating": 5.0,
+            "reference": "ChIJERVYrPInCw0R9Y6xpeRQYgQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Avenue Maghreb Arabie En face gare routière, 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1662023,
+                    "lng": -5.2664892
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16761387989273,
+                        "lng": -5.265147520107278
+                    },
+                    "southwest": {
+                        "lat": 35.16491422010728,
+                        "lng": -5.267847179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BOGGOS CAR Location Voiture Chefchaouen",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwKOHUk_IX4lVyZLRKErSsvFjOJ6NmxISpFI3_XikVCm6BiRPHQlc9gd1cM1mkJBt7IA2ZS4NhAXVSNyLbdjNZRGYvXCjosTfhVEf87bIAq3Hoq4VRuERhraUoqvrzB4XGicjWVu6o1188-l4ooBLzPGAE0idRUFHDYBIBT3zfE4QDV7",
+                    "width": 862
+                }
+            ],
+            "place_id": "ChIJ8S392V8mCw0RdXV1Bf0yQh8",
+            "rating": 5.0,
+            "reference": "ChIJ8S392V8mCw0RdXV1Bf0yQh8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Av. Moulay Abdelrahman Chrif, Chefchaouen, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1722739,
+                    "lng": -5.2699531
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17358627989272,
+                        "lng": -5.268559920107277
+                    },
+                    "southwest": {
+                        "lat": 35.17088662010728,
+                        "lng": -5.271259579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Mtiri Car",
+            "photos": null,
+            "place_id": "ChIJD7buducnCw0R39SbWFzlJgQ",
+            "rating": 0.0,
+            "reference": "ChIJD7buducnCw0R39SbWFzlJgQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rue El machichi، Chefchaouen 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1768687,
+                    "lng": -5.2756069
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17819157989271,
+                        "lng": -5.274340120107277
+                    },
+                    "southwest": {
+                        "lat": 35.17549192010727,
+                        "lng": -5.277039779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BOGGOS CAR",
+            "photos": [
+                {
+                    "height": 272,
+                    "photo_reference": "ATtYBwILUxxMlOT-BLoOIih5WhxryfyW54MhyDYTqLwMJDr5B5zRv7F25QdUJwtIbaQ1F9lO3BTSrG0PlCBIF0hvnQtI3pVrVTgA8hmnGSObXxsgXK0Fekf-dLoaBntxUY3IlvHV83tNRHLb2ZWc_2Xxjr8Jq8P74NYPg_fHnABKly-g862x",
+                    "width": 446
+                }
+            ],
+            "place_id": "ChIJ3-DroFInCw0RGCJ90IlxjMs",
+            "rating": 0.0,
+            "reference": "ChIJ3-DroFInCw0RGCJ90IlxjMs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "AV Moulay abderahman charif Qua chourafa، 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1680812,
+                    "lng": -5.2727745
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16943277989272,
+                        "lng": -5.271415320107278
+                    },
+                    "southwest": {
+                        "lat": 35.16673312010727,
+                        "lng": -5.274114979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Layan Ismail Rent Car",
+            "photos": [
+                {
+                    "height": 2268,
+                    "photo_reference": "ATtYBwJN7FI0Z64-QfOdKPFumrklJjMwQzx-Np-40zfBxAFD5_fpGpyMvbfLiKZVyk_4jjwMv1PyzFYhoWP0BqaM2mMbfVAxMKSDiF74I6vttLUUPeOPUYmQCmjpCSfKFeyTuydZIslZV0bX2XcIP8cekg9uviJL3m2oASoQZckKqWRPxCk",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ4bLvqs8nCw0Rma_kc4JvgvE",
+            "rating": 5.0,
+            "reference": "ChIJ4bLvqs8nCw0Rma_kc4JvgvE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Lot Ben Yakhlef, Chefchaouen 91000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1672854,
+                    "lng": -5.2702927
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16860947989273,
+                        "lng": -5.268967120107278
+                    },
+                    "southwest": {
+                        "lat": 35.16590982010729,
+                        "lng": -5.271666779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Chefchaouen كراء السيارات feocar",
+            "photos": [
+                {
+                    "height": 1080,
+                    "photo_reference": "ATtYBwKxPXzhaBR7EinxP0Z-CrDmET4FkE64ZuUu4ZrJI0SoEJymCNP0JsvdnsBBsauvrpvj4QcQ4VpXD3S0EkXZCDuqEriRGID4jv3jQj1fR97JBJ8NpCkwgMi1BdePRxQSwhmAd3BqBipRROOI4L71uUaWFApNts4K_yi52_bbZqUaZcW1",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJj-PK5s4nCw0RCaMT4VxT4bA",
+            "rating": 5.0,
+            "reference": "ChIJj-PK5s4nCw0RCaMT4VxT4bA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "RUE MOHAMED ABDOU, Chefchaouen 91000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1668742,
+                    "lng": -5.2697128
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16822032989272,
+                        "lng": -5.268365670107278
+                    },
+                    "southwest": {
+                        "lat": 35.16552067010728,
+                        "lng": -5.271065329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "cimosoukaina car كراء السيارات",
+            "photos": null,
+            "place_id": "ChIJHS08toomCw0Rau1QuG7GC_o",
+            "rating": 4.6,
+            "reference": "ChIJHS08toomCw0Rau1QuG7GC_o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Avenue Mohammed Abdou, Chefchaouen, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.5274137,
+                    "lng": -4.637364799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.52886607989272,
+                        "lng": -4.636001120107278
+                    },
+                    "southwest": {
+                        "lat": 34.52616642010728,
+                        "lng": -4.638700779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mimoza Car",
+            "photos": null,
+            "place_id": "ChIJpbOuW5pldQ0Rhv3FZRDnDhk",
+            "rating": 0.0,
+            "reference": "ChIJpbOuW5pldQ0Rhv3FZRDnDhk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Taounate, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

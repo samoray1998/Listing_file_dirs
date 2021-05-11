@@ -1,0 +1,124 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2485664,
+                    "lng": -8.5249258
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.24988987989272,
+                        "lng": -8.523555320107278
+                    },
+                    "southwest": {
+                        "lat": 33.24719022010727,
+                        "lng": -8.526254979892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sobh Car Rental",
+            "photos": null,
+            "place_id": "ChIJIzawI9kdqQ0RbAa4kxk3j-k",
+            "rating": 0.0,
+            "reference": "ChIJIzawI9kdqQ0RbAa4kxk3j-k",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "RDC NAHJ IBNOU TOUFAIL, N2, El Jadida, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6017861,
+                    "lng": -7.5607355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60303547989272,
+                        "lng": -7.559388170107279
+                    },
+                    "southwest": {
+                        "lat": 33.60033582010728,
+                        "lng": -7.562087829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Locafinance",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwKV8xZshHHz3ydQqX8wNlVJvqRbNBgkWZ-ySzzKGd54Y2wIiLGkXHQqDs2sGGuEcBVkGHDTts0UN7xwk5HUYSeb_pgLsbEOnitJCRgbt2ra6izppADl_8gLpSM-CNvmtTW1i5nA1JUpaj0N3ngNX8wtkDDXIPBIycSl1zci21pdAOSv",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJravCBvvMpw0RDFqJ87tTEFk",
+            "rating": 4.3,
+            "reference": "ChIJravCBvvMpw0RDFqJ87tTEFk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4173708,
+                    "lng": -9.56402
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41874062989272,
+                        "lng": -9.562635970107275
+                    },
+                    "southwest": {
+                        "lat": 30.41604097010728,
+                        "lng": -9.565335629892719
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AUTO 22 - Agence location de voiture agadir aéroport pas cher",
+            "photos": [
+                {
+                    "height": 920,
+                    "photo_reference": "ATtYBwLUDIJfYzJkmhLGoz7jI52Pvb0wga98y9CAvm-FhLijDNykJSMJunDzDFu5MdVBlxJykwiqr2IIhIbjkXfeTfPw0-PbOuBRFTNyIcKl3lEjp39y0bZ-yHSnz3ADE5TNj1SymzZSpeV8laqBJcv1y7mSpT7dqyIr3OAsJQPLaTU_3ydn",
+                    "width": 736
+                }
+            ],
+            "place_id": "ChIJIQHvra3Hsw0RazV8yVVhetQ",
+            "rating": 4.8,
+            "reference": "ChIJIQHvra3Hsw0RazV8yVVhetQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "N 11 EL MOUKHTAR SOUSSI 01 AV ABDERRAHIME BOURBIDE, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

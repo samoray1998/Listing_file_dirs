@@ -1,0 +1,209 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2265947,
+                    "lng": -3.3459625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22794632989272,
+                        "lng": -3.344614370107278
+                    },
+                    "southwest": {
+                        "lat": 34.22524667010728,
+                        "lng": -3.347314029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voitures Thajjit Car",
+            "photos": [
+                {
+                    "height": 731,
+                    "photo_reference": "ATtYBwJ3ijXV36xVRPhFIOthLUuel7SVyJ-sRFWTnP5WGjH7sFnXPOjoA60GtmtKsogoH-WAmoIBF7cm3dVaT8BmymaWP8ld0t9ucuOrF2c9IrtPZZA1ZPJgenxgkM4devLz1_0m-I0G1HaWT4eYNMreld1d6YU_3MhgUhlLQQsmpJqWUtVy",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJr9G59yKTnQ0R3Oi1HNiiZjo",
+            "rating": 5.0,
+            "reference": "ChIJr9G59yKTnQ0R3Oi1HNiiZjo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Boulevard Mohammed 5, Guercif, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.227995,
+                    "lng": -3.344875
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22934477989272,
+                        "lng": -3.343525120107278
+                    },
+                    "southwest": {
+                        "lat": 34.22664512010728,
+                        "lng": -3.346224779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Kiravoit guercif",
+            "photos": [
+                {
+                    "height": 682,
+                    "photo_reference": "ATtYBwKf0DJf3Zt75Jk2VHYEGeRvuQESOiIOPEJjgGPgk5wQwj5AZbahwNtDqb2xFOg5fygu58KbEKFJHTA1EmmuKQNJhuxuOejUD57UBsLdaIhxRl3GAjHuR1ObNo3060-1Ji6OdLJEKZKR7tTKWMBipL6TsGxUkgz_hwjyDrKN6khQkQcr",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ7ZdgwGCTnQ0R_Nio9HkdEoI",
+            "rating": 5.0,
+            "reference": "ChIJ7ZdgwGCTnQ0R_Nio9HkdEoI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "26 oukba bnou nafie، Guercif 35100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2239036,
+                    "lng": -3.3490109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22519757989273,
+                        "lng": -3.347750520107277
+                    },
+                    "southwest": {
+                        "lat": 34.22249792010729,
+                        "lng": -3.350450179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thajjit Car-Location voitures",
+            "photos": [
+                {
+                    "height": 410,
+                    "photo_reference": "ATtYBwJQm4GNxSshE5OmxJt5l6f1ZvE6Jv3WsSD9OYVPow_cEEz0xeJbLv_0bEWxcCcFhqA6Aca26aDgSR3FrWiGbqUp_2-VBtc2gi5PB44Cy9z0EIGaSo23lUu4dDVizAwBEiF-6ZEqrY0Yvit9sYWbzCxYFBmWW6pei3fKwoYU3_YXaPFf",
+                    "width": 730
+                }
+            ],
+            "place_id": "ChIJlUdTp-qTnQ0RXd4Pwn1M6dk",
+            "rating": 5.0,
+            "reference": "ChIJlUdTp-qTnQ0RXd4Pwn1M6dk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "AV Mohammed V Immeuble Issaoui N° 4, Guercif 35100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2272712,
+                    "lng": -3.3446461
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22863207989272,
+                        "lng": -3.343306920107278
+                    },
+                    "southwest": {
+                        "lat": 34.22593242010728,
+                        "lng": -3.346006579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Société zaytoun car",
+            "photos": null,
+            "place_id": "ChIJezIQ1nCTnQ0Rj7NMC_iJ4XE",
+            "rating": 0.0,
+            "reference": "ChIJezIQ1nCTnQ0Rj7NMC_iJ4XE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Boulevard Mohamed 5, Guercif 35100, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5980769,
+                    "lng": -7.6322058
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59942307989272,
+                        "lng": -7.630852370107278
+                    },
+                    "southwest": {
+                        "lat": 33.59672342010727,
+                        "lng": -7.633552029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Touline Prestige",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwKErwzXEzGM3ocsG2V938B-24Ke8ulmnz8AJaWmE79liqTZRl9PV2FnU4WXhP7RHibuLQ3xazYkCKGlMGwAhPQ0KTKwj7ae0DyzLE0AB3hEJuhksTb2PG35KFVnmPWoGZKw6y4PkDfuh-QkLl0viDdHqNdhoxmIthbvAgKfeWzL68e-",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJvRqqxIzSpw0RRqEnLuVQkMU",
+            "rating": 4.7,
+            "reference": "ChIJvRqqxIzSpw0RRqEnLuVQkMU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": 30,
+            "vicinity": "53 Rue Guercif, Casablanca 20053, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

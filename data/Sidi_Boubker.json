@@ -1,0 +1,259 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.59644,
+                    "lng": -7.617907
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59786772989273,
+                        "lng": -7.616655270107277
+                    },
+                    "southwest": {
+                        "lat": 33.59516807010728,
+                        "lng": -7.619354929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dollar Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIDLz4Pmg3LeeZl3mnw7i-YE7xbESCztmsXDNlWMplA51afIOJgsi7__W6rPlxpR4qOS5KIp3D-M8LTJERBPxJZ8vbLfz6jMj2i_fhkDd9D6aJ52MnLxiCXL6LmL7IJrA_sm4xGuBEx2lvZ5GexVf3bQUoS7qnTSyKVdRP0PuG7MU5I",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJm7NdkOfTpw0R4xoc1LDS-yE",
+            "rating": 1.0,
+            "reference": "ChIJm7NdkOfTpw0R4xoc1LDS-yE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "CASABLANCA DT, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2345063,
+                    "lng": -8.4936145
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.23582857989272,
+                        "lng": -8.492371820107278
+                    },
+                    "southwest": {
+                        "lat": 33.23312892010727,
+                        "lng": -8.495071479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar El Jadida",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJpNQFB0ezD6GXiaC29U4TFDckT2vEzZf6IMI6h-zDzt3oz70RVgQO9HziShLiOKSAJ_-M-yG0GC1faDEb1E4DqntZjCAGPlYa4_8SaWViwSIv4M126KmijhLLzxivQAzp6tlySzJEazq0zojLt8j9SYM9YkNE1uSx-449J6YU-q1rd",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "rating": 4.4,
+            "reference": "ChIJTUNBwuIdqQ0RMuai8gzhe58",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "24400, El Jadida, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6386631,
+                    "lng": -8.060158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63996507989272,
+                        "lng": -8.058803770107279
+                    },
+                    "southwest": {
+                        "lat": 31.63726542010728,
+                        "lng": -8.061503429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location appartement Marrakech - achat - vente - villa - conciergerie - Maroc",
+            "photos": [
+                {
+                    "height": 274,
+                    "photo_reference": "ATtYBwJ1WMI8SBDwm3Y9WDJkUGKHYNtS5kW3yYZ5a4wKW-Nbpb3_uLI41-VJxmKXaoth2n1FFMlpT3zd-GiWtaWUiS0BXSgIZ4iUJV6JJVQzpY6C16Y_PbUxro1ifB3qhYcYoVUk7Y5ROigzUBNKFkYMFTbUcMWtyqNK6apyKsxz5B82oxLR",
+                    "width": 487
+                }
+            ],
+            "place_id": "ChIJwzU5JgHprw0RAkXgGUyTWhw",
+            "rating": 5.0,
+            "reference": "ChIJwzU5JgHprw0RAkXgGUyTWhw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "null",
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "APP 16, Avenue Al Kantara 90 secteur 026090 Al massira 1 C 90 Imm Al Amane, Marrakech 40140, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3670393,
+                    "lng": -7.5732537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36839362989272,
+                        "lng": -7.571884220107278
+                    },
+                    "southwest": {
+                        "lat": 33.36569397010728,
+                        "lng": -7.574583879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transport personnel Casablanca Maroc - Transport Touristique Casablanca - Location minibus Casablanca avec chauffeur",
+            "photos": [
+                {
+                    "height": 538,
+                    "photo_reference": "ATtYBwL4bdxIGF8Y2BLe_K8o6iTUmeZiwmkC2CeZMF51kknQ_LirDUp-V3Lz2Zu5BnJ1ZQlaOMPBa_mjgEjF4hb0dnmiY0-KqRQr93YwdnzADAH3r0CFfcqXuntUuZ9NtVueC4tn9a5xhzw4SpE8zlgjkSlcKdSTbcYebAG0eDGYkDd4gZx0",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "rating": 5.0,
+            "reference": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Zone economique EA 231 1ere Etage Nouaceur Casablanca، Dar-el-Beida 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7259942,
+                    "lng": -5.9152247
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72757752989272,
+                        "lng": -5.913604170107278
+                    },
+                    "southwest": {
+                        "lat": 35.72487787010728,
+                        "lng": -5.916303829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKusY7VDcxiH8ITHtxbjvJFLk-H9oEHoEdHucHvq8qvsJn5jB8nsldJmUQsJ3WAnAFIbSWi-rWC7XquGdRFaCuKmNtIcoA7ubNxK8fCrL87uVRfY_6dVtk3NoGPGEOl_kN6XIQJZoiqNX8cYktqN8UtAvztkXq6_gzpwgsZ_Bh-L4L7",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJVVVV0omICw0RUmvRKd19n1I",
+            "rating": 3.8,
+            "reference": "ChIJVVVV0omICw0RUmvRKd19n1I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Int. Airport, Tangier 90032, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.421402,
+                    "lng": -9.5593399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42268477989273,
+                        "lng": -9.557928470107278
+                    },
+                    "southwest": {
+                        "lat": 30.41998512010728,
+                        "lng": -9.560628129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "mara glory cars",
+            "photos": [
+                {
+                    "height": 2000,
+                    "photo_reference": "ATtYBwJFGBlUGHPPD8DEumiP5q7mrp-gr1dbzJ5-KsH18FlXACViQRFutj7veqy46KRTcwdiNooGUBY87Q0oKrWASojnHyz9PDiUGPQbkLtiqz-8LDkeXI1cPg1kPLw7s80vC2kcsDRCpvZp_Bdn0M3Fug33p9RMgSr8tjvtchhVIt_r8jcR",
+                    "width": 3750
+                }
+            ],
+            "place_id": "ChIJveZgqyW3sw0RMe3zKXu3Rw0",
+            "rating": 5.0,
+            "reference": "ChIJveZgqyW3sw0RMe3zKXu3Rw0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "riad bouargane17, Rue Chaïr al-Hamra Mohammed ben Brahim, Agadir 80000, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

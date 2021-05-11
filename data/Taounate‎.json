@@ -1,0 +1,402 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.5274137,
+                    "lng": -4.637364799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.52886607989272,
+                        "lng": -4.636001120107278
+                    },
+                    "southwest": {
+                        "lat": 34.52616642010728,
+                        "lng": -4.638700779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mimoza Car",
+            "photos": null,
+            "place_id": "ChIJpbOuW5pldQ0Rhv3FZRDnDhk",
+            "rating": 0.0,
+            "reference": "ChIJpbOuW5pldQ0Rhv3FZRDnDhk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Taounate, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.059255,
+                    "lng": -5.030196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.06057047989272,
+                        "lng": -5.028843020107278
+                    },
+                    "southwest": {
+                        "lat": 34.05787082010728,
+                        "lng": -5.031542679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Elite Car Rental",
+            "photos": null,
+            "place_id": "ChIJM4xN-j31nw0RpJ-uE2yeVHw",
+            "rating": 0.0,
+            "reference": "ChIJM4xN-j31nw0RpJ-uE2yeVHw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "403.Bloc z/c Magasin 2 Lot Hadika، Fes 30000, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2192413,
+                    "lng": -4.0048191
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22061222989272,
+                        "lng": -4.003524670107278
+                    },
+                    "southwest": {
+                        "lat": 34.21791257010727,
+                        "lng": -4.006224329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Essaouira Mogador Car",
+            "photos": [
+                {
+                    "height": 480,
+                    "photo_reference": "ATtYBwIceKkItpVw7OI_5DPggbUtYlf8curLvrjFSvHUL4MTKOfkWHf7Gf59fk9dJXU7Ut2tv3w8OacyiSzprUnTOQtlg5joeohCTg_zKFRE34qKpFV62XolaiFVw1I1AW8ma3Y-OZjoniUBEqHBceQEy8d1mOkHsygfpdOjFPiODns0w86s",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJ10qVG98Wng0RrJ4sVDNFxJo",
+            "rating": 4.8,
+            "reference": "ChIJ10qVG98Wng0RrJ4sVDNFxJo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Hay Ourida Bloc 1 N°3، Taza 35000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.858906,
+                    "lng": -5.576139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86025492989271,
+                        "lng": -5.574856020107277
+                    },
+                    "southwest": {
+                        "lat": 33.85755527010727,
+                        "lng": -5.577555679892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MIMOZA CAR",
+            "photos": null,
+            "place_id": "ChIJcZDt1wdboA0Rv_kgdvygl5Y",
+            "rating": 0.0,
+            "reference": "ChIJcZDt1wdboA0Rv_kgdvygl5Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Meknes, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwLNUapFmFVjN64Vh71UVCI_3EwudbykGvMq5TmvDbxPK45LNw1fNqvfJOv7X8Q1aNm-tg3FEyqEVURJFESd3iN2HsUVFnfZvdEJ5gd_dlDSiJHsfbWVfafZdznJh_bUKzLkWCxlYO9tSxv4oSpfwMybOv_1dC07TgrwfmQKhiwWu6eQ",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJspL4vB9rY88c73cep1LshvL8DUyOT2V_aZ5XWPRCx0ZiVUyRfN7b5RNUUmEXcA1jWW3mB9N-65e6CpdiPITs4pGBZlEM9ofsfa15UrxJMNJ4vxqLeV-tmakQCKLJYC2WRMxK4dGl1ZbpaRQauER94uVAv47wmY5v53G5jCh1xBaAi",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.50810269999999,
+                    "lng": -4.881495699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.50945252989271,
+                        "lng": -4.880145870107277
+                    },
+                    "southwest": {
+                        "lat": 36.50675287010727,
+                        "lng": -4.88284552989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Marbella",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKZWlV545JxCu8Eti4k6OmBzgFVsqW7eSu_vBQ7ZmulyAdI2qSx18RlD17YBKcGm1I1ivNSQxJtpZtJvSzBigsCAPFVhPRSm9HNuSni0mitULjnuVLpduFKSvcWtu_mJ9_De3XOCbMHZ6O0NdvFX6n8VK4Iu4SlYrvAxlzWO3Ooxm-y",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJxZV6tooncw0RcnwNpcxmLZ4",
+            "rating": 4.2,
+            "reference": "ChIJxZV6tooncw0RcnwNpcxmLZ4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 84,
+            "vicinity": "Complejo Miramar, Av. Severo Ochoa, 6, Local 4, 29603 Marbella, Málaga, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.292796,
+                    "lng": -5.2995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.29414582989271,
+                        "lng": -5.298150170107277
+                    },
+                    "southwest": {
+                        "lat": 36.29144617010727,
+                        "lng": -5.300849829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Sotogrande",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwLAfdnQfrIXeS9mNvldhus-wPOdstOe95HzN9dXoMiXjfOqG6DMYOibdeaDMGL-TOWE1fPBhng15SMA9LLawaxNdbCqXlijNYckMAUgmLo1I4zffoWwB49ricBkK5tr02Cr2-2GfAGfNXauYKP-G9wFxji-0RF_f1AM5WLbfTAHOdP6",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "rating": 4.2,
+            "reference": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Sierra Bermeja Sin Numero Pueblo Nuevo De, 11311 Guadiaro, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.494341,
+                    "lng": -4.951518
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.49572257989272,
+                        "lng": -4.950150820107278
+                    },
+                    "southwest": {
+                        "lat": 36.49302292010728,
+                        "lng": -4.952850479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKWAD-mJTYA1AZkgHhP3bLfHis2LkbEahdEnABcJbzqBmmWZN9bLbgW_WOenQ-JSOb66TBe5R9COpeCK053fUSx2Q9QEa3OgrLjSOmyFLFZmirmknjqftxc8g0rbhBB0XXvMNPIxefWCNMyflBVdZ3XzDfc_VTo-D3mxlwysokgBWRK",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJKzuNnCbWcg0RuN7pj3cx7QY",
+            "rating": 3.3,
+            "reference": "ChIJKzuNnCbWcg0RuN7pj3cx7QY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 109,
+            "vicinity": "Gasolina Shell N340 Kilometro 175, 29660 Marbella, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1296226,
+                    "lng": -5.439741199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.13074867989272,
+                        "lng": -5.438915570107278
+                    },
+                    "southwest": {
+                        "lat": 36.12804902010728,
+                        "lng": -5.441615229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Enterprise Alquiler de Coches - Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJ3mtHsuPP4JFOqc4LosJrg0xCu6DsMqVg9Aumxmi64O3m_gOFHiDQaZJiYhBQCYMJpGd4q6IkCAxV9TfGweIna1xzWXplVFQOREnB5lDavDwv2YhSPeU-TnwQnm8hni8JZxrLHnnfBWUYUAPOYEmFR_IfA7OIn01j4XZKPbXRNxG4F",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJp-HZh9CUDA0RFLCaxbWLd3U",
+            "rating": 3.6,
+            "reference": "ChIJp-HZh9CUDA0RFLCaxbWLd3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 115,
+            "vicinity": "Estates. Maritima Puerto Algeciras Muelle De La Galera, Local 25, 11201 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

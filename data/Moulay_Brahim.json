@@ -1,0 +1,206 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637147,
+                    "lng": -8.016219
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63851957989273,
+                        "lng": -8.014915120107277
+                    },
+                    "southwest": {
+                        "lat": 31.63581992010729,
+                        "lng": -8.017614779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "NajmCar",
+            "photos": null,
+            "place_id": "ChIJ08KgHgTvrw0RZAg_LTBoAzg",
+            "rating": 4.7,
+            "reference": "ChIJ08KgHgTvrw0RZAg_LTBoAzg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "12 Rue Mohammed el Beqal, Marrakech 40000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.667528,
+                    "lng": -8.031906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.66887972989272,
+                        "lng": -8.030564920107278
+                    },
+                    "southwest": {
+                        "lat": 31.66618007010728,
+                        "lng": -8.033264579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ASTER CARS",
+            "photos": [
+                {
+                    "height": 380,
+                    "photo_reference": "ATtYBwJAQ09LMKpdrMPsTwRFHaYtRUeUXshK8iD8q-f9xiJ8lCjdfiK9pQbekVJ0bJjqX5m8bm7-5hSrzTsh9l8Z3pmyhhG3nkgxnFq-OqJxRmeWYpfLfxIBbt2BonRcUcFXRVYn2c-ntWen-vZOAbpr3w_Y2b10oDdkiKhywiRivS11vCZf",
+                    "width": 700
+                }
+            ],
+            "place_id": "ChIJ5z7YuBPsrw0RsDU1bJOvkNw",
+            "rating": 5.0,
+            "reference": "ChIJ5z7YuBPsrw0RsDU1bJOvkNw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 117,
+            "vicinity": "277 Quartier Izdihar, Route de Safi، Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.600809,
+                    "lng": -8.033737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60214407989272,
+                        "lng": -8.032383520107278
+                    },
+                    "southwest": {
+                        "lat": 31.59944442010728,
+                        "lng": -8.035083179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Zima Car",
+            "photos": [
+                {
+                    "height": 1435,
+                    "photo_reference": "ATtYBwK7lKWCNAPs7cP21WVVZEBbvSvaIZTIlg20bSsQEhr31hT8wBj9I9cqiaoQHJS_-cIoak8Om_no9OwEmXYbo_RUAzu-JGtO4ZUaeH3uICkDTRwK33f4x8VYqGEmx6gDcU9lGhZZNCWSh9DvBNTBSx0opW7O-B3iH9sNyL2p9ank2Dd8",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJVW4Csyfvrw0RNKjmFd8FYAE",
+            "rating": 4.8,
+            "reference": "ChIJVW4Csyfvrw0RNKjmFd8FYAE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 39,
+            "vicinity": "Magasin no.2, Imam Malik Mosquée, Mhamid IV، Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.64709,
+                    "lng": -8.004441
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.64842172989272,
+                        "lng": -8.003178320107276
+                    },
+                    "southwest": {
+                        "lat": 31.64572207010728,
+                        "lng": -8.00587797989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "تاجير و كراء السيارات مراكش",
+            "photos": [
+                {
+                    "height": 577,
+                    "photo_reference": "ATtYBwICDnD0W5UpyMhpk6HrkczFGoTPk1DCbzMgwvpqAlEMBisWEhTHvgUJmZmVLOR6-kTXiuEaGQ-EYgCX52WuPogV6cAhkKtV1hLAlJdrzGxUbxFpZgoMr0BJDXPB2flV7MCctG61MAD80neHT66EkyhG-Jo9Ze_ssjgUtJGZZXg-VAA",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJNwAAAEDurw0RUhbsL0v61aM",
+            "rating": 4.7,
+            "reference": "ChIJNwAAAEDurw0RUhbsL0v61aM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "Rouidate Lot Iguider IM 128 App 13، Marrakesh 40090, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5111225,
+                    "lng": -9.759077099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51246767989272,
+                        "lng": -9.757690670107277
+                    },
+                    "southwest": {
+                        "lat": 31.50976802010728,
+                        "lng": -9.760390329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AYTKADA CARS - Rent a Car à Essaouira",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwJBiE4nit-eVjTojvX37G1mLWROfGmZw0BNMv-Xs93ClkMA7wwV3Z-iiSPapopj0GI3rsT9LXvSIFmXLSuZ6oB2JVBH4do4a8lri8NpjTNDcc6LLoT75mZ1WLBnrXKbMwAKkeygO1SEkD43ONpoK83jLAcmePB_Dd2PJRst4JVbSOao",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJKTnNnzSbrQ0RJyrh3lHnkWI",
+            "rating": 0.0,
+            "reference": "ChIJKTnNnzSbrQ0RJyrh3lHnkWI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

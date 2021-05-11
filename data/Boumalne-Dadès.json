@@ -1,0 +1,379 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.9203934,
+                    "lng": -6.9162103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.92173922989272,
+                        "lng": -6.914922220107277
+                    },
+                    "southwest": {
+                        "lat": 30.91903957010727,
+                        "lng": -6.917621879892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "esonmaroc",
+            "photos": null,
+            "place_id": "ChIJPfegYnQQuw0RMGa2VL1EaXI",
+            "rating": 5.0,
+            "reference": "ChIJPfegYnQQuw0RMGa2VL1EaXI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Avenue Mohammed VI, Ouarzazate 45000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5884652,
+                    "lng": -7.64486
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58984087989273,
+                        "lng": -7.643619170107278
+                    },
+                    "southwest": {
+                        "lat": 33.58714122010728,
+                        "lng": -7.646318829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Voguish Car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJFM1o2ZlKkCb-zhed_WFqAQ4HhUkMNTUShE5C_L5nR83_Nm6QPT5gQnW1hw-R8PKFHWelBIobIxIO2KrQPGOOPos1_xhZ4wDdm6I15Q1lUH2pxZcp9flqGUdxfU0r1MxokgSQYLeOEkRPwan93YR9QJr-wZQMLkfyTOPt2a80g0yoG",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJBf0LAtfTpw0RsqfvEpvdrO0",
+            "rating": 5.0,
+            "reference": "ChIJBf0LAtfTpw0RsqfvEpvdrO0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Boulevard Franklin Roosevelt, Espace Porte D'Anfa، N72، Casablanca 20100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6259427,
+                    "lng": -8.0249411
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.62733827989273,
+                        "lng": -8.023487020107277
+                    },
+                    "southwest": {
+                        "lat": 31.62463862010728,
+                        "lng": -8.02618667989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Anaconda Tours - Tourist Agency Transportation Marrakech",
+            "photos": [
+                {
+                    "height": 479,
+                    "photo_reference": "ATtYBwLs8-zPf83looAMX9HuAJ7qq8c6g5bptF5kVttc4a5RYteP4M1tR7ONrv39ndB0bI_rsWly9CLwbpYIcTXINXg3MhLH6JGEh87yodwvIJKktb053l_FWk4Tk2YbYtwZeW3QjJVi-GHu0V72t8Bx4Z54H27I1jd2aG84bO8Mj-psrEFm",
+                    "width": 958
+                }
+            ],
+            "place_id": "ChIJaxEOGMHurw0R8-l28V0bB1s",
+            "rating": 4.6,
+            "reference": "ChIJaxEOGMHurw0R8-l28V0bB1s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Lot villa, Avenue El Idrissi, Marrakech 40130, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5728366,
+                    "lng": -7.688233399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57419912989271,
+                        "lng": -7.686835870107275
+                    },
+                    "southwest": {
+                        "lat": 33.57149947010727,
+                        "lng": -7.689535529892718
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Taxi Maroc - Taxi Casablanca - Transfert Navette aéroport Casablanca - Transport touristique Casablanca",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwInIcTGjD-d7OV1LZLfAFIce2u5odpduKtc8EHldT3jrxUplA4y27BUfd5WbYg7KdHRTcJUTilGJ3bxg58vHn6TlOjmBo9esMBYwZu1WL4Od58AcZj4AkPuqKZs47UOk3Ry-h7NFWKzQV9EFDPFN3I183yQNP19tpfYx66mb-ktCJFL",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "rating": 4.8,
+            "reference": "ChIJ3eqWFgrTpw0RHsKxQzJyF98",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "Group I rue 175 n° 16 oulfa Casablanca، Casablanca 20220, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3670393,
+                    "lng": -7.5732537
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.36839362989272,
+                        "lng": -7.571884220107278
+                    },
+                    "southwest": {
+                        "lat": 33.36569397010728,
+                        "lng": -7.574583879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transport personnel Casablanca Maroc - Transport Touristique Casablanca - Location minibus Casablanca avec chauffeur",
+            "photos": [
+                {
+                    "height": 538,
+                    "photo_reference": "ATtYBwK0CRmkaDR-JFkY5OW3X1zPEDhMAwMdwhWNypah4rXr3aP_TqhUqGSSn430raA0QIJUox6YhZ0dhDiGhSumXopxo8BsibBeRPsKLa1-l101AfpHnf0CHUIeBdrp0vFihn3mb8RaSUQHuTBKeXETvDQQcvaOTDMp5YL41XFKZkcAW-tx",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "rating": 5.0,
+            "reference": "ChIJ7xhZHOA7pg0RyYictItZNBc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 43,
+            "vicinity": "Zone economique EA 231 1ere Etage Nouaceur Casablanca، Dar-el-Beida 27000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwJBWvM75uuM4QUuwvQDqP2J3vvwtRQX_xbE5LpcKnKGujkuYzC7OfFKtcbFlxMp2-DTOdx_ub6waUsExABTxt5kanf4ycnqd9zJhL3d7HATTkB0Snn2xWSZuUqmu3LD-gfY4g6kV72uH7ksLJbuOAjz-pwUIzzwoPvMLHh5fI8s8dS2",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJ_BoFummLLf4nA9mRqxeVA241c7WnPW8sYggendS4W9XVf8fOq1DWtpBXx5yIEntbcNuNkjTQ18aDc3bk5xTSfhpE3kujFUCG3GsNvOHODfKSD2PrPRsSUNHaOiFkyOqqdBmgFjgZGnONlePbaUUS5riVfipxY5xY3sMHWkOF0lEFI",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.3519941,
+                    "lng": -6.1640112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.35341572989272,
+                        "lng": -6.162514920107277
+                    },
+                    "southwest": {
+                        "lat": 36.35071607010728,
+                        "lng": -6.165214579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwKtuNT4c2geXXeW0hDwIIXXHMFdAZfJa5wb19-U7-0E7klT3aZdA98LlWXDlrWFGCSseqXdtB3KnZPSMtT3Qx_nt9dJlZ4KSKmqDCdWw_NHxyC9xjHlrefH26zOYwuWnvLeQpSCwXyNuFpmMWqDw1jCCBxaeVg0RFIuS0dlHJJj6lCj",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "rating": 4.2,
+            "reference": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Calle Asdrúbal, s/n, 11139 Chiclana de la Frontera, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.292796,
+                    "lng": -5.2995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.29414582989271,
+                        "lng": -5.298150170107277
+                    },
+                    "southwest": {
+                        "lat": 36.29144617010727,
+                        "lng": -5.300849829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Sotogrande",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwI-IkSlQi_7cApi8QmKsqznST7oRRmV5xMDq5-MiYNyppe8RMXEMmxOPhTRSqiI7LnSMLV99N5sCPf2UCEknZVyeX1OiDRsNu0KUUQWlOuB-LgD91XVdIM6zCPBZ-zlYiZAu8F_BdjJ04ox8XiARlSmhjw3ONO4wK9YLI-3w_HhZEo1",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "rating": 4.2,
+            "reference": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Sierra Bermeja Sin Numero Pueblo Nuevo De, 11311 Guadiaro, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

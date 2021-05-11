@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 47.5948833,
+                    "lng": 18.3878326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 47.59629627989273,
+                        "lng": 18.38938487989272
+                    },
+                    "southwest": {
+                        "lat": 47.59359662010728,
+                        "lng": 18.38668522010728
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar Autókölcsönző - Rent a car",
+            "photos": null,
+            "place_id": "ChIJC1u64yhBakcRyqgeaIDozpI",
+            "rating": 5.0,
+            "reference": "ChIJC1u64yhBakcRyqgeaIDozpI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Tatabánya, Győri út 39, 2800 Hungary ",
+            "opening_hours": {
+                "open_now": false
+            }
+        }
+    ]
+}

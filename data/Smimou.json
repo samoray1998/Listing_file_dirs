@@ -1,0 +1,806 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.516501,
+                    "lng": -9.7590392
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51785107989271,
+                        "lng": -9.757679620107279
+                    },
+                    "southwest": {
+                        "lat": 31.51515142010727,
+                        "lng": -9.760379279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Chaaba car - Location de voitures/Car rental/Autovermietung Essaouira",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwLlgNUtFh9SQ2-WWECWCRTDsOxhQj2hVwvGGqmvqIT7yLl3Xea8zR5p1eM-DUQ_etPOEvSRrHhPZaSc9oJPZcbKVxBgunSNE6crd8LUJ7Pev7wXlmsyvSe9CpdHLZu07Xntsesg4VpbykYoL2kLwjUqISetXIoVv5jlaYZ5Tmp3kXb1",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJi5ZYLjCarQ0RwXk8tqqfApI",
+            "rating": 4.9,
+            "reference": "ChIJi5ZYLjCarQ0RwXk8tqqfApI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 79,
+            "vicinity": "70 01 Rue Mae El Aaynine, Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5097183,
+                    "lng": -9.758813
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51105442989272,
+                        "lng": -9.757425320107277
+                    },
+                    "southwest": {
+                        "lat": 31.50835477010728,
+                        "lng": -9.760124979892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Arganier Cars",
+            "photos": [
+                {
+                    "height": 332,
+                    "photo_reference": "ATtYBwJREzFzoD4b-XKyi_JzkjC0AkE0jWbLWOU-a7_CWPkjWL8232uIaNaJYe2e_CbEigBtn8SpQtf2IQ6PoxABBfYDxL-rbMHfct0z4FtU_EpxGyIhhINDP8iygKv8vm-O1ewGYVcAtWG3OLCVhW08vorf-gAkCaBzSoDSoTQ-KLpTHLVw",
+                    "width": 591
+                }
+            ],
+            "place_id": "ChIJH9YILEiarQ0RIbx7q1UMi9A",
+            "rating": 4.5,
+            "reference": "ChIJH9YILEiarQ0RIbx7q1UMi9A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "8 Rue Hamadani, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5048337,
+                    "lng": -9.756933
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50623892989272,
+                        "lng": -9.755724220107277
+                    },
+                    "southwest": {
+                        "lat": 31.50353927010728,
+                        "lng": -9.758423879892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Monthir Car",
+            "photos": [
+                {
+                    "height": 675,
+                    "photo_reference": "ATtYBwJRchblGGP2VcrX27TLayaVf4OXzzB-EN_j0e_tYO0Dn7ekravupIHM0IU_hSeAzR0fVDi45qgsrHvW9CwayeXCrO_lc5i6dDHIWAp3tI4f4c_Z8R-5Tqdrc5UIVUTmLi8DW0OjPErt2U0487cY1Ob88jT52I8aMDkl-ceBbBMI1OfT",
+                    "width": 1125
+                }
+            ],
+            "place_id": "ChIJzcuN-B-brQ0RT-6xQPLiGC4",
+            "rating": 0.0,
+            "reference": "ChIJzcuN-B-brQ0RT-6xQPLiGC4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue Mohamed Zafzaf, Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4031696,
+                    "lng": -9.688329000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.40448747989272,
+                        "lng": -9.687081670107279
+                    },
+                    "southwest": {
+                        "lat": 31.40178782010728,
+                        "lng": -9.689781329892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location de Voiture Essaouira Aéroport",
+            "photos": [
+                {
+                    "height": 536,
+                    "photo_reference": "ATtYBwKvDrUNd5-NwgIGvQXQ6PzQaaR1KIqwt0FvXinA7-ERLL_e2n-DMqdRBL11AsQPso5EwF4hfjBLWWRgQK-7Qld1mTzgqWHhQD37uDJOH2lIX-G2NSvVCJ2zUnJ4vVALnvn3u_wjxrsiGsZJ35Rv2sxHlxg6beeLM-p8fZFjPTaooxQP",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ_fpQUVGPrQ0R2yuDdUSDsO0",
+            "rating": 4.6,
+            "reference": "ChIJ_fpQUVGPrQ0R2yuDdUSDsO0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Aéroport d'Essaouira، Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4031979,
+                    "lng": -9.688749099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.40457187989272,
+                        "lng": -9.687321770107276
+                    },
+                    "southwest": {
+                        "lat": 31.40187222010728,
+                        "lng": -9.69002142989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Surprice car rental Essaouira",
+            "photos": null,
+            "place_id": "ChIJVRCEgSaPrQ0Rdn0CgsLEgvg",
+            "rating": 4.0,
+            "reference": "ChIJVRCEgSaPrQ0Rdn0CgsLEgvg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Quartier el ghazoua Essaouira, 44000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5052255,
+                    "lng": -9.7560191
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50657532989272,
+                        "lng": -9.754669270107277
+                    },
+                    "southwest": {
+                        "lat": 31.50387567010728,
+                        "lng": -9.75736892989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "M6 Car Location voiture essaouira - rent a car Essaouira",
+            "photos": [
+                {
+                    "height": 400,
+                    "photo_reference": "ATtYBwLeMH2ZqacsbUdLFc3Z7rUxI0DEXCuVGrH_uFaqRWyMdA8twQukgdQXi34cjtqUpbORAWJXuFtvjC5swI-YHUMeNDEGqh5fREXp8gAxGI-buTHq3vBRf3kAfH56qbypkTJYYdRaLo0ILW8Y1Z563uZ3oPO2wPci6RxM2nnwhhJJERs",
+                    "width": 660
+                }
+            ],
+            "place_id": "ChIJL7Bz1k6arQ0RXn6cQFWiu80",
+            "rating": 4.8,
+            "reference": "ChIJL7Bz1k6arQ0RXn6cQFWiu80",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "822, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.513452,
+                    "lng": -9.76399
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51477602989272,
+                        "lng": -9.762618570107279
+                    },
+                    "southwest": {
+                        "lat": 31.51207637010728,
+                        "lng": -9.765318229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location de Voiture Essaouira Centre Ville",
+            "photos": [
+                {
+                    "height": 356,
+                    "photo_reference": "ATtYBwIALCK4hHyFoDmR1JiwWE22StjUE_fnRJwjk51xBc3la6qDfawWaCk4N0MsVM3wb_IbzEThuCpJ8Le6z1NHDt89b1oCSEgAjqmzEKtYuFwNCdAi8m3U3bt8wyBEepfPTFolUiaDn1OFvtd8281OM85uzmvvixna_xDVP9veLhzaKd9r",
+                    "width": 742
+                }
+            ],
+            "place_id": "ChIJL1IdtDOarQ0RK5SKHdrh_fM",
+            "rating": 4.8,
+            "reference": "ChIJL1IdtDOarQ0RK5SKHdrh_fM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104,
+            "vicinity": "28 bis Avenue Oued El Makhazine، Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4032337,
+                    "lng": -9.6884041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.40455812989272,
+                        "lng": -9.687135770107277
+                    },
+                    "southwest": {
+                        "lat": 31.40185847010727,
+                        "lng": -9.689835429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Essaouira Airport]",
+            "photos": null,
+            "place_id": "ChIJVQrpcgqPrQ0RHmPaw0O5Pws",
+            "rating": 0.0,
+            "reference": "ChIJVQrpcgqPrQ0RHmPaw0O5Pws",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "aéroport essaouira, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5111225,
+                    "lng": -9.759077099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51246767989272,
+                        "lng": -9.757690670107277
+                    },
+                    "southwest": {
+                        "lat": 31.50976802010728,
+                        "lng": -9.760390329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AYTKADA CARS - Rent a Car à Essaouira",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwL5V-GClKHSr7NC6rV63sPw8Y3JcJeyc3w2CCaG7qySb0-YN_rRajU9jgfU4S9QGpBZYXOqbaVW60aIWAR090QsaFrAM32u0bFoptA2zD4QLIgQaqaVuyQyCzF9vqczWlvn68WLUaKFUDKXmO5tb1IbiisRux1dCW9OVNvc0eCSR4aV",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJKTnNnzSbrQ0RJyrh3lHnkWI",
+            "rating": 0.0,
+            "reference": "ChIJKTnNnzSbrQ0RJyrh3lHnkWI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4036458,
+                    "lng": -9.688747399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.40500162989271,
+                        "lng": -9.687378420107278
+                    },
+                    "southwest": {
+                        "lat": 31.40230197010727,
+                        "lng": -9.690078079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AIRCAR - ADA",
+            "photos": null,
+            "place_id": "ChIJb1G_vPSPrQ0R3QxTTx5me_g",
+            "rating": 1.0,
+            "reference": "ChIJb1G_vPSPrQ0R3QxTTx5me_g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Terminal 1, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4033303,
+                    "lng": -9.6883316
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.40463907989272,
+                        "lng": -9.68711347010728
+                    },
+                    "southwest": {
+                        "lat": 31.40193942010728,
+                        "lng": -9.689813129892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty [Essaouira Airport]",
+            "photos": null,
+            "place_id": "ChIJqd1bUkCPrQ0RCnot9ZbJxJ8",
+            "rating": 0.0,
+            "reference": "ChIJqd1bUkCPrQ0RCnot9ZbJxJ8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "aéroport essaouira, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5056753,
+                    "lng": -9.7611867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50699027989273,
+                        "lng": -9.759832770107279
+                    },
+                    "southwest": {
+                        "lat": 31.50429062010729,
+                        "lng": -9.762532429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Greg Tours",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwK1mUG5JGd5DGtu0GFOt82wJjS95wTCD9Ice3m1f0MGaK0Zqs_A9kOy6m_rypgep1up5zMYtJgrnhHj8-tOwf2IPNYiwMfmYWbjKgIbZiHpwwqBoxG2JDN1UVx4X9JIXZnmaLgcobXzO3sPGVBDxW4md4ehiq38NtJH1mnTd1jRuJQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ-QARHzaarQ0RVm1Ge85zOpQ",
+            "rating": 5.0,
+            "reference": "ChIJ-QARHzaarQ0RVm1Ge85zOpQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "N° 44, Résidence Jawharat Mogador ، Rue Princesse Lalla Amina, boulevard Al Alana, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5045181,
+                    "lng": -9.758528199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50587767989272,
+                        "lng": -9.757143220107277
+                    },
+                    "southwest": {
+                        "lat": 31.50317802010728,
+                        "lng": -9.759842879892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Omicar",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwK1EaFax9Ick3HEbJnjNCvjA53C5ClaqrJBck668qTaxDh0K_Lm7EkJPvb6VnX7p1tpybReMY1QeY8cuPgvlTKGtVFgFh9vucLMqvc7_nbCaOBkltOG0XXwMbGpnR7AsDGsPBK_1yU4QuktNUFKsVD6vGVwYnuAUdqXKS0DOraTLs7M",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJOb4Aul6brQ0RJ4oBmwu7osM",
+            "rating": 0.0,
+            "reference": "ChIJOb4Aul6brQ0RJ4oBmwu7osM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "515 Avenue Casablanca, Essaouira, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5131256,
+                    "lng": -9.768217199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.51447542989272,
+                        "lng": -9.766867370107276
+                    },
+                    "southwest": {
+                        "lat": 31.51177577010728,
+                        "lng": -9.76956702989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Transfert Marrakech Essaouira",
+            "photos": [
+                {
+                    "height": 300,
+                    "photo_reference": "ATtYBwLaOJYIU5VbL_KgO9v3PO84UUj7BKxD6BruZ6JoMYI-RVokylaZtgVe5Bo-9-vKDXwXKFI_D__aeTdZvQ33KbTRqGZ4FxuyvcNX4xnLkRErIGj_a4wo7khIc2nn2UzFrlHmtD1HOOAh_Rx7BdbUpd9LWMrCVoL4vfD4sccbezTVHWRZ",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJU3et03SbrQ0RNxdSxjy3q9g",
+            "rating": 5.0,
+            "reference": "ChIJU3et03SbrQ0RNxdSxjy3q9g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "37 Rue Kaouss Derb Ahl Agadir،, 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwJZMOloaGx8tyEEk5ad0QCKiIev9Y1UPByxZuJmcbW1RZ1w2JyK-tVKPqffReVDy-U3YeRgAGF9iGQzNBVfKgxDza8OSmd904fPpcHNHAkEjpL6t5PzW6GJ7OTChxipk8Pub8eIxQd55w1ZLRa9q6uPWt1j4iash2UeC7CMGiBWOYOo",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3303287,
+                    "lng": -9.410765
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33187982989272,
+                        "lng": -9.409408420107278
+                    },
+                    "southwest": {
+                        "lat": 30.32918017010728,
+                        "lng": -9.412108079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Agadir Airport]",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwIh58v71HLjJMIlX3wPSMmLAGLYQqAP_vLUgPZnRV3RtXoLPM7SauzHXfVl8e2z2DHPf7RlRV_UkMK61NrjYS8OXHLPn-85N2q4JQKr48v-tem8evjDzJdC67FPX-WlG7J8w-BJka-JAe5gfwJi-9h9JFS-hEUmZou0XCCd8B26vkg1",
+                    "width": 1138
+                }
+            ],
+            "place_id": "ChIJy2xSQlXEsw0RJi1qoFO6PtE",
+            "rating": 2.6,
+            "reference": "ChIJy2xSQlXEsw0RJi1qoFO6PtE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 56,
+            "vicinity": "Aéroport Al Massira, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6353706,
+                    "lng": -8.013013299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63664752989272,
+                        "lng": -8.011720920107276
+                    },
+                    "southwest": {
+                        "lat": 31.63394787010728,
+                        "lng": -8.01442057989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Marrakech City]",
+            "photos": [
+                {
+                    "height": 900,
+                    "photo_reference": "ATtYBwJrf9NRT2j9EApUplcOPdqrqyk46OBNJzBLYnajkEHu3geW3veOG65IkB9NrK6RQeVq4PDe52_L8lrhHbMhp2PAB6XoKaIyLd98OPe09JwjvhYvpvQqVW7_gMMl8_NoQyo0mWzZA6uyYrSZJ1upo_D2eU5PJoD1XuH7OE3B80a3S6b2",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJ36LbL47urw0Rq6la7azfux8",
+            "rating": 3.2,
+            "reference": "ChIJ36LbL47urw0Rq6la7azfux8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "154 Avenue Mohammed V, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.9201155,
+                    "lng": -6.9161779
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.92156902989272,
+                        "lng": -6.914840020107277
+                    },
+                    "southwest": {
+                        "lat": 30.91886937010728,
+                        "lng": -6.917539679892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": null,
+            "place_id": "ChIJRQYYhnQQuw0RMrNKWTR3PMw",
+            "rating": 2.9,
+            "reference": "ChIJRQYYhnQQuw0RMrNKWTR3PMw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Ouarzazate 45000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3710545,
+                    "lng": -7.5783703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.37243967989273,
+                        "lng": -7.577020370107276
+                    },
+                    "southwest": {
+                        "lat": 33.36974002010728,
+                        "lng": -7.57972002989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Casablanca Airport]",
+            "photos": [
+                {
+                    "height": 452,
+                    "photo_reference": "ATtYBwLDtwsTr8NrOr9ukRhIAhOeP4widC3lXcD6MRtTDmfeVxwH6G70QTaLZrCOqIf2Zoy79j105PuFRYH14Wc0j3HO7uQmhVFAsRfX6JFfIPZF4X3-1VG86OJg-qT0XMGFDhY99NRuzRx2QJ9FKgGl__GJhIUc80VaU4t9NmaHgnGcOR4W",
+                    "width": 805
+                }
+            ],
+            "place_id": "ChIJiwAf0ZI6pg0RavmzfWUFJ6Y",
+            "rating": 2.4,
+            "reference": "ChIJiwAf0ZI6pg0RavmzfWUFJ6Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 143,
+            "vicinity": "Aéroport Mohamed V، Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.858904,
+                    "lng": -13.8350443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.86019147989272,
+                        "lng": -13.83374427010728
+                    },
+                    "southwest": {
+                        "lat": 28.85749182010728,
+                        "lng": -13.83644392989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "enterprise rent a car",
+            "photos": null,
+            "place_id": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "rating": 4.0,
+            "reference": "ChIJ31CmTDg3RgwRALdMPG6BqsQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Estacion Maritina De Playa Bla, Calle la Lapa, 35560 Playa Blanca, Las Palmas, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,806 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7268101,
+                    "lng": -5.9144849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72822712989272,
+                        "lng": -5.913161520107279
+                    },
+                    "southwest": {
+                        "lat": 35.72552747010728,
+                        "lng": -5.915861179892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS®",
+            "photos": [
+                {
+                    "height": 536,
+                    "photo_reference": "ATtYBwKC6gM4L-j1g9ZPqHFPWRhS4JowQMWQreuP4J9J7Rl0-hjx0LjzaP5_-35l2mhJZuPafunr314pbsy9JM5mVCE8aP9VzwaNase00j4JgLYGoBLAFUb9bMwZeDJS9z1AbJjp-JYjY7A0WWiG6iZbxCcSinGbIzKbqYgdyI1u0UN9QRQq",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJ3ZGkzc2JCw0RtdGd5fay_8U",
+            "rating": 4.8,
+            "reference": "ChIJ3ZGkzc2JCw0RtdGd5fay_8U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 95,
+            "vicinity": "Aéroport de Tanger-Ibn Battouta، Tangier, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1926164,
+                    "lng": -6.1539186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19399737989271,
+                        "lng": -6.152563170107277
+                    },
+                    "southwest": {
+                        "lat": 35.19129772010726,
+                        "lng": -6.155262829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sebtaoui Rent Car",
+            "photos": null,
+            "place_id": "ChIJDUXX0VXPCw0RwDnW4NXzAoE",
+            "rating": 0.0,
+            "reference": "ChIJDUXX0VXPCw0RwDnW4NXzAoE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Boulevard Malik Ibn Morhil, Rue Ibn Khaldoun, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.189909,
+                    "lng": -6.149667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19124592989272,
+                        "lng": -6.148316070107278
+                    },
+                    "southwest": {
+                        "lat": 35.18854627010727,
+                        "lng": -6.151015729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Locadev rent car - location voiture larache (alquiler de coches larache)",
+            "photos": [
+                {
+                    "height": 600,
+                    "photo_reference": "ATtYBwLO7akHiZh4PTRPbITrrz4aMWls7ciSOkNbD6vup2C_gMQbnOm9VDH0DR6A7qBWunsOYcKWLKnwTABT0-obUGqgBkCLZe_Vg0tE9jeA7GXgK5wgRYmOwOxdAYrPeaSPmMFlvqONUdVTq2MoPSL7kWJPwfEpyv0n5nbrnb5wNTGu5lQi",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJLzCPZCrJCw0RfY_gLnXkZxo",
+            "rating": 4.7,
+            "reference": "ChIJLzCPZCrJCw0RfY_gLnXkZxo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "34, Avenue Ahmed el Mansour Eddahbi, Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1904571,
+                    "lng": -6.1491634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19175717989272,
+                        "lng": -6.147814770107279
+                    },
+                    "southwest": {
+                        "lat": 35.18905752010728,
+                        "lng": -6.150514429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LARA RENT CAR ( location voiture larache)",
+            "photos": [
+                {
+                    "height": 422,
+                    "photo_reference": "ATtYBwIV9taJOd406rZKZVlSiVkYXwMW3lN3OQ-zSebP5HBfayByIkFe_V5sFGUZXFHH4wlHlPoWqjG4X3Y-hGcTaSv_Fylg-FknC73FXTCkwtDtKf0cBaskrHrZ_JeMKOtpn8V3i_GOJSxYfdLQEaL3imt7z4DlAq2vvBsoEJ2yk2ZObBDZ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJe3wxcSrJCw0RpYw0v2iWFi8",
+            "rating": 5.0,
+            "reference": "ChIJe3wxcSrJCw0RpYw0v2iWFi8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Avenue Youssef Ibn Tachfine, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7256487,
+                    "lng": -5.912872699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72729157989272,
+                        "lng": -5.911558520107278
+                    },
+                    "southwest": {
+                        "lat": 35.72459192010728,
+                        "lng": -5.914258179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "surprice car rentals Tanger",
+            "photos": null,
+            "place_id": "ChIJH3RvIxaJCw0Rz50rXRUIJJ8",
+            "rating": 5.0,
+            "reference": "ChIJH3RvIxaJCw0Rz50rXRUIJJ8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hay EL jadid N 23 Dar, Tangier 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7148163,
+                    "lng": -5.905770400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.71611897989272,
+                        "lng": -5.904453520107278
+                    },
+                    "southwest": {
+                        "lat": 35.71341932010728,
+                        "lng": -5.907153179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS®",
+            "photos": [
+                {
+                    "height": 365,
+                    "photo_reference": "ATtYBwISiWhPpGjInEGU4GLHWab2o09m6PTewVEWV01zu5-wREx4IOLTpmLlcoljJ_r1aDFcrFkq2sCkoansJous8En45AE1CnZDzwSd0uaw4gxthOHNRMn9H7liGYqC3EzGMreus-cCGQoi2S_SmVS_EQc-SUh0xwscua0t23--YbS8aFs5",
+                    "width": 751
+                }
+            ],
+            "place_id": "ChIJyTTYgu6ICw0RrY6vaQ3HeXA",
+            "rating": 4.7,
+            "reference": "ChIJyTTYgu6ICw0RrY6vaQ3HeXA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Lot 84 A, Zone franche boukhalef, Route de Rabat، Tangier, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7675545,
+                    "lng": -5.8073216
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.76892907989272,
+                        "lng": -5.805995820107277
+                    },
+                    "southwest": {
+                        "lat": 35.76622942010727,
+                        "lng": -5.808695479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Partnership rental car",
+            "photos": [
+                {
+                    "height": 4128,
+                    "photo_reference": "ATtYBwJd9_4316SZubOfF4Jo5VBQwAXkpc0mmeceOyrqSeIcHqI009qwJstwyoerBrnZ5QA23EyTrRlw75jKVt8YFKp5ZR6PZgyoS5Bqh1MRsq35B75rkdMPCRmlNUh8sUFt2f4mfDlPe3rKGKAkAamA1AEJYqwuDO2hX0zSzFTmTHQuvMBS",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJ6zjJL1CBCw0R5Ty54AB6vS8",
+            "rating": 5.0,
+            "reference": "ChIJ6zjJL1CBCw0R5Ty54AB6vS8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Avenue Moulay Ismail, Tanger 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7719677,
+                    "lng": -5.7986418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77333507989271,
+                        "lng": -5.797246720107277
+                    },
+                    "southwest": {
+                        "lat": 35.77063542010727,
+                        "lng": -5.799946379892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Montreal Rent Car Tanger",
+            "photos": [
+                {
+                    "height": 1418,
+                    "photo_reference": "ATtYBwIIl0f8obpAPhoSrc-MSS4kToAmrcFRjVDnpzQlnUMana-OW9IqUXL1pwpXy033JRQKo2gToyiQVfGD271VH3x73dXK9nJk9kCXLmx7S0TtX2Zog8O9Ms-sqZfSH7DHymEaeA3A8S7SC5CeVB7tqdNG6Vti1f4FDWLcao3Lw1qlTa4x",
+                    "width": 2118
+                }
+            ],
+            "place_id": "ChIJAX8G4qaACw0R_jjq6E5XAK0",
+            "rating": 4.2,
+            "reference": "ChIJAX8G4qaACw0R_jjq6E5XAK0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "24 Rue Liban, place Mozart à coté de l’école 3G, Tanger 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1636432,
+                    "lng": -6.1415422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16498502989272,
+                        "lng": -6.140192620107278
+                    },
+                    "southwest": {
+                        "lat": 35.16228537010728,
+                        "lng": -6.142892279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LUKUS RENT CAR",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwKNTZITDcPcCWYKVWwEmBKHPcrpSlSLgtDseBvdIhUQjM-oiSrZp78CL-H2qs4SNO5nn3hkQKe-7mXmhHRWxY7S8jO8qeTGoqTaelIt8h-yDXcGBxrakaBOwjJuYoqV5XLPUrHaJtJjdMb535uEB-zI0-bhIK8ZgxRI8NNwm-MYLLBL",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "rating": 4.3,
+            "reference": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.726032,
+                    "lng": -5.912094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72751057989272,
+                        "lng": -5.910934720107279
+                    },
+                    "southwest": {
+                        "lat": 35.72481092010728,
+                        "lng": -5.913634379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dollar Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwK0-OQy1ueQWU0T_icOhszIpfVEVy_Rfn6FqZnrgv8NKxdIPy6-4TzYNQ8c_Y0L6FrbgdSw8VxWtdku5b-IlsC1UtjeQjoUOt2PchjIbpl1h97KVyI7NjVo9og1JilYw4jo3fN-e07YWKGFJczTv1dfDSLklpVa7vnmBcwjoeo7WdCA",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ6aErpb6HCw0RruHtcInKZMc",
+            "rating": 0.0,
+            "reference": "ChIJ6aErpb6HCw0RruHtcInKZMc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "TANGIER, AP 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7748599,
+                    "lng": -5.781499999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77619847989272,
+                        "lng": -5.780145070107278
+                    },
+                    "southwest": {
+                        "lat": 35.77349882010728,
+                        "lng": -5.782844729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJ5KadXWiVvSrqe0pqHK3Iwt6E1OqLV9XbO__domJnjcvxbed1EUwWkoFWVYTpu4PiE0xTkgT2xdfos22GMgTaE3ZPstDIC3SOpdNHzo2JReoa1_sgUD5JjQkSur68xtp05OL73tYRP3qYQ_zqvNkgIKm9Ldsq017z_2TbPaOOx2P9n",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJDzGdoBSBCw0RW3KkqLWMJRU",
+            "rating": 1.0,
+            "reference": "ChIJDzGdoBSBCw0RW3KkqLWMJRU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "36 Ave Mohammed V, Tangier 90000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7259942,
+                    "lng": -5.9152247
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72757752989272,
+                        "lng": -5.913604170107278
+                    },
+                    "southwest": {
+                        "lat": 35.72487787010728,
+                        "lng": -5.916303829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIhL2TNkQxjKZZ41NCihR5zCSPKBTPwGPvjR5KuUpc6a95IV9BfdQKf5dT1bLBsOGXtYGHACVUlrEA3Kox0A1YgI6xL_nFWytBTkKgiOES1mmJbukv3TL9BxWGFvRWGLOauSCsTUbSRhTsa7KkVyI3Pd3BzWK43qtqHtBCDlN0oNTFg",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJVVVV0omICw0RUmvRKd19n1I",
+            "rating": 3.8,
+            "reference": "ChIJVVVV0omICw0RUmvRKd19n1I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Int. Airport, Tangier 90032, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.726819,
+                    "lng": -5.912925
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72818917989272,
+                        "lng": -5.911577670107278
+                    },
+                    "southwest": {
+                        "lat": 35.72548952010727,
+                        "lng": -5.914277329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Luxury Car Rental | Tanger",
+            "photos": null,
+            "place_id": "ChIJUY_8vXCJCw0Ri5TpT-vRXKM",
+            "rating": 0.0,
+            "reference": "ChIJUY_8vXCJCw0Ri5TpT-vRXKM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Route Aeroport, Tanger, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.726033,
+                    "lng": -5.912151
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72750147989272,
+                        "lng": -5.910973270107278
+                    },
+                    "southwest": {
+                        "lat": 35.72480182010728,
+                        "lng": -5.913672929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIxscgKNoMtnGGzr75EAej1_tOKcDhn7nXBn2VtsUZIFYrAROl_7XY4LmX-E2JTtNgWhaVpb5W13IapkEqe4fikU7IkoJCarDUnUJ8baMs6vWbEzvL8dkFvn2-rmHjwZD02ryrD83jupQNSm7z1z3RhiWsh5nKsdjoIjvSmN5ZVVQAq",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJVaUnM7SHCw0RAhPkpXObA5s",
+            "rating": 1.4,
+            "reference": "ChIJVaUnM7SHCw0RAhPkpXObA5s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "TANGIER, AP 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7754192,
+                    "lng": -5.8002452
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77684692989272,
+                        "lng": -5.798899670107278
+                    },
+                    "southwest": {
+                        "lat": 35.77414727010728,
+                        "lng": -5.801599329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LUXE CAR RENTAL | TANGER",
+            "photos": [
+                {
+                    "height": 388,
+                    "photo_reference": "ATtYBwKbZtmMLy4u1aEDr2NSWw6--yZZzAybGHZAXqBSy9__xPAu7t2dceg31oPLm1tZlupo5RRWzysSicLiAWrUgoGNMI_NKYlRv-0YrGWWD7oQoTwvxCqR10GUU9Krx9jvQpcVQoLGy5ypSAJRPQJlcXK_cwG2KP0LYSUVmREryvaCxY4",
+                    "width": 693
+                }
+            ],
+            "place_id": "ChIJI8ovsSKBCw0Rjz2LJUALwkc",
+            "rating": 0.0,
+            "reference": "ChIJI8ovsSKBCw0Rjz2LJUALwkc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "90000, Tangier, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7715194,
+                    "lng": -5.785931
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77291542989271,
+                        "lng": -5.784484570107277
+                    },
+                    "southwest": {
+                        "lat": 35.77021577010727,
+                        "lng": -5.787184229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Tanger Railway]",
+            "photos": null,
+            "place_id": "ChIJG-peXEqBCw0REGrOyndka_0",
+            "rating": 0.0,
+            "reference": "ChIJG-peXEqBCw0REGrOyndka_0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Gare de, Avenue d'Espagne, Place du Maghreb Arabe, Tangier 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7729233,
+                    "lng": -5.7991323
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77426207989271,
+                        "lng": -5.797818820107278
+                    },
+                    "southwest": {
+                        "lat": 35.77156242010727,
+                        "lng": -5.800518479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Monaloc Location voiture Tanger",
+            "photos": [
+                {
+                    "height": 1080,
+                    "photo_reference": "ATtYBwIKPAHEGoSQ_bxc7XW20ccN5oCyylHkLvhJUsUogf-uqbQ67dPzHS78VkKexhChqVKxWz8qdAfaIzZumvnMescpLgGa0J8go7CqaqUMaVEuUuqtWl8cRmTZO0q4Q6wyJgL46SPH56candZAAXPiKRYlDSbbHz65fUhNN-q5QXKQeZLv",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJezM3cNGBCw0RjBQYRQPA34o",
+            "rating": 5.0,
+            "reference": "ChIJezM3cNGBCw0RjBQYRQPA34o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Rue du Liban, Tanger 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7266895,
+                    "lng": -5.914942
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72803537989272,
+                        "lng": -5.913509970107278
+                    },
+                    "southwest": {
+                        "lat": 35.72533572010727,
+                        "lng": -5.916209629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AIRCAR - ADA",
+            "photos": null,
+            "place_id": "ChIJTzS2La2JCw0RpKF8l5ML0pU",
+            "rating": 5.0,
+            "reference": "ChIJTzS2La2JCw0RpKF8l5ML0pU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Terminal 1, Ibn Batouta, Tangier 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7260595,
+                    "lng": -5.913801299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72750567989273,
+                        "lng": -5.912461220107279
+                    },
+                    "southwest": {
+                        "lat": 35.72480602010728,
+                        "lng": -5.915160879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence diRENT",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJhwM_ma4TNl4OHspARE_L4OkOWAc7dteJORdKw8eRa-sY2yB6QOVdaIIhIU55m8JCIyYUtTUcGd_nEV9MEzaIFY2i0BhESU8Wr0me0_OZ-rR3km12KAZgcy4AfJzU-rwGXvVGuZXMcYVQkjsaOH-gxOJST0B3RedOUAey_GAMQTipU",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJAQCyoWKICw0RmAiCEi08Ot4",
+            "rating": 3.9,
+            "reference": "ChIJAQCyoWKICw0RmAiCEi08Ot4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 51,
+            "vicinity": "aéroport IBN BATTOUTA،, Tanger, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.726024,
+                    "lng": -5.9123335
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72749567989271,
+                        "lng": -5.911065870107278
+                    },
+                    "southwest": {
+                        "lat": 35.72479602010727,
+                        "lng": -5.913765529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty",
+            "photos": null,
+            "place_id": "ChIJX4QA94qJCw0RVM9kwmtFgMk",
+            "rating": 0.0,
+            "reference": "ChIJX4QA94qJCw0RVM9kwmtFgMk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Aéroport Ibn Battouta, Tangier 90000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5238193,
+                    "lng": -5.1212439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.52513527989272,
+                        "lng": -5.119863770107278
+                    },
+                    "southwest": {
+                        "lat": 33.52243562010728,
+                        "lng": -5.122563429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Rahoui Location Auto",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwLr7Fb24Lj1OaAXmoZlYG4SdB1DSOJWlFt-mxpJZWDNshqQgbiI5SE4rb04ywalcU6Uao57LSpAZIyB7gu4YTdgvW_mOb4nQFcu70X91Br4W75wI_UTHMU8mHV4iOky4ANOLn6hrdWqSABaDIYSjLtRcMZnrgc7NdQk9-FJ31DBEYKP",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJKzWaDWjXoQ0RusGrIFBbdwk",
+            "rating": 4.0,
+            "reference": "ChIJKzWaDWjXoQ0RusGrIFBbdwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "N°3 Résidence Amine Hay Biranzarane IFRANE، Bd Moulay Abdellah, Ifran 53000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.445935,
+                    "lng": -5.229409
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.44725937989272,
+                        "lng": -5.228113620107278
+                    },
+                    "southwest": {
+                        "lat": 33.44455972010728,
+                        "lng": -5.230813279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "IFRANE SUISSE CAR location de voiture",
+            "photos": [
+                {
+                    "height": 1371,
+                    "photo_reference": "ATtYBwIc99nXmfMNHZrm2k8U37j7vRnnlpNztOkOhE23KEZ7gfPckg0Bxp3kGs7Zij1cwe4ZNQuIKo6j1PRSejQZPPxDAPWHXMIyBFJdl_VcTHRr6qM1Mb94DNSrPpubhQiO_CDt8RLY6dymlQ7dv_e0ZIA8HRVDn6QC__XuNr1PsAYnu68",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJq6ZngMvEoQ0RwlRN9QHsLLY",
+            "rating": 4.1,
+            "reference": "ChIJq6ZngMvEoQ0RwlRN9QHsLLY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Azrou, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.4451014,
+                    "lng": -5.2238326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.44645457989272,
+                        "lng": -5.222475120107279
+                    },
+                    "southwest": {
+                        "lat": 33.44375492010728,
+                        "lng": -5.225174779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "chellaf azrou cars",
+            "photos": [
+                {
+                    "height": 507,
+                    "photo_reference": "ATtYBwJ5jbbHTH2rCzn1tJjmNiesmDtOkHsUn-lU1hcOtCehw1eE5MWR5vb1GEOn3ih5gW5Us-ow2PJSBG6Ch8jXd5cK6c81L3FBnhYrraklbu3ggMl4G9__DiDioo5bkQ6E8CtAN8xD_jOscgZIDxyQ5-GB6B-TU04ypH9j_QXfhpJxck-b",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ1bsXYTTboQ0R18J-qURNZDk",
+            "rating": 4.3,
+            "reference": "ChIJ1bsXYTTboQ0R18J-qURNZDk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "rue, Azrou, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.4427194,
+                    "lng": -5.22471
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.44410042989272,
+                        "lng": -5.223295270107278
+                    },
+                    "southwest": {
+                        "lat": 33.44140077010728,
+                        "lng": -5.225994929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "NASSIRI CAR",
+            "photos": [
+                {
+                    "height": 308,
+                    "photo_reference": "ATtYBwJm-hSqiuM5zIDls5akUsdGRHyPKz2F_WkBLKzcG86B-5K_7mu6wccwK8xGgTCIfrTRs-AsSz1ckCCCxEpPwr9zXcJOn21E-_r31DssVvNgJh5P1jxfvWrZbJkSuLqIakIeq4v7LnQzRa--aAGklPkStHmoiQ-yylmdiLQ2obTBF2KK",
+                    "width": 617
+                }
+            ],
+            "place_id": "ChIJGXrJw-7boQ0RCg_CzrHGQpw",
+            "rating": 5.0,
+            "reference": "ChIJGXrJw-7boQ0RCg_CzrHGQpw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Nakhil 1, N°78, Azrou 53100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.036827,
+                    "lng": -4.9976181
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03817312989273,
+                        "lng": -4.996319970107277
+                    },
+                    "southwest": {
+                        "lat": 34.03547347010728,
+                        "lng": -4.999019629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rami Rent Car",
+            "photos": [
+                {
+                    "height": 306,
+                    "photo_reference": "ATtYBwLZaN7c_Ft-g-AhPq3TUa4f0kMu8qjjj83KxOWBcjueiIeRKClW99_bD3w6gmYXS42k8kJjjtb9iPrrV8X_gfJaJx4D9kxwvMsf8J5b0iWfiCJJ0rE8wQJiwJ9sMy7qNBLWAehoBroX8Je5yYgGaAwEiakD2ijp02TJ1fMffI5kxTlh",
+                    "width": 460
+                }
+            ],
+            "place_id": "ChIJoXvJpUCLnw0Rg2dc3muOLfg",
+            "rating": 4.2,
+            "reference": "ChIJoXvJpUCLnw0Rg2dc3muOLfg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 27,
+            "vicinity": "Fes 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

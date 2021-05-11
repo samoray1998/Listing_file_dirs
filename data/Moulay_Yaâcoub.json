@@ -1,0 +1,46 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5938191,
+                    "lng": -7.6294087
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59520727989273,
+                        "lng": -7.627990520107278
+                    },
+                    "southwest": {
+                        "lat": 33.59250762010728,
+                        "lng": -7.630690179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "tqri-cars",
+            "photos": [
+                {
+                    "height": 1156,
+                    "photo_reference": "ATtYBwK7TZagfq8VFSXtcN3Eml8SSVgnNw_rTpfpYFv0OE3BmQYz7Ze340cDcDxUP05PU9dETouZKyC-Ub4OSWlP2KMK8u3WF0pVV-zC2JeU1LlHw19AmtfjRKI-JCivPyh7e4LwbhnGFQlW77JGMM3U6UnsAl8MMpueZKjMQigTazk3i3aC",
+                    "width": 2720
+                }
+            ],
+            "place_id": "ChIJW9ecbpLSpw0R3ujbuN8JoBs",
+            "rating": 4.5,
+            "reference": "ChIJW9ecbpLSpw0R3ujbuN8JoBs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "tqri-cars 23,galerie rouya angle Bd anfa et Bd mly youssef Casablanca، Casablanca 20070, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

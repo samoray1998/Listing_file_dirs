@@ -1,0 +1,703 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5238193,
+                    "lng": -5.1212439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.52513527989272,
+                        "lng": -5.119863770107278
+                    },
+                    "southwest": {
+                        "lat": 33.52243562010728,
+                        "lng": -5.122563429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Rahoui Location Auto",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwLXJKWOPv4r3aOWvp5ZOVl7bd6tL0sXPL0c-sbWSay7MWFdMkN6iFws8cn3qvvfB8MNOZDSUQUBTE8F_Y8PgTQVKrezTrklckBxY1TS3KNQAEBcw9S8NVhjA8oYlpA2MyFLHXFo3aydHH3bUVmCEfRO67ZE9sgFSMv5J_ISWm3-tQgY",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJKzWaDWjXoQ0RusGrIFBbdwk",
+            "rating": 4.0,
+            "reference": "ChIJKzWaDWjXoQ0RusGrIFBbdwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "N°3 Résidence Amine Hay Biranzarane IFRANE، Bd Moulay Abdellah, Ifran 53000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.4451014,
+                    "lng": -5.2238326
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.44645457989272,
+                        "lng": -5.222475120107279
+                    },
+                    "southwest": {
+                        "lat": 33.44375492010728,
+                        "lng": -5.225174779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "chellaf azrou cars",
+            "photos": [
+                {
+                    "height": 507,
+                    "photo_reference": "ATtYBwKGTVMvoMUy4pl3kkYlXISRo7Xu1BN0mBShAKW94BJkCQ2M_8IMCoxmCCs-8_rFUU9IJVvW8dK9C_fjy4JTzFYlHKq1MgMci3QVjz5j_c1O8RuFV3V56Sm9AWw7fTJI7S55NmUjvITnEOJG8-Y01wJ6Y9OxMWewycWW1eQDF40HQ3x8",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ1bsXYTTboQ0R18J-qURNZDk",
+            "rating": 4.3,
+            "reference": "ChIJ1bsXYTTboQ0R18J-qURNZDk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "rue, Azrou, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3440221,
+                    "lng": -6.3414787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34535642989272,
+                        "lng": -6.340048020107279
+                    },
+                    "southwest": {
+                        "lat": 32.34265677010727,
+                        "lng": -6.342747679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auzia Car",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwK9cqgIYHvx3ZoHczafl3ih05jDestwGsDF5JkwYhNFLzDxtxjLUbwr0eXWGS5AouNI2cESGnFU_FhjZqKyzwQZtUjN0acbG93PI-NrOlZ3atZMEMSUjsfwDcK_2IPD9P4rDOZLGXyYUKY6WerDOpDJX4KoXfh8hKjbW5Ni9OSDO_tF",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "rating": 4.5,
+            "reference": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Boulevard Mohammed V, Dyar Al Atlas, Immeuble 6 ,2 eme etage , appartement 8, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwKqheiwkuO_wPbKaxS8No_KEreXzhoVLP1ggejvdNOwyVEFBPdcZSca083ofomapUdwOU8VjW-hvKTNwKD4uVnj73Sflz8GEDg_sRsq5gghDUxBZXovKkqisy57KvI83KZ4ZVScwaS0OTExft1Ty9eqeZ4NptDH--eRQNxWGYqjlIXy",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4993315,
+                    "lng": -5.5301849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50070337989272,
+                        "lng": -5.528837520107277
+                    },
+                    "southwest": {
+                        "lat": 31.49800372010728,
+                        "lng": -5.531537179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Assoufghe car",
+            "photos": null,
+            "place_id": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "rating": 0.0,
+            "reference": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "230, Tinghir 45800, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8257714,
+                    "lng": -4.8268957
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.82711587989272,
+                        "lng": -4.825547370107279
+                    },
+                    "southwest": {
+                        "lat": 33.82441622010728,
+                        "lng": -4.828247029892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ste Najem Kachaou Car",
+            "photos": null,
+            "place_id": "ChIJAQRuQWGbnw0Rts05flDKzwY",
+            "rating": 5.0,
+            "reference": "ChIJAQRuQWGbnw0Rts05flDKzwY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Nr 215/3 hay riyad sidi boumdine, Route d'El Menzel, Sefrou, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2693991,
+                    "lng": -4.48797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.27074367989272,
+                        "lng": -4.486610620107279
+                    },
+                    "southwest": {
+                        "lat": 32.26804402010728,
+                        "lng": -4.489310279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voitures Er-rich car",
+            "photos": [
+                {
+                    "height": 536,
+                    "photo_reference": "ATtYBwI4HCUGC_o4i6VUhkSqLzAoLJqlGA0hFXgPgZ7PIhactnA4qSMVb39CIOK6wiH-jAmlZC6F83FZwU2n4NEfdYfHEelWM7hSb52XaTqkzmhjqHXGZeqlE8yqI2tRZ39w7CUcnHPRL8X1Cl754W2t5EgQnGwhvux1raHH_S4cFudqCX6y",
+                    "width": 953
+                }
+            ],
+            "place_id": "ChIJL6ngAY1XmA0RPUJRczYQRGU",
+            "rating": 5.0,
+            "reference": "ChIJL6ngAY1XmA0RPUJRczYQRGU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "lotissemen ziz n 111, Rich 52400, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2578923,
+                    "lng": -4.5049474
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.25924567989272,
+                        "lng": -4.503597470107278
+                    },
+                    "southwest": {
+                        "lat": 32.25654602010728,
+                        "lng": -4.506297129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "OUMECHTAQ CARكراء السيارات",
+            "photos": [
+                {
+                    "height": 815,
+                    "photo_reference": "ATtYBwKUkfvrl1fNK_YWhzScTWmdTmwMVL3yPXJKprCAxChVOV1uRAdlYbTly6C60jBLeiiy8ijPqEwG67kJM5VxYMpqg6ed9TpH5JiTPXtsbpcrksbt0s9UFt-FBx5isLy55BP4eoHRtl1A3dHPV76ak8E9hlg5uiCEW2anOcnPxpHH_eCa",
+                    "width": 581
+                }
+            ],
+            "place_id": "ChIJWRJMiopXmA0Rw7uhcSVc_W8",
+            "rating": 0.0,
+            "reference": "ChIJWRJMiopXmA0Rw7uhcSVc_W8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "N°32 RUE TARIK BEN ZIAD, Rich, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1652534,
+                    "lng": -6.1457603
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16659827989272,
+                        "lng": -6.144387720107279
+                    },
+                    "southwest": {
+                        "lat": 35.16389862010728,
+                        "lng": -6.147087379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rental Road",
+            "photos": [
+                {
+                    "height": 1200,
+                    "photo_reference": "ATtYBwKHqoq3Rmj7ZeFRf1wa8JuPXV2w-NAVKriiwO9k_z3e4R0TdGaJtal4j-ISk6jFCkTvolr-KbZmi4XApgbW46bLSXq1wvNO8VOQX2Ra_0dg-VF-jRiOB6ozXmYDvDy-5MwEReJ3A8R_yTnZHd9ES4VsrVWGMDV69svGAByWlSmskhG7",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJh8gjOFvJCw0RA8n4wA5sr3M",
+            "rating": 5.0,
+            "reference": "ChIJh8gjOFvJCw0RA8n4wA5sr3M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Lot Chaabane 1 N°54, 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4673488,
+                    "lng": -8.8808598
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.46869847989272,
+                        "lng": -8.879493920107278
+                    },
+                    "southwest": {
+                        "lat": 30.46599882010728,
+                        "lng": -8.882193579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hinouche car",
+            "photos": [
+                {
+                    "height": 261,
+                    "photo_reference": "ATtYBwKH2p5WPW7AD9JGlBKLpQK2RH4amuHuqkk-bspMz4cwbFjJfKskXvvbXL8lArhvkHGVywF3B8DEqy_8N5JQlSjnoASwFXRHyLftRuuUfOGnx6FYBUyI7ddjBCOYceolXzUYXwmfpY7lEdDKHFsTQgMMDlvd3Ys3PLbEW_Fz6cubbaXW",
+                    "width": 463
+                }
+            ],
+            "place_id": "ChIJR-YkP65zsQ0RUgY-CXWoyRc",
+            "rating": 5.0,
+            "reference": "ChIJR-YkP65zsQ0RUgY-CXWoyRc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Avenue Al Quds, Taroudant, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.1557013,
+                    "lng": -5.3505861
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.15704992989272,
+                        "lng": -5.349270420107278
+                    },
+                    "southwest": {
+                        "lat": 36.15435027010728,
+                        "lng": -5.351970079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Linea Concepcion",
+            "photos": [
+                {
+                    "height": 2988,
+                    "photo_reference": "ATtYBwKWc6Mc1Hx4N26mnAynd7vTfqVTiBLKzKKBk0XPCZwLGlxA-E41_XdFO7h5HwQe1sdF0spCTGd6ga3bWRZb4990pL3SoUA9Jm_huD285o-pjoF7Hq90cIO1KseQY6d23ovlp69h3377PvgEvikEGDdb5vFGHiF8TxrZemdeV621YSak",
+                    "width": 5312
+                }
+            ],
+            "place_id": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "rating": 2.7,
+            "reference": "ChIJm5jPAi3BDA0RsOVgpdtbojI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "Office In Terminal Gib Airport Pso Maritimo 2 Pk, Pje. Sta. Barbara, 11300 La Línea de la Concepción, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.3519941,
+                    "lng": -6.1640112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.35341572989272,
+                        "lng": -6.162514920107277
+                    },
+                    "southwest": {
+                        "lat": 36.35071607010728,
+                        "lng": -6.165214579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwIJfqWKIP4nurpHiHOFuxv2Ymr6Ov1jt8G9df5KiIdd-HcadXgbiBElF_qVNo_qXvPFwwgnTkkQSbi86RZRQlvl67us-i7quYYK2HES9-q8C29bKePwcPnHyBfX51C9JZ2CVV1ESiAI7LuAF29U-hV8zhuoex35gjHKQYJ9vMzhXTFC",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "rating": 4.2,
+            "reference": "ChIJG1GBgkgWl7ERv6LR1JmsQM8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 19,
+            "vicinity": "Calle Asdrúbal, s/n, 11139 Chiclana de la Frontera, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.126583,
+                    "lng": -5.444541
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.12793227989272,
+                        "lng": -5.443151770107279
+                    },
+                    "southwest": {
+                        "lat": 36.12523262010728,
+                        "lng": -5.445851429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Algeciras",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwJ8DpXKVsfez5fkKjPaRIPY_nxsznmori5_7chwzaJ-ayQc1PzmK7ziyJ4iurc_iZZ_LMA039G3KoTy_ThboGmx7oYkrtHv4cvV0Y_tixk1tDqEzko3BfMQJd2gREy8HfYwvKCtrLbFOXZcSaCQ1UCpg06Hav6LB_ID2fprWI2gPml7",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "rating": 3.5,
+            "reference": "ChIJR0b2-NqUDA0Rk5E5YKOQY50",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 100,
+            "vicinity": "Av. Villanueva, 3, 11207 Algeciras, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.292796,
+                    "lng": -5.2995
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.29414582989271,
+                        "lng": -5.298150170107277
+                    },
+                    "southwest": {
+                        "lat": 36.29144617010727,
+                        "lng": -5.300849829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de coches -Sotogrande",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwKCgGuPOlik_KaQZlA-HVcr4-BLWiFl30auzY4vj_tUwgvF1ePp-6w9yj6ldvfC6sotfFfSihVPv2tYYqEJQXCz7Ep_PGJmazPKs2NaHie6yadLR4B4_eDUwxqr1vJaL449cN2331fTU_itUo3lCjluT_9a1et0sVVAXWWbZeRMUBxQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "rating": 4.2,
+            "reference": "ChIJh9LngJnEDA0RsD0-8-Pa_dY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Sierra Bermeja Sin Numero Pueblo Nuevo De, 11311 Guadiaro, Cádiz, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.7115942,
+                    "lng": -4.4321443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.71276907989272,
+                        "lng": -4.430692920107278
+                    },
+                    "southwest": {
+                        "lat": 36.71006942010727,
+                        "lng": -4.433392579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwJ_Uh4DITFCZcVLl51zO0zbg5pYbW6XlIFWlQT30bd9Dp0QEoRPt7GT1Q9WuPjeDRodDbP7-4r1rSAMiEfDHQUehl4r1Jnady-tpRenWL_lOwfOd3g2-WQj_n3CZ7XOZ6H8eKVSmhvjxrf-gjEpcGDm03pJNUGFDUqRbn0ZzRaP2YRC",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "rating": 3.4,
+            "reference": "ChIJCTO5upv3cg0R1PJ-tSYKVYI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Calle Explanada de la Estación, s/n, 29001 Málaga, Spain ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.76118,
+                    "lng": 2.987719
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.76255157989272,
+                        "lng": 2.989065429892722
+                    },
+                    "southwest": {
+                        "lat": 36.75985192010727,
+                        "lng": 2.986365770107278
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKFwHxzYsB7OdTcQlEqBFNpPwIbNhrA39ZdgY42jH7QSB5KbOqCLMsDTEL48eShNAUiQXi4ymyPXq6UUWTAxCtUesx_3g-x1NmyETD08AkQT0zBcWraGzbcZ00bJHFRK6_Oq2IdvZdf5KsQb0FIGWfOhN4ULbdbBmhlzgx72NWiVgj2",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJGW1CtgOxjxIRhjzlkv3ACbg",
+            "rating": 5.0,
+            "reference": "ChIJGW1CtgOxjxIRhjzlkv3ACbg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "VILLA 204 Bois des Cars 3, Dely Ibrahim 16003, Algeria ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 36.698103,
+                    "lng": 3.206851
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 36.69957857989272,
+                        "lng": 3.208192129892722
+                    },
+                    "southwest": {
+                        "lat": 36.69687892010728,
+                        "lng": 3.205492470107278
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIgKaAlvApD_aV5WfQWgWilLAQj3FrMc6sjyi2x0n8BKqzslS2SSqB5P1Zugbf_kOyoWH_GV5xJZvYPC52zmHptf1-rH-72lV73aTzKYxra8mWrpGavDLoNCOEm3FC1Hl4mTyOnu_2VGpZMhj8yxtUXiuSysNo_XlKvAryYO7VFk4cB",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ0x4b4Q9RjhIRx_UTXc7w3TY",
+            "rating": 0.0,
+            "reference": "ChIJ0x4b4Q9RjhIRx_UTXc7w3TY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "DAR EL BEIDA, AIROPORT 16011, Algeria ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

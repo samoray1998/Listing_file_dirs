@@ -1,0 +1,808 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9897331,
+                    "lng": -5.9073139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99099722989272,
+                        "lng": -5.905873620107278
+                    },
+                    "southwest": {
+                        "lat": 34.98829757010728,
+                        "lng": -5.908573279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HAJ BEN ZIAN CAR Location de Voitures",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwLlhYaE6jgbSP-m_UMkLGD5ww-tfEpSHF0Z2LhVS9FIAWStUqsIYcKZvZl3XU2K-rqGle3H57Lf4yskFtV4gYzyOKXbOhy-J0L05f5YAGVd-aQLjpf-P2hrMVlWF8GGd4DXwI2rylgZc7Hey6ESVABJSJz4D_5ne_x88IUNCdAExNed",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "rating": 3.6,
+            "reference": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Route de Rabat, Residence Ajyad,N°4, 1er Etage, Avenue 20 Août, Ksar El-Kébir, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.00001719999999,
+                    "lng": -5.906726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.00137437989272,
+                        "lng": -5.905351670107278
+                    },
+                    "southwest": {
+                        "lat": 34.99867472010727,
+                        "lng": -5.908051329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sofy Budget Car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwLmGA4JbWI2M1Uajv0-I-YgZh6ohcgALW5bIKc-Gkf2iSdLr-Ak9XXXRUTn-ttTzo2OnX8sKl7DVvB7ZG3SC0WNH0L99hISpfUhb9ZQol1C2CmitXHrtEKemjP2j_1vLS2qszrpbPDHa8NtkLCgPjS_bhbvx9SYP9k07IHmnnK5BqpZ",
+                    "width": 876
+                }
+            ],
+            "place_id": "ChIJjb5JKtZNCg0R2K8QhRccjuw",
+            "rating": 5.0,
+            "reference": "ChIJjb5JKtZNCg0R2K8QhRccjuw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "hay jadid n°:24، Ksar el-Kebir 92150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.189909,
+                    "lng": -6.149667
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19124592989272,
+                        "lng": -6.148316070107278
+                    },
+                    "southwest": {
+                        "lat": 35.18854627010727,
+                        "lng": -6.151015729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Locadev rent car - location voiture larache (alquiler de coches larache)",
+            "photos": [
+                {
+                    "height": 600,
+                    "photo_reference": "ATtYBwKFEJJojdEVi9F-EbqysYA_dCz98pJyyxNmN1TBYFutGKXolIw_v1AJXhzSI65qsFmNR14mQp6RVkB4Btl3lQMcUFWttnw4-uYTVVB0aeZrnKLj3MOfeaCQ_EcMXb4966hxP8vFSpDSy_9xWxNcqssSVmwCrgeRVTXxwNJyZ_l2GZg0",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJLzCPZCrJCw0RfY_gLnXkZxo",
+            "rating": 4.7,
+            "reference": "ChIJLzCPZCrJCw0RfY_gLnXkZxo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "34, Avenue Ahmed el Mansour Eddahbi, Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9976995,
+                    "lng": -5.9079999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99910082989272,
+                        "lng": -5.906629920107278
+                    },
+                    "southwest": {
+                        "lat": 34.99640117010728,
+                        "lng": -5.909329579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Badaoui Car",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwLfrPQzR-bTN570QljIgrzTWh77VL7jLXENUkpTBWf1FSiUimZRzsotIN8G2s9lWKbFzUZXceigjFQ5glMqCpKQn94kCFcPKoKWFoZiy9usVnpi9lKov404APqLhbvFPT-mMAYfW3MWPBG9AhYkq-mMADzVzacOWegxPzOcBVLetHli",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "rating": 2.4,
+            "reference": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Hay Andalous Groupe A Rue 14، 5 Bis, Ksar el-Kebir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1636432,
+                    "lng": -6.1415422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16498502989272,
+                        "lng": -6.140192620107278
+                    },
+                    "southwest": {
+                        "lat": 35.16228537010728,
+                        "lng": -6.142892279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LUKUS RENT CAR",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwI5LHMs2QzdaTIXX27aPOIDlfJdHkjzCguMJ3qYHt5J39yNbsvdsuggW74d1jf0iA86y34tfy8lHtz6vtvOHDP6G2Z80gJ8sJlyNt_cgLmJipbPhd3Kd8GeSZC6eZ8KwXjfG6bjdwn7HGsmcNxRZIxJkUcwaL2qrQqzE6x8l2YlkGCz",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "rating": 4.3,
+            "reference": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1904571,
+                    "lng": -6.1491634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19175717989272,
+                        "lng": -6.147814770107279
+                    },
+                    "southwest": {
+                        "lat": 35.18905752010728,
+                        "lng": -6.150514429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LARA RENT CAR ( location voiture larache)",
+            "photos": [
+                {
+                    "height": 422,
+                    "photo_reference": "ATtYBwI6r3Vsov7jkd43Df6j897kbRfsvzCuyAL1aaC_qJ_Iv91wGbJpN6FpA_6-Ozhw8uvAC3TZTXtg_0EHa2EmfR5-m3tsuxQfxAwLFApQF8RoRl-LYcU-3ZUQzWZj59qgdyjE6OA-PKjmpvZltMkYh9xTNe5cX8dDd7L38Y557VwWCWnD",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJe3wxcSrJCw0RpYw0v2iWFi8",
+            "rating": 5.0,
+            "reference": "ChIJe3wxcSrJCw0RpYw0v2iWFi8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Avenue Youssef Ibn Tachfine, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1927038,
+                    "lng": -6.1556026
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19407352989272,
+                        "lng": -6.154296920107278
+                    },
+                    "southwest": {
+                        "lat": 35.19137387010727,
+                        "lng": -6.156996579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "KARIM TOURS sarl",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwILU-IiiX6AnguGsrPtcJIQmp-Q5qsrAcajRxsyiKSAK9aQrUbwkBBDIylAiL6dXlHjBSkdqDEj-RpkMKatMlIZSZlU_zaqUyDJBqC6ZenxWfy56guSAcdrG97q19wlAN_kbOFSaoWPPvXKtYLvI9-wDNokrC60O0Ttw1Vl0xGMq3uh",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJf6YzICvPCw0RM4d9JHq82YI",
+            "rating": 5.0,
+            "reference": "ChIJf6YzICvPCw0RM4d9JHq82YI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "63 Avenue De La Résistance, Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1733133,
+                    "lng": -6.1521922
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17461872989272,
+                        "lng": -6.150855320107278
+                    },
+                    "southwest": {
+                        "lat": 35.17191907010727,
+                        "lng": -6.153554979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "rahim coches",
+            "photos": null,
+            "place_id": "ChIJ_YFCzk7JCw0RE0T-imc-I1U",
+            "rating": 0.0,
+            "reference": "ChIJ_YFCzk7JCw0RE0T-imc-I1U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Lot Al wafaa No 154 Avenue fsifsa، 92000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1793857,
+                    "lng": -6.1449194
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.18071757989271,
+                        "lng": -6.143738920107277
+                    },
+                    "southwest": {
+                        "lat": 35.17801792010727,
+                        "lng": -6.146438579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ramicar Larache",
+            "photos": null,
+            "place_id": "ChIJTS590jHJCw0Rp5gyYVOuAl4",
+            "rating": 3.5,
+            "reference": "ChIJTS590jHJCw0Rp5gyYVOuAl4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Avenue Omar Ben Abdelaziz, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1926164,
+                    "lng": -6.1539186
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19399737989271,
+                        "lng": -6.152563170107277
+                    },
+                    "southwest": {
+                        "lat": 35.19129772010726,
+                        "lng": -6.155262829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sebtaoui Rent Car",
+            "photos": null,
+            "place_id": "ChIJDUXX0VXPCw0RwDnW4NXzAoE",
+            "rating": 0.0,
+            "reference": "ChIJDUXX0VXPCw0RwDnW4NXzAoE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Boulevard Malik Ibn Morhil, Rue Ibn Khaldoun, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1712124,
+                    "lng": -6.149185399999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17254677989272,
+                        "lng": -6.147840270107277
+                    },
+                    "southwest": {
+                        "lat": 35.16984712010727,
+                        "lng": -6.15053992989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture larache",
+            "photos": [
+                {
+                    "height": 405,
+                    "photo_reference": "ATtYBwLKWYcO14FvW8kBP8C_DxpcMygE1YPB22Vp4Lb-2vNocUsV1Bbbw-Z-QVHTFq5I6xRgW1E0Gu1YeEWm2iGHoxnXah46zulnBrwwfAzs41Oy6R-tAGB2CBJga6XXjRxJD5F8zd4bK7IEm9ZclCuQQ5TeyaRuswxQvmRlyYvfu300FG0v",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJO7VyHjTJCw0RhcBx6s07WIY",
+            "rating": 1.0,
+            "reference": "ChIJO7VyHjTJCw0RhcBx6s07WIY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Unnamed Road, Larache, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1927095,
+                    "lng": -6.1547822
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19405712989272,
+                        "lng": -6.153424870107277
+                    },
+                    "southwest": {
+                        "lat": 35.19135747010728,
+                        "lng": -6.156124529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "STE BISTRA RENT CAR",
+            "photos": null,
+            "place_id": "ChIJHTooXxfPCw0RX0rT1QU_Ytw",
+            "rating": 0.0,
+            "reference": "ChIJHTooXxfPCw0RX0rT1QU_Ytw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue d'Algérie, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.999971,
+                    "lng": -5.900139999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.00132417989273,
+                        "lng": -5.898808120107278
+                    },
+                    "southwest": {
+                        "lat": 34.99862452010728,
+                        "lng": -5.901507779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location de voiturs كراء السيارات",
+            "photos": [
+                {
+                    "height": 1253,
+                    "photo_reference": "ATtYBwLMqzKy5QD5xBfHf4vIhpGadL3MVqdK3JOmxmDdDAPWeX5R2EvEk-IUetocZlShn5bh-nzWm9qcaMSNKtxdiSuMIAVeSI2ueBNZdEZAwMXgv8DunVQd7CDs9N-nf-VjQ8DLXs9wGBUAlM0qGg9gI7ZY6ZJ1xfBMSpjDY8Yn8-GH11jK",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJZ9qQdPZNCg0RUXnBuizp27U",
+            "rating": 4.0,
+            "reference": "ChIJZ9qQdPZNCg0RUXnBuizp27U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Ksar el-Kebir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1708487,
+                    "lng": -6.144247699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17219142989272,
+                        "lng": -6.143014270107277
+                    },
+                    "southwest": {
+                        "lat": 35.16949177010728,
+                        "lng": -6.145713929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lara SAZ Location de voitures",
+            "photos": [
+                {
+                    "height": 737,
+                    "photo_reference": "ATtYBwLpvUtTOtnl7y25_cmzApQkgCP_7w0DA5ztwQxivh9aeYmx0Fh2RSMkRBLSY3EMU5pO3ebolhDXf1gHQFyZHjntl9uIfHmznf54dLQny0tp-Ld5E-S08PIgwGEHIWV_2HxYMcq2lv9vE0zboOvfgiIgc_dJD6rA1yrivYuvYCGAkmCE",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ87528lTJCw0RtRNQfKB4asY",
+            "rating": 0.0,
+            "reference": "ChIJ87528lTJCw0RtRNQfKB4asY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "résidence Arrahmane, El maghreb el jadid Num 230, Larache 92000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1912806,
+                    "lng": -6.1561163
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19262152989273,
+                        "lng": -6.154769770107278
+                    },
+                    "southwest": {
+                        "lat": 35.18992187010728,
+                        "lng": -6.157469429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RGH Tarik Car",
+            "photos": [
+                {
+                    "height": 539,
+                    "photo_reference": "ATtYBwIrT5NXB6vNFXt7aR73HfiwHhxOawlvzN0goFfAppLDt0m5_aOQr67g3H2Kb5Pad-rOJAI75FfLozRp1xDtjT4Lm3fivTjOPurtplzscD5p8U89HjcyporFTu1C4iHg1Vtgb4Uy6GDT1gUv--VzLEpTXqKkNwqm4lqBjSbJWEpcW0BI",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJGROIDOvPCw0R7OFqgwpyE6c",
+            "rating": 5.0,
+            "reference": "ChIJGROIDOvPCw0R7OFqgwpyE6c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "وسط المدينة،, Larache, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.017246,
+                    "lng": -6.835067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01858067989272,
+                        "lng": -6.833680470107278
+                    },
+                    "southwest": {
+                        "lat": 34.01588102010727,
+                        "lng": -6.836380129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Car Rabat",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwLq6UNppLTEN_GuHJOes5iMNcR_sf5AdOfYQuxvnG_OTtt3wdiEj3PEUs5fsYjlHsXocOzkeVFYygpNwOo9UtxuZ5zPsI7liM9wdDiRkBRkE80AHwz-bzRXSIOx7Y3HCzV-KYGm4fK6lKx_5J7iO_o5iDN615bnQJRGEIVoRzBY5LZV",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "rating": 4.0,
+            "reference": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "12, Avenue Amir My Abdellah, Imm Balima V Bis, N23 C, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.778367,
+                    "lng": -5.807701
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77974347989272,
+                        "lng": -5.806315520107278
+                    },
+                    "southwest": {
+                        "lat": 35.77704382010728,
+                        "lng": -5.809015179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Abid Cars Agence de Tanger",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwIf-rAqcTXDOjGcIItwNV1vJyjhwYVqq8mUb1Q6xhTYgTwgXdn9dXjger8aBIaqibpP9waHwBkhJQst4BVemERJQ14LL592xMtnuImVdUTrUzlmAfyhhc9SZnCM_bMDsJWc99JIFGL0GgIld7WZg_Gdh_mTDugPJ94R3v5znJb4uANh",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJ31qzjFZ_DA0RnDAMmprbTO4",
+            "rating": 4.9,
+            "reference": "ChIJ31qzjFZ_DA0RnDAMmprbTO4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "40, Boulevard MED 5, Résd Dounia N4B, Tanger 90000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0365523,
+                    "lng": -6.748588199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03811037989272,
+                        "lng": -6.747274970107277
+                    },
+                    "southwest": {
+                        "lat": 34.03541072010728,
+                        "lng": -6.749974629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Rabat Airport]",
+            "photos": [
+                {
+                    "height": 410,
+                    "photo_reference": "ATtYBwIArV2sGdvhkkFNOHJFCUBdfjfvG8m9wTOhy40vW3cINwVx6d0lGiBS2fwhFj3dMAhXr7EtKZeeO6ycl_LSD_VCqa7_UBRBolieFgm4o4y6oCMVerXg7m9CMmNJAjcAfgvAgnAMTIc8MS8Gv1obpOaUI6MV_XpSdV-3XXsyuWUZMvoa",
+                    "width": 728
+                }
+            ],
+            "place_id": "ChIJe986Yg5qpw0RZxNlEbsf9y0",
+            "rating": 2.6,
+            "reference": "ChIJe986Yg5qpw0RZxNlEbsf9y0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "Aéroport Rabat-Salé، Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5837208,
+                    "lng": -7.636590999999998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58510997989272,
+                        "lng": -7.635195070107279
+                    },
+                    "southwest": {
+                        "lat": 33.58241032010728,
+                        "lng": -7.637894729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "1سيرفيس كار",
+            "photos": [
+                {
+                    "height": 675,
+                    "photo_reference": "ATtYBwJh9jHOXtnWM4O3hGcgUYMQytkncp8YHqHfvgrnvCkK54V8tYEg9V86qunDW1_ZHnpksnYbKYNFDsP8QFnIo_2MUEkArN2gciP8bNvDbUHn9jX_Ox3lmMoZLGkiFLYeyi8HGxkuNjdAX35XAtkxGcuT5QkQnwwNlma8G8RLx2mPH987",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "rating": 4.8,
+            "reference": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Galerie Familia, Rue Oussama Ibn Zaid, 1er Étage N°40, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.726032,
+                    "lng": -5.912094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72751057989272,
+                        "lng": -5.910934720107279
+                    },
+                    "southwest": {
+                        "lat": 35.72481092010728,
+                        "lng": -5.913634379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dollar Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJ8H3NNHidZrvnYL5tbeJpT4E6GLsxJRVhoqGaR0njRBPzboMAlelpNLVE6VDykgWVCXYdK-ZQ-jSxHkZRNphK9gN7QV1br0W-T3TG-TF7gTbNtcCrytuXpKXD4rs-Tl93Wd2p7Dg4BSiunuPqENymCt8GfCDwy6eJqUi8T-i1MhqXV",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ6aErpb6HCw0RruHtcInKZMc",
+            "rating": 0.0,
+            "reference": "ChIJ6aErpb6HCw0RruHtcInKZMc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "TANGIER, AP 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

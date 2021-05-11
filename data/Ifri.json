@@ -1,0 +1,82 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6330788,
+                    "lng": -8.0046089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63447922989273,
+                        "lng": -8.003275570107279
+                    },
+                    "southwest": {
+                        "lat": 31.63177957010729,
+                        "lng": -8.005975229892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ifri car",
+            "photos": null,
+            "place_id": "ChIJ8UHecifvrw0RAYoKPqVftAs",
+            "rating": 0.0,
+            "reference": "ChIJ8UHecifvrw0RAYoKPqVftAs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue Hassan II, Marrakech 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.423955,
+                    "lng": -9.5920001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42533727989272,
+                        "lng": -9.590632120107278
+                    },
+                    "southwest": {
+                        "lat": 30.42263762010728,
+                        "lng": -9.593331779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Perle Bleu",
+            "photos": [
+                {
+                    "height": 1080,
+                    "photo_reference": "ATtYBwIdn4rDgV-xlHnvplJSPzHJ3rLRx0oJsU2ExuavfG2ukIHGi-j3x86Rgn3m8bxzN_anWYQ4tHQeGVBPDHq5qEYM2yEZsYcSwE61hDTPbkNILaaedX-kPR3SMlIcmVVIXz_zfVUTegGNnlAR1IF76aIodz9i2fTMsnOJvedKdPYD1YGV",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ6f48sPW2sw0RIcR944f9dA4",
+            "rating": 4.8,
+            "reference": "ChIJ6f48sPW2sw0RIcR944f9dA4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "10 Rue Amhande Ait Ettaleb، Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

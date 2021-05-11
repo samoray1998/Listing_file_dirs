@@ -1,0 +1,422 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9444319,
+                    "lng": -4.401144899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.94587772989273,
+                        "lng": -4.399715520107279
+                    },
+                    "southwest": {
+                        "lat": 31.94317807010728,
+                        "lng": -4.402415179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence GeniLocation",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwKH4AB_lC1allCW1SyIGBfXzLd0jb8JMBs0exu7bi310wIX4VVjjP6Tm17AyuUmZiiULM30SZn_H4S9oojrEAhM1w6SsvZWcRzX6LELVzDmr7Mq0bAiGCW0GVmETSalAzb8DxvPGXwC1-8thxuVcAdVenEn41O9do8vdrI6DjJEv68i",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ8USqXp5LmA0ReYyLY7BK8UI",
+            "rating": 5.0,
+            "reference": "ChIJ8USqXp5LmA0ReYyLY7BK8UI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Aéroport Errachidia Moulay Ali Chérif, 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.1478125,
+                    "lng": -4.032812499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.14900852989272,
+                        "lng": -4.031373920107278
+                    },
+                    "southwest": {
+                        "lat": 31.14630887010728,
+                        "lng": -4.034073579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "moda Camp Merzouga",
+            "photos": [
+                {
+                    "height": 422,
+                    "photo_reference": "ATtYBwJimRlK1qgm8FWEwVVS_Roa-wqBz-cDxqmOyBIQHo66n6f71jWXHUD3tRkm_e_fUjSLfDoeSQeBSqkpTDqyq-pZfObMWbJIJiaUr8x5mKxJKmixE2MBGrpUop7-BzuGUIRKLJNI1mmZJtNja1oGW0TqE4d8ujO9rpkb5UpT4CR5jZx8",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJvV3KMPg-lw0ROsmGQZSnzOo",
+            "rating": 4.8,
+            "reference": "ChIJvV3KMPg-lw0ROsmGQZSnzOo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "null",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 25,
+            "vicinity": "Ksar Hassi Labied Merzouga 4XX8+4V Ksar Hassi labied، Maroc, 52202, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9164237,
+                    "lng": -4.433001300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.91777712989272,
+                        "lng": -4.431599570107278
+                    },
+                    "southwest": {
+                        "lat": 31.91507747010728,
+                        "lng": -4.434299229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voitures Zizdra Tours",
+            "photos": [
+                {
+                    "height": 686,
+                    "photo_reference": "ATtYBwIeq5ZYiN8Gc1RNwKk-j6EGDXDSq3jmz-mpgXN5Cht1TGvj5jjVyeI0NGcl0ScKmuqQQTnwSs7EQBXzn0dO05UCPqddY_X-YFasd16BnoExGzAmHjbplDpYpIgjoORRLHhaCyP-zrICpAfJ7TyQRSN3rpJxWJhtP7FK722km0FemW8I",
+                    "width": 1134
+                }
+            ],
+            "place_id": "ChIJc-bb6kRLmA0RglnXZjlOgXw",
+            "rating": 5.0,
+            "reference": "ChIJc-bb6kRLmA0RglnXZjlOgXw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "Aeroport، الرشيدية،، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.930356,
+                    "lng": -6.9087768
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.93176997989272,
+                        "lng": -6.907394220107277
+                    },
+                    "southwest": {
+                        "lat": 30.92907032010727,
+                        "lng": -6.910093879892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amridil Car",
+            "photos": [
+                {
+                    "height": 630,
+                    "photo_reference": "ATtYBwLXyRXNkpfMNI6twMfOSavK2Z_V_XIjZgpkd1vgsKB7qZh82eBPdvRkbrOxUtO0lyFDBWykQ9oZqgU6MOsCB4egM-9XAjEdbMwXrve0BOmhI-AVWGg7T0KcR53YUTDJ-kJqPqoGA3UfhMk1LoR-aqemVZSo2pu7NbFUP7KcsqNhr9Uy",
+                    "width": 1121
+                }
+            ],
+            "place_id": "ChIJ4-EfbWUQuw0RpXC4d65dujI",
+            "rating": 4.6,
+            "reference": "ChIJ4-EfbWUQuw0RpXC4d65dujI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 16,
+            "vicinity": "36 Avenue Moulay Abdellah, Ouarzazate 45000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.9203934,
+                    "lng": -6.9162103
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.92173922989272,
+                        "lng": -6.914922220107277
+                    },
+                    "southwest": {
+                        "lat": 30.91903957010727,
+                        "lng": -6.917621879892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "esonmaroc",
+            "photos": null,
+            "place_id": "ChIJPfegYnQQuw0RMGa2VL1EaXI",
+            "rating": 5.0,
+            "reference": "ChIJPfegYnQQuw0RMGa2VL1EaXI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Avenue Mohammed VI, Ouarzazate 45000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.535852,
+                    "lng": -7.5913852
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.53717347989272,
+                        "lng": -7.590052970107277
+                    },
+                    "southwest": {
+                        "lat": 33.53447382010727,
+                        "lng": -7.592752629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HM CAR",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwIn54DHJpj6Lk9pSMibKfyxB8JKRXzk7TKHj0qlaQl0MoPq-6ekFySfSjmleaWbdZ16ENnkN4jtNezNOttorj6N0RazDE5_DY2RNWpRvt0nDWHWWGIZO_fO50q387wSyJzd0VlHO68Co5cLrVu0ZNL3kGRflBYeN5aGImB2mrFHvmNY",
+                    "width": 737
+                }
+            ],
+            "place_id": "ChIJsbp4YJMypg0RsTg1JShR1is",
+            "rating": 3.7,
+            "reference": "ChIJsbp4YJMypg0RsTg1JShR1is",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "N`149 bd arfoud Hay alfadl، Casablanca 20500, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.934951,
+                    "lng": -6.9079126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.93616867989272,
+                        "lng": -6.906639170107279
+                    },
+                    "southwest": {
+                        "lat": 30.93346902010728,
+                        "lng": -6.909338829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar Ouarzazate Aéroport",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwJUYwFvWcDNGIXBSD8i6uI9c_W27vSiNDKw44jZFvYItP16Q-jMlMCkiIh-a46uG2Nk-CVvp5jjpRbzQGPqUR3N0r2G51OuAniqCAg8FTnl9Oy1T1C8w5qW-lX3dbVGFWgIx-hlnO75ZulDmsfqQMdGHHdAQUcmxFD3vCXHXfW4U9Or",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ2_a4hZ4auw0RgBI6TAax7yA",
+            "rating": 3.7,
+            "reference": "ChIJ2_a4hZ4auw0RgBI6TAax7yA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 18,
+            "vicinity": "Ouarzazate airport, Ouarzazate, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.594617,
+                    "lng": -7.614405
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59598822989273,
+                        "lng": -7.613098870107277
+                    },
+                    "southwest": {
+                        "lat": 33.59328857010728,
+                        "lng": -7.615798529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avia Car",
+            "photos": [
+                {
+                    "height": 380,
+                    "photo_reference": "ATtYBwIb3RmF00Zc3WXTw0lGtGA0PwrXFP-5aEfutUw8nFagO6V7-hDt5O33wi3GA_H2XyEP4teHtgcTSmpWXOKGvrW84tAY4CApgVgf5Ytj6bOp8EfcZefQMVrtkw-hh9fDg4SwxtoJP9ECFhF7AYOrY3Mhd1Oom7PSZ_Q7xWH_wO9iQQU",
+                    "width": 770
+                }
+            ],
+            "place_id": "ChIJcW603pzSpw0RbHgd7Erijf4",
+            "rating": 0.0,
+            "reference": "ChIJcW603pzSpw0RbHgd7Erijf4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "25 Rue Mohamed El Qorri، Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6005141,
+                    "lng": -7.6329643
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60191697989272,
+                        "lng": -7.631604270107278
+                    },
+                    "southwest": {
+                        "lat": 33.59921732010728,
+                        "lng": -7.634303929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Diaz Car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwLlnFim9hoF1rDU6wWlDvvHbNOUip9qNqqHpS3oAHhwrM2EqbMHN0KrHM8K_kFPNo9bDT279ydMb8EM4TghUXotpjaXgvPkyr1VyDFzYiYKk3Bek0ZQ2mNEBfsbSW295y9ZVZCRnSn7jBKixitJ6ALqHtDaklbyqyJFtAwH8vailJ6U",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJrUNA8ZUypg0R7fMDduDgNec",
+            "rating": 4.7,
+            "reference": "ChIJrUNA8ZUypg0R7fMDduDgNec",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 42,
+            "vicinity": "605 rue goulmima 1 er etage n 2، Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.637114,
+                    "lng": -8.0120094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63841007989272,
+                        "lng": -8.010631470107278
+                    },
+                    "southwest": {
+                        "lat": 31.63571042010727,
+                        "lng": -8.013331129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LabelVoiture - Location Voitures Marrakech",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwIlY4KpMOrieY-jvMk6N6HBPoHrvOBJHqxixHOhI5tb7ocXLN3kBC19IEdmHmQFaMreErh3a73dv-xJs-4e71dAeBIaJxMx39BEM0ewK3X8HK6o50prrYClSvZDY228VakDzP3B2kmbavShwmRyCoMNZfIwKek9Q-00Sh_naWlwiBIU",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "rating": 4.8,
+            "reference": "ChIJrQrWjabvrw0RPL8YIL1UUC0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Bd Zerktouni, Imm 90 1er étage Appartement N°20, Marrakesh 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

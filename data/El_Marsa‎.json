@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.596354,
+                    "lng": -7.615233000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59770752989272,
+                        "lng": -7.613965620107279
+                    },
+                    "southwest": {
+                        "lat": 33.59500787010727,
+                        "lng": -7.616665279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Maroc",
+            "photos": [
+                {
+                    "height": 498,
+                    "photo_reference": "ATtYBwJ-Oy7wWdJzArZKazhN1Nr0x9ajhOV4Npxaiai0nn85oSuMcXim18wYyJ_GbfFzeaOtNoB4ABblICY5HFGcCODdjuKmArTkjGUAeCuN68vq7_gLossorMrkbRLYj3K-f0xxiYBMyhNMi_HwaItb0llQpXfxRTx5YLeS5W4hy-Fl4RUX",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "rating": 2.4,
+            "reference": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "25 Rue el Oraibi Jilali, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.2277511,
+                    "lng": -8.493136999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.22909622989272,
+                        "lng": -8.491823920107278
+                    },
+                    "southwest": {
+                        "lat": 33.22639657010728,
+                        "lng": -8.494523579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "mam car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJ1OXiSZ2GEEK9DUyEV7PSVW3b6uH0WVjEy9yzbjIBtyg0JXPqDOprZ2qdTtGpzA8zYNJAHFGp__S5k8XQ5qLdfLjdAkjOrtmEHRvDYaEJ1sIx2O07O9RVZKJXbbj40bESTsoPeDVQ0Xei315hTzJciAe0xGC78SGHHdP2abqMincY-",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJjXHY9UMfqQ0RqtpbS2bj15I",
+            "rating": 0.0,
+            "reference": "ChIJjXHY9UMfqQ0RqtpbS2bj15I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Lotissement ferdawsse N 37 magasin N11, El Jadida 24000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

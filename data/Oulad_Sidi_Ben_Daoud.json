@@ -1,0 +1,90 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6017861,
+                    "lng": -7.5607355
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60303547989272,
+                        "lng": -7.559388170107279
+                    },
+                    "southwest": {
+                        "lat": 33.60033582010728,
+                        "lng": -7.562087829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Locafinance",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwI4VpNwrSehXicCFvv3W3P67yDLahPb6jnFs8y-uf0RQXz6tKJen7QMFnHGG-BOuTeePJU5NpssUsxL3sMAKUvWIF4BYg2BH8bA5HF-nXFb7pZbs1szWt7anNUDAnQsJoGEfm7HeFp8E5LGu5tA3Ck0IRzpnYwa4ktGEdw9ghTsnPKg",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJravCBvvMpw0RDFqJ87tTEFk",
+            "rating": 4.3,
+            "reference": "ChIJravCBvvMpw0RDFqJ87tTEFk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 60,
+            "vicinity": "Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5833347,
+                    "lng": -7.631631899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58470347989272,
+                        "lng": -7.630263420107277
+                    },
+                    "southwest": {
+                        "lat": 33.58200382010727,
+                        "lng": -7.632963079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LK AUTO",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwJ9K3NZMm-jdm8x2gsddqM6c7aS4tbDV6U-hnqsMe99RQXq4qvdTIXQuQHqLbJrsVE1b1YWg9qoiUF_eHSJzE6p_w6n10YKXlC6iiNrhobkguJtRzJAjHHKOsdrJXdd6XU3FK_6UU01j_Kn3o25W4HVuO1g_dTKg3TTnwoOjX-IuGxC",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJi_SM9nDTpw0RJvsXJdD4ftk",
+            "rating": 5.0,
+            "reference": "ChIJi_SM9nDTpw0RJvsXJdD4ftk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "2 Rue du Louvre, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

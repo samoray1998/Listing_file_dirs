@@ -1,0 +1,327 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.5658319,
+                    "lng": -6.0286688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.56715222989272,
+                        "lng": -6.027320120107278
+                    },
+                    "southwest": {
+                        "lat": 32.56445257010728,
+                        "lng": -6.030019779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Choix Car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLdogqvQ9_5hxu5FsUKdoZ7etArDBHncogKk30wNMprHqW7PldpstsRPjsiKoaxV2TVph5r73RIV6CP1lld339xUnTCGJC1cGOxfQ8JrrF8cW6EME8usBIQimUj7yPda1u_P1afU0tST6Ew6Fy4AL9089VSVv51o0LZ_dGUn-r2vwKu",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJOR_3W3C_ow0RebMtdlMPZDg",
+            "rating": 5.0,
+            "reference": "ChIJOR_3W3C_ow0RebMtdlMPZDg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "Boulevard Bir Anzarane, El Ksiba, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.6412015,
+                    "lng": -5.921935299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.64256892989273,
+                        "lng": -5.920789970107277
+                    },
+                    "southwest": {
+                        "lat": 32.63986927010728,
+                        "lng": -5.923489629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Tagant Car",
+            "photos": [
+                {
+                    "height": 943,
+                    "photo_reference": "ATtYBwIRuH8MiAx9ZkKv7ZK_3uDcyidKNXXpX1di0VCNGBHmgX2ir5INM3KlBEE-H7qVcdZvdfsJ5CIC8AZhN4HdeXQjMwxly9383DHp-R-nrUcH5YQLIycKDYrEaRMxHSE7bGhyunDQjOsiwUfXeLYWaCm-RK4iPxHThOoP4kqteGco_fsJ",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJiSfNx-rHow0R5Odk5_ejOdw",
+            "rating": 4.7,
+            "reference": "ChIJiSfNx-rHow0R5Odk5_ejOdw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Avenue Dakhla, Zaouiat Cheikh, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.93781800000001,
+                    "lng": -5.659932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93918092989271,
+                        "lng": -5.658612170107277
+                    },
+                    "southwest": {
+                        "lat": 32.93648127010727,
+                        "lng": -5.661311829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ACIR CAR",
+            "photos": [
+                {
+                    "height": 2560,
+                    "photo_reference": "ATtYBwJefwxW2nJRpw-WOSWMhw9IHFOcOo9_ip1xeydbm62vP8XGxFnpOVSW-NMDUXl5-kBrsnqtcB8qfPh2Y_V8Fmmy6oleOhEq7Sd3T7nFbLrkN9tzYDCMRFKF_8AB_tvcx4FQQr9J-qtkXPRyRy_xc--IbubJRE0zTQdMBqO-91Z8sCBW",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJsczyORAqog0RHwZFDLMk5xc",
+            "rating": 2.5,
+            "reference": "ChIJsczyORAqog0RHwZFDLMk5xc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Rue 7 Hay Youness, 9arawia, Khénifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.9378045,
+                    "lng": -5.6588669
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93914572989272,
+                        "lng": -5.657485470107277
+                    },
+                    "southwest": {
+                        "lat": 32.93644607010727,
+                        "lng": -5.660185129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION GROUPE S.A.R.L",
+            "photos": null,
+            "place_id": "ChIJ38AxCtIrog0RGEMwPbE5D00",
+            "rating": 3.7,
+            "reference": "ChIJ38AxCtIrog0RGEMwPbE5D00",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "14 Hay Youness, 9arawia, Khénifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.9351131,
+                    "lng": -5.6676668
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.93646732989272,
+                        "lng": -5.666335970107278
+                    },
+                    "southwest": {
+                        "lat": 32.93376767010728,
+                        "lng": -5.669035629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Assistance car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwJLj2N9UCk8XUaC18-NimHbYWOzj61Q5ypxcG5E75mavJflK36LC34y_sSDi1WBM-zEnt6X9pIZgXmYZxWdZC3ypsnoFyojNCSZvZYj0naTllj2MvyrqAAzxyKjJtVN71yCb62TIIICB6CaTIUsVhkTJpp22gpV0-ES8oMTD9KvEpkR",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJW5D8uGwqog0RB9CcdSkHohU",
+            "rating": 4.0,
+            "reference": "ChIJW5D8uGwqog0RB9CcdSkHohU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "appt 1, Bv azerktouni imm 2 premier étage, Khénifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.9434924,
+                    "lng": -5.6757814
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.94486352989272,
+                        "lng": -5.674429470107277
+                    },
+                    "southwest": {
+                        "lat": 32.94216387010728,
+                        "lng": -5.677129129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Luxe Gold Car",
+            "photos": [
+                {
+                    "height": 395,
+                    "photo_reference": "ATtYBwLVjgpwsmkVqGkHfOzS-l2a4OvhSZO8SVHrg-YVcgE81w7M6jOGMp_d8BaTdCCaXQS9L9agrwVffYbBtvdoCtkMDswGXL2tdNnrO132CFXn7iVTZ31DxYbik-oFFSXxyPw3YiyI9Q_MTWqfHduCFFbHsY2CD7uRDrqSNbvVc2zoV-9l",
+                    "width": 629
+                }
+            ],
+            "place_id": "ChIJETR9MNMrog0RR4YS-ygseNg",
+            "rating": 4.7,
+            "reference": "ChIJETR9MNMrog0RR4YS-ygseNg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 66,
+            "vicinity": "Hay essalam bloc H N°447، Khenifra 54000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.4993315,
+                    "lng": -5.5301849
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50070337989272,
+                        "lng": -5.528837520107277
+                    },
+                    "southwest": {
+                        "lat": 31.49800372010728,
+                        "lng": -5.531537179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Assoufghe car",
+            "photos": null,
+            "place_id": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "rating": 0.0,
+            "reference": "ChIJH9IJU_kzvQ0RvTvupOOKI-E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "230, Tinghir 45800, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.5056753,
+                    "lng": -9.7611867
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.50699027989273,
+                        "lng": -9.759832770107279
+                    },
+                    "southwest": {
+                        "lat": 31.50429062010729,
+                        "lng": -9.762532429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Greg Tours",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLDFr_JTaeMGdo0SGP_Y5na6RanSNtfRnRx--DstscZL3xFxVk0xxK9G4yp0gKYNmIsn5L3ZimS8yO1hdICXtJEW5J10zuqqudjy_XwB7rdPBav2fmbr5erIMx4o9zOn93452bNh3aukQpC61gLCSkLKMruNrtHnnxi4W30Cwhie14",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJ-QARHzaarQ0RVm1Ge85zOpQ",
+            "rating": 5.0,
+            "reference": "ChIJ-QARHzaarQ0RVm1Ge85zOpQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "N° 44, Résidence Jawharat Mogador ، Rue Princesse Lalla Amina, boulevard Al Alana, Essaouira 44000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

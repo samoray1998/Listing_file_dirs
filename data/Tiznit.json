@@ -1,0 +1,764 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.694961,
+                    "lng": -9.7227899
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.69628622989272,
+                        "lng": -9.72139217010728
+                    },
+                    "southwest": {
+                        "lat": 29.69358657010727,
+                        "lng": -9.724091829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Imdoukal Car",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwI1DMoxQ2uP11wqVq8OoAAdhHlJrHAy4EEgxohZNzzewcevZKapojw4RRf8WjpqoWqLdT7Rqz3f4-NlU48UMf4IyNfRsYtxt7fzsQKMkyk0cWxGt-cKJ6XTr4bxD3-z8fdReGR8WU8V7dAGkKkwk-fNuwJ4OVhY13L7gggzdpkwsIzN",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJ4QkAiadwtA0RSq1sRWCaFsY",
+            "rating": 3.0,
+            "reference": "ChIJ4QkAiadwtA0RSq1sRWCaFsY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "N° 25 Appartement 1. Avenue Lalla Abla, Lotissement Assaka III – Route d’Agadir, Tiznit 85000, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.6975776,
+                    "lng": -9.7307881
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.69878167989272,
+                        "lng": -9.729311470107278
+                    },
+                    "southwest": {
+                        "lat": 29.69608202010728,
+                        "lng": -9.732011129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LAURENT CAR TIZNIT",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwI9fjfGcmr2ldsrIY6519lcoCkTgKYE3oQMuRGDfpoKOnHuUq2QS4Hj5tDC0Mdp0PXhlP2czwO9x89bIp08JcHhv4CSkFPzgIBnmmULyt2eH71GKBdvQ-NPgEciqWnCPKGBXiNUWmSqm_zRFIOI3BcKLdP_sWGVyh34GObHFRUWVIob",
+                    "width": 5760
+                }
+            ],
+            "place_id": "ChIJH4nqjwV6tA0RRiPpm4zGkyE",
+            "rating": 4.3,
+            "reference": "ChIJH4nqjwV6tA0RRiPpm4zGkyE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "N° 43 Riad AKCHOUCH Rue El Hammam، Rue Idzakri, Tiznit 85000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.687444,
+                    "lng": -9.7321048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.68880082989272,
+                        "lng": -9.730705920107278
+                    },
+                    "southwest": {
+                        "lat": 29.68610117010728,
+                        "lng": -9.733405579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Irazan cars",
+            "photos": null,
+            "place_id": "ChIJQ3tVgAV7tA0R3h1xEkddSQo",
+            "rating": 5.0,
+            "reference": "ChIJQ3tVgAV7tA0R3h1xEkddSQo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Av el kairaouane afrag, 85000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.6945309,
+                    "lng": -9.723045899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.69586312989272,
+                        "lng": -9.721661870107278
+                    },
+                    "southwest": {
+                        "lat": 29.69316347010728,
+                        "lng": -9.724361529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Osaka Drive Tiznit",
+            "photos": [
+                {
+                    "height": 434,
+                    "photo_reference": "ATtYBwLFCvj-G6SsuNkxgZtzfWYztwwB9uYhngwcR11RjlOvh28b47o-wqOAK35bzxZ5bBDFqOvyiO4BZCU6maVal5FKLb3Hd246RadHM9l9-5_YiKO0vkKxOBYoIwcg0N1LMwMDD_4u5V15HliN8ToxhggMjjbw60y7RBXaMmrzrODDj62l",
+                    "width": 1522
+                }
+            ],
+            "place_id": "ChIJq1f18uRxtA0RrnaCQT8gnjs",
+            "rating": 5.0,
+            "reference": "ChIJq1f18uRxtA0RrnaCQT8gnjs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "N 21 , LOT. Assaka - bd . lalla ablla ( route d'agadir, Tiznit, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.6871504,
+                    "lng": -9.723205100000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.68849447989273,
+                        "lng": -9.721900770107277
+                    },
+                    "southwest": {
+                        "lat": 29.68579482010729,
+                        "lng": -9.724600429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amitrent cars",
+            "photos": null,
+            "place_id": "ChIJkbHsdaBwtA0RkBmBmRg-_6w",
+            "rating": 5.0,
+            "reference": "ChIJkbHsdaBwtA0RkBmBmRg-_6w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "618, de Quartier Industriel, Route Guelmim, 85000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.7039846,
+                    "lng": -9.739256500000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.70541647989272,
+                        "lng": -9.737876870107279
+                    },
+                    "southwest": {
+                        "lat": 29.70271682010728,
+                        "lng": -9.740576529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture TITANIC",
+            "photos": [
+                {
+                    "height": 1920,
+                    "photo_reference": "ATtYBwKPOVRiuCuzrdq3sqr3u3ktKs4aOk4KGw2_jLrOdqDjG3H-EA4geDsP2QW8lZXrb-9FBXcDVwlzgbP48Eu0k7fjWtUQukP0a3iMAyVZyqzHPX5PG4dy2LhOPubjPx3SXm7VSauaICd4lXz-T04Yn2wE8KGBnJRbReHQyozFz0eHP0ju",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJZURlMhx6tA0RZ0YY0c8xAuc",
+            "rating": 3.7,
+            "reference": "ChIJZURlMhx6tA0RZ0YY0c8xAuc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Tiznit 85000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.6847543,
+                    "lng": -9.7401527
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.68616607989272,
+                        "lng": -9.738878120107277
+                    },
+                    "southwest": {
+                        "lat": 29.68346642010728,
+                        "lng": -9.74157777989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ma Famille Cars",
+            "photos": [
+                {
+                    "height": 480,
+                    "photo_reference": "ATtYBwKrEaKKeTPgjcrMvTXGZ6kWXQEnNUndyVcNchOXOg22P9XR8RFamdnsH9S2i6Ko9V19i140fLEBbxajzinFvdJo2fXqT4LOKwwB1Cwi9miGMMo6v4wWcA9o5WsQU2S-mls2cFtQYl7fwL5M5zByD9xLvbH-wA9zeFYlfMLGbp30w13j",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJIYo57xV7tA0RbIKr37ldz-I",
+            "rating": 5.0,
+            "reference": "ChIJIYo57xV7tA0RbIKr37ldz-I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "N°2 Route Tamdghouste AFRAG، 85000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.6878879,
+                    "lng": -9.7340198
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.68925122989272,
+                        "lng": -9.732664770107279
+                    },
+                    "southwest": {
+                        "lat": 29.68655157010728,
+                        "lng": -9.735364429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Bouargane cars",
+            "photos": null,
+            "place_id": "ChIJD10P6217tA0RKHr8zeMsYrs",
+            "rating": 0.0,
+            "reference": "ChIJD10P6217tA0RKHr8zeMsYrs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Tiznit 85000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.7006567,
+                    "lng": -9.7329885
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.70200752989273,
+                        "lng": -9.731596470107277
+                    },
+                    "southwest": {
+                        "lat": 29.69930787010728,
+                        "lng": -9.734296129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LOCATION AL KASBA",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwI2gALJ_ZuDjLmG1WHQ7DyNDaded9DOnFSrN_v8MByY0P_qF6zT7h-wjktxujEYHg26NIPSwFgKsikUFwl92KPcMx_coCpKQZR_MM4HyB5W7mRCltNGRcSx4rFT55xzTT4azm7vTbrTWeo-rSgvmOdziR9LWniL3lhbrUUQ9YwyBvYf",
+                    "width": 622
+                }
+            ],
+            "place_id": "ChIJw1cVYKl7tA0RvJCzGZF-ku4",
+            "rating": 5.0,
+            "reference": "ChIJw1cVYKl7tA0RvJCzGZF-ku4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "N, Sté AL KASBA Rent A CAR, 594 Rue Ouammou, Tiznit 85000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.690555,
+                    "lng": -9.734816799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.69190792989272,
+                        "lng": -9.733470770107276
+                    },
+                    "southwest": {
+                        "lat": 29.68920827010728,
+                        "lng": -9.73617042989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ste lgarch cars sarl",
+            "photos": null,
+            "place_id": "ChIJdegHmoF7tA0RQ49EH1d8V-E",
+            "rating": 5.0,
+            "reference": "ChIJdegHmoF7tA0RQ49EH1d8V-E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "N54 rue jazola, Afrag 85000, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.580584,
+                    "lng": -10.033563
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.58195472989271,
+                        "lng": -10.03221132010728
+                    },
+                    "southwest": {
+                        "lat": 29.57925507010727,
+                        "lng": -10.03491097989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sable D'Or Car",
+            "photos": null,
+            "place_id": "ChIJh1fFmHePtA0Ro7DTDeOHjPU",
+            "rating": 5.0,
+            "reference": "ChIJh1fFmHePtA0Ro7DTDeOHjPU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Bp 154 Mirleft, Mirleft, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.8647569,
+                    "lng": -9.5152077
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.86610477989273,
+                        "lng": -9.51390342010728
+                    },
+                    "southwest": {
+                        "lat": 29.86340512010728,
+                        "lng": -9.516603079892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lgarch cars",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwKdOCbmmoigqt0kbXc9kcg3LsB9jqx1ej75g1RzCtZgP3NusP2QbIiOxj_Wn_abTU2SnTvxSg_2IL0RxJ0G_opWh_4MEeQUm4MWKVrX4YV4qASOhIyTiFwTX36YMiJJm2dD3YcS2SwJG9vsBkg0RzQcUSlFCf7xGvrUyzL4FdditX4X",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJmwCtmK71sw0RF5lmLdvolhk",
+            "rating": 5.0,
+            "reference": "ChIJmwCtmK71sw0RF5lmLdvolhk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "N54 rue jazoulla, Afrag, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.190275,
+                    "lng": -8.241124
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.19177157989272,
+                        "lng": -8.23970512010728
+                    },
+                    "southwest": {
+                        "lat": 30.18907192010728,
+                        "lng": -8.242404779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voiture Agadir",
+            "photos": [
+                {
+                    "height": 613,
+                    "photo_reference": "ATtYBwLUgqRv-rcvR7VWCL_-jwwZ59UsBLdInMSkXCRB1B8uLe-dyXrMSUiTu3YHGXNnUSJlKlfk-xQ8gClgxNL9v6brt_wx5uJ8z9F7YhcAxAUBg8UdFzdZyKmD3TbeRrYdK2J8wyeCjVMb-mgip4l_AZ7jpjnYDkre0h72E6BJXUnR22H4",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJhaqqGu3DsA0RF7IbPICI8tU",
+            "rating": 4.8,
+            "reference": "ChIJhaqqGu3DsA0RF7IbPICI8tU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue ibno Roched N 103 Ouled Teima 83350 Taroudant، 83350, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.407514,
+                    "lng": -9.597359
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.40883452989273,
+                        "lng": -9.596039520107277
+                    },
+                    "southwest": {
+                        "lat": 30.40613487010728,
+                        "lng": -9.598739179892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Abid Cars Rental Agadir",
+            "photos": [
+                {
+                    "height": 1360,
+                    "photo_reference": "ATtYBwIV6CElfMIqqaBXlsYx39z_6EXJpK45zOyJEk3iCYwQBIB4IK79Lm25MGDVosPiCEWiTGu7VF5dIQwSf3WLUdhlO5SZU9UhKuPlba0MEB7T_BtOGufm-MYccU9v5aBnZbhGVAmw1Bxdd88BH1QaI7V0rGrjkhKNFc1i-9uM_ZJvYzXx",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJGTuMUfy2sw0R7Q2RYXa0zf0",
+            "rating": 4.5,
+            "reference": "ChIJGTuMUfy2sw0R7Q2RYXa0zf0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "COMPLEXE TIVOLI FB3 BD 20 AOUT, Agadir 80010, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.400192,
+                    "lng": -9.5317048
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.40155347989272,
+                        "lng": -9.530372920107277
+                    },
+                    "southwest": {
+                        "lat": 30.39885382010728,
+                        "lng": -9.533072579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voitures Agadir - Agence Al Aimran Cars",
+            "photos": [
+                {
+                    "height": 460,
+                    "photo_reference": "ATtYBwKzFaKhE6V7_RqvrJ1MjxvTZrg3ewJGwYFlfNRRC3xk7Lgry3PAckZ84XMlpB1s1uZNkhz-UUqC6Jrv6V11rjyUQHOQ8Wy2JFuMqM2JTuaDKsoQtNyIkN_gEX7kaEqSsbb2FJ4J9Z3c2lTk8ZneOuln3zr-1yUYU5Xbd2YNmQ5Sgqjg",
+                    "width": 819
+                }
+            ],
+            "place_id": "ChIJ1_HyuDHIsw0RHhx3U8CdPy8",
+            "rating": 4.8,
+            "reference": "ChIJ1_HyuDHIsw0RHhx3U8CdPy8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "N° 3 Bis Secteur C, Rue Kerdous, Agadir 80030, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4222537,
+                    "lng": -9.6010286
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42366772989273,
+                        "lng": -9.599764670107277
+                    },
+                    "southwest": {
+                        "lat": 30.42096807010728,
+                        "lng": -9.60246432989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Délice voyage : Agence de Location Voiture à Agadir",
+            "photos": [
+                {
+                    "height": 331,
+                    "photo_reference": "ATtYBwK8AeXkLOSMpUFO1TGZFBa9ft4xwx48pqJlivI5Ifu5ONp1KnT4d6WA9pGTdtIcnTCD-opI2NwjxMwbifWugIPwg1IuF6tXpwtRLsdXH8aZmtu5O4RPbxXCI-9rT4lMNiDVxiQ8J4nwjdydI5OpAv_YUtZC9ZwCX5CFyVlHj8AxP53p",
+                    "width": 555
+                }
+            ],
+            "place_id": "ChIJNxPDLuS3sw0R6Fz7vBpG0_0",
+            "rating": 4.7,
+            "reference": "ChIJNxPDLuS3sw0R6Fz7vBpG0_0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "N16، Galerie yassine، Ave Des Forces Armees Royales, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.412869,
+                    "lng": -9.56906
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41416877989272,
+                        "lng": -9.567693370107278
+                    },
+                    "southwest": {
+                        "lat": 30.41146912010728,
+                        "lng": -9.570393029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sahel tours Agadir",
+            "photos": [
+                {
+                    "height": 1536,
+                    "photo_reference": "ATtYBwIrWkJqjdrhDykSPkEUgt46_XGsLR7xZAYgqqoPZP0DOTJdleVTS2p9LWZl7h0Yk8GMVKHNnnHZVOU3o7WnETudq9ELjM6iXzsKqDrZIeQjJaB5LZe2oK4Gd7JYVi6OA8COMNGjzDMovqfp5Px1rMSrUJWfYQpOr52p_NLjewu8LOvq",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJEy8SQFXEsw0ReWd6TvS--n8",
+            "rating": 4.9,
+            "reference": "ChIJEy8SQFXEsw0ReWd6TvS--n8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "35 al-Masira Agadir، Avenue Abou Jihad, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3973104,
+                    "lng": -9.5512363
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.39872107989273,
+                        "lng": -9.549824120107278
+                    },
+                    "southwest": {
+                        "lat": 30.39602142010728,
+                        "lng": -9.552523779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Chnayti Cars location voiture agadir",
+            "photos": [
+                {
+                    "height": 864,
+                    "photo_reference": "ATtYBwKemZPrgCwiZxZwsZP-0PPHs7mWnDF4hCYZ9ugTA9uk-NX48_Er-N3koJD-fC0l3dsrndaqd-Q5VrA4U6r_PHS7pfQrkOsJPTy15hUqveUJd9Sgeo1k1Eya8hmjFlK5d8RxnSQ6Li9msnWXLVzgyDNcdNmrM9IwlKGB-HcAo5WXyrAl",
+                    "width": 1152
+                }
+            ],
+            "place_id": "ChIJ-aRlsdC3sw0R3oBz1Qrpax0",
+            "rating": 4.4,
+            "reference": "ChIJ-aRlsdC3sw0R3oBz1Qrpax0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "N°1 immeuble B résidence Daroune Hay، Place Salam, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.3303063,
+                    "lng": -9.4103116
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33186292989271,
+                        "lng": -9.408954820107278
+                    },
+                    "southwest": {
+                        "lat": 30.32916327010727,
+                        "lng": -9.411654479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIphw0eB8vUWMZJ2RzHFTLl9bn9EjG2wiVF9aIg1_T62VAPg2Tx50yN-uMxyB_K5_NbAMxbDlm2WOnA1zoDVt7MR-bAIBxje26xhDNRnULZMI-FYZ7RsodHh8AAVKL2D1CjkbZi0MkApmVpyQeSKA58Gjg1bqSTdhfzw99dlkV-gprS",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJGy8SQFXEsw0RT7s_YywjVlc",
+            "rating": 4.3,
+            "reference": "ChIJGy8SQFXEsw0RT7s_YywjVlc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 54,
+            "vicinity": "Agadir Airport, Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

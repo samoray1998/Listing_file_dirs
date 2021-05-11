@@ -1,0 +1,827 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9163681,
+                    "lng": -4.4330703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.91779052989272,
+                        "lng": -4.431725720107278
+                    },
+                    "southwest": {
+                        "lat": 31.91509087010727,
+                        "lng": -4.434425379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Autovermietung Errachidia",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwKMq2KsHYr85tuh9-Wb9dsZCziCR_BRjCVVIR9dSUhyrnW1werV0Tt9dCFWjK9joDxS_XBqv_qGm0S2ziL2UuVofr-543mwUH_ZBjktYwGx5DCY8ecn6hGaBJX9IYjP-j7m8Xnbgq8aWmLTvf5dGHkZnKJNdWIlVIsaIYKEyn7PSNLa",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJS1EY5CBLmA0RRRc6PlJLvSE",
+            "rating": 5.0,
+            "reference": "ChIJS1EY5CBLmA0RRRc6PlJLvSE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "159 Lotissement El Waha Morocco, 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9438904,
+                    "lng": -4.400443000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.94537907989272,
+                        "lng": -4.398979220107278
+                    },
+                    "southwest": {
+                        "lat": 31.94267942010728,
+                        "lng": -4.401678879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Zizdra Tours Rental Car Errachidia Aeroport",
+            "photos": [
+                {
+                    "height": 709,
+                    "photo_reference": "ATtYBwLnB7T9fYCa5e9aS4mWeYKgn2WFPA0s46grY9gq0QpU-bFngP8EuF-gW8RPA4T9aqnngCpUARqQOlASqWK4qPR5BmVFwAcZKK_P1HrJ35R1E485_dWDaoLV6nePHRaM9HLyhamFp3xqTuUn5HJsSLv-DM1dzYZrbnYGKw_-udhld7Rm",
+                    "width": 945
+                }
+            ],
+            "place_id": "ChIJS8nC2NlLmA0Rf4KN0pfv2KQ",
+            "rating": 5.0,
+            "reference": "ChIJS8nC2NlLmA0Rf4KN0pfv2KQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "مطار الرشيدية مولاي علي الشريف،، الرشيدية،، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9355199,
+                    "lng": -4.4562006
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93683732989272,
+                        "lng": -4.454914670107279
+                    },
+                    "southwest": {
+                        "lat": 31.93413767010728,
+                        "lng": -4.457614329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent A Car كراء السيارات الرشيدية",
+            "photos": [
+                {
+                    "height": 466,
+                    "photo_reference": "ATtYBwIXW0rWxpbl5rQ2fI2CSEBjH0Q68nwCSFcZjEZuv_5W5I89Np9fN03-u-iigCKEkbbgMJXhPv1a9zvSggvpjeDcrDV3PvQWz4zcNssba4xkL2K5KLnHOWTNZK3gbOv_nq8Zmvp49d4showRJZUbXNiev7S0NvoYjfLY8p-ce5hZqipT",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJu8HpZ5BKmA0RzERBxyVZY8M",
+            "rating": 5.0,
+            "reference": "ChIJu8HpZ5BKmA0RzERBxyVZY8M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 28,
+            "vicinity": "الرشيدية،، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9436704,
+                    "lng": -4.399749799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.94513987989273,
+                        "lng": -4.398435120107277
+                    },
+                    "southwest": {
+                        "lat": 31.94244022010728,
+                        "lng": -4.401134779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location Amagha",
+            "photos": [
+                {
+                    "height": 3456,
+                    "photo_reference": "ATtYBwJTSHD0vrQZrlnpC7qAoAcBRXzn0KE_R55A2a7hdFCD_x-Ik5XEq-zsb3Mf-fCZysm7YNTgFfANRbpQwGQ6sljwmVFv35SK3nVb8CsPFeYvCd1U-WXDBQClqi_RSlH_I8kFrMeqMc5e08ebiqtPxhSoVJiwbbuP4_IFIYyJ_PuJZYVx",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJj2m9J9FLmA0R4KgMaLtJpLI",
+            "rating": 0.0,
+            "reference": "ChIJj2m9J9FLmA0R4KgMaLtJpLI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Aéroport Errachidia, Moulay Ali cherif, Errachidia, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9279344,
+                    "lng": -4.4268836
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.92926062989272,
+                        "lng": -4.425503470107278
+                    },
+                    "southwest": {
+                        "lat": 31.92656097010728,
+                        "lng": -4.428203129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ste RIH CAR location de voitures errachidia",
+            "photos": [
+                {
+                    "height": 3144,
+                    "photo_reference": "ATtYBwKP5sdgP5t3FY0-Ihn_3wmol8xhBfAev01Fulp2re5qEfhQuGkKTy298Auz7VUdU9AjNlPsBkjlR2VJsV7-wNo-MNDmSpSvGEK2ALfsZ35laMDlXShJ9jdxc2cH8ZseudeHGveesPlq6gFhWNwTQy3V_ynRW9BnUiw_q_qonpN2QM5B",
+                    "width": 4192
+                }
+            ],
+            "place_id": "ChIJAQ9EAdtLmA0Rg1Z9IFxcZP8",
+            "rating": 5.0,
+            "reference": "ChIJAQ9EAdtLmA0Rg1Z9IFxcZP8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "SOUK DE MUNICIPALITE N° 478, Errachidia, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9314821,
+                    "lng": -4.427607300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93284387989272,
+                        "lng": -4.426246470107278
+                    },
+                    "southwest": {
+                        "lat": 31.93014422010728,
+                        "lng": -4.428946129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "EURO Tours car Agence De Location De Voitures à Errachidia",
+            "photos": [
+                {
+                    "height": 780,
+                    "photo_reference": "ATtYBwKK1xlZ9F1NdzfCNPtefzCeiOvsWsvT1TsWvS7JqLXfBIwV2JS_mRrIlS_e26f9LxAkJv8UTIECNGH6o-hjNgU895mLaHO8X3B6vvVsdfDMUcJ0q47786Vr875o0GnutIkdJtv5wpkBcGA1pa7tdzW8VZQq8waTW3Qxz40k_HGAqUv8",
+                    "width": 1040
+                }
+            ],
+            "place_id": "ChIJ_0z1xeBLmA0Rrd3SgcvQafA",
+            "rating": 0.0,
+            "reference": "ChIJ_0z1xeBLmA0Rrd3SgcvQafA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2eme étage, N°18 Rue El Houria, Errachidia 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9300849,
+                    "lng": -4.4259522
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93152542989272,
+                        "lng": -4.424521220107279
+                    },
+                    "southwest": {
+                        "lat": 31.92882577010727,
+                        "lng": -4.427220879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voiture Belhassan",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwIeAi648N2hbhGdB_KKXn9ikvS5ARyLX7-96xBmuHLQPo1AoSrM08fcK0YNa7rqqZvO3xztynlE7-TKtU4SMEGufMOdGGhHtncPmQ_vIMGZdy8zvOduUY1WlbBOArMi6oAkTGExtwIcdidBILEoC8Ja1xNElMzTJCh_AC611H2R04LR",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJZyNCjFBLmA0RU3oceyR1r0g",
+            "rating": 4.8,
+            "reference": "ChIJZyNCjFBLmA0RU3oceyR1r0g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "Complexe Commercial My Ali Cherif N°47, 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9444319,
+                    "lng": -4.401144899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.94587772989273,
+                        "lng": -4.399715520107279
+                    },
+                    "southwest": {
+                        "lat": 31.94317807010728,
+                        "lng": -4.402415179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence GeniLocation",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwILxmsByHuYtUMe-_2i9Ywhc2Bc-hfu2KmPrJg1UXbkVQ_qRpVkdMvaYHOibHK6B_hvAG2f2WgFFVZoui3c5SMmV9IwBqeaEy01gQFCJMZEkPztga113vAUT-aCQOEAvyJEMnW3PcwoQuMXIVxGKpez0JD2q7XX5RVbtDEflaWW_gfk",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ8USqXp5LmA0ReYyLY7BK8UI",
+            "rating": 5.0,
+            "reference": "ChIJ8USqXp5LmA0ReYyLY7BK8UI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Aéroport Errachidia Moulay Ali Chérif, 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9297705,
+                    "lng": -4.424302
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93114132989272,
+                        "lng": -4.422979820107279
+                    },
+                    "southwest": {
+                        "lat": 31.92844167010727,
+                        "lng": -4.425679479892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Tour away location",
+            "photos": [
+                {
+                    "height": 2084,
+                    "photo_reference": "ATtYBwIR9-PVlwccrcad2Qu_a16FxX6J7H0O3J-eNQyxiFqk72z8gS9PZkk-koNsfKGJXwE4wJOD2WPMpmGX9MTcvEmarNjIbpeHAHa-DOnIQHCx7TnXH8htUltVh-mg1ndcCd82DN573sQX56hzNJbR3mYYXs3IR3JoepAvxL0HtmyRgnzk",
+                    "width": 2084
+                }
+            ],
+            "place_id": "ChIJD3zyW79LmA0Rylb9PgbM4UU",
+            "rating": 5.0,
+            "reference": "ChIJD3zyW79LmA0Rylb9PgbM4UU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "Elwad Lahmer, NR 25 2eme étage, Rue Ibn Battouta، Errachidia, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9438809,
+                    "lng": -4.4004492
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.94537402989272,
+                        "lng": -4.398981770107278
+                    },
+                    "southwest": {
+                        "lat": 31.94267437010727,
+                        "lng": -4.401681429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "agencia de Alquiler de Coches Aeroport Errachidia",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwIVkMSKOE8tJjy_jyow7zhHfV2QzWUdY1rhjyMSj2pASwP_HZ8njjbd-HsvlL_7adYLWcD31MBfH1ECg4hzV-uHdze-pxtyORlNmIsHQlAZRbSISHYe1uX9S6TDupXDBWFJZdfjhLCWW1j6au_fFcmqQiwOX1XoL8nZA6g9dKGhGuEQ",
+                    "width": 640
+                }
+            ],
+            "place_id": "ChIJJ2dlzrFLmA0RMoqSoA0YKME",
+            "rating": 5.0,
+            "reference": "ChIJJ2dlzrFLmA0RMoqSoA0YKME",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Aeroporto، Errachidia, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.6815735,
+                    "lng": -4.7365753
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.68294037989272,
+                        "lng": -4.735202420107278
+                    },
+                    "southwest": {
+                        "lat": 32.68024072010728,
+                        "lng": -4.737902079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Zaha car",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwLMU3eXNVmMk971mZXKkWBY_O6c3S0KpMxIvO3yshL9WHxqcMpzov-Cg1bXg6JJ-IbbmVcFokz4xMoTU3m1xH732FfOu7e9wpwwob0H0DnmbK1YD0qthZh2Y1O-irSwjqS2SxzcwyWe1CsqxOlX8mS0e0mA5kepNy86aXyMkx6nrXbV",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJf5hET3q_mA0RL_PBOZ9h9j0",
+            "rating": 4.8,
+            "reference": "ChIJf5hET3q_mA0RL_PBOZ9h9j0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue oudaya n°1، Midelt, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9266685,
+                    "lng": -4.423847299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.92833132989272,
+                        "lng": -4.422423820107278
+                    },
+                    "southwest": {
+                        "lat": 31.92563167010728,
+                        "lng": -4.425123479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté RIH CAR Location de Voitures Errachidia et Rich",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwKkBW_Di-QIIpzGNCJs3hJsU81EIB-QyO-Yv5e3bnyI4VaUEWW6BSJ2l2LhzFR5Hrqc7ur6dOGY1Ageh4SO-xfoWZpLbgVsHv8jOj05OMdGiztdPwQwPFiFY_PhUjjSFxTE1zIiAYMMWvojNv9ZU49FeF9lKscUm5UJXnZlH-khaknV",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJ5fpzPbdLmA0RRmflLh6xQTU",
+            "rating": 5.0,
+            "reference": "ChIJ5fpzPbdLmA0RRmflLh6xQTU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "SOUK DE MUNICIPALITE N° 478, 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9164237,
+                    "lng": -4.433001300000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.91777712989272,
+                        "lng": -4.431599570107278
+                    },
+                    "southwest": {
+                        "lat": 31.91507747010728,
+                        "lng": -4.434299229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location De Voitures Zizdra Tours",
+            "photos": [
+                {
+                    "height": 686,
+                    "photo_reference": "ATtYBwLfcs_gz5bxWDNhxtbgx-L2Cqnw2RlnchLlAw8JwH-xjzbqMFkzK2I7AZTYogJ5fZiM5v0lVud6QWOs2u5kiokwkm53Yb1GK3Me0ymXLb6HCKwqwfuwcUEHeYZoIYOuMKEcGO1kMZJQpX_3FJDT-ydr4cfDxXlNTcGgwgQ98Uz8qf_S",
+                    "width": 1134
+                }
+            ],
+            "place_id": "ChIJc-bb6kRLmA0RglnXZjlOgXw",
+            "rating": 5.0,
+            "reference": "ChIJc-bb6kRLmA0RglnXZjlOgXw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 61,
+            "vicinity": "Aeroport، الرشيدية،، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2693991,
+                    "lng": -4.48797
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.27074367989272,
+                        "lng": -4.486610620107279
+                    },
+                    "southwest": {
+                        "lat": 32.26804402010728,
+                        "lng": -4.489310279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voitures Er-rich car",
+            "photos": [
+                {
+                    "height": 536,
+                    "photo_reference": "ATtYBwIhoM6SwmZk969ER1xDdSa8mnqxTCbGVxCvwUiGuEij3q-yvHoLM3454CNJbU7cVSsCredsj7F9fTiOad1mX4fJ57BTBiwgOOQyTylJNKxeHqUeVbhgYlK2M8rvktC63tL3LwdqmyFnxNFIFvqxH7pu7cf3eDHao0RsDswjB6WkjXhc",
+                    "width": 953
+                }
+            ],
+            "place_id": "ChIJL6ngAY1XmA0RPUJRczYQRGU",
+            "rating": 5.0,
+            "reference": "ChIJL6ngAY1XmA0RPUJRczYQRGU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "lotissemen ziz n 111, Rich 52400, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2689097,
+                    "lng": -4.4883068
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.27028027989272,
+                        "lng": -4.486932670107278
+                    },
+                    "southwest": {
+                        "lat": 32.26758062010728,
+                        "lng": -4.489632329892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voitures a rich كراء السيارات بالريش",
+            "photos": [
+                {
+                    "height": 3456,
+                    "photo_reference": "ATtYBwIquyFRKr5CpBZz50WEraXJQJKY9e3TNrrwtZJgN7lU5EKOqRHtnZrGUi6wm1BmtZ2sMgLA5VoRVAJG-aIA-PbA50JhOZKpo6WXWxh9u9Y-iftfl8hxOzTKAam6t0WDHMGfI-sp8GawE6syeieT3or98RCcp3fbB7MPZjelM8If0vxI",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJScUtLdpXmA0Rk0tbIT-xzMc",
+            "rating": 5.0,
+            "reference": "ChIJScUtLdpXmA0Rk0tbIT-xzMc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Er-Rich, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9379904,
+                    "lng": -4.4050855
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93934022989272,
+                        "lng": -4.403735670107279
+                    },
+                    "southwest": {
+                        "lat": 31.93664057010728,
+                        "lng": -4.406435329892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Allaoui Car",
+            "photos": [
+                {
+                    "height": 453,
+                    "photo_reference": "ATtYBwLAt9bHyY88UPnCUHJwbtG3U3LIC-g72JvUgF3rqop3LEaXLfyakR9C8pWOY8D0weBxWTTKeuiOWG_X-EfCmozHJm50EJiDxZsRsQmu0W8UjEJA289xOMPuDBnLrwsYmS6NDgsqiktH4cy1aBUZko94e5MpFs0a5cvqOI_IG1jtb-nt",
+                    "width": 604
+                }
+            ],
+            "place_id": "ChIJD_qosh9LmA0ReJq71q_-j8I",
+            "rating": 5.0,
+            "reference": "ChIJD_qosh9LmA0ReJq71q_-j8I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Gare routière, Errachidia 52000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9384812,
+                    "lng": -4.4521231
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93986322989272,
+                        "lng": -4.450713170107278
+                    },
+                    "southwest": {
+                        "lat": 31.93716357010727,
+                        "lng": -4.453412829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Maison Beha Cars",
+            "photos": null,
+            "place_id": "ChIJdYVeQ-lLmA0R1Dd3hOvm2Uw",
+            "rating": 0.0,
+            "reference": "ChIJdYVeQ-lLmA0R1Dd3hOvm2Uw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "314 Ain Atti 2. Extension, Errachidia, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2578923,
+                    "lng": -4.5049474
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.25924567989272,
+                        "lng": -4.503597470107278
+                    },
+                    "southwest": {
+                        "lat": 32.25654602010728,
+                        "lng": -4.506297129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "OUMECHTAQ CARكراء السيارات",
+            "photos": [
+                {
+                    "height": 815,
+                    "photo_reference": "ATtYBwLLmNNIGvkOjNrPwFm1KFt4gmmZVBg2FNcB7k8Q5o4IgprlWYXCtXwGahnNbM5cDzFLyAIlqXW_Top58Y2KYaNOm-nBET4xDNa-Vg2db45d7cv72c-c-PlYuO4tm7SmL35Y-7UwrpnBefcDkINTkgjO-hrTfRcgpev14EL1yqFN94iz",
+                    "width": 581
+                }
+            ],
+            "place_id": "ChIJWRJMiopXmA0Rw7uhcSVc_W8",
+            "rating": 0.0,
+            "reference": "ChIJWRJMiopXmA0Rw7uhcSVc_W8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "N°32 RUE TARIK BEN ZIAD, Rich, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9300576,
+                    "lng": -4.4444377
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.93142082989273,
+                        "lng": -4.443054270107278
+                    },
+                    "southwest": {
+                        "lat": 31.92872117010728,
+                        "lng": -4.445753929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "SSM LOC",
+            "photos": null,
+            "place_id": "ChIJ2VOImd9LmA0R28Kuv746Bu0",
+            "rating": 0.0,
+            "reference": "ChIJ2VOImd9LmA0R28Kuv746Bu0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Boulevard Mohamed 6, Errachidia 52000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwINPfMcGy5fzQZHEc6RHlwb98wouFYFujA4ncwDr3R0QQpWtYXAKSkhLiop61uRSXs7KeVzB-wzz-U7GDKtwLczJSodpkMDLdMw1iQekj1SQMpQzULIRMDyDinYrJOLEZ7hkqT6mO3ZD6V_0uyt3OcKod-KMWNFg-HauxKSHeRq4iRz",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

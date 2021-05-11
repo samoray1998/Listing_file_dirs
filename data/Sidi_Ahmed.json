@@ -1,0 +1,130 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6005376,
+                    "lng": -7.6328653
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60192257989272,
+                        "lng": -7.631508720107278
+                    },
+                    "southwest": {
+                        "lat": 33.59922292010727,
+                        "lng": -7.634208379892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Jazz car | location de voiture",
+            "photos": [
+                {
+                    "height": 449,
+                    "photo_reference": "ATtYBwI6YsCkvFU5YU-yBUisJwB0fIv9gBEueIBygb_nMjDCydhGiw3TjyitYjAFe_bZpSMbw52HAhBbpp8UIrRFWEjle7HRDmX27XWNO2mGH8zjhBDOCV6N0YJa1oXiOO3y4cCgCsG4oINQUL79NIOroMPnj05HH3dL5FHN3hmuZsiOhEeu",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJpy8lU4vSpw0RPY88esaInIg",
+            "rating": 4.1,
+            "reference": "ChIJpy8lU4vSpw0RPY88esaInIg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 64,
+            "vicinity": "605 rue goulmima 1 er etage n 2، Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwIYKWjYHeZJIEwkXztKly-vnWpJZzyI79d8UdQ2ZH3oCg9wk2KXC_pQ0lgfLt9VaX7LFjv1LmiFR1Qa52tSlohDOT9Gj22tEVcXZ8sl4ULkxERVCc3NPDw-2zhaEliPlUFmscwKX38oxhmea4VYn5bEZ5OrznfqIVzJEA--WxMAPJLM",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.823439,
+                    "lng": -6.065089
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.82475052989272,
+                        "lng": -6.063674970107278
+                    },
+                    "southwest": {
+                        "lat": 33.82205087010728,
+                        "lng": -6.066374629892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "GLBOOKING - Location de voiture - Agence Khemisset",
+            "photos": [
+                {
+                    "height": 583,
+                    "photo_reference": "ATtYBwIPiYRfFYmhZYv1uRhb4JBmPgbZ-qa_tl9g8d6FExAHP-P6dFjU_R-dLYuMFdF0V7e-62eE1RHbajWTNrRhVECQoO4h6HZyQv66vwZ1c4pFXvM8d8REbo6f_Ph2QrLcM09NVwe9TwFjn5zqyy9y5RBav0U0-shKLdeR0mYauDbQs8oj",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJ6fvdmmDdoA0RR6wA8jwYQRc",
+            "rating": 4.3,
+            "reference": "ChIJ6fvdmmDdoA0RR6wA8jwYQRc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "numero 24 rue cadi ayad، Khemisset 15000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

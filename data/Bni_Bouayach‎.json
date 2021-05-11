@@ -1,0 +1,822 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1019375,
+                    "lng": -3.8426291
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.10328617989272,
+                        "lng": -3.841260770107278
+                    },
+                    "southwest": {
+                        "lat": 35.10058652010728,
+                        "lng": -3.843960429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "STE AMJAD RIF CAR",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwLb-U6SXadKYFQPaFxXUsLdj8AyaulFU1_FrQ85fooPJnA2tc2uc2iL7HRKO2x0rxOjJyoTn0SNsPdNSdSLpKgvfJJUmDlDirY8cifJHwSTgRR-akZl_U0jrDV52rCwX-jEjisU6FL7oIFRLRe-Ou_QqUpCuAlY29Qls2EYcGy_z5oD",
+                    "width": 1316
+                }
+            ],
+            "place_id": "ChIJVRSK5yfTdQ0R-JwpXa_r0-U",
+            "rating": 0.0,
+            "reference": "ChIJVRSK5yfTdQ0R-JwpXa_r0-U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Bni Bouayach, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1410693,
+                    "lng": -3.8497652
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14240167989272,
+                        "lng": -3.848403370107278
+                    },
+                    "southwest": {
+                        "lat": 35.13970202010728,
+                        "lng": -3.851103029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ste arviaa car imzouren",
+            "photos": [
+                {
+                    "height": 2448,
+                    "photo_reference": "ATtYBwJgJoj1qA9n7tYiJ8ha8trlPfYzjeue95WhAu-sVV9nG65Vd9j8wc5qpbjCvqJ4JSWhYP0cNqsKdev8Q6v17FKuYoRupuUJKojGaUVvRbOgIy4VVLv2JZVoPT8nmLY1k6xN0F8TbJeRSLPJtyPzttjetv7Bpg1T7ZGFAO-_K2oiCgs_",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJsfVZjjnTdQ0RWyXMTjRLt_g",
+            "rating": 4.2,
+            "reference": "ChIJsfVZjjnTdQ0RWyXMTjRLt_g",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Imzouren, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1483151,
+                    "lng": -3.8501443
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14967612989272,
+                        "lng": -3.848817020107278
+                    },
+                    "southwest": {
+                        "lat": 35.14697647010728,
+                        "lng": -3.851516679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Aharchi Car Imzouren - Location de voitures Aéroport Al Hoceima",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJCauyw-PAjWiYtGFXoMs3dqYJ1HpsUzh1L4kvVtA43s1EZhZAoGs1FTM0WmT09BVamTg0K0Aa8y1WrabiYaTbanA7iRc6lZS5B59krRga0hg2GroaZVuC19FNMeuuZvRcgf5fc1d_wpVQbibAETaB7pGZkUC9EvS2KSuv5lNwU0AIS",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJu37LADnTdQ0R95Jjh39F9m0",
+            "rating": 4.9,
+            "reference": "ChIJu37LADnTdQ0R95Jjh39F9m0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 31,
+            "vicinity": "53 Rue 03, Imzouren 32250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1404151,
+                    "lng": -3.8514477
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14177327989272,
+                        "lng": -3.850096170107278
+                    },
+                    "southwest": {
+                        "lat": 35.13907362010727,
+                        "lng": -3.852795829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Errifai Car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwK1PUCvusHFjf3DI-1EqiinZrIV90TSyJMiJ-ZiSe-O4a4NxZ-CjpEMkZ6eUdXySb12LSyYSmL-QCZKIh-Ck0z8UIozNnAOMMvvXuiYnA8K1x1MaJR9-MO3Am3uZMV8QBlWgZfinzq9ujtgxMaaJl0S5q_uhiP6A726lIUzaq-VbASQ",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJP78mYxPTdQ0RZu3gPZL2LC8",
+            "rating": 5.0,
+            "reference": "ChIJP78mYxPTdQ0RZu3gPZL2LC8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "88 Rue Afghanistan, Imzouren 32250, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1481086,
+                    "lng": -3.847113
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14921252989272,
+                        "lng": -3.845754870107278
+                    },
+                    "southwest": {
+                        "lat": 35.14651287010728,
+                        "lng": -3.848454529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté Aharchi Car",
+            "photos": null,
+            "place_id": "ChIJzaaMxXLTdQ0RF6ntIugYPKc",
+            "rating": 5.0,
+            "reference": "ChIJzaaMxXLTdQ0RF6ntIugYPKc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Imzouren, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1485157,
+                    "lng": -3.8527099
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14986937989271,
+                        "lng": -3.851359620107278
+                    },
+                    "southwest": {
+                        "lat": 35.14716972010727,
+                        "lng": -3.854059279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thawiza Car",
+            "photos": [
+                {
+                    "height": 3120,
+                    "photo_reference": "ATtYBwLTIB09Wopmk4KU2gznVowArI4usO45lyXj50fpP6WQuMGuxG3ROwZ0hiDms1hfjjf4dkoKqyI_whvEZYJSEssXnFdLEmeLfZ8jsd0Wp2Kkh34kdRqoExeyRj2k48IcSp-3Me-I3CQMMpcTf2DpA7H6Svxhr-wmDWoUMUbWMbT2301y",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJJb0IXcvTdQ0R5zOpxATI6kY",
+            "rating": 4.8,
+            "reference": "ChIJJb0IXcvTdQ0R5zOpxATI6kY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Imzouren, oued elmaleh, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1438079,
+                    "lng": -3.8488005
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.14514507989272,
+                        "lng": -3.847490220107278
+                    },
+                    "southwest": {
+                        "lat": 35.14244542010727,
+                        "lng": -3.850189879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ste Rayan Med Car",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwLSA41pZaiUBbZ1ey-uG4SNGk1J3A6HUDYRngHjwf_iSv_TsW1rV7gUBPs57u90DkkE5MkBUqdcjz-jMnXu3hWLao118pp1CKIpFTXhM2xNnsFZB7aZLet7zkiix1pXHxKkQqqRxwG8xpvHp7cXr8Pf3WCCc9XFzA7LvzEXZy0Dduab",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJsXHlaDfTdQ0Rbg3IZzst6c8",
+            "rating": 4.5,
+            "reference": "ChIJsXHlaDfTdQ0Rbg3IZzst6c8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "155 Avenue Bir Anzarane, Imzouren 32250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1374021,
+                    "lng": -3.8502617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.13875242989273,
+                        "lng": -3.848911120107279
+                    },
+                    "southwest": {
+                        "lat": 35.13605277010728,
+                        "lng": -3.851610779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Glbooking - Aharchi Car",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLtG7hVZKCOMyv2IWdEbD4JjqougbwSauZcY65jIitRGsWTxu7EIcb336SgHXbP1AOulIACtAYELicF-D0IdaYHNoLDH5jmxriKCQsejkaHePj_6s09yArBZIwsli7h8eq66wZ35nNudFXruHc8pOyt0gKQVgGIBGc-TToZvJs8Kxk5",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJZypI7EXTdQ0R_pR1_qB3th4",
+            "rating": 0.0,
+            "reference": "ChIJZypI7EXTdQ0R_pR1_qB3th4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "53 , Rue 03 Imzouren (303,98 km Al, 32250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2424614,
+                    "lng": -3.9308001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24380982989272,
+                        "lng": -3.929450920107278
+                    },
+                    "southwest": {
+                        "lat": 35.24111017010728,
+                        "lng": -3.932150579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Linox Car Location voiture Al Hoceima",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwIXb1TCn6CLMaR8t8c3WfkE97d0aorkgkjhZnnZJx7hOglW83A8EdsOsD8OiDtygeZ9Vp73X-KCdkw3ABOvbcB_ke3WyV0vvAmin6ptmNhTVNmd02oL6puAKCbzUlcsiPF6hR72h3lj_Kob2rydnM0QbxVHR-JevxZfZZcXFI70YO13",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJF2jXcVMxdA0Rc1oAEAfdxZE",
+            "rating": 4.2,
+            "reference": "ChIJF2jXcVMxdA0Rc1oAEAfdxZE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "18 Rue 9 Juillet, Al Hoceïma 32000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2420704,
+                    "lng": -3.9307168
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24341337989273,
+                        "lng": -3.929326770107279
+                    },
+                    "southwest": {
+                        "lat": 35.24071372010729,
+                        "lng": -3.932026429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Maroua Med Car Location Voiture Al Hoceima",
+            "photos": [
+                {
+                    "height": 298,
+                    "photo_reference": "ATtYBwL0baHsFEl8tIfXJixJuZoLW4Blqi_AGSkLEdjV1Tso0qKElpYGv-bCSghB5d0baqW_-TXuZWiruBbTpTHgZyjuJYadDF2F6-VlTupQUaPDQ-MTIsRWdo6BqPDfuStZxVvsTXmYvqSfvnZtwlUI9_KVuOJJZk9_y0CqdCwVcKvRCKZ2",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJvd4HVI8xdA0RIDTv6QorkbY",
+            "rating": 5.0,
+            "reference": "ChIJvd4HVI8xdA0RIDTv6QorkbY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "21, rue Al Mouahidine Al Hoceima، 32000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.244055,
+                    "lng": -3.933792099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24539067989273,
+                        "lng": -3.932446170107278
+                    },
+                    "southwest": {
+                        "lat": 35.24269102010728,
+                        "lng": -3.935145829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Amazian el idrissi car",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwJccPm6vja0c7wyNkBNuhcpGy5uhLweQWCTZalYPWuAKcpYDxpbHP88Vs2OJ0enqVLyYCGeRIn5gsVpSHy9uBiVGEpTywJjZAA3m4VF5ALiIMYZvUZBkcKWA9M7P7h5u01RLUbpDX9rorDRww9Xlo-5vZ8QiXvSiR166VIo4s7Slcwl",
+                    "width": 1836
+                }
+            ],
+            "place_id": "ChIJ-yqgAvMxdA0RtXncvr8169o",
+            "rating": 0.0,
+            "reference": "ChIJ-yqgAvMxdA0RtXncvr8169o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "55 bis Rue Bir Anzarane, Al Hoceïma 32000, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.250506,
+                    "lng": -3.9347932
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.25185897989272,
+                        "lng": -3.933450820107278
+                    },
+                    "southwest": {
+                        "lat": 35.24915932010728,
+                        "lng": -3.936150479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location de voiture Semmy's",
+            "photos": null,
+            "place_id": "ChIJTbIsCkoxdA0RapbJcrzeU3w",
+            "rating": 0.0,
+            "reference": "ChIJTbIsCkoxdA0RapbJcrzeU3w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "№ 47 Rue, Avenue Sidi Abid, Al Hoceïma 32000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1940097,
+                    "lng": -3.9157176
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.19534027989272,
+                        "lng": -3.914409720107277
+                    },
+                    "southwest": {
+                        "lat": 35.19264062010728,
+                        "lng": -3.917109379892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté DORACAR Location de Voiture",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJPQEG_v3FMlGTtWvO8zkyddtc8veLzKQ8qf_GqiGTFDMknDBc8mu7A1TzPHqpSJllzpAqZS7hs5bJrGidvTrPL6L3nMeP4pn62-c7JsPvB467PZBXVAUAFAcd-ym1RoaK3sJMFcQLX_PqdjTE2qik5QeeTOAYEFqv5Ksve2PixI-9j",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJjRJkw4cydA0R2wyGwfpkxBw",
+            "rating": 1.0,
+            "reference": "ChIJjRJkw4cydA0R2wyGwfpkxBw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Marché de gros Imzouren, Ajdir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.24156230000001,
+                    "lng": -3.934676
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24289822989272,
+                        "lng": -3.933364870107278
+                    },
+                    "southwest": {
+                        "lat": 35.24019857010728,
+                        "lng": -3.936064529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Souki Car Location de Voitures",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwLIrzPwwKQAaa94DZ62tyhhhF0-Z6fnCNzoXi7Mnn6hBuOwRNyCYFBoUQ1-61jYNxCRgFVUYGnox-moSqXp7GOmp-cTc4yxmj6cQyaUI9_ApovUlZPfJTp_hvmDkWtPLxjo6PSq6wwwkJf87H4_J_nrr75jEE95sqcceZhk8O13zuTh",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJr91hUYgxdA0Rr_mBOePKWEs",
+            "rating": 4.6,
+            "reference": "ChIJr91hUYgxdA0Rr_mBOePKWEs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 14,
+            "vicinity": "26 RUE JABIR BNOU HAYANE، El Hoceima 32000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.246526,
+                    "lng": -3.941449699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24789627989272,
+                        "lng": -3.940085970107277
+                    },
+                    "southwest": {
+                        "lat": 35.24519662010728,
+                        "lng": -3.942785629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hadj Marzouk Car",
+            "photos": [
+                {
+                    "height": 300,
+                    "photo_reference": "ATtYBwLfY1xUHKPgopE3NSYb4BY5IrqlnzERbxnUbu1M2QjXHcjdDZjtOZ6lizBBsL3ujhH6ne0v7pSlB9iJjtM9hF6LLplLYH5ZoI-HScLqNXejTGCm3lcYIPEOpj7XqN76WFynme4JDxOsVbqzAaJ9_EGqnfgKZsOentvEIsIXfHUYhora",
+                    "width": 536
+                }
+            ],
+            "place_id": "ChIJD6eB19ExdA0RNu1q4Ody6Kw",
+            "rating": 5.0,
+            "reference": "ChIJD6eB19ExdA0RNu1q4Ody6Kw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "43 rue homman el fatouaki، El Hoceima 35000, Morocco ",
+            "opening_hours": {
+                "open_now": false
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1746952,
+                    "lng": -3.8644821
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17607237989272,
+                        "lng": -3.863166270107278
+                    },
+                    "southwest": {
+                        "lat": 35.17337272010728,
+                        "lng": -3.865865929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Swani cars",
+            "photos": [
+                {
+                    "height": 634,
+                    "photo_reference": "ATtYBwKIuEvFIk0RY0IH00WZxDLgRX3lKAV3zPICcoeMQsmJMP33bWU-p5mI3Y4CkcPxeUe6-FE5NLPWwL26_dZrXm4hOEgFMlZmieb3FSzZBZanPDNEirsKT9yAzl_3qg8P05ZIYEydfht8f_wa6CRWpIkvRlzzTmV6ZZCeusZDx7AOQnef",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ7-ZAMr4tdA0R9IDQTCvR8vM",
+            "rating": 5.0,
+            "reference": "ChIJ7-ZAMr4tdA0R9IDQTCvR8vM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 35,
+            "vicinity": "Unnamed Road، Ctre Ait Youssef Ou Ali, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.248386,
+                    "lng": -3.9305394
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24973702989271,
+                        "lng": -3.929189270107277
+                    },
+                    "southwest": {
+                        "lat": 35.24703737010727,
+                        "lng": -3.931888929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Oujabar Car",
+            "photos": [
+                {
+                    "height": 809,
+                    "photo_reference": "ATtYBwLlEb6x80b6vUfkiv0lSF1fiesMrUJCiUNGFNivlAy9jXqv6Pu-HF9HnrMf1jyyoQItTV6cxl1iyznP6Q_RNzSDo1zrfuG1AKFxxbFDIV4O64TPg47mCO08clYQW7PSWg4jpaW-MXSnYFrTvrYQm2ID5N8J35PII-Kf-PS4tk3jOqHP",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJgfqRH_cxdA0R2E3Ia4RGi8A",
+            "rating": 5.0,
+            "reference": "ChIJgfqRH_cxdA0R2E3Ia4RGi8A",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "9, Rue Ave Mohamed Zraktouni, El Hoceima 32000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2448328,
+                    "lng": -3.9349165
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24613647989272,
+                        "lng": -3.933583070107278
+                    },
+                    "southwest": {
+                        "lat": 35.24343682010727,
+                        "lng": -3.936282729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "mahiracar",
+            "photos": [
+                {
+                    "height": 660,
+                    "photo_reference": "ATtYBwI0WUf8-RLXoKsnaUS9bvYhT9Q8v2e4ZsX0Kj-epbmqn9iH5iOg5xQYRqNUmne3Q2U2VD0WpPqj0fEwVs5m9YrETTlOAQMa2r356qoosBefF4SrRSODaXhcOiQ_6ic0spalxM7VTY3Q99IHcylvp-Jco6ml-0h0wO0F7nS8cTG9gCAw",
+                    "width": 1107
+                }
+            ],
+            "place_id": "ChIJgd2LenkxdA0R9f6BrouYIfQ",
+            "rating": 5.0,
+            "reference": "ChIJgd2LenkxdA0R9f6BrouYIfQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "El Hoceima, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2454502,
+                    "lng": -3.9309473
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24677857989272,
+                        "lng": -3.929604020107278
+                    },
+                    "southwest": {
+                        "lat": 35.24407892010728,
+                        "lng": -3.932303679892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Imalis Cars Al Hoceima",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwKGQjHwjssPhwvdPF-aPDSsxX0-NctPPhP3Ifv_UwqFt0WM4uY1Ji4yhLHmDENMTifiywZHKrrDYj7XPKd2G7PLXkWExAOs6lZxyRc4G4W6M-L6qKxRJzMbeBvf5ixkqb-pOMk2HlXFINj8YF8B0JuX-i9IeHGYt5glvb38F4mBNv5S",
+                    "width": 2448
+                }
+            ],
+            "place_id": "ChIJEbXxEIwxdA0R7gfj3S51q0Q",
+            "rating": 4.0,
+            "reference": "ChIJEbXxEIwxdA0R7gfj3S51q0Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "12 Bis Rue Algérie, Al Hoceïma 32000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2464394,
+                    "lng": -3.9322455
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.24779867989273,
+                        "lng": -3.930945320107278
+                    },
+                    "southwest": {
+                        "lat": 35.24509902010729,
+                        "lng": -3.933644979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sté WIACAR Location de Voitures",
+            "photos": [
+                {
+                    "height": 686,
+                    "photo_reference": "ATtYBwISiSkIZ84sRxteK_6GDlOIX9sNqZSejYpxucT19kM_0b6SzvoH6Tvkle7SBt4S8OYaNOvATUo6cDF8xyNEoVuSs_CXfIazqDAtuWIJ3NzrHe_cKwewvQBheelPZS4UmHFOQTFULXNyzMttAWWdFPMbs3Tmgr4PMKqG5Ib1VLAx9SFG",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJ5Ur3mo4xdA0RqN7BVbQZ4-w",
+            "rating": 2.0,
+            "reference": "ChIJ5Ur3mo4xdA0RqN7BVbQZ4-w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Mussa Bnou Noussair,, El Hoceima, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

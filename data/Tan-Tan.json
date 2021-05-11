@@ -1,0 +1,40 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 28.438041,
+                    "lng": -11.098737
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.43940367989272,
+                        "lng": -11.09742202010728
+                    },
+                    "southwest": {
+                        "lat": 28.43670402010727,
+                        "lng": -11.10012167989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de Voiture Tan-Tan",
+            "photos": null,
+            "place_id": "ChIJG4IsuOiQSgwRvkOJp9vLUKU",
+            "rating": 3.4,
+            "reference": "ChIJG4IsuOiQSgwRvkOJp9vLUKU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "39 AEROPORT، Tantan 82000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

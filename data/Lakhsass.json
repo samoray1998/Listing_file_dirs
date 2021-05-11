@@ -1,0 +1,38 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.638883,
+                    "lng": -7.9983914
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.64025607989273,
+                        "lng": -7.997016620107277
+                    },
+                    "southwest": {
+                        "lat": 31.63755642010728,
+                        "lng": -7.999716279892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "salifs car",
+            "photos": null,
+            "place_id": "ChIJRfciO1rvrw0R32th8w9was0",
+            "rating": 5.0,
+            "reference": "ChIJRfciO1rvrw0R32th8w9was0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Rue Aneflouss, Marrakech 40000, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

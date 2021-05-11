@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 29.0008212,
+                    "lng": -13.4847038
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.00233097989273,
+                        "lng": -13.48334122010728
+                    },
+                    "southwest": {
+                        "lat": 28.99963132010728,
+                        "lng": -13.48604087989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Avis Alquiler de Coches en Lanzarote - H. Salinas",
+            "photos": [
+                {
+                    "height": 533,
+                    "photo_reference": "ATtYBwJ_Rdvnza4sxceFJlOKDy0aSfd8GcHdm_HvNzAruGQswts8XriRSdsA0H6Z7eTGXc8tYWXk1oNAWH1Me9WDp5jM05IbfzAGppPnsYb8g7uaexH8wlJc9-YKxUJKmEXfF1HLy2MHgzP6tLLE6sBKCwMICJKX_P80b4FraICgsll-HpvG",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJJ9boSCWcSAwRqQf_0xTFVNk",
+            "rating": 3.0,
+            "reference": "ChIJJ9boSCWcSAwRqQf_0xTFVNk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Hotel Meliá Salinas, Av. de las Islas Canarias, s/n, 35508 Costa Teguise, Las Palmas, Spain ",
+            "opening_hours": null
+        }
+    ]
+}

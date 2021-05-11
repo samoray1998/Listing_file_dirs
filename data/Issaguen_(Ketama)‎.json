@@ -1,0 +1,820 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.5274137,
+                    "lng": -4.637364799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.52886607989272,
+                        "lng": -4.636001120107278
+                    },
+                    "southwest": {
+                        "lat": 34.52616642010728,
+                        "lng": -4.638700779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mimoza Car",
+            "photos": null,
+            "place_id": "ChIJpbOuW5pldQ0Rhv3FZRDnDhk",
+            "rating": 0.0,
+            "reference": "ChIJpbOuW5pldQ0Rhv3FZRDnDhk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Taounate, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.04251,
+                    "lng": -5.001774
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04387707989272,
+                        "lng": -5.000410370107279
+                    },
+                    "southwest": {
+                        "lat": 34.04117742010728,
+                        "lng": -5.003110029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLh0BN8VPSq9ni5gWIZG1HnS2iUuVpDffJY_W14hPI71YgvJAFrphRBch_RP3Ka1izdpdmUPtS7ONbhlHz3nZ5Iqj2S9W7Y2sA9GnHW0hnL-t6ltJQwmgXQv4Gt5BFCVFf2fKDNcFUhCu_mFLMLpdINN6pRIhlpnFowrOA-CdwNZcs3",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJY_AJOzeLnw0RMfO5TYcrnuA",
+            "rating": 2.5,
+            "reference": "ChIJY_AJOzeLnw0RMfO5TYcrnuA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Kissariat de la Foire, Ave Lalla Meryem, Fès 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9316933,
+                    "lng": -4.9826117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93286687989272,
+                        "lng": -4.981259770107277
+                    },
+                    "southwest": {
+                        "lat": 33.93016722010728,
+                        "lng": -4.983959429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Fès Airport]",
+            "photos": [
+                {
+                    "height": 900,
+                    "photo_reference": "ATtYBwKTiY_0X-QHeGCcSlvbnn5zkCyHL3SvvjBm9cRK44oIzhtqgiiMd9XDbkZXn9pfMw4IMaHDwhbgKBUfcIuFo7-pRxCuRzYe0kfP-HdZ0n9WGRP1AJiPTzdRSsyp5qTkwRVxwmGtqCI9fL1EJO53AT3ANRXiP0w3Dcz688ludtz6_f-d",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJOyfyji2Jnw0R2FDKDcV8vA0",
+            "rating": 2.3,
+            "reference": "ChIJOyfyji2Jnw0R2FDKDcV8vA0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103,
+            "vicinity": "Aéroport Fès Saiss, Fès 30000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.034115,
+                    "lng": -5.013348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03529827989272,
+                        "lng": -5.012219820107277
+                    },
+                    "southwest": {
+                        "lat": 34.03259862010728,
+                        "lng": -5.014919479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwK_zD2zxVteoLgRaUujx6UgoD82rdIh46xWsTJ_p4KLqgZ3vBP2yy8-5qgaiTnJ6k5nG0sTAHIw06vENsitzIKEPVs-y6CngOt0QNz29ssYBA6uDP10kEZFkW8SrGN4DNVHRtMWd48TdOv5OfaUuk8uA-eTkt-J8LXColKRuQIHmSM1",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJwwlXCxqLnw0RI9wyMfpVZe4",
+            "rating": 0.0,
+            "reference": "ChIJwwlXCxqLnw0RI9wyMfpVZe4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NO 1 KISSARIAT DE LA FOIRE, Fes, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7748599,
+                    "lng": -5.781499999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77619847989272,
+                        "lng": -5.780145070107278
+                    },
+                    "southwest": {
+                        "lat": 35.77349882010728,
+                        "lng": -5.782844729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLmLm6mzXembDD_t7HAzs0dGI_HRNB8gv-PY55mmdcowzXtv4abZ-DNmhceK6chfeXZ2hDQbA9VIM_vaN4X6hdVlNtwn33FfEAY3swZ7q2AaTrAoGkBekMpRO6sk-8CF0u2z6Oa-Nz0kv6VHq514hwnC8oMHpc6hCcEMWfmo2mgZ4Gk",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJDzGdoBSBCw0RW3KkqLWMJRU",
+            "rating": 1.0,
+            "reference": "ChIJDzGdoBSBCw0RW3KkqLWMJRU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "36 Ave Mohammed V, Tangier 90000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0422255,
+                    "lng": -4.9984685
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04360857989272,
+                        "lng": -4.997182170107277
+                    },
+                    "southwest": {
+                        "lat": 34.04090892010728,
+                        "lng": -4.999881829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": [
+                {
+                    "height": 4608,
+                    "photo_reference": "ATtYBwIFggM4TUhjNv1nqaloDYocUVO5H_mnKwpvyp9A7w91rUoBqscZRH9pnQ7M1qbVVhpPdxHx1bLprmi1T7jVekQKSkAenud6CELxfLI8xzr6726uSEAVr_tsgJvYsXYxudQrNtvsvbRZJlhM1yyt9syNqUVarMVg5rVKotWPpfnBR_wh",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ_YCoo7H0nw0RtmWGNQ756mY",
+            "rating": 3.2,
+            "reference": "ChIJ_YCoo7H0nw0RtmWGNQ756mY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "45 Avenue Hassan II, Fès 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.726032,
+                    "lng": -5.912094
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.72751057989272,
+                        "lng": -5.910934720107279
+                    },
+                    "southwest": {
+                        "lat": 35.72481092010728,
+                        "lng": -5.913634379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dollar Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIpvX_RI8SAhQwsMsD-OdE_W4pZ2cHlmbvf67SC5zwbzM0nHrJZ_UlQPXMbCgfWlj53tjmF9YSfFqnMw5JuTXigLXDHJZgljxcC02FjHRxvmh0EaS02Hg-rETevJle1tIAWw9_WQEEmZ_VMKiflL5G1TjeQiC4fFF2Z0Gr7ASJpMIB_",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJ6aErpb6HCw0RruHtcInKZMc",
+            "rating": 0.0,
+            "reference": "ChIJ6aErpb6HCw0RruHtcInKZMc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "TANGIER, AP 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.017246,
+                    "lng": -6.835067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01858067989272,
+                        "lng": -6.833680470107278
+                    },
+                    "southwest": {
+                        "lat": 34.01588102010727,
+                        "lng": -6.836380129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Car Rabat",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwKh4urgg5vrqsaExObI9QuZjEvj3uWw7n9VjbXQ3orwDE0un53HMVt1xJDkfLelJNEc_BthhbzHt_07q7DJ6DWGXJt5ZiJRytm5jJspOtO_pbrwesyeSlkMCGKJXpig3kDvlHXIi-qiMUXNS_b-TymwOdnkKRN9SUhmMrMPV_TFgWmr",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "rating": 4.0,
+            "reference": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "12, Avenue Amir My Abdellah, Imm Balima V Bis, N23 C, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.596354,
+                    "lng": -7.615233000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59770752989272,
+                        "lng": -7.613965620107279
+                    },
+                    "southwest": {
+                        "lat": 33.59500787010727,
+                        "lng": -7.616665279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Maroc",
+            "photos": [
+                {
+                    "height": 498,
+                    "photo_reference": "ATtYBwJdKv5kl-y74xxYOAH5FvZOs9euQQxDUX9n2VDVR-VZ1rsuT3fO1zXS0LW1UNgBwP4eK9MqhMtQkSlTGDLlprAPtasT5Mnrc20LBEPexQFj38Gl-bWjdA-SGcpUm9KO-r5mLO1Z7FmF_amQoX_tOVpc09o8XckwXxCUaAAXSARSiPG3",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "rating": 2.4,
+            "reference": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "25 Rue el Oraibi Jilali, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0365523,
+                    "lng": -6.748588199999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03811037989272,
+                        "lng": -6.747274970107277
+                    },
+                    "southwest": {
+                        "lat": 34.03541072010728,
+                        "lng": -6.749974629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Rabat Airport]",
+            "photos": [
+                {
+                    "height": 410,
+                    "photo_reference": "ATtYBwLq0dLvQYjUIyzc3ZPNgQkFmms4Xgp5nh822cw3zsua4t8Gi_24eHTCZUJQHq-vIDdnpo8HxhP9sLNmTn3tcgL01AOb9IVQcVgxWEHs3yX8YsOaR20HJmf66kCHiaoVuC9LODESGMpvsai7JgvBcnQBdkOKyXlN3PgUd_0aY2TsOmaW",
+                    "width": 728
+                }
+            ],
+            "place_id": "ChIJe986Yg5qpw0RZxNlEbsf9y0",
+            "rating": 2.6,
+            "reference": "ChIJe986Yg5qpw0RZxNlEbsf9y0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 49,
+            "vicinity": "Aéroport Rabat-Salé، Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7768012,
+                    "lng": -5.804496299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77817967989272,
+                        "lng": -5.803129470107278
+                    },
+                    "southwest": {
+                        "lat": 35.77548002010727,
+                        "lng": -5.805829129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": null,
+            "place_id": "ChIJk-zVeyp_DA0Rf6i2u8yIW7w",
+            "rating": 3.0,
+            "reference": "ChIJk-zVeyp_DA0Rf6i2u8yIW7w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "87 Ave Mohammed V, Tangier, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0229524,
+                    "lng": -5.0166835
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.02425207989273,
+                        "lng": -5.015356270107278
+                    },
+                    "southwest": {
+                        "lat": 34.02155242010728,
+                        "lng": -5.018055929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar",
+            "photos": [
+                {
+                    "height": 1024,
+                    "photo_reference": "ATtYBwLQkDA-mODskinuF5FLRWXHBE-TooTu1Vlkc_wUEUG0uacJ5Zn7bJQfpBTkO0I8xjHxQAArtWqfEe-d8GyzQXjvyRc1KyH-JoQBnBFbkwNFWRxipEeIA7abwHEk-tFFetSuYLKZCflIxVuMnYJMDPkRyA0G3DnNso_u157uaD-KZDVL",
+                    "width": 576
+                }
+            ],
+            "place_id": "ChIJd1tsNkiLnw0R1Jxa2VBlhUk",
+            "rating": 4.4,
+            "reference": "ChIJd1tsNkiLnw0R1Jxa2VBlhUk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Avenue Mohammed bahnini ,centre commercial Anas، N71، Fes 30000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9305208,
+                    "lng": -4.9817021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93201722989272,
+                        "lng": -4.980369320107278
+                    },
+                    "southwest": {
+                        "lat": 33.92931757010728,
+                        "lng": -4.983068979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": [
+                {
+                    "height": 4128,
+                    "photo_reference": "ATtYBwIVgNetBtOXpeTCeAYnsqko4qNrmg8RcWjFDJP_LWRVPu2RKQmnYLNxt9kA8pU8rlOmw5zEbM4TFh0kzAk86o2JKQX8y2mqL2coeb7jTECVIFv-a_F6MxOMpi-9Z8mWP-vmwtqXnFpKaHLP_0pMH38iuZpBUUeSfvmk9nQSLoInyj_L",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJvwuyjy2Jnw0RLWD6q3bPqUM",
+            "rating": 1.4,
+            "reference": "ChIJvwuyjy2Jnw0RLWD6q3bPqUM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Fes-Saiss, FEZ, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9304468,
+                    "lng": -4.9819343
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93197492989272,
+                        "lng": -4.980577920107278
+                    },
+                    "southwest": {
+                        "lat": 33.92927527010728,
+                        "lng": -4.983277579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Green Motion FEZ Airport",
+            "photos": [
+                {
+                    "height": 1056,
+                    "photo_reference": "ATtYBwLNpWr27yeLWeOD1Dh75TmrLF6Kcstssalpnu9grJCLzK2QsbM26c930i1rM0ezFNKtNt10Ic6wKZsICNrmWJ7UPQPc6rFYTmezGIFGCcxcCNmb_EU98GRkpvlNXngLqY2E7-mmOikdslGRtAlfGjyzbaUuMqlyBVV3G2S1Nw9ismBD",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJF0l0TrCJnw0RzBagoG7dsn0",
+            "rating": 2.1,
+            "reference": "ChIJF0l0TrCJnw0RzBagoG7dsn0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "Hotel Royal Mirage، Fez Airport، Fes 30000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.786966,
+                    "lng": -1.941187
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.78814827989272,
+                        "lng": -1.939788270107278
+                    },
+                    "southwest": {
+                        "lat": 34.78544862010727,
+                        "lng": -1.942487929892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Oujda Airport]",
+            "photos": [
+                {
+                    "height": 399,
+                    "photo_reference": "ATtYBwLwEwjc-An3eoIjkNa1nFYBgoP0JRFYeCrUAiTflHpHmquVdVWerRYFPLwju_-mgcnjlSwE-l4tSaDzMeSkHgtO7ssWrekJs3Xt7dw5sqo3KnHjqXwTajKKblMfT87aZ59Q1hwxxi9ipmKyR-9BsvaqEobj6icR1lagKwv_llSm3orF",
+                    "width": 711
+                }
+            ],
+            "place_id": "ChIJN_r_W8FmeA0RReMLcC9Njzs",
+            "rating": 3.5,
+            "reference": "ChIJN_r_W8FmeA0RReMLcC9Njzs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 21,
+            "vicinity": "Aéroport Les Angades, Oujda 60000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7760937,
+                    "lng": -5.802989999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77755322989272,
+                        "lng": -5.801583370107278
+                    },
+                    "southwest": {
+                        "lat": 35.77485357010728,
+                        "lng": -5.804283029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar",
+            "photos": [
+                {
+                    "height": 2160,
+                    "photo_reference": "ATtYBwKsvDNaxsmqop2sRZurqyqmu_6z35cnw2uIZ5jY6wBdIUZ2XGLJ_NtnZ24goqLKFks69z0n7HsCHtauLIx3XjikuF9azlzcyIMMhoLTIviTEICHq_Mwl2oO9FeNnkcGWe4wE7cyWIGtxA7csPbC9tR7gOdzCztu9Brp8eXZc537Y17H",
+                    "width": 3840
+                }
+            ],
+            "place_id": "ChIJ1T8oEFh_DA0RBfp4GcZa1Hw",
+            "rating": 4.2,
+            "reference": "ChIJ1T8oEFh_DA0RBfp4GcZa1Hw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 29,
+            "vicinity": "Technopark، N° 202، Tangier 90000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5961629,
+                    "lng": -7.6047992
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59750857989272,
+                        "lng": -7.603449670107278
+                    },
+                    "southwest": {
+                        "lat": 33.59480892010728,
+                        "lng": -7.606149329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Firefly MAROC",
+            "photos": null,
+            "place_id": "ChIJl5QetWTNpw0RwEJ_MfPX7vg",
+            "rating": 1.0,
+            "reference": "ChIJl5QetWTNpw0RwEJ_MfPX7vg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "30 Avenue des FAR, Casablanca 20250, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5837208,
+                    "lng": -7.636590999999998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58510997989272,
+                        "lng": -7.635195070107279
+                    },
+                    "southwest": {
+                        "lat": 33.58241032010728,
+                        "lng": -7.637894729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "1سيرفيس كار",
+            "photos": [
+                {
+                    "height": 675,
+                    "photo_reference": "ATtYBwKbQaTTVqOBoJ2RVWxNO4S-wwArdbqXN7AJuStfmt2ABd96tDBnnXDeXaYEI4G1_gzsN5xNnTq9IWmIxDDfIXiUvY5XYM7DU0tmKpWi3Ej_2PLgyca1uAfakh1MKx49jpfrbPNGyUKxHIKdlMTlJ1h0lrBbVq4iiEmmSLVlYa43Srg8",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "rating": 4.8,
+            "reference": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Galerie Familia, Rue Oussama Ibn Zaid, 1er Étage N°40, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.4080635,
+                    "lng": -7.539114499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.40936952989273,
+                        "lng": -7.53774732010728
+                    },
+                    "southwest": {
+                        "lat": 33.40666987010728,
+                        "lng": -7.540446979892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Agence de location de voitures - Hire Automotive Group (HAG)",
+            "photos": [
+                {
+                    "height": 3456,
+                    "photo_reference": "ATtYBwIBq9PbqsXqa7EbOAAWNN8_yaYcH-9gwxwlTSqmmp6Buyyf-uAVXpI4q1a6o8B61tdvMJn6IC13KrX5kTSmYnDo7TsZRjYyegZKwxavPEFILipUnlJOaYxylWduuhaav6XHWWkBbvO_n-h0j01AFMPjsbDPKjRvYaCQkYX1ir8gdmOA",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJ_zK0H7kwpg0RLGxCj3EoQu8",
+            "rating": 4.2,
+            "reference": "ChIJ_zK0H7kwpg0RLGxCj3EoQu8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "122 Parc Industriel Sapino, Nouasseur 26200, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.3710545,
+                    "lng": -7.5783703
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.37243967989273,
+                        "lng": -7.577020370107276
+                    },
+                    "southwest": {
+                        "lat": 33.36974002010728,
+                        "lng": -7.57972002989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Casablanca Airport]",
+            "photos": [
+                {
+                    "height": 452,
+                    "photo_reference": "ATtYBwKbrJuUDzKmAzujyiVhWLgaNpe3dmJVSDIVK5r5Li3DyCMHloT3tfLbzveBDrLJUmTgJLRxEAvBu7MWkbnTO15AiHQObU1LYA9PLkNmI53P74v5p9ePZQK4VIv8UeVVQXbsJkIDIqlVjzmMhB1ojBUETMg8KjQQunYfvInI5JGbNVx5",
+                    "width": 805
+                }
+            ],
+            "place_id": "ChIJiwAf0ZI6pg0RavmzfWUFJ6Y",
+            "rating": 2.4,
+            "reference": "ChIJiwAf0ZI6pg0RavmzfWUFJ6Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 143,
+            "vicinity": "Aéroport Mohamed V، Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

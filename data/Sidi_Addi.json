@@ -1,0 +1,822 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.445935,
+                    "lng": -5.229409
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.44725937989272,
+                        "lng": -5.228113620107278
+                    },
+                    "southwest": {
+                        "lat": 33.44455972010728,
+                        "lng": -5.230813279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "IFRANE SUISSE CAR location de voiture",
+            "photos": [
+                {
+                    "height": 1371,
+                    "photo_reference": "ATtYBwJrRdCBC0oiYaxBDM4BJ9xRQzebKdVEP8b693mI_YgcRnU8Jh7i_q62HZ5qvrCheT0izLb7mD7eNdNV4A1CRvSm-3Ufp-IAAZPmaJaXGHSzUk130T4k12aY0hSfS-S1dYPn0LCQUDuqv8Hfy9bZIvwTcTMeHyphq6Xl8U6XjMbkZCI",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJq6ZngMvEoQ0RwlRN9QHsLLY",
+            "rating": 4.1,
+            "reference": "ChIJq6ZngMvEoQ0RwlRN9QHsLLY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "Azrou, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.868058,
+                    "lng": -5.583689499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86941387989271,
+                        "lng": -5.582337120107279
+                    },
+                    "southwest": {
+                        "lat": 33.86671422010727,
+                        "lng": -5.585036779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Riad Car Rent",
+            "photos": [
+                {
+                    "height": 1740,
+                    "photo_reference": "ATtYBwLwwBtgunJngkfJ-6SlWzDvKecPskFkYFV5A_11D7HTYDSYOvl15NJwovDRcfMQ6v_GJdaFL0gRTOJQ0U9tIbfCh7pDV6KCGxS0rrHFqyK-4Zony2-Qh2jeTBtHMxSulJesgp6TSHuTcVcPrns7rfjaxn7v47UrNW69uFsjLD1vlwPP",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJIS0lleBboA0R1BfobjQUnwM",
+            "rating": 0.0,
+            "reference": "ChIJIS0lleBboA0R1BfobjQUnwM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "IM D2 MAGASIN 5 EL MANSOUR, Meknes 50050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8944938,
+                    "lng": -5.5810112
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89588157989272,
+                        "lng": -5.579664570107278
+                    },
+                    "southwest": {
+                        "lat": 33.89318192010727,
+                        "lng": -5.582364229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Bonne route car",
+            "photos": null,
+            "place_id": "ChIJgwL4ayBboA0RWQaPLFHWtFQ",
+            "rating": 3.9,
+            "reference": "ChIJgwL4ayBboA0RWQaPLFHWtFQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 13,
+            "vicinity": "Meknes, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8665425,
+                    "lng": -5.5399126
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86794072989272,
+                        "lng": -5.538488220107278
+                    },
+                    "southwest": {
+                        "lat": 33.86524107010727,
+                        "lng": -5.541187879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Tarik Essalam",
+            "photos": [
+                {
+                    "height": 3120,
+                    "photo_reference": "ATtYBwISWpKS0FVdP6q4pvgrhMd--txWaegFUHOKhri9Meb5ITpWeyMFWhUigovavdSK3pT6bbvvYfh5qbDK3gBXeBrnoUvE1R4qYSSNdkkrAeovKOQ96lEu787RTMPd6kHYXCHK4nWeVXqIMD-fO8tmvJZZLi6E41-b-d_VJ3XOAMbkcwQo",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJL87L7mlFoA0RGHlMoh2alWU",
+            "rating": 3.8,
+            "reference": "ChIJL87L7mlFoA0RGHlMoh2alWU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "13, Meknes, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8965718,
+                    "lng": -5.5468256
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89795912989273,
+                        "lng": -5.545461370107279
+                    },
+                    "southwest": {
+                        "lat": 33.89525947010728,
+                        "lng": -5.548161029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Danub Cars: Location longue durée de voiture Meknès",
+            "photos": null,
+            "place_id": "ChIJd3akljRFoA0RYfYfI6rvQCw",
+            "rating": 3.0,
+            "reference": "ChIJd3akljRFoA0RYfYfI6rvQCw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "36 Avenue Idriss 2 appartement N°5 2eme Etage VN, Meknes 50000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8970347,
+                    "lng": -5.5488854
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89836132989272,
+                        "lng": -5.547618370107278
+                    },
+                    "southwest": {
+                        "lat": 33.89566167010727,
+                        "lng": -5.550318029892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Volubilis car - location de voiture meknes",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKO8u7_v4VdMbgkWfB1kvD0N1Xx5qQEOxSfhjJKVH1K7Md7QKyOSFL2V_X6ItNlVyIwerktYP7w6SFgVidaajfy_Dnsd_yDdloxL5Ko1N20OyYCguKE-pfk88Np2Xupmqb6gUU827n3rZxXUX-bx4QErMJax7GWTNUeQyqhwH411Q_N",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJI-QCn3RFoA0RELBbnfqPPp8",
+            "rating": 5.0,
+            "reference": "ChIJI-QCn3RFoA0RELBbnfqPPp8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 104,
+            "vicinity": "Av idrissi passage mimousa VN، Meknes 50000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8589202,
+                    "lng": -5.5541629
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.86025142989271,
+                        "lng": -5.552844470107278
+                    },
+                    "southwest": {
+                        "lat": 33.85755177010727,
+                        "lng": -5.555544129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Faskalocation",
+            "photos": [
+                {
+                    "height": 1746,
+                    "photo_reference": "ATtYBwIE51E5o4MGF6-S0MsZjI2oibEVrywBChHL-0cIVVvpmiWFdTZmGlQWCUTfI8Bcyv9I3qtRQcgjKRSS5yQFxKXddtBqyp7vwYbw2PRrJcYHYJyMwi2F7thspVcfz9OOsbyWkkg3kM-GAoM8595rb4J68Lc7Gydm2USh1X-rvxyhecxM",
+                    "width": 3104
+                }
+            ],
+            "place_id": "ChIJ-a8erFFFoA0RlLmivlA9lbo",
+            "rating": 3.4,
+            "reference": "ChIJ-a8erFFFoA0RlLmivlA9lbo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "N1 Marjan 1tranche 3, Meknès, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8996404,
+                    "lng": -5.4738491
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90099787989273,
+                        "lng": -5.472519120107278
+                    },
+                    "southwest": {
+                        "lat": 33.89829822010728,
+                        "lng": -5.475218779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mahi Car SARL",
+            "photos": [
+                {
+                    "height": 492,
+                    "photo_reference": "ATtYBwIuWwXDEat_XP4gMkfeExoNRsH2wwKs2WSQnBdEPvD-_wCC-MQ83obwkCW1EwoFHNgR3Y61qi5R1w83KxhiQDa4rkarnHlnBCLU0iXjQiC6CNy2JMyavOL1hxyTj6a0nRoINLAY-l_8vhS2vWPuIiPhluBDS1UL_ejM-Ah9S1vVqtSO",
+                    "width": 1125
+                }
+            ],
+            "place_id": "ChIJJw0Xni5EoA0R7WU4uOwvG5c",
+            "rating": 4.9,
+            "reference": "ChIJJw0Xni5EoA0R7WU4uOwvG5c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Meknes, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9053487,
+                    "lng": -5.3756344
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.90668297989271,
+                        "lng": -5.374373720107279
+                    },
+                    "southwest": {
+                        "lat": 33.90398332010727,
+                        "lng": -5.377073379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Glbooking - Stads Auto",
+            "photos": null,
+            "place_id": "ChIJyV-TItU5oA0R3wrC0ZMAi0w",
+            "rating": 0.0,
+            "reference": "ChIJyV-TItU5oA0R3wrC0ZMAi0w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2eme Etage, Rue Trablouss 39 Hay Noura, Seba Ayoun 51000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.8893989,
+                    "lng": -5.5001019
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.89073032989272,
+                        "lng": -5.498753570107278
+                    },
+                    "southwest": {
+                        "lat": 33.88803067010728,
+                        "lng": -5.501453229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Asb Car",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwJI8bIeMj_vMcspKj1_AuCTur7YAUggPjKGEJCdgbO07yJquQm0DPZm0lsYmmi-oHLtDTNU-mDyYWh_SBV1aWtpk3V7UKY7xUlhHawXvOmDNDn7XLJz0Dr6_W8E_2Wv25EARfXsHx-LwbWjsvAeeVqyhaSM1qu2I-GxVUU_4RjMJdgi",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJ-VvMpLFFoA0RfQKS1ErDomo",
+            "rating": 5.0,
+            "reference": "ChIJ-VvMpLFFoA0RfQKS1ErDomo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "343, Rue 10 OLM, Meknes 50000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.017246,
+                    "lng": -6.835067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01858067989272,
+                        "lng": -6.833680470107278
+                    },
+                    "southwest": {
+                        "lat": 34.01588102010727,
+                        "lng": -6.836380129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Car Rabat",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwLEfzCqP2S9VnvPSfYJDinANxvz27mKxMONuxpIJdEgUyThBDh-TCgPYavSGQPPzB0fOwEJ5zEOOF872kOT7s6iTaVPpfmw7XJb7Y8eSId9f4Ye67BuPqnHI-fusVGrFdiJQp7DrGCq-c7uwSKSqRL3b-jTuiX_XfnVG1glgZLI8Lgt",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "rating": 4.0,
+            "reference": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "12, Avenue Amir My Abdellah, Imm Balima V Bis, N23 C, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9316933,
+                    "lng": -4.9826117
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93286687989272,
+                        "lng": -4.981259770107277
+                    },
+                    "southwest": {
+                        "lat": 33.93016722010728,
+                        "lng": -4.983959429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Fès Airport]",
+            "photos": [
+                {
+                    "height": 900,
+                    "photo_reference": "ATtYBwIySzGnk_cOfRj9BHXWj8cIrpcpXyezZGjt02Ed_9symof8gruv5V2pTnpMMvNZLS0VSVB1Gc3tyyP4zWRoQ0tCF-HVLaEOtbNDPWYQv1BnR0_z_JXnW8D_twD0GYNgCVdA8BIQmcfvnzsEGd7FffICZvgtNL8HKl6xyRwUs8r8f3bK",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJOyfyji2Jnw0R2FDKDcV8vA0",
+            "rating": 2.3,
+            "reference": "ChIJOyfyji2Jnw0R2FDKDcV8vA0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 103,
+            "vicinity": "Aéroport Fès Saiss, Fès 30000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0420616,
+                    "lng": -4.998322700000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04349537989272,
+                        "lng": -4.997133120107278
+                    },
+                    "southwest": {
+                        "lat": 34.04079572010728,
+                        "lng": -4.999832779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Abid Cars Fes Location de voiture",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwI0fJl28mfNFod0zq85XA-hUvfuK0K6DWN_pgHxXDlNkSd8Xwr_klw1w04om8ekOFMEMVZKI22Q2RpXYjozt_zhDr9QrWIXJe-YZehEVB-ApZQJZU3qvpyomW3g2_Xodh0gZOf1qL_89U1IHg3Xd4nwwskyE33UxnNIuPxG5rKkFowS",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJnUXgwzeLnw0RJgF2j1ydou8",
+            "rating": 4.7,
+            "reference": "ChIJnUXgwzeLnw0RJgF2j1ydou8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 80,
+            "vicinity": "41 Avenue Hassan II, Fès 30000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.034115,
+                    "lng": -5.013348
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03529827989272,
+                        "lng": -5.012219820107277
+                    },
+                    "southwest": {
+                        "lat": 34.03259862010728,
+                        "lng": -5.014919479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thrifty Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKMekiALaUGIk589habT1r7lw7igquFggbO3kuuE1-fOEPRVPFDjsowLJu01-F3bHXd9l74SdBtYaaKzJ39HNOiPChkXt5VmKadOJr0kjY2_aLJcwjAWR0dPVfS69EcKSoN2Sj9BqMYgtYLNjK5ngS01u6QYJ-iN1OjthsWDvrTj65_",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJwwlXCxqLnw0RI9wyMfpVZe4",
+            "rating": 0.0,
+            "reference": "ChIJwwlXCxqLnw0RI9wyMfpVZe4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "NO 1 KISSARIAT DE LA FOIRE, Fes, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.04251,
+                    "lng": -5.001774
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04387707989272,
+                        "lng": -5.000410370107279
+                    },
+                    "southwest": {
+                        "lat": 34.04117742010728,
+                        "lng": -5.003110029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Car Rental",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLYQ_5eSnP-gjieTwg4HhpwJSkGT24LItmxaATRxl0J04XnkjRuqKJCZRZCK-nDjXtI7CImlLD7g4a9EIzi9pa0OLrewSgsA1ZHk8GjJohEXQQZt2tV7Eckg-R0aEOvzIPnp3-l3XLVNB516u1RWDjDsyxKZWa_8EHgRw-GqX8o3Yy5",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJY_AJOzeLnw0RMfO5TYcrnuA",
+            "rating": 2.5,
+            "reference": "ChIJY_AJOzeLnw0RMfO5TYcrnuA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Kissariat de la Foire, Ave Lalla Meryem, Fès 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0422255,
+                    "lng": -4.9984685
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.04360857989272,
+                        "lng": -4.997182170107277
+                    },
+                    "southwest": {
+                        "lat": 34.04090892010728,
+                        "lng": -4.999881829892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": [
+                {
+                    "height": 4608,
+                    "photo_reference": "ATtYBwIhFhRXvt8OBPREYTGxmqOgIVH64RP4zpl_FvVqYvpuoSi39scmX8QQWKeT4zld_ADIbZ4PAGOLA-LnVVm8mavVCmkBTx5uOnz9pvYHaY1e4si_R-ehKA9KsaDZ0VnHZLrx7675SMIEOu818WK6nK7IJa_KuXwjagobBy7p1Slisgk-",
+                    "width": 3456
+                }
+            ],
+            "place_id": "ChIJ_YCoo7H0nw0RtmWGNQ756mY",
+            "rating": 3.2,
+            "reference": "ChIJ_YCoo7H0nw0RtmWGNQ756mY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "45 Avenue Hassan II, Fès 30050, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5837208,
+                    "lng": -7.636590999999998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.58510997989272,
+                        "lng": -7.635195070107279
+                    },
+                    "southwest": {
+                        "lat": 33.58241032010728,
+                        "lng": -7.637894729892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "1سيرفيس كار",
+            "photos": [
+                {
+                    "height": 675,
+                    "photo_reference": "ATtYBwIHjw8y5S_wVoYwUb_ZeRZTt8rlsPI_PSA5xehfxRSc0uWhM_g5cG5uCXn6spL6mBo4wb9LW8KHcXqcRCwjkaBgCc-1QjLQ6a3_9_JiQrZDHuqkEX6OwU6kWtIs-W2P7c-9gv9uhxBQn1y-WbhdpV67iPIPPXy6KOhmnfj0hwZxV2iK",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "rating": 4.8,
+            "reference": "ChIJKU2hcerSpw0RaOjnR8JVTwU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 113,
+            "vicinity": "Galerie Familia, Rue Oussama Ibn Zaid, 1er Étage N°40, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.596354,
+                    "lng": -7.615233000000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59770752989272,
+                        "lng": -7.613965620107279
+                    },
+                    "southwest": {
+                        "lat": 33.59500787010727,
+                        "lng": -7.616665279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz Maroc",
+            "photos": [
+                {
+                    "height": 498,
+                    "photo_reference": "ATtYBwLRFjEhJOLdl9DwwX0hAjQvnw5M3qzZajrSjjq3GYtIoxM5qbMdMzolRoasFzo8C0WjkxuxkrQh4hsZn-JeqDqfEO8b1efdVzQw3BcXySy9jZ0B6vKpCUr3al_lrVcQes-t9lilq8GszU6CqBiJBCfXZ-u5j3fx726BTe5Ldbz-3qpM",
+                    "width": 888
+                }
+            ],
+            "place_id": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "rating": 2.4,
+            "reference": "ChIJY0LDOYPSpw0RPexJu5tBj1w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "25 Rue el Oraibi Jilali, Casablanca 20000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9305208,
+                    "lng": -4.9817021
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93201722989272,
+                        "lng": -4.980369320107278
+                    },
+                    "southwest": {
+                        "lat": 33.92931757010728,
+                        "lng": -4.983068979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": [
+                {
+                    "height": 4128,
+                    "photo_reference": "ATtYBwJCfzPn_luOrT749pYgCr8VXTgNb3ny3YTlN4Cpi6NbHY8_WD_JgWhyblC-ByAUE5Rt8PNonc4DAfKoBp9CiLiUF3hwfQMxQHY8vHteQnRc3vtAXimb6rpyJ85m7htANHqDZGSnyDlo-v81bwFZYiBF6fBDoU7vJeAuWg1XBz1O1psu",
+                    "width": 3096
+                }
+            ],
+            "place_id": "ChIJvwuyjy2Jnw0RLWD6q3bPqUM",
+            "rating": 1.4,
+            "reference": "ChIJvwuyjy2Jnw0RLWD6q3bPqUM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Fes-Saiss, FEZ, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5551334,
+                    "lng": -7.6292738
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.55647147989271,
+                        "lng": -7.627967770107278
+                    },
+                    "southwest": {
+                        "lat": 33.55377182010727,
+                        "lng": -7.630667429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Samicar Casablanca",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwL6nNFX8RyxMgKkyYoG3zsy97BdLIKEFKw0XEfvJNaU8QBWkirXX7mQ9s99t_53TKbiEHXmJfwdGy1lFnvyOHxfeaLfoq6afZu7D7C3Q3Lb0lokJ8d6vJ9mIBhyhjM2no9RvIdFcKn0UDFZ35eFX12VqULLqucD3zunU-wyb2Db4gSr",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "rating": 4.7,
+            "reference": "ChIJzaCdaEktpg0RsUY1kl4on3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 127,
+            "vicinity": "Lot Al Waha A 7 N 49 a coté de pharmacie bachkou، Casablanca 24040, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

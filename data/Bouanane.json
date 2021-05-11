@@ -1,0 +1,130 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.6069895,
+                    "lng": -7.4809559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.60834012989272,
+                        "lng": -7.479604070107277
+                    },
+                    "southwest": {
+                        "lat": 33.60564047010728,
+                        "lng": -7.482303729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "TANA CAR",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwKau_DanpVyTg_JKBB6y_PCdriJ752T-z0XQT8of9CaUCh3DPdg-ZbS79mVnb586VtcQEqqOVK8KezMBBf9qyrpeiHEq5KNJw88ypRE-Ktr77Z3xRPHQU5LUp__h9zY9Pc4CTw6oQxWA0CYfz77JM2WNjz9Bvvag7YX9j9DyXuNqj4V",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJHWdwhP3Kpw0R4SkOG0K_rDc",
+            "rating": 3.5,
+            "reference": "ChIJHWdwhP3Kpw0R4SkOG0K_rDc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "N°7, imm 15, Diar Al Yana, Casablanca, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5715645,
+                    "lng": -7.6445318
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.57289422989273,
+                        "lng": -7.643152870107277
+                    },
+                    "southwest": {
+                        "lat": 33.57019457010728,
+                        "lng": -7.64585252989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MEDOUSA CAR",
+            "photos": [
+                {
+                    "height": 810,
+                    "photo_reference": "ATtYBwI_qF-32kAkvt7koIOSLDsx4zHTcxcxMSNL73G8Cns_B1aXi6354sLVC3DAnhIAVw_KWo5hG4KadlximuCO0E5Q4AhY5hZ0Y-KILUIonIVy0u01Llurlc5cYPVQIdPPDNlVnMLsUjcPrwo_4DyMFiLSPXd3GlCU1BubOrmHjoG-NMHb",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJv8VxB9DSpw0RDKQ_ZICpO3M",
+            "rating": 4.1,
+            "reference": "ChIJv8VxB9DSpw0RDKQ_ZICpO3M",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 57,
+            "vicinity": "69 Rue des Écoles, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.7719677,
+                    "lng": -5.7986418
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.77333507989271,
+                        "lng": -5.797246720107277
+                    },
+                    "southwest": {
+                        "lat": 35.77063542010727,
+                        "lng": -5.799946379892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Montreal Rent Car Tanger",
+            "photos": [
+                {
+                    "height": 1418,
+                    "photo_reference": "ATtYBwKNj4XV8D_kFycxOonna2zNLx9ufNYxxHP9zkzj5X-wdrN-qZ91qDTWQO_Fl95Lu-CyMEfDQzxZo08yN8kl7zb2840T0_5F3J2qiH8els9kUOZOD9N8G3qgUrlKqMjfnoyeshyLYEw1TqAxi2-kMiKRfOJuIsVQKztDt3rb4UJ_G424",
+                    "width": 2118
+                }
+            ],
+            "place_id": "ChIJAX8G4qaACw0R_jjq6E5XAK0",
+            "rating": 4.2,
+            "reference": "ChIJAX8G4qaACw0R_jjq6E5XAK0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 88,
+            "vicinity": "24 Rue Liban, place Mozart à coté de l’école 3G, Tanger 90060, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

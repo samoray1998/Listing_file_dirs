@@ -1,0 +1,167 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.4124598,
+                    "lng": -2.8935024
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.41382167989272,
+                        "lng": -2.892151670107278
+                    },
+                    "southwest": {
+                        "lat": 34.41112202010728,
+                        "lng": -2.894851329892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sahara drive car",
+            "photos": null,
+            "place_id": "ChIJmcKlSZdjnQ0RyY6ZEQOn7-U",
+            "rating": 5.0,
+            "reference": "ChIJmcKlSZdjnQ0RyY6ZEQOn7-U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard de la Résistance, Taourirt, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.4111483,
+                    "lng": -2.8938846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.41249812989272,
+                        "lng": -2.892538170107277
+                    },
+                    "southwest": {
+                        "lat": 34.40979847010727,
+                        "lng": -2.895237829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Mabroka.ma",
+            "photos": [
+                {
+                    "height": 740,
+                    "photo_reference": "ATtYBwIGy-xVSnOgnvKGvnk8ip400O74e3anedJrre1hEf5b9peWj1ZYIzrduGYNswH-vb43R4kRl5APaGGgoVbYl0vMKQFrTA31zXCkZ_ZGm4n8JDiaEqxx5EnjcaaMZ3l2bVqHR4tQQXzF9P_2aYLf3P8UrWg-_VZDzuHgyI_PgjV06E4z",
+                    "width": 1316
+                }
+            ],
+            "place_id": "ChIJgaCkVwhjnQ0RepIHOKju8SU",
+            "rating": 4.1,
+            "reference": "ChIJgaCkVwhjnQ0RepIHOKju8SU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "null",
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "null",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "734 Bd mouly abdellah 65000 Taourirt,, Taourirt, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2265947,
+                    "lng": -3.3459625
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22794632989272,
+                        "lng": -3.344614370107278
+                    },
+                    "southwest": {
+                        "lat": 34.22524667010728,
+                        "lng": -3.347314029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voitures Thajjit Car",
+            "photos": [
+                {
+                    "height": 731,
+                    "photo_reference": "ATtYBwK7E2FOsAEH5tu1RB05voLmxgJbUFOb3ya0FJ11zimyV9VtsZfjEnKEE8GTScznZanx_ohJ_zhyE2gedrTlxu2dG8fKiip95utDdc40SKO9R7eikiga62VofZU1YxBxc3gowxOYdEgcZVNeKlfiEmaaHUQh6N14EQQXm67xYrItVTlw",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJr9G59yKTnQ0R3Oi1HNiiZjo",
+            "rating": 5.0,
+            "reference": "ChIJr9G59yKTnQ0R3Oi1HNiiZjo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Boulevard Mohammed 5, Guercif, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2239036,
+                    "lng": -3.3490109
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.22519757989273,
+                        "lng": -3.347750520107277
+                    },
+                    "southwest": {
+                        "lat": 34.22249792010729,
+                        "lng": -3.350450179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Thajjit Car-Location voitures",
+            "photos": [
+                {
+                    "height": 410,
+                    "photo_reference": "ATtYBwIDQOTXTVJd513U_9fLK_ZEHwWfF94AlAFt8rhYaJcbMcMtCYcoqxJFZV5H9iam2maqrycycsph4pwPLRXQNeFLPzenqg396_lBbhSBNf5Xh2-QhQxqd8NQ7as8hFj3_MgJOmRLS1mMm6-OT6e1g7jiYS0eGgT7wxS5O92w4z5ZT1ER",
+                    "width": 730
+                }
+            ],
+            "place_id": "ChIJlUdTp-qTnQ0RXd4Pwn1M6dk",
+            "rating": 5.0,
+            "reference": "ChIJlUdTp-qTnQ0RXd4Pwn1M6dk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "AV Mohammed V Immeuble Issaoui N° 4, Guercif 35100, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

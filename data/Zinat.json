@@ -1,0 +1,205 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.540267,
+                    "lng": -7.603504
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.54162762989272,
+                        "lng": -7.60211132010728
+                    },
+                    "southwest": {
+                        "lat": 33.53892797010728,
+                        "lng": -7.604810979892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "IMJAD CAR",
+            "photos": [
+                {
+                    "height": 800,
+                    "photo_reference": "ATtYBwIvU1SV3BxdRAac0sBS5PE2H09Yz0xhLd5DR5xcdSALEqQvQAXNQmpYRwmg0Pav6qwLOxz8-WgoM3jYpIum3awf3IYoqcofXe7itdy0ZQO79dMmahXMqGLvHuIV-ljrFXuSfYIZucZudc-uvs6KaexiOTQolV7QmKxbp3xcpcaUvWAU",
+                    "width": 1500
+                }
+            ],
+            "place_id": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "rating": 4.9,
+            "reference": "ChIJc9jChpgypg0RRJnNizw39mg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 32,
+            "vicinity": "2 Immeuble 65 GH 9b Lot Addamane Casablanca Maroc، Casablanca 20153, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.0026528,
+                    "lng": -7.6170683
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.00400137989272,
+                        "lng": -7.61571652010728
+                    },
+                    "southwest": {
+                        "lat": 33.00130172010728,
+                        "lng": -7.618416179892724
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MAROC RENT",
+            "photos": [
+                {
+                    "height": 2688,
+                    "photo_reference": "ATtYBwLupf5cjOWu4k5HWD_JFwFT8G-4NCah6_RB1gWuJHcq76jA89jgz5DYD8Oj-1n6HHwwRvMtiWFrNdNfd-jxHOY8F3cVPC1uXog4czHhG1aJQkMFwhUvEGDrDlC-j_t_AImYN3migIEvS9NpiCQy6s5jDG1wC3EO0sOiSA4rYRa8l6IY",
+                    "width": 1242
+                }
+            ],
+            "place_id": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "rating": 0.0,
+            "reference": "ChIJ09khvjQFpg0Rl8LntQ9Djwk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "9 sans nom, Settat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5951981,
+                    "lng": -7.5935436
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.59654067989272,
+                        "lng": -7.592162070107277
+                    },
+                    "southwest": {
+                        "lat": 33.59384102010728,
+                        "lng": -7.594861729892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "taname car",
+            "photos": [
+                {
+                    "height": 1280,
+                    "photo_reference": "ATtYBwIDIX5HK23lKD_TNQ4intkVPZyEH8nndRHeIJml3RotVoJERTwEAn4lKPA04AEanmXeej3WnXj2OYbYN7ZjwxNRcyYsmSyMDW2M8E5G1t0EUgabpvPAVOZDF-Dh_kxx18xlyCDxY3WDTRG6J3TGfQgJb6LcPPhR80Bfc5xvzUyPx9_U",
+                    "width": 605
+                }
+            ],
+            "place_id": "ChIJw5rZK9vNpw0RQaiwMx5A4BA",
+            "rating": 5.0,
+            "reference": "ChIJw5rZK9vNpw0RQaiwMx5A4BA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "12 Rue de Sijilmassa, Casablanca 20300, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.4996536,
+                    "lng": -6.6851639
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.50103782989272,
+                        "lng": -6.683771270107279
+                    },
+                    "southwest": {
+                        "lat": 32.49833817010727,
+                        "lng": -6.686470929892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HAMMAZINO RENT CAR",
+            "photos": null,
+            "place_id": "ChIJf0QV2URrpA0RxrtvfNhweIk",
+            "rating": 0.0,
+            "reference": "ChIJf0QV2URrpA0RxrtvfNhweIk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Fquih Ben Salah, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6016734,
+                    "lng": -8.026041
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60271092989272,
+                        "lng": -8.024724420107278
+                    },
+                    "southwest": {
+                        "lat": 31.60001127010728,
+                        "lng": -8.027424079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Morocco Rental Cars",
+            "photos": [
+                {
+                    "height": 618,
+                    "photo_reference": "ATtYBwLc2p7Y-5X0_VMFCZiv_Pr-UzNEIGL-KfZ7OKKmqTR7bOu951RTvz0gA7o3ekKj_AXWCfO_w7tu2zIPPaUdRRx1IlBgSO4VAA_ujVH8ix4qEovwzhSgqt83e4qcG0M36bZPzGy-rRqJaJ9CZBlgN1HcKyyIcSkgXQSzpGRhLsHFEovp",
+                    "width": 1100
+                }
+            ],
+            "place_id": "ChIJmR0uaCDvrw0RdgPXqmRbMoE",
+            "rating": 3.8,
+            "reference": "ChIJmR0uaCDvrw0RdgPXqmRbMoE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Marrakesh 40160, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

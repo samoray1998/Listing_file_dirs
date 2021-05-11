@@ -1,0 +1,88 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4226893,
+                    "lng": -9.6025446
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.42408232989272,
+                        "lng": -9.601144820107278
+                    },
+                    "southwest": {
+                        "lat": 30.42138267010728,
+                        "lng": -9.603844479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Dahbia cars",
+            "photos": [
+                {
+                    "height": 1155,
+                    "photo_reference": "ATtYBwIDvIzC7d_kPWjAJN10Odjom0STy5lG0poY119d3rhfUa5A19FxGFOViQFzNhJk5RcAeSmA_XQx8Z5V-hbINNabVA4_IdJUJKsJQjNgR06vzbyzYsaY-nqLIVcGGFq-ZJOg-UDjrpQ35_kY0YTxTMy0GAmdD6uyP4KWnoKVgK6-lWS2",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJBSI_ue22sw0RZFdGQwEJbmY",
+            "rating": 5.0,
+            "reference": "ChIJBSI_ue22sw0RZFdGQwEJbmY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Avenue Hassan II Agadir Souss-Massa-Draâ hotel kamal، Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6016396,
+                    "lng": -8.0263672
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.60270932989272,
+                        "lng": -8.02505562010728
+                    },
+                    "southwest": {
+                        "lat": 31.60000967010728,
+                        "lng": -8.027755279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Marrakech Airport]",
+            "photos": [
+                {
+                    "height": 899,
+                    "photo_reference": "ATtYBwKLFU-eoyI4Y5-uNVIzOXVKPGhQ2_sdnSvg6pUP2lFEKPRnDxEda7CM61p5GTVpsPc-4rQghX650anoADBWZ4ySIu4FC5gaxaM_7Db8Hekz-KxmHdehlgNaRvmm5WJeaK1mE8o-DWj8nN3wSiPb-FZ_sfTUJvIWj_eB8diepXXfjLLc",
+                    "width": 1600
+                }
+            ],
+            "place_id": "ChIJTXYiONfurw0RRWPproJ6Tio",
+            "rating": 2.0,
+            "reference": "ChIJTXYiONfurw0RRWPproJ6Tio",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 166,
+            "vicinity": "Aéroport Menara, Marrakech 40160, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

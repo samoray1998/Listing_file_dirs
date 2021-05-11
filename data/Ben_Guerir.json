@@ -1,0 +1,618 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2405665,
+                    "lng": -7.9575153
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.24191217989272,
+                        "lng": -7.956132920107278
+                    },
+                    "southwest": {
+                        "lat": 32.23921252010728,
+                        "lng": -7.958832579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voiture",
+            "photos": null,
+            "place_id": "ChIJ219cBb97rw0Rmc1Oea0Xrvk",
+            "rating": 0.0,
+            "reference": "ChIJ219cBb97rw0Rmc1Oea0Xrvk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Unnamed Road, Ben Guerir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2358364,
+                    "lng": -7.9541536
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23724732989271,
+                        "lng": -7.952760620107278
+                    },
+                    "southwest": {
+                        "lat": 32.23454767010727,
+                        "lng": -7.955460279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Hamry Car",
+            "photos": [
+                {
+                    "height": 690,
+                    "photo_reference": "ATtYBwLLjTft0g7cgCkEpxLqrDmKcHNU4PuOKiJwr-gidwHEcRDHd68Yub_dQXK0Td20ULQ5x0WebtXkBNrJH87ym5npZUEoe8rlabEZ57qWPHOddwAi6f9RkLyNsE_96tEfAS496ipJz6kNCZRSxo8oSBoyG0UUFormjdDwf1mIXzJcjBWQ",
+                    "width": 552
+                }
+            ],
+            "place_id": "ChIJbzqiVHl6rw0RQ7Yr3nsff5I",
+            "rating": 3.8,
+            "reference": "ChIJbzqiVHl6rw0RQ7Yr3nsff5I",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "18 Bis, Ben Guerir, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.232742,
+                    "lng": -7.947249999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23403362989272,
+                        "lng": -7.945880870107277
+                    },
+                    "southwest": {
+                        "lat": 32.23133397010728,
+                        "lng": -7.948580529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MOURANI AUTO",
+            "photos": [
+                {
+                    "height": 600,
+                    "photo_reference": "ATtYBwJ8vXsRNMgcSbg0bIsxJl4Zb0tepntrtZy0_aRI_gnJmNx3Unsh76iYZxksvMhq_5USQBVHHxyCPM0fcAF6n3g0X6TzWKafgNKF5l_VnRtpwGxENgy-M1YnzOyURM6K6FYXPBsXG51Q-EhjRMca6mCqKXSju27f1yToK9DNuQEj75Jb",
+                    "width": 800
+                }
+            ],
+            "place_id": "ChIJU4HCPGV6rw0RhkKlHP6NcQo",
+            "rating": 3.8,
+            "reference": "ChIJU4HCPGV6rw0RhkKlHP6NcQo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "lotissement jnane elkheir lot n°290 Ben guerir، Location de voiture à benguerir، Ben Guerir 43155, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.235867,
+                    "lng": -7.944234
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23723462989272,
+                        "lng": -7.942845120107279
+                    },
+                    "southwest": {
+                        "lat": 32.23453497010728,
+                        "lng": -7.945544779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ouhlale cars",
+            "photos": null,
+            "place_id": "ChIJ2X2DUBt7rw0R6iJTCFgKq2Y",
+            "rating": 0.0,
+            "reference": "ChIJ2X2DUBt7rw0R6iJTCFgKq2Y",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Unnamed Road, Ben Guerir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2357143,
+                    "lng": -7.9579844
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23705222989271,
+                        "lng": -7.956694970107277
+                    },
+                    "southwest": {
+                        "lat": 32.23435257010727,
+                        "lng": -7.959394629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location de voitures MAM Childrens",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwI__dP2GTGgpIllx5m7X6cK5W-7Et0LVcrzws_tD_IIJSAgmzPGCRQAhHuKo6anVSVFubwVxxacvcElgywr6aO7MocLyQZlkzwcIrt5pyN8mptylJ8uc53QMeWhTxUV0YkecRJVX-llGIKukAcJW2iKOAlE8eeTLsueEPl9NDlo1z_b",
+                    "width": 693
+                }
+            ],
+            "place_id": "ChIJG7YKPWt7rw0RWU76FNGGrWQ",
+            "rating": 5.0,
+            "reference": "ChIJG7YKPWt7rw0RWU76FNGGrWQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "No 13, BLOC RADI, Ben Guerir 43150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2415862,
+                    "lng": -7.958343299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.24294617989271,
+                        "lng": -7.957056770107279
+                    },
+                    "southwest": {
+                        "lat": 32.24024652010727,
+                        "lng": -7.959756429892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Bien AUTO",
+            "photos": [
+                {
+                    "height": 5386,
+                    "photo_reference": "ATtYBwLGsdix0V-ePpS51ttqrE273wEfktHkPldUxoNjOm80gNZzzfhGt7LH-VK9gd9MO9ItAB37ypcZHS8w8ShW-pbZTOifeL5nDB5Q3vdldSS6f_SfA4uUoiZjwKkg070Si2yXEtXUykRzWLJu2tR5YrDqppOs-f3dzpGSbMLQPw1Pesrk",
+                    "width": 3827
+                }
+            ],
+            "place_id": "ChIJiU64QZ57rw0RPQxCC7BgZy8",
+            "rating": 0.0,
+            "reference": "ChIJiU64QZ57rw0RPQxCC7BgZy8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "13 Avenue Mohamed V, Ben Guerir 43150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2358945,
+                    "lng": -7.956956999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23731577989273,
+                        "lng": -7.955556820107279
+                    },
+                    "southwest": {
+                        "lat": 32.23461612010728,
+                        "lng": -7.958256479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Lilium Cars",
+            "photos": [
+                {
+                    "height": 588,
+                    "photo_reference": "ATtYBwIEKtijn5tW3ND-3bjtOUdmE8tG-HmRizemK6EcxOGaUnqbkyEzZRJ9k_nG-nwyfvePqI96Nt0p80RdObRc5sISLQN5_RWzfl9dFriX966V9HaiypaXPgSamb-Jf-7wsh79QC9XLWeXC3RTdAQkn4a7wFz-gvvonA9cUOQ1yMJsICwU",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJmZDt1pl7rw0R1CslHrcylqI",
+            "rating": 3.7,
+            "reference": "ChIJmZDt1pl7rw0R1CslHrcylqI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Hay El Massira N°22, Ben Guerir 43150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2359466,
+                    "lng": -7.952406499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23729722989273,
+                        "lng": -7.951073370107277
+                    },
+                    "southwest": {
+                        "lat": 32.23459757010728,
+                        "lng": -7.953773029892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Ben sghir",
+            "photos": null,
+            "place_id": "ChIJz5c-ei17rw0REgRT9dJIaEU",
+            "rating": 0.0,
+            "reference": "ChIJz5c-ei17rw0REgRT9dJIaEU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Hay elfarah NR 302, Ben Guerir 43150, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2274168,
+                    "lng": -7.947971999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.22877157989272,
+                        "lng": -7.946661820107278
+                    },
+                    "southwest": {
+                        "lat": 32.22607192010728,
+                        "lng": -7.949361479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sweetcars",
+            "photos": [
+                {
+                    "height": 4160,
+                    "photo_reference": "ATtYBwKTPyVKj0ORNnNVC-UhvaG06QVHSZPAcIPun00J9R0gbdfO54-DNPNiW65r0oQgFLpsu-W31vWv4uY6R3WtzarCvzPuFvwANdeofAjQOaiCBrppaCzz7jSGx5aASm9urYXYW4b1yGVfwdH6s1IaPSLliRXaSObES02__m6YJDFXIWG9",
+                    "width": 3120
+                }
+            ],
+            "place_id": "ChIJFyQQ0yB7rw0RU414060TqlM",
+            "rating": 5.0,
+            "reference": "ChIJFyQQ0yB7rw0RU414060TqlM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Unnamed Road, Ben Guerir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2423031,
+                    "lng": -7.958351899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.24365337989273,
+                        "lng": -7.956962120107277
+                    },
+                    "southwest": {
+                        "lat": 32.24095372010728,
+                        "lng": -7.959661779892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Hamry Car",
+            "photos": null,
+            "place_id": "ChIJ4fo3EYB6rw0Rhdsm3NwTl3U",
+            "rating": 5.0,
+            "reference": "ChIJ4fo3EYB6rw0Rhdsm3NwTl3U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Ben Guerir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.237197,
+                    "lng": -7.9518656
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23853902989272,
+                        "lng": -7.950533420107277
+                    },
+                    "southwest": {
+                        "lat": 32.23583937010728,
+                        "lng": -7.953233079892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nawfal ZNYR CAR",
+            "photos": [
+                {
+                    "height": 4096,
+                    "photo_reference": "ATtYBwJ89NaSBKCKHTMFKVkgMV7Hk-Su6V8puIGXhfwkUDZR7nLr-f3cTQuSo2C9Jwc_LjHA27aj2v2dIu8hNyqPCvmiVyzxmhqdwP1lewHfbEBwYTG8QHg58cE2xyRS48upwg-M331rDvZkWZA_ELO-Jql7yBSPLuyZv1ecX_lc6pbu1A2g",
+                    "width": 2304
+                }
+            ],
+            "place_id": "ChIJFVu-aHx6rw0R78wpUTZPTB0",
+            "rating": 2.9,
+            "reference": "ChIJFVu-aHx6rw0R78wpUTZPTB0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Ben Guerir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2380897,
+                    "lng": -7.952354400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23943672989272,
+                        "lng": -7.951010870107277
+                    },
+                    "southwest": {
+                        "lat": 32.23673707010727,
+                        "lng": -7.953710529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "وكالة تأجير السيارات",
+            "photos": null,
+            "place_id": "ChIJkXCmqVR7rw0RMrZllRwzrMc",
+            "rating": 0.0,
+            "reference": "ChIJkXCmqVR7rw0RMrZllRwzrMc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ben Guerir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2359364,
+                    "lng": -7.953837799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23725177989272,
+                        "lng": -7.952511720107275
+                    },
+                    "southwest": {
+                        "lat": 32.23455212010728,
+                        "lng": -7.955211379892719
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "وكالة تأجير السيارات",
+            "photos": null,
+            "place_id": "ChIJXecqGd17rw0R5tIhGnzjzOs",
+            "rating": 0.0,
+            "reference": "ChIJXecqGd17rw0R5tIhGnzjzOs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Ben Guerir 40000, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2288853,
+                    "lng": -7.9473863
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23028257989272,
+                        "lng": -7.945981320107278
+                    },
+                    "southwest": {
+                        "lat": 32.22758292010728,
+                        "lng": -7.948680979892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BIG MEGA CARS",
+            "photos": [
+                {
+                    "height": 1840,
+                    "photo_reference": "ATtYBwJfLP5njyNUnuILeObcWtt1K2ic3ds83apumcJrz6dHwj2ru9Tfstjnb8NiU1yo72iUvqnCt4dLzz8mdA1pVhMCIulc2LXEHlmqyfZxXDGbjVBIiFzTpbsmgiszYIOuTOzJMjiX3AubOEpaVWryL8RSkIKDrmMoW2ubhh653uvTpxSG",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJsepK2G97rw0R0LpghUUcceE",
+            "rating": 2.3,
+            "reference": "ChIJsepK2G97rw0R0LpghUUcceE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "R206, Ben Guerir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.234454,
+                    "lng": -7.954903499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.23578852989272,
+                        "lng": -7.953549220107278
+                    },
+                    "southwest": {
+                        "lat": 32.23308887010728,
+                        "lng": -7.956248879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "zds car",
+            "photos": [
+                {
+                    "height": 3264,
+                    "photo_reference": "ATtYBwKdpKqRaF7cnb3F6xayMTd6GEIrvHEy8kZcNVRmjXEMF9rUilXzJx9dtMJAcE5aKTVQZhR3DNREeCgbvG-egl0wmJfp9DHQ3GjhLBB9N8mn1WdGDjdZrtM3w0mVMPvFUsKvOu6RvRL5kphMXAPbOw_n0I-5JH9YWZwVxCuS8dPHBwwG",
+                    "width": 2100
+                }
+            ],
+            "place_id": "ChIJcXMIanl6rw0REg_nOOhRpK8",
+            "rating": 3.7,
+            "reference": "ChIJcXMIanl6rw0REg_nOOhRpK8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "Ben Guerir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.2285002,
+                    "lng": -7.952402999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.22986092989272,
+                        "lng": -7.951050370107278
+                    },
+                    "southwest": {
+                        "lat": 32.22716127010727,
+                        "lng": -7.953750029892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Morgan Rent Car",
+            "photos": null,
+            "place_id": "ChIJ30lMynB6rw0RNpoh7n1938o",
+            "rating": 5.0,
+            "reference": "ChIJ30lMynB6rw0RNpoh7n1938o",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "n 7, Rue Hassan II, Ben Guerir, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}

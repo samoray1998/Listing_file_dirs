@@ -1,0 +1,212 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9897331,
+                    "lng": -5.9073139
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99099722989272,
+                        "lng": -5.905873620107278
+                    },
+                    "southwest": {
+                        "lat": 34.98829757010728,
+                        "lng": -5.908573279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "HAJ BEN ZIAN CAR Location de Voitures",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwISeK9on5Bg7euh5n0s5oMIesqGk9r6T4Ni7ZtZ1qK7hLv6ZbSdhzpG4cbSSXNVFicxRmG5LD-UXG5s23l802K-QK_u2AyDYQ6LAtWbCcbPn4Q20NmTZafze5FfyUB4vplUssRMRhGEwJCSfqzolDjF054Gx2ERl_tDW5z4qG6YJfPU",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "rating": 3.6,
+            "reference": "ChIJ47socPtNCg0RdMB_kQURtt0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Route de Rabat, Residence Ajyad,N°4, 1er Etage, Avenue 20 Août, Ksar El-Kébir, Morocco ",
+            "opening_hours": {
+                "open_now": null
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.00001719999999,
+                    "lng": -5.906726
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.00137437989272,
+                        "lng": -5.905351670107278
+                    },
+                    "southwest": {
+                        "lat": 34.99867472010727,
+                        "lng": -5.908051329892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sofy Budget Car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwKO0ibh7hu3IY_CsNMSFQaetm5jkxArAsdrpGLxBYkPV158r41j5PwjZx-ShLys0QrI4AVlDeiYM44SiolKWOD2fE1D77nvyVJ8G_OfgIngPeh1Yte2elkw0E-mqaVs7A2VY4FinK3xoFzB7aacWU9D3exRS5El6Ts-3ZYEEIRawxpQ",
+                    "width": 876
+                }
+            ],
+            "place_id": "ChIJjb5JKtZNCg0R2K8QhRccjuw",
+            "rating": 5.0,
+            "reference": "ChIJjb5JKtZNCg0R2K8QhRccjuw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "hay jadid n°:24، Ksar el-Kebir 92150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9976995,
+                    "lng": -5.9079999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99910082989272,
+                        "lng": -5.906629920107278
+                    },
+                    "southwest": {
+                        "lat": 34.99640117010728,
+                        "lng": -5.909329579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El Badaoui Car",
+            "photos": [
+                {
+                    "height": 3968,
+                    "photo_reference": "ATtYBwISURTSMJV3Ez7bYfnrLyBooxe8p2eMbWvbes0GB3dMKbqEWGQRuABBJHlJhi1UldvKVeHXzbQPZz30-BkXMUW80oYcJOQStYR92AfFlj_-s9jKFxj-x-u_HNDkDDvcMKADYrld1zdChuBcMfDxykpwHVE6kj95YUkbO1l4g6tceKH3",
+                    "width": 2240
+                }
+            ],
+            "place_id": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "rating": 2.4,
+            "reference": "ChIJl8Y6yPFNCg0RdtzxgqLhOgw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Hay Andalous Groupe A Rue 14، 5 Bis, Ksar el-Kebir, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.999971,
+                    "lng": -5.900139999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.00132417989273,
+                        "lng": -5.898808120107278
+                    },
+                    "southwest": {
+                        "lat": 34.99862452010728,
+                        "lng": -5.901507779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location de voiturs كراء السيارات",
+            "photos": [
+                {
+                    "height": 1253,
+                    "photo_reference": "ATtYBwLiLHZQkVwdnl0GSHjfnrkR8jEh_u4MywINUKsBLUt9HATC3HVlnf3-DM7u2gXWKHnahEuiKvmQKGjdM-AcFmHipKXVWV3VNdhWH_jdXT2LtfQcJSAPk7pS7C9qxns-j9gEgfFIiiAUppAVePQU4y2saHJv1hPeZbSCV9HH-j-4bPU9",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJZ9qQdPZNCg0RUXnBuizp27U",
+            "rating": 4.0,
+            "reference": "ChIJZ9qQdPZNCg0RUXnBuizp27U",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 8,
+            "vicinity": "Ksar el-Kebir, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1636432,
+                    "lng": -6.1415422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16498502989272,
+                        "lng": -6.140192620107278
+                    },
+                    "southwest": {
+                        "lat": 35.16228537010728,
+                        "lng": -6.142892279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "LUKUS RENT CAR",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwKCMWWqzRhGKhEZZ54dAiquS-FOOvp1oZgfKIqXIEomhQMRFWFMPPNDPq_MGewlxrKzksfAmyiPd9O56Wh3QoLLQvPX-TgUxrJVqGmfpSmwgdMykkB-L4vJXfF-I-mdeNNXJWvmRG1PL_iHoua2rLy4hUD_D7NpkMXIMH3YCAZnseSf",
+                    "width": 1200
+                }
+            ],
+            "place_id": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "rating": 4.3,
+            "reference": "ChIJQzVg_UXJCw0RAFW4MJodoSU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Larache 92000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

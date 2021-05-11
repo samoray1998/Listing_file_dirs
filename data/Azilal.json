@@ -1,0 +1,80 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.9590133,
+                    "lng": -6.572858699999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.96035527989272,
+                        "lng": -6.571471020107277
+                    },
+                    "southwest": {
+                        "lat": 31.95765562010728,
+                        "lng": -6.574170679892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Suprateam car Azilal",
+            "photos": null,
+            "place_id": "ChIJSebFqMSbpA0RkqiCEOmVJlk",
+            "rating": 0.0,
+            "reference": "ChIJSebFqMSbpA0RkqiCEOmVJlk",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "QUARTIER OZOUD ANGE HASSAN 2 RUE MOKAWIM CHAHID EDDAOUDI, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 32.3440221,
+                    "lng": -6.3414787
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 32.34535642989272,
+                        "lng": -6.340048020107279
+                    },
+                    "southwest": {
+                        "lat": 32.34265677010727,
+                        "lng": -6.342747679892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Auzia Car",
+            "photos": [
+                {
+                    "height": 3840,
+                    "photo_reference": "ATtYBwJ9HCU-XBIIu6DAW1NgO95is76x4MRPckJr6UdDrMMLuaKWuKCapeFN1T41rVsLyR5au5nvGpMfNfwCCcG3nL5JEhvSbq6tKtHFqO6_k1-4WsQAI70TAciEKKX1D7nuzxk6-GBuZnbtFGBCyE5AlaC6EUHPyOuDdoj7OK96wPxEM5c8",
+                    "width": 5120
+                }
+            ],
+            "place_id": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "rating": 4.5,
+            "reference": "ChIJke4QZVWGow0RXog4Yxy2pL8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "Boulevard Mohammed V, Dyar Al Atlas, Immeuble 6 ,2 eme etage , appartement 8, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

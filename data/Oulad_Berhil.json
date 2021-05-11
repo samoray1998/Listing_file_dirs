@@ -1,0 +1,571 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.6436755,
+                    "lng": -8.470723099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.64508142989272,
+                        "lng": -8.469284720107275
+                    },
+                    "southwest": {
+                        "lat": 30.64238177010727,
+                        "lng": -8.471984379892719
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "izid cars",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJrRpBO9Db6v7mbveC9o4KirC4Z_6qXzcbQSNToT6z07i2cORwiix4Ex6GVnrqLgaBQZgJ7PtcH04buQMpiqY_XLLVRgTB6NkBQVNY8275FAT-4zZ0DzfxbGY1nujVF-oxrRkGHNE6NTyX7p7lY-czNOrZKdvUOtlNqQi4QmySWKhvz",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJIVDFK1FzsQ0RjMB8pZwjL5c",
+            "rating": 5.0,
+            "reference": "ChIJIVDFK1FzsQ0RjMB8pZwjL5c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "طريق مراكش، Oulad Berhil 83000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.190275,
+                    "lng": -8.241124
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.19177157989272,
+                        "lng": -8.23970512010728
+                    },
+                    "southwest": {
+                        "lat": 30.18907192010728,
+                        "lng": -8.242404779892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location voiture Agadir",
+            "photos": [
+                {
+                    "height": 613,
+                    "photo_reference": "ATtYBwLF2VDtIqbDvSfiN6x-YW4V0wGOr_9sau1ldjca3lG48LHSES1WHCWV7mmMV5MPapwZiUpbRu_kuZZXOWjSMVDrS0tpY_NvIju5nKYZD-YjR29mp5q0_pAtB2ddrLMFvEBznAKLYRuKDS9o3Uv3HF_btEmYPPRaquIm7TIGdx9gonOw",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJhaqqGu3DsA0RF7IbPICI8tU",
+            "rating": 4.8,
+            "reference": "ChIJhaqqGu3DsA0RF7IbPICI8tU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "Rue ibno Roched N 103 Ouled Teima 83350 Taroudant، 83350, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4766368,
+                    "lng": -8.876414
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.47802802989272,
+                        "lng": -8.875133820107278
+                    },
+                    "southwest": {
+                        "lat": 30.47532837010728,
+                        "lng": -8.877833479892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ADIB Car",
+            "photos": null,
+            "place_id": "ChIJH1r0FAtzsQ0RTYgqG2NBvYQ",
+            "rating": 3.0,
+            "reference": "ChIJH1r0FAtzsQ0RTYgqG2NBvYQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Avenue Brahim Roudani, Taroudant, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4690138,
+                    "lng": -8.8771081
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.47042652989272,
+                        "lng": -8.875665220107278
+                    },
+                    "southwest": {
+                        "lat": 30.46772687010728,
+                        "lng": -8.878364879892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CRIPS CARS",
+            "photos": [
+                {
+                    "height": 420,
+                    "photo_reference": "ATtYBwLALDCcro7rorzv7q2I-pJEqc6CnPLc41KOAmytWAp1lgG9rIg9f4muZ6LF6U-wJGK4Z04ige0DNVtFgWl8nRS2jJlFrmxmmIso_uCQmZ7mekavOvPKGrasUlMlvFORFcR52xmRO44EhkyHOfzPgfRbw-DCDWNF-PlSTeaOH2DPUkAk",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJuy6H-ghzsQ0RJWp5OR2Jfkw",
+            "rating": 5.0,
+            "reference": "ChIJuy6H-ghzsQ0RJWp5OR2Jfkw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Avenue Med 6 Imm Dardouri 1er étage n:5 TAROUDANT، 83002, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4664416,
+                    "lng": -8.8824876
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.46783632989272,
+                        "lng": -8.881137770107276
+                    },
+                    "southwest": {
+                        "lat": 30.46513667010727,
+                        "lng": -8.88383742989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Raha Cars",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLcNdLWIhu6KVIIu7sfOfZUf8a-CGGBt_vPnZbIq47yzBzYJjBc-I2M-x3wvkAN93Atwx6OJ-Ksn_GQPLOWmeiylppiAQ51kTE9n-I9VQGgFrEBeH8iMGb82hpnQahJIfnB2YbvUukK87lAUXpzW3Cv8usdx5hQBKAKSLtnzm49-VXe",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJNyhaeahzsQ0R2nD_0VfWRMQ",
+            "rating": 0.0,
+            "reference": "ChIJNyhaeahzsQ0R2nD_0VfWRMQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Taroudant, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4695471,
+                    "lng": -8.8843423
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.47089427989272,
+                        "lng": -8.883005920107278
+                    },
+                    "southwest": {
+                        "lat": 30.46819462010728,
+                        "lng": -8.885705579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Snappy Cars",
+            "photos": [
+                {
+                    "height": 558,
+                    "photo_reference": "ATtYBwJPTQ3rbkYYnrU4gYdi4934Fuvn3cHd6Sb99wExGvmS2XRnlIw8xp3ykUsePl0uklUt6FdeTqEehY2keOHUOtpsO6WqKw5WOT0uIG4aid_biJAcHeMN5qUvJ64SL9ZzvRBzhWa35G8cxtDAW5ELN7usYk4UjZYDtVaiWvCCGu7Z51FT",
+                    "width": 898
+                }
+            ],
+            "place_id": "ChIJ5VAeHM9zsQ0RfgAB_NWtcsY",
+            "rating": 5.0,
+            "reference": "ChIJ5VAeHM9zsQ0RfgAB_NWtcsY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 37,
+            "vicinity": "362 Avenue 20 Août, Taroudant 83000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4670824,
+                    "lng": -8.889452200000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.46841967989272,
+                        "lng": -8.888051920107278
+                    },
+                    "southwest": {
+                        "lat": 30.46572002010728,
+                        "lng": -8.890751579892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Malja Cars",
+            "photos": null,
+            "place_id": "ChIJ8aPfbaVzsQ0R_HrId8YiJHg",
+            "rating": 2.7,
+            "reference": "ChIJ8aPfbaVzsQ0R_HrId8YiJHg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Boulevard Mohammed V, Taroudant, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4719646,
+                    "lng": -8.87502
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.47333042989272,
+                        "lng": -8.873714920107275
+                    },
+                    "southwest": {
+                        "lat": 30.47063077010728,
+                        "lng": -8.876414579892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Missou Car",
+            "photos": [
+                {
+                    "height": 824,
+                    "photo_reference": "ATtYBwLD2ZllmOa7jyOh4Ki-AE-GdEDzwQr56dkYy5L5EFQwb7k6AyE8EBzFHsDygnKdVG0Jwnh9JwUklzfqXnpmU7H8_e1bfy5wT_X3Gfv6LrUZuzM1fATvVzREOKKyxXtV8PjC1EAqMumG78zebDJYY61KAUWubMZ-42Z1LuTFS7Vqfh8x",
+                    "width": 2558
+                }
+            ],
+            "place_id": "ChIJ9RqNdAFzsQ0Rpx1tz7oARJ0",
+            "rating": 0.0,
+            "reference": "ChIJ9RqNdAFzsQ0Rpx1tz7oARJ0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue Prince Héritier Sidi Mohamed, Taroudant, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4713323,
+                    "lng": -8.879304099999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.47265772989272,
+                        "lng": -8.87793752010728
+                    },
+                    "southwest": {
+                        "lat": 30.46995807010728,
+                        "lng": -8.880637179892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "La Colombe d'Or",
+            "photos": null,
+            "place_id": "ChIJWUv26wlzsQ0RwTXWt81-i4E",
+            "rating": 3.0,
+            "reference": "ChIJWUv26wlzsQ0RwTXWt81-i4E",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Taroudant, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.330456,
+                    "lng": -9.4095687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.33192857989272,
+                        "lng": -9.408215270107277
+                    },
+                    "southwest": {
+                        "lat": 30.32922892010727,
+                        "lng": -9.410914929892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "First Driver Car hire",
+            "photos": [
+                {
+                    "height": 848,
+                    "photo_reference": "ATtYBwKot5P4x7kwHEahxCz53LalyKNhmEinC7s5_9xzB1FW2kjkBwmZuMiMd_50m4QW5PlUe4mQHKXuhsFlg7QUSy726WYxFr4UmmAdgfjQija8IsUfLXyWDT1zuu5d9K45AOyMpA0yeagJ9PNxzx3tcSuHT0fzljEsx7GgQ8UK8lmtIcWP",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJddJytvTXsw0RGmn5izFvDuE",
+            "rating": 3.4,
+            "reference": "ChIJddJytvTXsw0RGmn5izFvDuE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Parking Aeroport aeroport, أگادير 40000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 30.4122066,
+                    "lng": -9.5921573
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 30.41368582989272,
+                        "lng": -9.590619470107278
+                    },
+                    "southwest": {
+                        "lat": 30.41098617010728,
+                        "lng": -9.593319129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Deniz Tours - Location voiture Agadir Aéroport",
+            "photos": [
+                {
+                    "height": 640,
+                    "photo_reference": "ATtYBwIv1mZenjMLPIo-g-tglHK_XbCtAWZk-UyhMc2Vi853Y4gO1UCWQ5QF-weG4pyJBkBl-j9XhsiYTPGy6XdA6zpNAF-sGmpGl9he8PF8bWJUEpb044Dn41dDjqH5kk2Q-SCY3FqXh1OQ97UYC1Y4-REULXMPE1l6srvh2JZUn0zCXYw",
+                    "width": 480
+                }
+            ],
+            "place_id": "ChIJN_Ap__i2sw0R1JB7HUZdIFw",
+            "rating": 3.9,
+            "reference": "ChIJN_Ap__i2sw0R1JB7HUZdIFw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 26,
+            "vicinity": "Avenue Hassan II Centre Ville, Immeuble Maison de l'Avocat 1 N°10، Agadir 80000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 31.6386631,
+                    "lng": -8.060158
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 31.63996507989272,
+                        "lng": -8.058803770107279
+                    },
+                    "southwest": {
+                        "lat": 31.63726542010728,
+                        "lng": -8.061503429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "location appartement Marrakech - achat - vente - villa - conciergerie - Maroc",
+            "photos": [
+                {
+                    "height": 274,
+                    "photo_reference": "ATtYBwJ6-nVjsOLTN0pGsOYCNbMgG3emA-eY5MSR2LattR3hBYVK0HB8rhj2J9wxH5GhGsagsKrbPOxIgFFc6sIw5QB25u7QmqP3RKqkyWXvgwqXsNOGakGk8dKnaLBzhFXnTB-pfMvva6Q-KHhtGujzgxh1Xv3JmhQ-mBLsFq6Cfb0IvpSF",
+                    "width": 487
+                }
+            ],
+            "place_id": "ChIJwzU5JgHprw0RAkXgGUyTWhw",
+            "rating": 5.0,
+            "reference": "ChIJwzU5JgHprw0RAkXgGUyTWhw",
+            "scope": "MEANZ TEST",
+            "types": [
+                "null",
+                "car_rental",
+                "null",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "APP 16, Avenue Al Kantara 90 secteur 026090 Al massira 1 C 90 Imm Al Amane, Marrakech 40140, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.5681886,
+                    "lng": -7.676130499999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.56962672989273,
+                        "lng": -7.674833570107277
+                    },
+                    "southwest": {
+                        "lat": 33.56692707010728,
+                        "lng": -7.67753322989272
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "CARIO CAR",
+            "photos": [
+                {
+                    "height": 540,
+                    "photo_reference": "ATtYBwLlWf7wkHNTReFugLygUYg67vit5NRZRO1fv9uVjFzR0GL8qoiV5sGnZu6KwOx2jcx1_zuMRIFEAmROXroY-g67-uXJJr-RqkNxpFCs6Kd8oSthrce8ZU4nlhFZ_FGZznVNXW2Ygws4vG4QJ2teJmuqbUSTGumDbo8ZIWl43Q05XfcX",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJIReVwdLTpw0R86194ZSEvvs",
+            "rating": 0.0,
+            "reference": "ChIJIReVwdLTpw0R86194ZSEvvs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Boulevard Ibnou Sina, Casablanca 20250, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.2573384,
+                    "lng": -6.5929838
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.25872417989271,
+                        "lng": -6.591658720107278
+                    },
+                    "southwest": {
+                        "lat": 34.25602452010727,
+                        "lng": -6.594358379892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "b.h.y rent car",
+            "photos": [
+                {
+                    "height": 960,
+                    "photo_reference": "ATtYBwIh_6kCd3qeB77qZPHQA8Wokmn06U613g2gGm91IZzRf-qTifp_B1VqHH9ihXY_jGENK2Be8QMFkZtKdMMvCXjLo5R5ACISDnjWN0RAEvK0P6ydEcNfiYNtXx0qCaFfWuccJhd0DzAHJH8NKu-91e5OLJ8jXkhrmFQAvw31IcemKKuf",
+                    "width": 960
+                }
+            ],
+            "place_id": "ChIJC9qoBPBZpw0RbmAuUsgTG3c",
+            "rating": 4.9,
+            "reference": "ChIJC9qoBPBZpw0RbmAuUsgTG3c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "avenue moulay abdelaziz Résidence sanawbar Bureau N°1، Avenue Moulay Abdelazziz, Kenitra 14000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,484 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.2771371,
+                    "lng": -2.9573788
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.27843427989273,
+                        "lng": -2.956153970107277
+                    },
+                    "southwest": {
+                        "lat": 35.27573462010729,
+                        "lng": -2.958853629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "OK Rent a Car - Melilla",
+            "photos": [
+                {
+                    "height": 2340,
+                    "photo_reference": "ATtYBwL2Xp2jHtGyjEwMsexr5JrMpXz91sVtjhgcP34LTPpvWte2o5_E2QsrVzjR6AAlMKDP5Hu2QNdPOAe3t47h4Bg0mZj6qjdHeipCFuixNfHhv2EX2zDrL8FpEFU-MOYe-CboujyhCox7dmBxJ1H2PA_fTdEvpX7-tw25lbRCBhSksXXF",
+                    "width": 4160
+                }
+            ],
+            "place_id": "ChIJ0QVS_-cFdw0R0r6LfOtJWjQ",
+            "rating": 3.6,
+            "reference": "ChIJ0QVS_-cFdw0R0r6LfOtJWjQ",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 33,
+            "vicinity": "Ctra. de Yasinen, s/n; aeropuerto de, 52005 Melilla, Spain ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.166844,
+                    "lng": -2.922213
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.16820297989273,
+                        "lng": -2.920842520107278
+                    },
+                    "southwest": {
+                        "lat": 35.16550332010728,
+                        "lng": -2.923542179892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Nador Cars",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwI1IflvQ3hoNoBzzcALJNL7HantBazY8lE60ymSdsyEQhMj7BJfd9F5G3-VuICs3F0wiQGx8nUlpDxyGlzW7viFjU2pss3G1iX0EA9xhx-U2j4yVihE3M-qkH40D1TxR4hlxgjoD4-7wFKtIHHEMOvL74tFRaGpbhSFsWJBofCNc-7q",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJYUyy-e2ndw0RdBaPDRF2SKU",
+            "rating": 3.6,
+            "reference": "ChIJYUyy-e2ndw0RdBaPDRF2SKU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 50,
+            "vicinity": "Nador, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1723354,
+                    "lng": -2.9229971
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17371697989272,
+                        "lng": -2.921642920107278
+                    },
+                    "southwest": {
+                        "lat": 35.17101732010727,
+                        "lng": -2.924342579892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Kalai Car",
+            "photos": [
+                {
+                    "height": 2016,
+                    "photo_reference": "ATtYBwKmG5QZcLURkxT0vd4fp0P3T2ODE-Z5v-MtrqtXN0O22UfE9QeYVIU9UUZNwf8LZmKiPOCEFv61S3Dan3Hh3bkPe0EsXkaN2aYsknZxgXlC3pj1t6lick6l-I14sBud57pbCyBo5mEHFYQrK_YG2GAhxSkS9K2Z_e-WheKh8XvgbU13",
+                    "width": 980
+                }
+            ],
+            "place_id": "ChIJ35yMYj-ndw0ReWBkJPcwe_w",
+            "rating": 0.0,
+            "reference": "ChIJ35yMYj-ndw0ReWBkJPcwe_w",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue MOHAMED ABDOU, Nador, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1528884,
+                    "lng": -3.0053917
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.15423242989273,
+                        "lng": -3.004038720107278
+                    },
+                    "southwest": {
+                        "lat": 35.15153277010728,
+                        "lng": -3.006738379892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "MECKY CAR location de voiture",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwLsfMaMtocM-4effJe5g9iOHmusR1PolreMrrMpHxMnsAdmgB0uzyRJYzIv7tsjSsSfCsIdhH-vqX8-7q9Qs3T3mlpxVRMB3lOyWWkrertt_EvCP6Ce-0O1W3bWsKTmkTLgt4srAoUW3Y-nTciFZWI6GMyox_KBHEdhmIWQXaOpioDP",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJfSvKVZKpdw0RyBy2ZXM8pmI",
+            "rating": 5.0,
+            "reference": "ChIJfSvKVZKpdw0RyBy2ZXM8pmI",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4,
+            "vicinity": "21 rue allal elfassi, Segangan 62650, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9930717,
+                    "lng": -3.0288848
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99442152989272,
+                        "lng": -3.027534970107277
+                    },
+                    "southwest": {
+                        "lat": 34.99172187010728,
+                        "lng": -3.030234629892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car Aéroport Nador Al Aroui",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwJOYHLwRfZICgMJLYxAkUuTHsyeeJTuJyOPvyaMFd9qs4XMWwMaa7P4IyVej4cE89rjldh2W3M3OiHpO3WoeaNNHmWLB43-UuoTYPvEJqiWCkt0R89YI9IjWnAHuWSPUyHwNTjbivkud9dEE9ofbQ9-VZK7nXsNQVQV2r7cLHkAOu_9",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJ_f5TU9azdw0R4ClVRXkh2E0",
+            "rating": 4.6,
+            "reference": "ChIJ_f5TU9azdw0R4ClVRXkh2E0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 10,
+            "vicinity": "Aéroport Nador Laroui Nador، 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.15313,
+                    "lng": -2.920239
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.15442537989272,
+                        "lng": -2.918882420107278
+                    },
+                    "southwest": {
+                        "lat": 35.15172572010728,
+                        "lng": -2.921582079892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "El mourabit car",
+            "photos": [
+                {
+                    "height": 4032,
+                    "photo_reference": "ATtYBwI7EnEM5kgGS-LoJGqQd-lFjbOGWvYucZEBoiFtvfQm9l6rryeTZWD4lPfX3VTy7Af9HKblWfE68LnIfKDE69DEWiS8S3MvXifW7f5m-cILEVfo7slQkW2HAa53qs_jbFHANoKcEfzPKwBOm6Ksy3t4pm-zPgCXtOjwrHoOjRoO6bEZ",
+                    "width": 3024
+                }
+            ],
+            "place_id": "ChIJw7Xmx32ndw0RKhhyOrQX_mE",
+            "rating": 5.0,
+            "reference": "ChIJw7Xmx32ndw0RKhhyOrQX_mE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "Boulevard Grand Rif, Nador, Morocco ",
+            "opening_hours": null
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.993132,
+                    "lng": -3.02833
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99460127989271,
+                        "lng": -3.026919470107277
+                    },
+                    "southwest": {
+                        "lat": 34.99190162010727,
+                        "lng": -3.029619129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwIikJXpoHTN6CSUJWwCWkV1Lqe_2m5qz-w1q_y2HUWcBYmY29Z3uWmY11aVNGptVEMEf8YwT3lIWOio-efbLqknrWq2RWAsa9gzO7E843S_3zHd37pmYzT70fXsPYpy_fnDI8s8C4SMel8R-cwIqqf2CYo6fj1HB42VLhca393I-YtL",
+                    "width": 720
+                }
+            ],
+            "place_id": "ChIJr14xQswFdw0Rmf9dbwi-uTY",
+            "rating": 3.0,
+            "reference": "ChIJr14xQswFdw0Rmf9dbwi-uTY",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "AIRPORT, Al Aaroui 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.171304,
+                    "lng": -2.9394132
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.17260407989272,
+                        "lng": -2.938015070107278
+                    },
+                    "southwest": {
+                        "lat": 35.16990442010728,
+                        "lng": -2.940714729892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BQR",
+            "photos": null,
+            "place_id": "ChIJ2XNn7kOpdw0R4iOoy5TNcso",
+            "rating": 5.0,
+            "reference": "ChIJ2XNn7kOpdw0R4iOoy5TNcso",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "R610, Nador, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.1021822,
+                    "lng": -2.7371384
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.10350002989272,
+                        "lng": -2.735921870107278
+                    },
+                    "southwest": {
+                        "lat": 35.10080037010727,
+                        "lng": -2.738621529892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "JOUHRI CAR",
+            "photos": [
+                {
+                    "height": 3024,
+                    "photo_reference": "ATtYBwLr9UTQLCl5xY1hDV0AwY23N4kQbHytGk_ApKRazqNlOut_CNrY4Nx_ba4OM3m0eW1_bXrdCjTFB89HGZZdvyUecerj079fPUv2JMwW9RSfapZg78SyfFRN8OFfJ6S9PupAVOXHR4xVDmVnGVW6bnzmSGVWgDa5qsaLqToJagd88ti3",
+                    "width": 2979
+                }
+            ],
+            "place_id": "ChIJD1S5Ddaedw0RZvptpt3zA88",
+            "rating": 4.4,
+            "reference": "ChIJD1S5Ddaedw0RZvptpt3zA88",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "Kariat Arkmane, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.9945594,
+                    "lng": -3.0241912
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99588752989273,
+                        "lng": -3.022796120107277
+                    },
+                    "southwest": {
+                        "lat": 34.99318787010728,
+                        "lng": -3.025495779892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AIRCAR",
+            "photos": null,
+            "place_id": "ChIJFyQS13Wzdw0RNcfrEqjhBcg",
+            "rating": 4.2,
+            "reference": "ChIJFyQS13Wzdw0RNcfrEqjhBcg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 5,
+            "vicinity": "Terminal 1, Al Aaroui 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.993067,
+                    "lng": -3.028901
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.99441682989271,
+                        "lng": -3.027551170107277
+                    },
+                    "southwest": {
+                        "lat": 34.99171717010726,
+                        "lng": -3.030250829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Sixt Rent a Car",
+            "photos": [
+                {
+                    "height": 608,
+                    "photo_reference": "ATtYBwIRsgF1Z-CxYpZ9OcW0G5sDyTTtGkoNYN53axiBD2-fqi9V2H4cLWofrTBLie2DMpwIuaWV0U4HwUe9v2vE9h5WsA5ds7jcgtoJYFyUraLyB4PVCX18XNuZDBDVf2lhKVrwxsxpy4Mo1zoWjDCV3bR3Dv3xwJfVo4zPpUji8IQKM9mE",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJQ_AlCg-ydw0R8-UYmVnKdwA",
+            "rating": 3.3,
+            "reference": "ChIJQ_AlCg-ydw0R8-UYmVnKdwA",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 7,
+            "vicinity": "Aeroport, Al Aaroui 62000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 35.0115583,
+                    "lng": -3.0064559
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 35.01283112989272,
+                        "lng": -3.005082470107277
+                    },
+                    "southwest": {
+                        "lat": 35.01013147010728,
+                        "lng": -3.007782129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "BENHADI CAR",
+            "photos": null,
+            "place_id": "ChIJhZZWvhqudw0R23m2Wl0Kmqc",
+            "rating": 4.0,
+            "reference": "ChIJhZZWvhqudw0R23m2Wl0Kmqc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 2,
+            "vicinity": "Ave Hassan II, Al Aaroui, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        }
+    ]
+}

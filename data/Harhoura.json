@@ -1,0 +1,813 @@
+{
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9342222,
+                    "lng": -6.945555799999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93552537989272,
+                        "lng": -6.944162570107277
+                    },
+                    "southwest": {
+                        "lat": 33.93282572010728,
+                        "lng": -6.946862229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Bravi Car Temara",
+            "photos": null,
+            "place_id": "ChIJK4_FJA0Npw0RHrSP1EJzHrM",
+            "rating": 4.4,
+            "reference": "ChIJK4_FJA0Npw0RHrSP1EJzHrM",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 12,
+            "vicinity": "369, Temara 11000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9265215,
+                    "lng": -6.8892223
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.92789267989271,
+                        "lng": -6.887890570107278
+                    },
+                    "southwest": {
+                        "lat": 33.92519302010727,
+                        "lng": -6.890590229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Gold Palma Car Rental",
+            "photos": [
+                {
+                    "height": 2664,
+                    "photo_reference": "ATtYBwKEz9LO2RrRw7awdDfJix-RL5qHf2cEXEUDJOJcuJFRxums1awVPPic2C9KXtqgih4o5GCU5kKcvlLzP_-qxecI04iKIg7d5y0X6Qix0O6Vxq8NJ03YtuN-ECsjQ1SFH8chEA48HunFrwTBbuG_JupqjDujC-fJy1aVqJcYHw6EQ5cQ",
+                    "width": 3996
+                }
+            ],
+            "place_id": "ChIJNyZ2D_ASpw0R6uMPqtTdCmU",
+            "rating": 4.3,
+            "reference": "ChIJNyZ2D_ASpw0R6uMPqtTdCmU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "1233 city، Boulevard Omar Ibn Al Khattab, Temara, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9819161,
+                    "lng": -6.8164422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.98322662989272,
+                        "lng": -6.815094470107278
+                    },
+                    "southwest": {
+                        "lat": 33.98052697010728,
+                        "lng": -6.817794129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "maroc service car",
+            "photos": [
+                {
+                    "height": 2048,
+                    "photo_reference": "ATtYBwI8Zuov0t8JWFJXL0DupiTnhBDmkxEnPLtxQXpQ6NzBJTsdnX-YSyT8zXJQr_wpm2zkYdHFDhf9y9Jk4DQeEbssIxDq4RRXBtb644iM9mRjtkx8gHE5OiFve3hlw7DuIl7xT0HAEjvLyaXI5w_qMQidduT9necplu4--3C6J4ZQYQU",
+                    "width": 1564
+                }
+            ],
+            "place_id": "ChIJzXxyKEFrpw0R4_5XA2RqMg0",
+            "rating": 5.0,
+            "reference": "ChIJzXxyKEFrpw0R4_5XA2RqMg0",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.017246,
+                    "lng": -6.835067
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01858067989272,
+                        "lng": -6.833680470107278
+                    },
+                    "southwest": {
+                        "lat": 34.01588102010727,
+                        "lng": -6.836380129892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent Car Rabat",
+            "photos": [
+                {
+                    "height": 288,
+                    "photo_reference": "ATtYBwKCf5j7_HjG83c0xfxnYe2rTBPOCt-jBFpiy3RkekfcFOn1TBsnSE1o1fAFZIymdHgrQpS4aeO1CfMzzlGUbPNHVHnS-OWHrPuGUf_kmWV1EoIVJYEbiqFmP38aOTP00WyOyL8af_Fmr9zMk_g3JuWzPYQi7wvJQfqPvNFBACClU9RX",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "rating": 4.0,
+            "reference": "ChIJJ1HmiYdrpw0Ruc1pLKiNNtE",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 23,
+            "vicinity": "12, Avenue Amir My Abdellah, Imm Balima V Bis, N23 C, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9310388,
+                    "lng": -6.8944345
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93239722989272,
+                        "lng": -6.893066820107277
+                    },
+                    "southwest": {
+                        "lat": 33.92969757010727,
+                        "lng": -6.895766479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Location des voitures- ONIYS CAR",
+            "photos": [
+                {
+                    "height": 720,
+                    "photo_reference": "ATtYBwJFlfzlMcGv-bo2qZjjhKrX3ZzHgwaCGX6fcHdx6k2vu_XnVdF35ZQYK1AdZNoFvoWBLjzCAT52huVed3kJute8wjAfngdsw-VZFOWhaQMouGanhg26vWZPNNn6ijZCafeLPk2acy25TXAujPLvvWAOnhjjpWOOL5l1vr3maUZSbtXn",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJKZ6lq0ENpw0R51uugl9Z6xo",
+            "rating": 5.0,
+            "reference": "ChIJKZ6lq0ENpw0R51uugl9Z6xo",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "I, Avenue Moulay Idriss, Temara, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0164961,
+                    "lng": -6.8329422
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01788612989272,
+                        "lng": -6.831589620107278
+                    },
+                    "southwest": {
+                        "lat": 34.01518647010728,
+                        "lng": -6.834289279892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location Voiture Rabat Centre Ville",
+            "photos": [
+                {
+                    "height": 356,
+                    "photo_reference": "ATtYBwIDkMVNWutFkt-Fq8MMTpT8n8E6xSW_yCamV9LfR3AbqY6JxQwR4NsDkJwnw1zEwJgNdCJSr9vewd_viL-3WQBv7drdUfvJ8yvpD1d5y1dqKzqHd7OI2_3EQ2dixhebVTb9C_FPT8hYFlcAc5mARettKla_61BQpa6G8PlzF98raCDn",
+                    "width": 742
+                }
+            ],
+            "place_id": "ChIJSyfHnodrpw0RtcABKB8hKFc",
+            "rating": 4.8,
+            "reference": "ChIJSyfHnodrpw0RtcABKB8hKFc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 112,
+            "vicinity": "7 Rue Abou Faris El Marini، Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.99724,
+                    "lng": -6.861638999999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.99863252989272,
+                        "lng": -6.860407970107278
+                    },
+                    "southwest": {
+                        "lat": 33.99593287010727,
+                        "lng": -6.863107629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Rent'N Go",
+            "photos": [
+                {
+                    "height": 673,
+                    "photo_reference": "ATtYBwIWD2e3bjN3iPjBG_V9Ex2_lmAEfR1FlLJUiW833WlceOSPgaRVn4XGVjiu7x96lY6FjbIihUA2Co4RZCY-0LP1dpKHR1ITz1KPo59OvPjIFHY3c6cSBDzMTEtyc1SxoEG-nvWby2da_KDnoDgwqoeWyDotmtSHDE4QKI5YTk8XzX2Q",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJO7qTJvJspw0R2jXZ033rdVc",
+            "rating": 5.0,
+            "reference": "ChIJO7qTJvJspw0R2jXZ033rdVc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "Résidence Ahssandar Imm C Magasin N°10 avenue Hassan 2، Rabat 10090, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0158076,
+                    "lng": -6.8345985
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01714722989272,
+                        "lng": -6.833277570107278
+                    },
+                    "southwest": {
+                        "lat": 34.01444757010727,
+                        "lng": -6.835977229892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Rabat City]",
+            "photos": [
+                {
+                    "height": 3864,
+                    "photo_reference": "ATtYBwI_c9vnrCSCycb5Fvjo74f0affeYzsL6QRTp9gdbqPsCSqP80L-T1hy2UrqMFEi6wMhZdGegD5s4vZHFIwDaaSj8fzpdBDzk9rbYzgFvfcXUcWCyN6S7d5snDsUOfmn2rPd1RUx34Ph_fS5KJv74bBuDUSe8HzFN_IbEe9gjr03q2Xl",
+                    "width": 5152
+                }
+            ],
+            "place_id": "ChIJ0RT6O4Frpw0RUWNU6-tq7v8",
+            "rating": 2.3,
+            "reference": "ChIJ0RT6O4Frpw0RUWNU6-tq7v8",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 22,
+            "vicinity": "467 Ave Mohammed V, Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0251141,
+                    "lng": -6.8464781
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.02648862989272,
+                        "lng": -6.845151870107277
+                    },
+                    "southwest": {
+                        "lat": 34.02378897010728,
+                        "lng": -6.847851529892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Wima Car rental agency",
+            "photos": [
+                {
+                    "height": 482,
+                    "photo_reference": "ATtYBwISVBkz4q5I1ZIxSPaUh08uOrDfk53PGSByOKkT6UVyE0Bs6hbgg_-D5rqWaMRZ4R5kTu50hXFA_gIJ9ZBhxDAREWC9-cPkHaF5NWrKAA8Tb7OxLg2x9XOvwk8mJwdpD6nKO9Lqx23oAPGi5_GcamsSR-4Vfj3m36ZTm8tp-C8m_DyL",
+                    "width": 1349
+                }
+            ],
+            "place_id": "ChIJH95w8m1spw0RaYIO3RKCr4Q",
+            "rating": 4.3,
+            "reference": "ChIJH95w8m1spw0RaYIO3RKCr4Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "null",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 67,
+            "vicinity": "44 Avenue Abdelkrim Al Khattabi, Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.971601,
+                    "lng": -6.8498253
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.97304742989272,
+                        "lng": -6.848595170107279
+                    },
+                    "southwest": {
+                        "lat": 33.97034777010727,
+                        "lng": -6.851294829892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "ACE Rent A Car",
+            "photos": null,
+            "place_id": "ChIJn2n3z1Jtpw0Rnm_FoBbxhEg",
+            "rating": 0.0,
+            "reference": "ChIJn2n3z1Jtpw0Rnm_FoBbxhEg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Rabat-Salé Airport, Rabat 11025, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9880787,
+                    "lng": -6.851707299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.98942677989272,
+                        "lng": -6.850263770107278
+                    },
+                    "southwest": {
+                        "lat": 33.98672712010728,
+                        "lng": -6.852963429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Luxury Car Rental",
+            "photos": [
+                {
+                    "height": 693,
+                    "photo_reference": "ATtYBwLBAhS990GvzjLNfOYIdYDlksGjKRElc7_a3H3Ho7EdezDt-wogohj3d5_F5eUQpum2QpD4XPGE-2nXAkUxjBg-2WqyA3l0vAWMrrG82a7xI1rH1wPs4YPhELnHM9Tkt-0bALyfYYxq_FR-tXWV1o5OwLg9pTkmBLRskGZn-MjIsmxo",
+                    "width": 1004
+                }
+            ],
+            "place_id": "ChIJpSqO3Pltpw0RlKJlwzZEpgg",
+            "rating": 5.0,
+            "reference": "ChIJpSqO3Pltpw0RlKJlwzZEpgg",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1,
+            "vicinity": "2ème étage Appt 8, 79 Avenue Ibn Sina, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9869381,
+                    "lng": -6.8192846
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.98837247989272,
+                        "lng": -6.817996820107277
+                    },
+                    "southwest": {
+                        "lat": 33.98567282010728,
+                        "lng": -6.820696479892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "RACMIL CAR",
+            "photos": [
+                {
+                    "height": 1120,
+                    "photo_reference": "ATtYBwIVUjz5xHq6iSAbOMIpyVn4fbiHnLOPh5A_Z5TK00qAzVu28nWwyBarOH0zqujEC0qSCz0QXvh4mEEWbmtxP-SZzK1kdu2M_kJsRCS69vLj1FRNxTBW-hPpdADaLsJ-uLvVZMrZm5eU6p8VVbTz8MkbUpBM7bky1QY6qvX6uG9neVXf",
+                    "width": 1920
+                }
+            ],
+            "place_id": "ChIJGye5_mlrpw0R-1JxBI_II-c",
+            "rating": 4.2,
+            "reference": "ChIJGye5_mlrpw0R-1JxBI_II-c",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Ave Al Haouz, Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9979505,
+                    "lng": -6.858240899999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.99936997989272,
+                        "lng": -6.857104970107277
+                    },
+                    "southwest": {
+                        "lat": 33.99667032010727,
+                        "lng": -6.859804629892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Hertz [Rabat Agdal Railway]",
+            "photos": null,
+            "place_id": "ChIJyylm0fBtpw0RrV82361Lc04",
+            "rating": 0.0,
+            "reference": "ChIJyylm0fBtpw0RrV82361Lc04",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "Avenue El Hadj Ahmed Charkaoui, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.001446,
+                    "lng": -6.850692
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.00281232989273,
+                        "lng": -6.849296620107277
+                    },
+                    "southwest": {
+                        "lat": 34.00011267010728,
+                        "lng": -6.851996279892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Achour CAR",
+            "photos": [
+                {
+                    "height": 400,
+                    "photo_reference": "ATtYBwJl8ddcLIJPzE_VQkjlgSQd2xyz-KbiAv2MlzPzFfuJRHxBPLutbdzQQ-w1Sd6k4ZPItP7D2BM6hQd4yX8ieR8GykVNfPZXseEJ9vlM8yhdwwjB8eUTf9V5bnXiYogpri5KTcA8W0eFmC5j69ajiki4HUhdUPGG2USgvbiGv1x3v4-I",
+                    "width": 600
+                }
+            ],
+            "place_id": "ChIJNakfU4lspw0Rq4aUC3khVfs",
+            "rating": 4.7,
+            "reference": "ChIJNakfU4lspw0Rq4aUC3khVfs",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 11,
+            "vicinity": "Appt 12, 16 Avenue Fal Ould Oumeir, Rabat 10000, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0360044,
+                    "lng": -6.7478631
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03732232989272,
+                        "lng": -6.746515170107278
+                    },
+                    "southwest": {
+                        "lat": 34.03462267010728,
+                        "lng": -6.749214829892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Surprice car rentals Rabat",
+            "photos": [
+                {
+                    "height": 622,
+                    "photo_reference": "ATtYBwLU1iJFSkOCOXbOpiXdyntno1kVBCGU_dCF3SuAqYa65i1AZYK1HL8zf2_sTDRTbV9dLcfn2IFk3oxzy_SS88evxzCCukLTBYoOmmr7bWZpRzbWd5vT_Sb0gIhEwOQJ5rZN7zocXfjzeSaiiztVd6ao0yQpoyDxpwh2cVCqwcqrKHwU",
+                    "width": 1280
+                }
+            ],
+            "place_id": "ChIJpb-b_8FBpw0RauySq-JLe7Q",
+            "rating": 2.3,
+            "reference": "ChIJpb-b_8FBpw0RauySq-JLe7Q",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "n 21, Rabat 10070, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.016409,
+                    "lng": -6.8357152
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.01780447989272,
+                        "lng": -6.834219620107279
+                    },
+                    "southwest": {
+                        "lat": 34.01510482010728,
+                        "lng": -6.836919279892723
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Budget Car",
+            "photos": [
+                {
+                    "height": 768,
+                    "photo_reference": "ATtYBwLImkCLFIiTgOI3kq-Cs7jA5roPZHhRz1HADxco7IfIElh3_Kpt1MqUZM0agqtNdniSrlV3_Ye3Jrs0CSFSoBs5vAE2lu3ne9mejWt7hpkuuxTcn4spYwjwE_Fn-IWVRCHs5aChiTNbWlz5zdeJL25zmhbVrnivSc62CcQMV3QtN2E3",
+                    "width": 1024
+                }
+            ],
+            "place_id": "ChIJQQUnfXhspw0RAxKekCEvg0s",
+            "rating": 3.8,
+            "reference": "ChIJQQUnfXhspw0RAxKekCEvg0s",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 17,
+            "vicinity": "GARE ONCF AVENUE MOHAMED V، Rabat 10150, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.036646,
+                    "lng": -6.7487634
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.03813892989272,
+                        "lng": -6.747462770107277
+                    },
+                    "southwest": {
+                        "lat": 34.03543927010728,
+                        "lng": -6.750162429892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "AVIS® - Location de Voiture Rabat Aéroport",
+            "photos": [
+                {
+                    "height": 356,
+                    "photo_reference": "ATtYBwL9M_Kx00cCplezrXWMk_A59O8rPEBJqEBkoEzXAax5hqNeDiOuiSqUwmbOhtGjmtjsT7ct-oPshniKpwI5VKO5YCwyQWLcq9Pz_oydpq3B6shj0TjqU-NRwrdaAco6sV464hxFoGHVLWjPGIg3dJWEajD-k2b1pOYLcvhIK_2hIwj_",
+                    "width": 742
+                }
+            ],
+            "place_id": "ChIJq6Y1ygpqpw0RB_gzKjgjzp4",
+            "rating": 4.6,
+            "reference": "ChIJq6Y1ygpqpw0RB_gzKjgjzp4",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 71,
+            "vicinity": "Aéroport Rabat-Sale، Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9310809,
+                    "lng": -6.8943673
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.93241222989272,
+                        "lng": -6.893006570107278
+                    },
+                    "southwest": {
+                        "lat": 33.92971257010728,
+                        "lng": -6.895706229892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Oniys Car",
+            "photos": [
+                {
+                    "height": 1235,
+                    "photo_reference": "ATtYBwKLY9KxE08JwLiJQcoTyqI4kfGwV6A8d_BTNVYkaW81KQUmPFHzUOYwgIen40g2h4dQiAuKp1TveRB1Y6cYk1OmU9NxdmtBSpknIPc9bI4Ruxw_jqFEPFa_uUOv_d0j4EZUin3eJH6LJgMSaqNaj95dJqyiPlJNVHTHc9G1QG6MQYWW",
+                    "width": 1229
+                }
+            ],
+            "place_id": "ChIJ56CSIewSpw0RFoVOIrP3Xsc",
+            "rating": 5.0,
+            "reference": "ChIJ56CSIewSpw0RFoVOIrP3Xsc",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9,
+            "vicinity": "Rue Mohammed Taoufik Al Bakri, Témara, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 34.0208606,
+                    "lng": -6.8316383
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 34.02221037989272,
+                        "lng": -6.830286470107278
+                    },
+                    "southwest": {
+                        "lat": 34.01951072010727,
+                        "lng": -6.832986129892721
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Europcar",
+            "photos": null,
+            "place_id": "ChIJwcVQH4drpw0RXn3fMdLXEFU",
+            "rating": 3.3,
+            "reference": "ChIJwcVQH4drpw0RXn3fMdLXEFU",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6,
+            "vicinity": "25 bis, rue Patrice Lumumba, Rabat, Morocco ",
+            "opening_hours": {
+                "open_now": true
+            }
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 33.9880787,
+                    "lng": -6.851707299999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 33.98942677989272,
+                        "lng": -6.850263770107278
+                    },
+                    "southwest": {
+                        "lat": 33.98672712010728,
+                        "lng": -6.852963429892722
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "name": "Economic Car Rental",
+            "photos": null,
+            "place_id": "ChIJaVCOv2Btpw0RktUXQKvsNck",
+            "rating": 0.0,
+            "reference": "ChIJaVCOv2Btpw0RktUXQKvsNck",
+            "scope": "MEANZ TEST",
+            "types": [
+                "car_rental",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 0,
+            "vicinity": "2ème étage N°8, 79 Avenue Ibn Sina, Rabat 10000, Morocco ",
+            "opening_hours": null
+        }
+    ]
+}
